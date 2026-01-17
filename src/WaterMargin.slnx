@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WaterMargin.Web/WaterMargin.Web.csproj" />
+  <Project Path="WaterMargin.LoginServer/WaterMargin.LoginServer.csproj" />
+  <Project Path="WaterMargin.Auth.Data/WaterMargin.Auth.Data.csproj" />
+  <Project Path="WaterMargin.Shared/WaterMargin.Shared.csproj" />
+</Solution>
