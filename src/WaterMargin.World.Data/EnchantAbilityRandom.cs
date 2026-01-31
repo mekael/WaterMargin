@@ -1,0 +1,109 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace WaterMargin.World.Data
+{
+    public class EnchantAbilityRandom
+    {
+        public int Id { get; set; }
+        public int ClassId { get; set; }
+        public string TypeHierarchy { get; set; }
+        public string Attribute01Name { get; set; }
+        public int Attribute01Id { get; set; }
+        public int Attribute01Probability { get; set; }
+        public string Attribute02Name { get; set; }
+        public int Attribute02Id { get; set; }
+        public int Attribute02Probability { get; set; }
+        public string Attribute03Name { get; set; }
+        public int Attribute03Id { get; set; }
+        public int Attribute03Probability { get; set; }
+        public string Attribute04Name { get; set; }
+        public int Attribute04Id { get; set; }
+        public int Attribute04Probability { get; set; }
+        public string Attribute05Name { get; set; }
+        public int Attribute05Id { get; set; }
+        public int Attribute05Probability { get; set; }
+        public string Attribute06Name { get; set; }
+        public int Attribute06Id { get; set; }
+        public int Attribute06Probability { get; set; }
+        public string Attribute07Name { get; set; }
+        public int Attribute07Id { get; set; }
+        public int Attribute07Probability { get; set; }
+        public string Attribute08Name { get; set; }
+        public int Attribute08Id { get; set; }
+        public int Attribute08Probability { get; set; }
+        public string Attribute09Name { get; set; }
+        public int Attribute09Id { get; set; }
+        public int Attribute09Probability { get; set; }
+        public string Attribute10Name { get; set; }
+        public int Attribute10Id { get; set; }
+        public int Attribute10Probability { get; set; }
+        public string Attribute11Name { get; set; }
+        public int Attribute11Id { get; set; }
+        public int Attribute11Probability { get; set; }
+        public string Attribute12Name { get; set; }
+        public int Attribute12Id { get; set; }
+        public int Attribute12Probability { get; set; }
+        public string Attribute13Name { get; set; }
+        public int Attribute13Id { get; set; }
+        public int Attribute13Probability { get; set; }
+        public string Attribute14Name { get; set; }
+        public int Attribute14Id { get; set; }
+        public int Attribute14Probability { get; set; }
+        public string Attribute15Name { get; set; }
+        public int Attribute15Id { get; set; }
+        public int Attribute15Probability { get; set; }
+        public string Attribute16Name { get; set; }
+        public int Attribute16Id { get; set; }
+        public int Attribute16Probability { get; set; }
+        public string Attribute17Name { get; set; }
+        public int Attribute17Id { get; set; }
+        public int Attribute17Probability { get; set; }
+        public string Attribute18Name { get; set; }
+        public int Attribute18Id { get; set; }
+        public int Attribute18Probability { get; set; }
+        public string Attribute19Name { get; set; }
+        public int Attribute19Id { get; set; }
+        public int Attribute19Probability { get; set; }
+        public string Attribute20Name { get; set; }
+        public int Attribute20Id { get; set; }
+        public int Attribute20Probability { get; set; }
+        public string Attribute21Name { get; set; }
+        public int Attribute21Id { get; set; }
+        public int Attribute21Probability { get; set; }
+        public string Attribute22Name { get; set; }
+        public int Attribute22Id { get; set; }
+        public int Attribute22Probability { get; set; }
+        public string Attribute23Name { get; set; }
+        public int Attribute23Id { get; set; }
+        public int Attribute23Probability { get; set; }
+        public string Attribute24Name { get; set; }
+        public int Attribute24Id { get; set; }
+        public int Attribute24Probability { get; set; }
+        public string Attribute25Name { get; set; }
+        public int Attribute25Id { get; set; }
+        public int Attribute25Probability { get; set; }
+        public string Attribute26Name { get; set; }
+        public int Attribute26Id { get; set; }
+        public int Attribute26Probability { get; set; }
+        public string Attribute27Name { get; set; }
+        public int Attribute27Id { get; set; }
+        public int Attribute27Probability { get; set; }
+        public string Attribute28Name { get; set; }
+        public int Attribute28Id { get; set; }
+        public int Attribute28Probability { get; set; }
+        public string Attribute29Name { get; set; }
+        public int Attribute29Id { get; set; }
+        public int Attribute29Probability { get; set; }
+        public string Attribute30Name { get; set; }
+        public int Attribute30Id { get; set; }
+        public int Attribute30Probability { get; set; }
+        public string Attribute31Name { get; set; }
+        public int Attribute31Id { get; set; }
+        public int Attribute31Probability { get; set; }
+        public string Attribute32Name { get; set; }
+        public int Attribute32Id { get; set; }
+        public int Attribute32Probability { get; set; }
+    }
+}

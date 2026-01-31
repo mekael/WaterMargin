@@ -1,4 +1,4 @@
-namespace WaterMargin.LoginServer.Data.Enums;
+namespace WaterMargin.Auth.Data.Enums;
 
 public enum BanType
 {

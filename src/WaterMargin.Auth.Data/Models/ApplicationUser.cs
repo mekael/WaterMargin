@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Identity;
 
-namespace WaterMargin.LoginServer.Data.Models
+namespace WaterMargin.Auth.Data.Models
 {
     public class ApplicationUser : IdentityUser<Guid>
     {
@@ -15,6 +15,16 @@ namespace WaterMargin.LoginServer.Data.Models
         public List<LoginTrackingItem> LoginTrackingItems { get; set; }
         public List<PlayerBan> PlayerBans { get; set; }
 
+
+        public DateTime CreationTimestamp { get; set; } = DateTime.Now;
+
+
+
+
+
+
+
+
         [Column("is_currently_banned")]
         public bool IsCurrentlyBanned { get; set; }
         [Column("ban_start_date")]
@@ -22,5 +32,6 @@ namespace WaterMargin.LoginServer.Data.Models
 
         [Column("ban_end_date")]
         public DateTime? BanEndDate { get; set; }
+
     }
 }

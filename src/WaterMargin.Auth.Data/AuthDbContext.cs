@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using WaterMargin.LoginServer.Data.Models;
+using WaterMargin.Auth.Data.Models;
 
-namespace WaterMargin.LoginServer.Data;
+namespace WaterMargin.Auth.Data;
 
 
 public class AuthDbContext : IdentityDbContext<ApplicationUser, IdentityRole<Guid>, Guid>

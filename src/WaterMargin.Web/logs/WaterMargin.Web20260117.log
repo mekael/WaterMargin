@@ -1,0 +1,656 @@
+2026-01-17 16:49:29.435 -06:00 [INF] User profile is available. Using 'C:\Users\mekael\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-01-17 16:49:30.016 -06:00 [INF] Now listening on: https://localhost:7224
+2026-01-17 16:49:30.021 -06:00 [INF] Now listening on: http://localhost:5046
+2026-01-17 16:49:30.078 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-17 16:49:30.079 -06:00 [INF] Hosting environment: Development
+2026-01-17 16:49:30.080 -06:00 [INF] Content root path: D:\repos\WaterMargin\src\WaterMargin.Web
+2026-01-17 16:49:30.998 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/ - null null
+2026-01-17 16:49:31.290 -06:00 [INF] Executing endpoint '/Index'
+2026-01-17 16:49:31.372 -06:00 [INF] Route matched with {page = "/Index", area = ""}. Executing page /Index
+2026-01-17 16:49:31.385 -06:00 [INF] Executing handler method WaterMargin.Web.Pages.IndexModel.OnGet - ModelState is "Valid"
+2026-01-17 16:49:31.389 -06:00 [INF] Executed handler method OnGet, returned result .
+2026-01-17 16:49:31.394 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:49:31.396 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:49:32.346 -06:00 [INF] Executed page /Index in 965.2434ms
+2026-01-17 16:49:32.366 -06:00 [INF] Executed endpoint '/Index'
+2026-01-17 16:49:32.366 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:49:32.367 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:49:32.402 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:49:32.366 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:49:32.404 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:49:32.413 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:49:32.414 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:49:32.463 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.463 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.463 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.464 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/ - 200 null text/html; charset=utf-8 1476.9137ms
+2026-01-17 16:49:32.465 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.469 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.471 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.488 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 73.5405ms
+2026-01-17 16:49:32.499 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:49:32.499 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:49:32.516 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:49:32.522 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:49:32.522 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:49:32.522 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:49:32.535 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.537 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.544 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.547 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.549 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.552 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:49:32.557 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 190.9652ms
+2026-01-17 16:49:32.559 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 193.2943ms
+2026-01-17 16:49:32.561 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 148.2895ms
+2026-01-17 16:49:32.563 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 197.3242ms
+2026-01-17 16:49:32.565 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 162.8688ms
+2026-01-17 16:49:32.568 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 200.4647ms
+2026-01-17 16:49:32.658 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:49:32.720 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 61.8392ms
+2026-01-17 16:50:35.034 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:50:35.052 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:50:35.078 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:50:35.101 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:50:35.107 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:50:35.108 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:50:35.110 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:50:35.186 -06:00 [INF] Executed page /Account/Register in 106.8111ms
+2026-01-17 16:50:35.189 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:50:35.191 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 157.1361ms
+2026-01-17 16:50:35.232 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:50:35.234 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:50:35.277 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js - null null
+2026-01-17 16:50:35.236 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:50:35.295 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.289 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.285 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.236 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:50:35.272 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:50:35.277 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:50:35.281 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js - null null
+2026-01-17 16:50:35.285 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:50:35.300 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.305 -06:00 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\y381vj64ej-{0}-gk0pw8i4co-gk0pw8i4co.gz'
+2026-01-17 16:50:35.306 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:50:35.310 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:50:35.320 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.322 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.324 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.339 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.334 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.327 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 42.7261ms
+2026-01-17 16:50:35.330 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:50:35.342 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:50:35.345 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:50:35.332 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.349 -06:00 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\7ip5ldq6y5-{0}-48y08845bh-48y08845bh.gz'
+2026-01-17 16:50:35.349 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 117.2771ms
+2026-01-17 16:50:35.354 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 119.5177ms
+2026-01-17 16:50:35.360 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.362 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.364 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.366 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js - 200 25344 text/javascript 88.8511ms
+2026-01-17 16:50:35.369 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.377 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.383 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 147.1773ms
+2026-01-17 16:50:35.384 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 107.0493ms
+2026-01-17 16:50:35.386 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 150.3763ms
+2026-01-17 16:50:35.394 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:50:35.398 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js - 200 5864 text/javascript 117.6016ms
+2026-01-17 16:50:35.403 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:50:35.429 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:50:35.431 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 159.1621ms
+2026-01-17 16:50:35.441 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.2443ms
+2026-01-17 16:50:56.869 -06:00 [INF] Request starting HTTP/2 POST https://localhost:7224/Identity/Account/Register - application/x-www-form-urlencoded 309
+2026-01-17 16:50:56.881 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:50:56.882 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:50:56.924 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnPostAsync - ModelState is "Valid"
+2026-01-17 16:50:58.913 -06:00 [ERR] An exception occurred while iterating over the results of a query for context type 'WaterMargin.Auth.Data.AuthDbContext'.
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUsers'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 1: 'no such table: AspNetUsers'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.PrepareAndEnumerateStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteCommand.GetStatements()+MoveNext()
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2026-01-17 16:56:37.178 -06:00 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-01-17 16:56:37.346 -06:00 [INF] Applying migration '20260117225622_Initial'.
+2026-01-17 16:57:12.809 -06:00 [INF] User profile is available. Using 'C:\Users\mekael\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-01-17 16:57:13.336 -06:00 [INF] Now listening on: https://localhost:7224
+2026-01-17 16:57:13.337 -06:00 [INF] Now listening on: http://localhost:5046
+2026-01-17 16:57:13.390 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-17 16:57:13.394 -06:00 [INF] Hosting environment: Development
+2026-01-17 16:57:13.401 -06:00 [INF] Content root path: D:\repos\WaterMargin\src\WaterMargin.Web
+2026-01-17 16:57:14.530 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/ - null null
+2026-01-17 16:57:14.817 -06:00 [INF] Executing endpoint '/Index'
+2026-01-17 16:57:14.864 -06:00 [INF] Route matched with {page = "/Index", area = ""}. Executing page /Index
+2026-01-17 16:57:14.884 -06:00 [INF] Executing handler method WaterMargin.Web.Pages.IndexModel.OnGet - ModelState is "Valid"
+2026-01-17 16:57:14.887 -06:00 [INF] Executed handler method OnGet, returned result .
+2026-01-17 16:57:14.892 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:57:14.894 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:57:15.160 -06:00 [INF] Executed page /Index in 285.8118ms
+2026-01-17 16:57:15.163 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:57:15.163 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:57:15.211 -06:00 [INF] Executed endpoint '/Index'
+2026-01-17 16:57:15.163 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:57:15.165 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:57:15.170 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:57:15.206 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:57:15.210 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:57:15.257 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.257 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.259 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.260 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.263 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.269 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/ - 200 null text/html; charset=utf-8 749.6567ms
+2026-01-17 16:57:15.286 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 80.2024ms
+2026-01-17 16:57:15.273 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.305 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:57:15.306 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:57:15.317 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:57:15.320 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:57:15.321 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:57:15.322 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:57:15.323 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.329 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.333 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.334 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.337 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.340 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:15.346 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 182.8991ms
+2026-01-17 16:57:15.347 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 184.6157ms
+2026-01-17 16:57:15.349 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 184.1795ms
+2026-01-17 16:57:15.351 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 182.3225ms
+2026-01-17 16:57:15.354 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 143.7995ms
+2026-01-17 16:57:15.356 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 192.8937ms
+2026-01-17 16:57:15.421 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:57:15.483 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 61.7606ms
+2026-01-17 16:57:25.583 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:57:25.610 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:57:25.640 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:57:25.662 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:57:25.669 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:57:25.670 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:57:25.672 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:57:25.756 -06:00 [INF] Executed page /Account/Register in 114.3986ms
+2026-01-17 16:57:25.759 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:57:25.761 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 179.2145ms
+2026-01-17 16:57:25.793 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:57:25.793 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:57:25.796 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:57:25.796 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:57:25.797 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:57:25.797 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:57:25.797 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:57:25.798 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js - null null
+2026-01-17 16:57:25.798 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js - null null
+2026-01-17 16:57:25.805 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.806 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.812 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.831 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.833 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.839 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 41.2701ms
+2026-01-17 16:57:25.856 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.872 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.880 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:57:25.910 -06:00 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\y381vj64ej-{0}-gk0pw8i4co-gk0pw8i4co.gz'
+2026-01-17 16:57:25.895 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:57:25.896 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:57:25.901 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:57:25.905 -06:00 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\7ip5ldq6y5-{0}-48y08845bh-48y08845bh.gz'
+2026-01-17 16:57:25.888 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:57:25.910 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.913 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.916 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.917 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.918 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.925 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.929 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.931 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:25.933 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 139.5624ms
+2026-01-17 16:57:25.935 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js - 200 25344 text/javascript 137.0095ms
+2026-01-17 16:57:25.939 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 146.6433ms
+2026-01-17 16:57:25.943 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:57:25.943 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 146.4831ms
+2026-01-17 16:57:25.954 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 158.0765ms
+2026-01-17 16:57:25.958 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:57:25.945 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 148.8329ms
+2026-01-17 16:57:25.947 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js - 200 5864 text/javascript 149.6929ms
+2026-01-17 16:57:26.001 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:57:26.004 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 61.7604ms
+2026-01-17 16:57:26.020 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 223.1904ms
+2026-01-17 16:57:40.204 -06:00 [INF] Request starting HTTP/2 POST https://localhost:7224/Identity/Account/Register - application/x-www-form-urlencoded 299
+2026-01-17 16:57:40.223 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:57:40.226 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:57:40.280 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnPostAsync - ModelState is "Valid"
+2026-01-17 16:57:41.252 -06:00 [ERR] An exception occurred in the database while saving changes for context type 'WaterMargin.Auth.Data.AuthDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: AspNetUsers.display_name'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'NOT NULL constraint failed: AspNetUsers.display_name'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2026-01-17 16:58:41.755 -06:00 [INF] User profile is available. Using 'C:\Users\mekael\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-01-17 16:58:42.272 -06:00 [INF] Now listening on: https://localhost:7224
+2026-01-17 16:58:42.274 -06:00 [INF] Now listening on: http://localhost:5046
+2026-01-17 16:58:42.336 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-17 16:58:42.337 -06:00 [INF] Hosting environment: Development
+2026-01-17 16:58:42.338 -06:00 [INF] Content root path: D:\repos\WaterMargin\src\WaterMargin.Web
+2026-01-17 16:58:43.319 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/ - null null
+2026-01-17 16:58:43.596 -06:00 [INF] Executing endpoint '/Index'
+2026-01-17 16:58:43.639 -06:00 [INF] Route matched with {page = "/Index", area = ""}. Executing page /Index
+2026-01-17 16:58:43.656 -06:00 [INF] Executing handler method WaterMargin.Web.Pages.IndexModel.OnGet - ModelState is "Valid"
+2026-01-17 16:58:43.662 -06:00 [INF] Executed handler method OnGet, returned result .
+2026-01-17 16:58:43.670 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:58:43.672 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:58:43.900 -06:00 [INF] Executed page /Index in 251.9885ms
+2026-01-17 16:58:43.906 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:58:43.906 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:58:43.910 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:58:43.906 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:58:43.914 -06:00 [INF] Executed endpoint '/Index'
+2026-01-17 16:58:43.911 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:58:43.915 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:58:43.917 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:58:43.964 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:43.966 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:43.966 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:43.967 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:43.974 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:43.982 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:43.982 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/ - 200 null text/html; charset=utf-8 674.2573ms
+2026-01-17 16:58:43.989 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 74.0853ms
+2026-01-17 16:58:44.007 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:58:44.008 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:58:44.008 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:58:44.024 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:58:44.024 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:58:44.026 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:44.026 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:58:44.030 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:44.033 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:44.039 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:44.041 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:44.043 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 137.2313ms
+2026-01-17 16:58:44.046 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:44.048 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 141.8763ms
+2026-01-17 16:58:44.053 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 135.1341ms
+2026-01-17 16:58:44.054 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 144.2004ms
+2026-01-17 16:58:44.057 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 146.1611ms
+2026-01-17 16:58:44.064 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 157.596ms
+2026-01-17 16:58:44.149 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:58:44.202 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 53.0694ms
+2026-01-17 16:58:49.833 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:58:49.856 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:58:49.887 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:58:49.905 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:58:49.911 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:58:49.913 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:58:49.915 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:58:49.997 -06:00 [INF] Executed page /Account/Register in 108.1767ms
+2026-01-17 16:58:49.999 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:58:50.001 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 168.2059ms
+2026-01-17 16:58:50.039 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:58:50.039 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:58:50.040 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:58:50.040 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:58:50.041 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:58:50.041 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:58:50.042 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js - null null
+2026-01-17 16:58:50.042 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js - null null
+2026-01-17 16:58:50.043 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:58:50.050 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.053 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.055 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.071 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.075 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.075 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.085 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.089 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 45.3661ms
+2026-01-17 16:58:50.096 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:58:50.098 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:58:50.098 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:58:50.100 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:58:50.103 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:58:50.105 -06:00 [INF] Sending file. Request path: 'lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\y381vj64ej-{0}-gk0pw8i4co-gk0pw8i4co.gz'
+2026-01-17 16:58:50.108 -06:00 [INF] Sending file. Request path: 'lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\7ip5ldq6y5-{0}-48y08845bh-48y08845bh.gz'
+2026-01-17 16:58:50.116 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.118 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.121 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.123 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.124 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.126 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.150 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:58:50.138 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 98.6431ms
+2026-01-17 16:58:50.139 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 99.8264ms
+2026-01-17 16:58:50.128 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.142 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 100.1964ms
+2026-01-17 16:58:50.134 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.136 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 96.7811ms
+2026-01-17 16:58:50.150 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 110.1307ms
+2026-01-17 16:58:50.153 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:58:50.164 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:58:50.174 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js - 200 25344 text/javascript 131.4525ms
+2026-01-17 16:58:50.192 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 150.421ms
+2026-01-17 16:58:50.183 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js - 200 5864 text/javascript 140.4817ms
+2026-01-17 16:58:50.236 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 72.8732ms
+2026-01-17 16:59:11.161 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:13.346 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:17.689 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:18.110 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:18.289 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:18.464 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:18.621 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:18.768 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/Register - null null
+2026-01-17 16:59:30.862 -06:00 [INF] Request starting HTTP/2 POST https://localhost:7224/Identity/Account/Register - application/x-www-form-urlencoded 299
+2026-01-17 16:59:37.896 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.896 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.899 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.899 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.899 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.899 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.899 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.899 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.909 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.909 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.899 -06:00 [INF] Executing endpoint '/Account/Register'
+2026-01-17 16:59:37.913 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.914 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.917 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.919 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.920 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.920 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.920 -06:00 [INF] Route matched with {page = "/Account/Register", area = "Identity"}. Executing page /Account/Register
+2026-01-17 16:59:37.928 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.928 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.928 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.928 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.928 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.929 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.934 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.936 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:37.939 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.942 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.946 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.954 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.956 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.959 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.961 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.964 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterModel.OnPostAsync - ModelState is "Valid"
+2026-01-17 16:59:37.967 -06:00 [INF] Executed handler method OnGetAsync, returned result .
+2026-01-17 16:59:37.970 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:37.971 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:37.972 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:37.974 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:37.976 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:37.992 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:37.993 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:37.978 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:37.990 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:37.988 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:37.979 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:37.986 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:38.001 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:38.005 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:38.009 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:38.011 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 99.8536ms
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 93.4084ms
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 95.1545ms
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 101.5699ms
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 116.981ms
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 104.8881ms
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 106.4991ms
+2026-01-17 16:59:38.029 -06:00 [INF] Executed page /Account/Register in 115.6591ms
+2026-01-17 16:59:38.032 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.033 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.035 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.037 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.039 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.041 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.042 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.044 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.049 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 19938.4087ms
+2026-01-17 16:59:38.050 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 19761.2115ms
+2026-01-17 16:59:38.052 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 19283.7556ms
+2026-01-17 16:59:38.053 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 19588.8117ms
+2026-01-17 16:59:38.055 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 20366.7177ms
+2026-01-17 16:59:38.057 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 24710.5179ms
+2026-01-17 16:59:38.058 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 19436.9744ms
+2026-01-17 16:59:38.059 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/Register - 200 null text/html; charset=utf-8 26898.3842ms
+2026-01-17 16:59:38.884 -06:00 [INF] User created a new account with password.
+2026-01-17 16:59:38.892 -06:00 [INF] Executed handler method OnPostAsync, returned result Microsoft.AspNetCore.Mvc.RedirectToPageResult.
+2026-01-17 16:59:38.895 -06:00 [INF] Executing RedirectToPageResult, redirecting to RegisterConfirmation.
+2026-01-17 16:59:38.896 -06:00 [INF] Executed page /Account/Register in 970.7255ms
+2026-01-17 16:59:38.898 -06:00 [INF] Executed endpoint '/Account/Register'
+2026-01-17 16:59:38.904 -06:00 [INF] Request finished HTTP/2 POST https://localhost:7224/Identity/Account/Register - 302 null null 8041.2573ms
+2026-01-17 16:59:38.910 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/RegisterConfirmation?email=mekael@cat.com&returnUrl=%2F - null null
+2026-01-17 16:59:38.922 -06:00 [INF] Executing endpoint '/Account/RegisterConfirmation'
+2026-01-17 16:59:38.939 -06:00 [INF] Route matched with {page = "/Account/RegisterConfirmation", area = "Identity"}. Executing page /Account/RegisterConfirmation
+2026-01-17 16:59:38.955 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.RegisterConfirmationModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:39.077 -06:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:39.091 -06:00 [INF] Executed page /Account/RegisterConfirmation in 145.6589ms
+2026-01-17 16:59:39.092 -06:00 [INF] Executed endpoint '/Account/RegisterConfirmation'
+2026-01-17 16:59:39.095 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/RegisterConfirmation?email=mekael@cat.com&returnUrl=%2F - 200 null text/html; charset=utf-8 184.7215ms
+2026-01-17 16:59:39.127 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:59:39.127 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:59:39.127 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:59:39.129 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:59:39.130 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:59:39.130 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:59:39.130 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:59:39.134 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.140 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.144 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.149 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.158 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.160 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.168 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 37.3264ms
+2026-01-17 16:59:39.171 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:59:39.177 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:59:39.178 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:59:39.184 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:59:39.186 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:59:39.190 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:59:39.197 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.202 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.206 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.209 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.213 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.226 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.229 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 102.0383ms
+2026-01-17 16:59:39.233 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 105.6084ms
+2026-01-17 16:59:39.235 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 108.0732ms
+2026-01-17 16:59:39.237 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 108.2807ms
+2026-01-17 16:59:39.239 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 109.3103ms
+2026-01-17 16:59:39.241 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 110.4656ms
+2026-01-17 16:59:39.488 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:59:39.501 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.3124ms
+2026-01-17 16:59:39.570 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/favicon.ico - null null
+2026-01-17 16:59:39.573 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.576 -06:00 [INF] Sending file. Request path: 'favicon.ico'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\atx2ghxyun-{0}-61n19gt1b8-61n19gt1b8.gz'
+2026-01-17 16:59:39.578 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:39.581 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/favicon.ico - 200 5463 image/x-icon 10.2138ms
+2026-01-17 16:59:41.808 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/ConfirmEmail?userId=d87d0df7-c8fe-4414-be30-951a0f48e868&code=Q2ZESjhLSlZoRFNLQjNOTHJKejJ1L05rY2gxblQwaXBZdHdZNUVHWkZXSkd6dHgyQWNZRjloOHlKQXdqMlZPNDQ1eUZKOU5qQ0RHeHhybnBqVDNWb3RITmJHVEhxM2JZeis4MGRJSzlweFdDcnlTV0hFalVHT1V6MlMzaE9ESHJoZHZRU2NLdFF6c2lKQm1jZllTL2IrL00rNmEwM3dYcEg2Y2JpYWdkRlZ0MHRWTkczZzJuRkNzTHhCWkNIMXZWeUc0QkVVRGVLdGd1Q21qRml1QjdwWGk2TnZZd0RjR0hQeFJXWmo5UWVzMDdWK1JyckgwL1JvbDJRUnpwVXlOY1E4VkMydz09&returnUrl=%2F - null null
+2026-01-17 16:59:41.819 -06:00 [INF] Executing endpoint '/Account/ConfirmEmail'
+2026-01-17 16:59:41.831 -06:00 [INF] Route matched with {page = "/Account/ConfirmEmail", area = "Identity"}. Executing page /Account/ConfirmEmail
+2026-01-17 16:59:41.836 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.ConfirmEmailModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:41.934 -06:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:41.961 -06:00 [INF] Executed page /Account/ConfirmEmail in 128.0552ms
+2026-01-17 16:59:41.963 -06:00 [INF] Executed endpoint '/Account/ConfirmEmail'
+2026-01-17 16:59:41.967 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/ConfirmEmail?userId=d87d0df7-c8fe-4414-be30-951a0f48e868&code=Q2ZESjhLSlZoRFNLQjNOTHJKejJ1L05rY2gxblQwaXBZdHdZNUVHWkZXSkd6dHgyQWNZRjloOHlKQXdqMlZPNDQ1eUZKOU5qQ0RHeHhybnBqVDNWb3RITmJHVEhxM2JZeis4MGRJSzlweFdDcnlTV0hFalVHT1V6MlMzaE9ESHJoZHZRU2NLdFF6c2lKQm1jZllTL2IrL00rNmEwM3dYcEg2Y2JpYWdkRlZ0MHRWTkczZzJuRkNzTHhCWkNIMXZWeUc0QkVVRGVLdGd1Q21qRml1QjdwWGk2TnZZd0RjR0hQeFJXWmo5UWVzMDdWK1JyckgwL1JvbDJRUnpwVXlOY1E4VkMydz09&returnUrl=%2F - 200 null text/html; charset=utf-8 158.9593ms
+2026-01-17 16:59:41.997 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:59:41.998 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:59:42.001 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:59:42.002 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:59:42.002 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:59:42.002 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:59:42.003 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:59:42.005 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.012 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.019 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.036 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 33.3625ms
+2026-01-17 16:59:42.039 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.041 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.043 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:59:42.044 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:59:42.051 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:59:42.058 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:59:42.060 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:59:42.062 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.068 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.070 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.073 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.076 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.077 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 80.8676ms
+2026-01-17 16:59:42.079 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 81.8856ms
+2026-01-17 16:59:42.084 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 83.2677ms
+2026-01-17 16:59:42.087 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 84.2867ms
+2026-01-17 16:59:42.089 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 85.7753ms
+2026-01-17 16:59:42.100 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.119 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:59:42.122 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:42.124 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 121.1608ms
+2026-01-17 16:59:42.171 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:59:42.181 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 9.8246ms
+2026-01-17 16:59:58.018 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/Identity/Account/ConfirmEmail?userId=d87d0df7-c8fe-4414-be30-951a0f48e868&code=Q2ZESjhLSlZoRFNLQjNOTHJKejJ1L05rY2gxblQwaXBZdHdZNUVHWkZXSkd6dHgyQWNZRjloOHlKQXdqMlZPNDQ1eUZKOU5qQ0RHeHhybnBqVDNWb3RITmJHVEhxM2JZeis4MGRJSzlweFdDcnlTV0hFalVHT1V6MlMzaE9ESHJoZHZRU2NLdFF6c2lKQm1jZllTL2IrL00rNmEwM3dYcEg2Y2JpYWdkRlZ0MHRWTkczZzJuRkNzTHhCWkNIMXZWeUc0QkVVRGVLdGd1Q21qRml1QjdwWGk2TnZZd0RjR0hQeFJXWmo5UWVzMDdWK1JyckgwL1JvbDJRUnpwVXlOY1E4VkMydz09&returnUrl=%2F - null null
+2026-01-17 16:59:58.026 -06:00 [INF] Executing endpoint '/Account/ConfirmEmail'
+2026-01-17 16:59:58.039 -06:00 [INF] Route matched with {page = "/Account/ConfirmEmail", area = "Identity"}. Executing page /Account/ConfirmEmail
+2026-01-17 16:59:58.043 -06:00 [INF] Executing handler method WaterMargin.Web.Areas.Identity.Pages.Account.ConfirmEmailModel.OnGetAsync - ModelState is "Valid"
+2026-01-17 16:59:58.057 -06:00 [INF] Executed handler method OnGetAsync, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:58.826 -06:00 [INF] Executed page /Account/ConfirmEmail in 784.7911ms
+2026-01-17 16:59:58.827 -06:00 [INF] Executed endpoint '/Account/ConfirmEmail'
+2026-01-17 16:59:58.830 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/Identity/Account/ConfirmEmail?userId=d87d0df7-c8fe-4414-be30-951a0f48e868&code=Q2ZESjhLSlZoRFNLQjNOTHJKejJ1L05rY2gxblQwaXBZdHdZNUVHWkZXSkd6dHgyQWNZRjloOHlKQXdqMlZPNDQ1eUZKOU5qQ0RHeHhybnBqVDNWb3RITmJHVEhxM2JZeis4MGRJSzlweFdDcnlTV0hFalVHT1V6MlMzaE9ESHJoZHZRU2NLdFF6c2lKQm1jZllTL2IrL00rNmEwM3dYcEg2Y2JpYWdkRlZ0MHRWTkczZzJuRkNzTHhCWkNIMXZWeUc0QkVVRGVLdGd1Q21qRml1QjdwWGk2TnZZd0RjR0hQeFJXWmo5UWVzMDdWK1JyckgwL1JvbDJRUnpwVXlOY1E4VkMydz09&returnUrl=%2F - 200 null text/html; charset=utf-8 812.485ms
+2026-01-17 16:59:58.855 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:59:58.856 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:59:58.857 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:59:58.865 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.859 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:59:58.857 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:59:58.859 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:59:58.859 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:59:58.865 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.872 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.876 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:59:58.886 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 26.5579ms
+2026-01-17 16:59:58.891 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.893 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.903 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.903 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:59:58.905 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:59:58.908 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.919 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:59:58.920 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:59:58.923 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 16:59:58.925 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.928 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.934 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 79.2655ms
+2026-01-17 16:59:58.937 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.940 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.943 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:58.945 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 88.0694ms
+2026-01-17 16:59:58.950 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 92.739ms
+2026-01-17 16:59:58.955 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:59:58.958 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 100.9906ms
+2026-01-17 16:59:58.960 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 100.9093ms
+2026-01-17 16:59:58.965 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 105.6083ms
+2026-01-17 16:59:58.989 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.4867ms
+2026-01-17 16:59:59.078 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/favicon.ico - null null
+2026-01-17 16:59:59.081 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.083 -06:00 [INF] Sending file. Request path: 'favicon.ico'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\atx2ghxyun-{0}-61n19gt1b8-61n19gt1b8.gz'
+2026-01-17 16:59:59.086 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.088 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/favicon.ico - 200 5463 image/x-icon 10.1022ms
+2026-01-17 16:59:59.789 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/ - null null
+2026-01-17 16:59:59.794 -06:00 [INF] Executing endpoint '/Index'
+2026-01-17 16:59:59.805 -06:00 [INF] Route matched with {page = "/Index", area = ""}. Executing page /Index
+2026-01-17 16:59:59.807 -06:00 [INF] Executing handler method WaterMargin.Web.Pages.IndexModel.OnGet - ModelState is "Valid"
+2026-01-17 16:59:59.808 -06:00 [INF] Executed handler method OnGet, returned result .
+2026-01-17 16:59:59.810 -06:00 [INF] Executing an implicit handler method - ModelState is "Valid"
+2026-01-17 16:59:59.812 -06:00 [INF] Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+2026-01-17 16:59:59.816 -06:00 [INF] Executed page /Index in 9.4929ms
+2026-01-17 16:59:59.818 -06:00 [INF] Executed endpoint '/Index'
+2026-01-17 16:59:59.824 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/ - 200 null text/html; charset=utf-8 34.2221ms
+2026-01-17 16:59:59.856 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - null null
+2026-01-17 16:59:59.856 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - null null
+2026-01-17 16:59:59.859 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - null null
+2026-01-17 16:59:59.861 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-17 16:59:59.861 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - null null
+2026-01-17 16:59:59.861 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - null null
+2026-01-17 16:59:59.862 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - null null
+2026-01-17 16:59:59.868 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.880 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.887 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.895 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_framework/aspnetcore-browser-refresh.js - 200 16515 application/javascript; charset=utf-8 33.7684ms
+2026-01-17 16:59:59.912 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.925 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.917 -06:00 [INF] Sending file. Request path: 'css/site.b9sayid5wm.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\yqjhkw623d-{0}-b9sayid5wm-b9sayid5wm.gz'
+2026-01-17 16:59:59.917 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\zpi53g10va-{0}-43atpzeawx-43atpzeawx.gz'
+2026-01-17 16:59:59.920 -06:00 [INF] Sending file. Request path: 'WaterMargin.Web.whdxxrvar2.styles.css'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\pdyxke72e2-{0}-whdxxrvar2-whdxxrvar2.gz'
+2026-01-17 16:59:59.926 -06:00 [INF] Sending file. Request path: 'js/site.xtxxf3hu2r.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\v1odqpnz6q-{0}-xtxxf3hu2r-xtxxf3hu2r.gz'
+2026-01-17 16:59:59.929 -06:00 [INF] Sending file. Request path: 'lib/jquery/dist/jquery.min.m9qm4tazc0.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\ojgnfn5031-{0}-m9qm4tazc0-m9qm4tazc0.gz'
+2026-01-17 16:59:59.938 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.941 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.945 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.948 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.951 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.952 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/css/site.b9sayid5wm.css - 200 700 text/css 96.3494ms
+2026-01-17 16:59:59.954 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css - 200 232876 text/css 98.1684ms
+2026-01-17 16:59:59.956 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/WaterMargin.Web.whdxxrvar2.styles.css - 200 1142 text/css 97.4621ms
+2026-01-17 16:59:59.958 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/js/site.xtxxf3hu2r.js - 200 264 text/javascript 96.2976ms
+2026-01-17 16:59:59.963 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/jquery/dist/jquery.min.m9qm4tazc0.js - 200 87578 text/javascript 101.4351ms
+2026-01-17 16:59:59.973 -06:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 16:59:59.980 -06:00 [INF] Request starting HTTP/2 GET https://localhost:7224/_vs/browserLink - null null
+2026-01-17 16:59:59.998 -06:00 [INF] Sending file. Request path: 'lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js'. Physical path: 'D:\repos\WaterMargin\src\WaterMargin.Web\obj\Debug\net10.0\compressed\0smxo3zeb3-{0}-hd3gran6i8-hd3gran6i8.gz'
+2026-01-17 17:00:00.004 -06:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+2026-01-17 17:00:00.005 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/_vs/browserLink - 200 null text/javascript; charset=UTF-8 25.3405ms
+2026-01-17 17:00:00.011 -06:00 [INF] Request finished HTTP/2 GET https://localhost:7224/lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js - 200 80770 text/javascript 149.5521ms

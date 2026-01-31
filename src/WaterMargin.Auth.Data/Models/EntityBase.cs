@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace WaterMargin.LoginServer.Data
+namespace WaterMargin.Auth.Data
 {
     public class EntityBase
     {

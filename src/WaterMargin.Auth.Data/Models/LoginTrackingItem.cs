@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace WaterMargin.LoginServer.Data.Models
+namespace WaterMargin.Auth.Data.Models
 {
     public class LoginTrackingItem : EntityBase
     {

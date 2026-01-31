@@ -1,6 +1,9 @@
 <Solution>
-  <Project Path="WaterMargin.Web/WaterMargin.Web.csproj" />
-  <Project Path="WaterMargin.LoginServer/WaterMargin.LoginServer.csproj" />
   <Project Path="WaterMargin.Auth.Data/WaterMargin.Auth.Data.csproj" />
+  <Project Path="WaterMargin.GameServer.Data/WaterMargin.GameServer.Data.csproj" Id="c3617c7a-eb81-438d-804c-7462bc2acee3" />
+  <Project Path="WaterMargin.GameServer/WaterMargin.GameServer.csproj" Id="6d2e9e54-ea67-408b-97eb-6d5caff4370a" />
+  <Project Path="WaterMargin.LoginServer/WaterMargin.LoginServer.csproj" />
   <Project Path="WaterMargin.Shared/WaterMargin.Shared.csproj" />
+  <Project Path="WaterMargin.Web/WaterMargin.Web.csproj" />
+  <Project Path="WaterMargin.World.Data/WaterMargin.World.Data.csproj" Id="09e3ae08-edf7-4bc2-91e9-13cde2993625" />
 </Solution>
