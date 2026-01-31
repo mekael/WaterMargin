@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="big5"?>
+<FontConfig>
+	<!-- under Client\Data\Font -->
+	<Main_FontFileName>Arial.ttf</Main_FontFileName>
+
+	<Main_Font>
+		<FontName>Arial</FontName>
+		<FontSize>10</FontSize>
+		<FontBold>1</FontBold>		
+	</Main_Font>
+
+	<Hint_Font>
+		<FontName>MS Sans Serif</FontName>
+		<FontSize>9</FontSize>
+		<FontBold>0</FontBold>
+	</Hint_Font>
+
+	<UI_Explanation_Font>
+		<FontName>Arial</FontName>
+		<FontSize>10</FontSize>
+		<FontItalic>1</FontItalic>
+	</UI_Explanation_Font>
+
+	<ItemCount_Font>
+		<FontName>Arial</FontName>
+		<FontSize>10</FontSize>
+		<FontBold>1</FontBold>
+	</ItemCount_Font>
+
+	<SkillLevel_Font>
+		<FontName>Arial</FontName>
+		<FontSize>8</FontSize>
+		<FontBold>1</FontBold>
+		<FontColorRGBA>0 0 255 255</FontColorRGBA>
+		<FontShadow>1</FontShadow>
+		<FontShadowColorRGBA>255 255 255 128</FontShadowColorRGBA>
+	</SkillLevel_Font>
+
+	<HUD_UrgentArea_Font>
+		<FontName>Arial</FontName>
+		<FontSize>12</FontSize>
+		<FontBold>1</FontBold>
+		<FontColorRGBA>255 230 40 255</FontColorRGBA>
+		<FontShadow>1</FontShadow>
+		<FontShadowColorRGBA>0 0 0 192</FontShadowColorRGBA>
+	</HUD_UrgentArea_Font>
+
+	<EntityStatusBaseUI_HitPoint_Font>
+		<FontName>Arial</FontName>
+		<FontSize>8</FontSize>
+		<FontColorRGBA>255 255 255 255</FontColorRGBA>
+		<FontShadow>1</FontShadow>
+		<FontShadowColorRGBA>0 0 0 255</FontShadowColorRGBA>
+	</EntityStatusBaseUI_HitPoint_Font>
+
+	<EntityStatusBaseUI_ManaPoint_Font>
+		<FontName>Arial</FontName>
+		<FontSize>8</FontSize>
+		<FontColorRGBA>255 255 255 255</FontColorRGBA>
+		<FontShadow>1</FontShadow>
+		<FontShadowColorRGBA>0 0 0 255</FontShadowColorRGBA>
+	</EntityStatusBaseUI_ManaPoint_Font>
+
+	<EntityStatusBaseUI_ExperiencePoint_Font>
+		<FontName>Arial</FontName>
+		<FontSize>8</FontSize>
+		<FontColorRGBA>255 255 255 255</FontColorRGBA>
+		<FontShadow>1</FontShadow>
+		<FontShadowColorRGBA>0 0 0 255</FontShadowColorRGBA>
+	</EntityStatusBaseUI_ExperiencePoint_Font>
+
+	<GameStageAnnounceUI_Small_Font>
+		<FontName>Arial</FontName>
+		<FontSize>10</FontSize>
+		<FontBold>1</FontBold>
+		<FontColorRGBA>255 255 255 255</FontColorRGBA>
+	</GameStageAnnounceUI_Small_Font>
+
+	<GameStageAnnounceUI_Time_Font>
+		<FontSize>50</FontSize>
+		<FontColorRGBA>0 255 255 255</FontColorRGBA>
+	</GameStageAnnounceUI_Time_Font>
+
+	<MissionRelationshipUI_MissionGroupInformationListBox_Font>
+		<FontSize>10</FontSize>
+		<FontBold>1</FontBold>
+	</MissionRelationshipUI_MissionGroupInformationListBox_Font>
+	
+	<MissionRelationshipUI_Total_ShowMissionBitButton_Font>
+		<FontSize>10</FontSize>
+		<FontBold>1</FontBold>
+	</MissionRelationshipUI_Total_ShowMissionBitButton_Font>
+
+	<PortraitDialogUI_ContextViewer_Font>
+		<FontSize>12</FontSize>
+	</PortraitDialogUI_ContextViewer_Font>
+
+</FontConfig>

@@ -1,0 +1,1281 @@
+#	Id	ClassId			String
+	5000000	9400	物品名稱	共用，遊戲中不顯示任何訊息	
+	5020001	9400	物品名稱	任務道具	Wooden Wheel
+#	5020002	9400	物品名稱	任務道具(測試用)	"Ah Wang's $100,000 bank note."
+#	5020003	9400	物品名稱	任務道具(測試用)	"Lai Fu's $100,000 bank note."
+	5020004	9400	物品名稱	任務道具	Jade Heirloom
+	5020005	9400	物品名稱	任務道具	Carrot
+#	5020006	9400	物品名稱	任務道具(測試用)	SOS Letter from the Village Leader
+	5020007	9400	物品名稱	任務道具	Hot Steamed Bun
+	5020008	9400	物品名稱	任務道具	Tiger Spell
+	5020009	9400	物品名稱	任務道具	Part1: Cannon Muzzle
+	5020010	9400	物品名稱	任務道具	Part2: Cannon Base
+	5020011	9400	物品名稱	任務道具	Part3: Wheel
+	5020012	9400	物品名稱	任務道具	Part4: Chassis
+	5020013	9400	物品名稱	任務道具	Part5: Track
+	5020014	9400	物品名稱	任務道具	Part6: Teleport Shaft
+	5020015	9400	物品名稱	任務道具	Part7: Sight
+	5020016	9400	物品名稱	任務道具	Rabbit-Hunting Rope
+	5020017	9400	物品名稱	任務道具	Disguise Glasses
+	5020018	9400	物品名稱	任務道具	Ink
+	5020019	9400	物品名稱	任務道具	Paper
+	5020020	9400	物品名稱	任務道具	Pen
+	5020021	9400	物品名稱	任務道具	Tree Sap
+	5020022	9400	物品名稱	任務道具	Mint
+	5020023	9400	物品名稱	任務道具	Chewing Gum
+	5020024	9400	物品名稱	任務道具	Scorpion King's Antidote
+	5020025	9400	物品名稱	任務道具	Hair Regrowth Materials
+	5020026	9400	物品名稱	任務道具	Mysterious Ingredient
+	5020027	9400	物品名稱	任務道具	Watermelon
+	5020028	9400	物品名稱	任務道具	Cactus Crown
+	5020029	9400	物品名稱	任務道具	Antidote for You 3000
+	5020030	9400	物品名稱	有機率掉守護神物品	Starlight Treasure Box
+	5020031	9400	物品名稱	開寶盒物品	Starlight Treasure Magnet
+	5020032	9400	物品名稱	有機率掉守護神物品	Blessed Treasure Box
+	5020033	9400	物品名稱	開寶盒物品	Blessed Treasure Magnet
+	5020034	9400	物品名稱	有機率掉守護神物品	Hope Treasure Box
+	5020035	9400	物品名稱	開寶盒物品	Hope Treasure Magnet
+	5020036	9400	物品名稱	接守護神任務道具	Ordinary Offerings
+	5020037	9400	物品名稱	接守護神任務道具	Aloeswood
+	5020038	9400	物品名稱	接守護神任務道具	Powerful Offerings
+	5020039	9400	物品名稱	接守護神任務道具	Agarwood
+	5020040	9400	物品名稱	接守護神任務道具	Deluxe Offerings
+	5020041	9400	物品名稱	接守護神任務道具	Gaharu
+	5020042	9400	物品名稱	任務道具	Firecrackers
+	5020043	9400	物品名稱	任務道具	Ocean Mimi's Firecrackers
+	5020044	9400	物品名稱	任務道具	Golden Cat's Firecrackers
+	5020045	9400	物品名稱	任務道具	Sweetest Ice Cream
+	5020046	9400	物品名稱	任務道具	Dark Elixir
+	5020047	9400	物品名稱	任務道具	Revival Elixir
+	5020048	9400	物品名稱	任務道具	Mutated Plant Sample
+	5020049	9400	物品名稱	任務道具	Tropical Plant Sample
+	5020050	9400	物品名稱	任務道具	Carrot
+	5020051	9400	物品名稱		Herb
+	5020052	9400	物品名稱		Empty Bottle
+	5020053	9400	物品名稱		Dirty Skunk Essence
+	5020054	9400	物品名稱		Aromatic
+	5020055	9400	物品名稱	接守護神任務道具	Chameleon Cannon Helmet
+	5020056	9400	物品名稱	任務道具	Half-Finished Chassis 
+	5020057	9400	物品名稱	任務道具	Bearing Wheel 
+	5020058	9400	物品名稱	任務道具	Transmitter 
+	5020059	9400	物品名稱	任務道具	Half-Finished Track
+	5020060	9400	物品名稱	任務道具	High Quality Carrot
+	5020061	9400	物品名稱	任務道具	Big Carrot
+	5020062	9400	物品名稱	任務道具	Warm Winter Coat
+	5020063	9400	物品名稱	任務道具	Breezy Summer Outfit
+	5020064	9400	物品名稱	任務道具	Cozy Tent
+	5020065	9400	物品名稱	任務道具	Running Sneakers
+	5020066	9400	物品名稱	任務道具	Shining Star Keepsake
+	5020067	9400	物品名稱	任務道具	Best Wishes Keepsake
+	5020068	9400	物品名稱	任務道具	Endless Hope Keepsake
+	5020069	9400	物品名稱	任務道具	Super Carrot
+	5020070	9400	物品名稱	任務道具	Super Banana
+	5020071	9400	物品名稱	任務道具	Super Pineapple
+	5020072	9400	物品名稱	任務道具	Super Grapes
+	5020073	9400	物品名稱	任務道具	Blue Marble
+	5020074	9400	物品名稱	任務道具	Green Marble
+	5020075	9400	物品名稱	任務道具	Yellow Marble
+	5020076	9400	物品名稱	任務道具	Red Marble
+	5020077	9400	物品名稱	任務道具	Blue Chest from the Sky
+	5020078	9400	物品名稱	任務道具	Blue Chest from the Sea
+	5020079	9400	物品名稱	任務道具	Blue Chest from the Land
+	5020080	9400	物品名稱	任務道具	Blue Chest of Life
+	5020081	9400	物品名稱	任務道具	Green Chest from the Sky 
+	5020082	9400	物品名稱	任務道具	Green Chest from the Sea
+	5020083	9400	物品名稱	任務道具	Green Chest from the Land
+	5020084	9400	物品名稱	任務道具	Green Chest of Life
+	5020085	9400	物品名稱	任務道具	Yellow Chest from the Sky 
+	5020086	9400	物品名稱	任務道具	Yellow Chest from the Sea
+	5020087	9400	物品名稱	任務道具	Yellow Chest from the Land
+	5020088	9400	物品名稱	任務道具	Yellow Chest of Life
+	5020089	9400	物品名稱	任務道具	Red Chest from the Sky 
+	5020090	9400	物品名稱	任務道具	Red Chest from the Sea
+	5020091	9400	物品名稱	任務道具	Red Chest from the Land
+	5020092	9400	物品名稱	任務道具	Red Chest of Life
+	5020093	9400	物品名稱	任務道具	Little Rolling Flute
+#	5020094	9400	物品名稱	任務道具	Banana
+	5020095	9400	物品名稱	任務道具	Wood
+	5020096	9400	物品名稱	任務道具	Human-Shaped Wood Cutout
+	5020097	9400	物品名稱	任務道具	Delicious Bananas
+	5020098	9400	物品名稱	任務道具	Banana Jam
+	5020099	9400	物品名稱	任務道具	Washcloth
+	5020100	9400	物品名稱	任務道具	Fresh Carrots
+	5020101	9400	物品名稱	任務道具	Fresh Bananas
+	5020102	9400	物品名稱	任務道具	Bamboo Bullets
+	5020103	9400	物品名稱	任務道具	Rabbit Clan's Rope
+	5020104	9400	物品名稱	任務道具	Sickle
+	5020105	9400	物品名稱	任務道具	Shovel
+	5020106	9400	物品名稱	任務道具	Ink
+	5020107	9400	物品名稱	任務道具	Hero's Proof
+	5020108	9400	物品名稱	任務道具	Blue Small Carrot
+	5020109	9400	物品名稱	任務道具	Translation Headset
+	5020110	9400	物品名稱	任務道具	Snail's Shell
+	5020111	9400	物品名稱	任務道具	White Cupid Fighter Medal
+	5020112	9400	物品名稱	任務道具	Rabbit Camera
+	5020113	9400	物品名稱	任務道具	Anti-Itch Ointment
+	5020114	9400	物品名稱	任務道具	Picture of the front of Cross Country Rabbit.
+	5020115	9400	物品名稱	任務道具	Picture of the left side of Cross Country Rabbit.
+	5020116	9400	物品名稱	任務道具	Picture of the right side of Cross Country Rabbit.
+	5020117	9400	物品名稱	任務道具	Fragrance
+	5020118	9400	物品名稱	任務道具	Chaotic Snail's Shell
+	5020119	9400	物品名稱	任務道具	Recommendation Letter of Vision
+	5020120	9400	物品名稱	任務道具	Recommendation Letter of Hearing
+	5020121	9400	物品名稱	任務道具	Recommendation Letter of Speaking
+	5020122	9400	物品名稱	任務道具	Notes About Making a Windmill
+	5020123	9400	物品名稱	任務道具	Fire Hydrant
+	5020124	9400	物品名稱	任務道具	Matches
+	5020125	9400	物品名稱	任務道具	Kerosene
+	5020126	9400	物品名稱	任務道具	Defibrillator
+	5020127	9400	物品名稱	任務道具	Rotten Bun
+	5020128	9400	物品名稱	任務道具	Gnawed Bamboo
+	5020129	9400	物品名稱	任務道具	Broken Tree Branch
+	5020130	9400	物品名稱	任務道具	Nutritious Worms
+	5020131	9400	物品名稱	任務道具	Melted Candies
+	5020132	9400	物品名稱	任務道具	Fragrant Essential Oil
+	5020133	9400	物品名稱	任務道具	Sailor Brothers Bracelet
+	5020134	9400	物品名稱	任務道具	Hammer
+	5020135	9400	物品名稱	任務道具	Crab
+	5020136	9400	物品名稱	任務道具	Mirror
+	5020137	9400	物品名稱	任務道具	Peapod
+	5020138	9400	物品名稱	任務道具	Stethoscope
+	5020139	9400	物品名稱	任務道具	Normal Ring
+	5020140	9400	物品名稱	任務道具	Magical Ring
+	5020141	9400	物品名稱	任務道具	Beginner Gift Set
+	5020142	9400			
+	5025009	9400	物品名稱	回復類型道具	St. Patrick's Day Gift Box
+	5025010	9400	物品名稱		St. Patrick's Day Gift Box
+	5025011	9400	物品名稱	加成道具	EXP Plus Drink
+	5025012	9400	物品名稱	加成道具	Drop Plus Drink
+	5025013	9400	物品名稱		Firework A
+	5025014	9400	物品名稱		Firework B
+	5025015	9400	物品名稱		Firework C
+	5025016	9400	物品名稱		Firework D
+	5025017	9400	物品名稱		Firework E
+	5025018	9400	物品名稱		Firework F
+	5025019	9400	物品名稱		Firework G
+	5025020	9400	物品名稱		Firework H
+	5025021	9400	物品名稱		Firework I
+	5025022	9400	物品名稱		Yuan's Firework
+	5025023	9400	物品名稱		Poo Firework
+	5030001	9400	物品名稱	回復類型道具	Life Potion Level 1
+	5030002	9400	物品名稱	回復類型道具	Life Potion Level 2
+	5030003	9400	物品名稱	回復類型道具	Life Potion Level 3
+	5030004	9400	物品名稱	回復類型道具	Life Potion Level 4
+	5030005	9400	物品名稱	回復類型道具	Life Potion Level 5
+	5030006	9400	物品名稱	回復類型道具	Life Potion Level 6
+	5030007	9400	物品名稱	回復類型道具	Skill Potion Level 1
+	5030008	9400	物品名稱	回復類型道具	Skill Potion Level 2
+	5030009	9400	物品名稱	回復類型道具	Skill Potion Level 3
+	5030010	9400	物品名稱	回復類型道具	Skill Potion Level 4
+	5030011	9400	物品名稱	回復類型道具	Skill Potion Level 5
+	5030012	9400	物品名稱	回復類型道具	Skill Potion Level 6
+	5030013	9400	物品名稱	回復類型道具	Life and Skill Potion Level 1
+	5030014	9400	物品名稱	回復類型道具	Life and Skill Potion Level 2
+	5030015	9400	物品名稱	回復類型道具	Life and Skill Potion Level 3
+	5030016	9400	物品名稱	回復類型道具	Life and Skill Potion Level 4
+	5030017	9400	物品名稱	回復類型道具	Life and Skill Potion Level 5
+	5030018	9400	物品名稱	回復類型道具	Life and Skill Potion Level 6
+	5030019	9400	物品名稱	回復類型道具	Beginner Life Potion
+	5030020	9400	物品名稱	強化道具	Cursed Weapon Scroll
+	5030021	9400	物品名稱	強化道具	Cursed Shield Scroll
+	5030022	9400	物品名稱	強化道具	General Weapon Scroll
+	5030023	9400	物品名稱	強化道具	General Shield Scroll
+	5030024	9400	物品名稱	強化道具	Blessed Weapon Scroll
+	5030025	9400	物品名稱	強化道具	Blessed Shield Scroll
+	5030026	9400	物品名稱	強化道具	Anti-Exploding Scroll
+	5030027	9400	物品名稱	復活道具	Revival Shock Rod
+	5030028	9400	物品名稱	死亡不懲罰道具	Immortal Gold Plate
+	5030029	9400	物品名稱	傳送道具	Nearby City Teleport Scroll
+	5030030	9400	物品名稱	傳送道具	Hero City District A Teleport Scroll
+	5030031	9400	物品名稱	傳送道具	Hero City District B Teleport Scroll
+	5030032	9400	物品名稱	傳送道具	Hero City District C Teleport Scroll
+	5030033	9400	物品名稱	GASH 回復類型道具	Sacred Potion
+	5030034	9400	物品名稱	GSAH 強化道具	Golden Weapon Scroll
+	5030035	9400	物品名稱	GSAH 強化道具	Golden Shield Scroll
+	5030036	9400	物品名稱	GSAH 強化道具	Blessed Golden Weapon Scroll
+	5030037	9400	物品名稱	GSAH 強化道具	Blessed Golden Shield Scroll
+	5030038	9400	物品名稱	傳送道具	Instant City Teleport Scroll
+	5030039	9400	物品名稱	傳送道具	Selected Coordinate Teleport Scroll
+	5030040	9400	物品名稱	傳送道具	Selected Character Teleport Scroll
+	5030041	9400	物品名稱	便利性道具	Portable Repair Kit
+	5030042	9400	物品名稱	便利性道具	Other Dimension Warehouse
+	5030043	9400	物品名稱	社群道具	Package Delivery Ticket
+	5030044	9400	物品名稱	社群道具	World Server Loudspeaker
+	5030045	9400	物品名稱	社群道具	Single Server Loudspeaker
+	5030046	9400	物品名稱	加成道具	EXP Plus Ticket
+	5030047	9400	物品名稱	加成道具	Drop Plus Ticket
+	5030048	9400	物品名稱		Stormy Wind Elixir
+	5030049	9400	物品名稱		Blazing Fire Elixir
+	5030050	9400	物品名稱		Earth Elixir
+	5030051	9400	物品名稱		Disable Attack Scroll
+	5030052	9400	物品名稱		Disable Defense Scroll
+	5030053	9400	物品名稱		Disable Purification Scroll
+	5030054	9400	物品名稱	GSAH 功能道具	Backpack Expansion Ticket
+	5030055	9400	物品名稱	GSAH 功能道具	Warehouse Expansion Ticket
+	5030089	9400	物品名稱	技能消耗品	Bandage
+	5030090	9400	物品名稱	技能消耗品	Smoke Grenade
+	5030091	9400	物品名稱	強化道具	General Weapon Scroll - Anti-Exploding
+	5030092	9400	物品名稱	強化道具	General Shield Scroll - Anti-Exploding
+	5030093	9400	物品名稱	強化道具	Blessed Weapon Scroll - Anti-Exploding
+	5030094	9400	物品名稱	強化道具	Blessed Shield Scroll - Anti-Exploding
+	5030095	9400	物品名稱	強化道具	Golden Weapon Scroll - Anti-Exploding
+	5030096	9400	物品名稱	強化道具	Golden Shield Scroll - Anti-Exploding
+	5030097	9400	物品名稱	強化道具	Blessed Golden Weapon Scroll - Anti-Exploding
+	5030098	9400	物品名稱	強化道具	Blessed Golden Shield Scroll - Anti-Exploding
+	5030101	9400	物品名稱	強化道具	Crystal Wishing Sand
+	5030102	9400	物品名稱	強化道具	Crystal Wishing Stone
+	5030103	9400	物品名稱	強化道具	Crystal Wishing Block
+	5030104	9400	物品名稱	強化道具	Crystal Wishing Pillar
+	5031001	9400	物品名稱	變身道具	Makeover Candy - Rabbit King
+	5031002	9400	物品名稱	變身道具	Makeover Candy - Elephant King
+	5031003	9400	物品名稱	變身道具	Makeover Candy - Liger King
+	5031004	9400	物品名稱	變身道具	Makeover Candy - Camel King
+	5031005	9400	物品名稱	變身道具	Makeover Candy - Eagle King
+	5031006	9400	物品名稱	變身道具	Makeover Candy - Cat King
+	5031011	9400	物品名稱	變身道具	Makeover Candy - Lin Chung
+	5031012	9400	物品名稱	變身道具	Makeover Candy - Mighty Ray
+	5031013	9400	物品名稱	變身道具	Makeover Candy - Mystique Sonia
+	5031014	9400	物品名稱	變身道具	Makeover Candy - Mr. No Hands
+	5031015	9400	物品名稱	變身道具	Makeover Candy - Kowloon
+	5031016	9400	物品名稱	變身道具	Makeover Candy - Hurricane Lee
+	5031017	9400	物品名稱	變身道具	Makeover Candy - Latifah
+	5031018	9400	物品名稱	變身道具	Makeover Candy - Archer Lee
+	5031019	9400	物品名稱	任務道具	Makeover Candy - Gourd Cannon Chariot
+	5032010	9400	物品名稱	變身道具	Mighty Rabbit King Calling Bomb
+	5032011	9400	物品名稱	變身道具	Powerful Rabbit King Calling Bomb
+	5032012	9400	物品名稱	變身道具	Super Rabbit King Calling Bomb
+	5032013	9400	物品名稱	變身道具	Ultimate Rabbit King Calling Bomb
+	5032020	9400	物品名稱	變身道具	Mighty Elephant King Calling Bomb
+	5032021	9400	物品名稱	變身道具	Powerful Elephant King Calling Bomb
+	5032022	9400	物品名稱	變身道具	Super Elephant King Calling Bomb
+	5032023	9400	物品名稱	變身道具	Ultimate Elephant King Calling Bomb
+	5032030	9400	物品名稱	變身道具	Mighty Liger King Calling Bomb
+	5032031	9400	物品名稱	變身道具	Powerful Liger King Calling Bomb
+	5032032	9400	物品名稱	變身道具	Super Liger King Calling Bomb
+	5032033	9400	物品名稱	變身道具	Ultimate Liger King Calling Bomb
+	5032040	9400	物品名稱	變身道具	Mighty Eagle King Calling Bomb
+	5032041	9400	物品名稱	變身道具	Powerful Eagle King Calling Bomb
+	5032042	9400	物品名稱	變身道具	Super Eagle King Calling Bomb
+	5032043	9400	物品名稱	變身道具	Ultimate Eagle King Calling Bomb
+	5032050	9400	物品名稱	變身道具	Mighty Camel King Calling Bomb
+	5032051	9400	物品名稱	變身道具	Powerful Camel King Calling Bomb
+	5032052	9400	物品名稱	變身道具	Super Camel King Calling Bomb
+	5032053	9400	物品名稱	變身道具	Ultimate Camel King Calling Bomb
+	5032060	9400	物品名稱	變身道具	Mighty Cat King Calling Bomb
+	5032061	9400	物品名稱	變身道具	Powerful Cat King Calling Bomb
+	5032062	9400	物品名稱	變身道具	Super Cat King Calling Bomb
+	5032063	9400	物品名稱	變身道具	Ultimate Cat King Calling Bomb
+	5040001	9400	物品名稱	怪物掉落雜物	Snail's Shell
+	5040002	9400	物品名稱	怪物掉落雜物	Hedgehog's Spines
+	5040003	9400	物品名稱	怪物掉落雜物	Broken Cane
+	5040004	9400	物品名稱	怪物掉落雜物	Chubby Bunny's Venom
+	5040005	9400	物品名稱	怪物掉落雜物	Red Lantern
+	5040006	9400	物品名稱	怪物掉落雜物	Blue Lantern
+	5040007	9400	物品名稱	怪物掉落雜物	Helmet
+	5040008	9400	物品名稱	怪物掉落雜物	Small Ball
+	5040009	9400	物品名稱	怪物掉落雜物	Energy Collector
+	5040010	9400	物品名稱	怪物掉落雜物	Insulator
+	5040011	9400	物品名稱	怪物掉落雜物	Positive Electrode Energy
+	5040012	9400	物品名稱	怪物掉落雜物	Negative Electrode Energy
+	5040013	9400	物品名稱	怪物掉落雜物	Super Energy
+	5040014	9400	物品名稱	怪物掉落雜物	Micro Weak Electric Power
+	5040015	9400	物品名稱	怪物掉落雜物	Medium Strong Electric Power
+	5040016	9400	物品名稱	怪物掉落雜物	Micro Strong Electric Power
+	5040017	9400	物品名稱	怪物掉落雜物	Smashed Carrot
+	5040018	9400	物品名稱	怪物掉落雜物	Bits of Carrot
+	5040019	9400	物品名稱	怪物掉落雜物	Half-Eaten Carrot
+	5040020	9400	物品名稱	怪物掉落雜物	Intact Carrot
+	5040021	9400	物品名稱	怪物掉落雜物	Broken Belinda Net
+	5040022	9400	物品名稱	怪物掉落雜物	Damaged Belinda Net
+	5040023	9400	物品名稱	怪物掉落雜物	Dirty Belinda Net
+	5040024	9400	物品名稱	怪物掉落雜物	Intact Belinda Net
+	5040025	9400	物品名稱	怪物掉落雜物	Broken Rope
+	5040026	9400	物品名稱	怪物掉落雜物	Knotted Rope
+	5040027	9400	物品名稱	怪物掉落雜物	Dirty Rope
+	5040028	9400	物品名稱	怪物掉落雜物	Intact Rope
+	5040029	9400	物品名稱	怪物掉落雜物	Broken Rolling Flute
+	5040030	9400	物品名稱	怪物掉落雜物	Damaged Rolling Flute
+	5040031	9400	物品名稱	怪物掉落雜物	Dirty Rolling Flute
+	5040032	9400	物品名稱	怪物掉落雜物	Intact Rolling Flute
+	5040033	9400	物品名稱	怪物掉落雜物	Broken Feather
+	5040034	9400	物品名稱	怪物掉落雜物	Damaged Feather
+	5040035	9400	物品名稱	怪物掉落雜物	Dirty Feather
+	5040036	9400	物品名稱	怪物掉落雜物	Intact Feather
+	5040037	9400	物品名稱	怪物掉落雜物	Broken Chameleon Scale
+	5040038	9400	物品名稱	怪物掉落雜物	Damaged Chameleon Scale
+	5040039	9400	物品名稱	怪物掉落雜物	Dirty Chameleon Scale
+	5040040	9400	物品名稱	怪物掉落雜物	Intact Chameleon Scale
+	5040041	9400	物品名稱	怪物掉落雜物	Broken Slingshot
+	5040042	9400	物品名稱	怪物掉落雜物	Damaged Slingshot
+	5040043	9400	物品名稱	怪物掉落雜物	Dirty Slingshot
+	5040044	9400	物品名稱	怪物掉落雜物	Intact Slingshot
+	5040045	9400	物品名稱	怪物掉落雜物	Broken Track Fragments
+	5040046	9400	物品名稱	怪物掉落雜物	Damaged Track Fragments
+	5040047	9400	物品名稱	怪物掉落雜物	Dirty Track Fragments
+	5040048	9400	物品名稱	怪物掉落雜物	Intact Track Fragments
+	5040049	9400	物品名稱	怪物掉落雜物	Broken Diabolo
+	5040050	9400	物品名稱	怪物掉落雜物	Damaged Diabolo
+	5040051	9400	物品名稱	怪物掉落雜物	Dirty Diabolo
+	5040052	9400	物品名稱	怪物掉落雜物	Intact Diabolo
+	5040053	9400	物品名稱	怪物掉落雜物	Broken Bronze Ring
+	5040054	9400	物品名稱	怪物掉落雜物	Damaged Bronze Ring
+	5040055	9400	物品名稱	怪物掉落雜物	Dirty Bronze Ring
+	5040056	9400	物品名稱	怪物掉落雜物	Intact Bronze Ring
+	5040057	9400	物品名稱	怪物掉落雜物	Broken Birdie
+	5040058	9400	物品名稱	怪物掉落雜物	Damaged Birdie
+	5040059	9400	物品名稱	怪物掉落雜物	Dirty Birdie
+	5040060	9400	物品名稱	怪物掉落雜物	Intact Birdie
+	5040061	9400	物品名稱	怪物掉落雜物	Broken Brush
+	5040062	9400	物品名稱	怪物掉落雜物	Damaged Brush
+	5040063	9400	物品名稱	怪物掉落雜物	Dirty Brush
+	5040064	9400	物品名稱	怪物掉落雜物	Intact Brush
+	5040065	9400	物品名稱	怪物掉落雜物	Broken Palette
+	5040066	9400	物品名稱	怪物掉落雜物	Damaged Palette
+	5040067	9400	物品名稱	怪物掉落雜物	Dirty Palette
+	5040068	9400	物品名稱	怪物掉落雜物	Intact Palette
+	5040069	9400	物品名稱	怪物掉落雜物	Broken Canvas
+	5040070	9400	物品名稱	怪物掉落雜物	Damaged Canvas
+	5040071	9400	物品名稱	怪物掉落雜物	Dirty Canvas
+	5040072	9400	物品名稱	怪物掉落雜物	Intact Canvas
+	5040073	9400	物品名稱	怪物掉落雜物	Small Fuzzball
+	5040074	9400	物品名稱	怪物掉落雜物	Medium Fuzzball
+	5040075	9400	物品名稱	怪物掉落雜物	A Fuzzball
+	5040076	9400	物品名稱	怪物掉落雜物	Large Fuzzball
+	5040077	9400	物品名稱	怪物掉落雜物	Broken Training Dummy
+	5040078	9400	物品名稱	怪物掉落雜物	Damaged Training Dummy
+	5040079	9400	物品名稱	怪物掉落雜物	Dirty Training Dummy
+	5040080	9400	物品名稱	怪物掉落雜物	Intact Training Dummy
+	5040081	9400	物品名稱	怪物掉落雜物	Broken Firecracker
+	5040082	9400	物品名稱	怪物掉落雜物	Damaged Firecracker
+	5040083	9400	物品名稱	怪物掉落雜物	Dirty Firecracker
+	5040084	9400	物品名稱	怪物掉落雜物	Intact Firecracker
+	5040085	9400	物品名稱	怪物掉落雜物	Defective Firework
+	5040086	9400	物品名稱	怪物掉落雜物	Damaged Firework
+	5040087	9400	物品名稱	怪物掉落雜物	Dirty Firework
+	5040088	9400	物品名稱	怪物掉落雜物	Intact Firework
+	5040089	9400	物品名稱	怪物掉落雜物	Broken Eagle Feather
+	5040090	9400	物品名稱	怪物掉落雜物	Damaged Eagle Feather
+	5040091	9400	物品名稱	怪物掉落雜物	Dirty Eagle Feather
+	5040092	9400	物品名稱	怪物掉落雜物	Intact Eagle Feather
+	5040093	9400	物品名稱	怪物掉落雜物	One-Thousand Tael Bank Note
+	5040094	9400	物品名稱	怪物掉落雜物	Ten-Thousand Tael Bank Note
+	5040095	9400	物品名稱	怪物掉落雜物	One-Hundred-Thousand Tael Bank Note
+	5040096	9400	物品名稱	怪物掉落雜物	One-Million Tael Bank Note
+	5050001	9400	物品名稱		Green Jade Key
+	5050002	9400	物品名稱		Blue Jade Key
+	5050003	9400	物品名稱		Purple Jade Key
+	5050004	9400	物品名稱		White Jade Key
+	5050005	9400	物品名稱		Clear Jade Key
+	5090001	9400	物品名稱	作弊道具	"Rod of ""Death"""
+	5090002	9400	物品名稱	作弊道具	"Rod of ""Haste"""
+	5090003	9400	物品名稱	作弊道具	"Rod of ""Health Boost"""
+	5090101	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 1"
+	5090102	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 2"
+	5090103	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 3"
+	5090104	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 4"
+	5090105	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 5"
+	5090106	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 6"
+	5090107	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 7"
+	5090108	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 8"
+	5090109	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 9"
+	5090110	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 10"
+	5090111	9400	物品名稱	作弊道具	"""Charge"" Weapon Enhancement Scroll 0 to 11"
+	5090201	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 1"
+	5090202	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 2"
+	5090203	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 3"
+	5090204	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 4"
+	5090205	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 5"
+	5090206	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 6"
+	5090207	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 7"
+	5090208	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 8"
+	5090209	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 9"
+	5090210	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 10"
+	5090211	9400	物品名稱	作弊道具	"""Charge"" Shield Enhancement Scroll 0 to 11"
+	5108101	9400	物品名稱	技能道具	Level 1 Focused Defense Instructional Scroll
+	5108102	9400	物品名稱	技能道具	Level 2 Focused Defense Instructional Scroll
+	5108103	9400	物品名稱	技能道具	Level 3 Focused Defense Instructional Scroll
+	5108104	9400	物品名稱	技能道具	Level 4 Focused Defense Instructional Scroll
+	5108105	9400	物品名稱	技能道具	Level 5 Focused Defense Instructional Scroll
+	5108201	9400	物品名稱	技能道具	Level 1 Focused Attack Instructional Scroll
+	5108202	9400	物品名稱	技能道具	Level 2 Focused Attack Instructional Scroll
+	5108203	9400	物品名稱	技能道具	Level 3 Focused Attack Instructional Scroll
+	5108204	9400	物品名稱	技能道具	Level 4 Focused Attack Instructional Scroll
+	5108205	9400	物品名稱	技能道具	Level 5 Focused Attack Instructional Scroll
+	5108301	9400	物品名稱	技能道具	Level 1 Increased Concentration Instructional Scroll
+	5108302	9400	物品名稱	技能道具	Level 2 Increased Concentration Instructional Scroll
+	5108303	9400	物品名稱	技能道具	Level 3 Increased Concentration Instructional Scroll
+	5108304	9400	物品名稱	技能道具	Level 4 Increased Concentration Instructional Scroll
+	5108305	9400	物品名稱	技能道具	Level 5 Increased Concentration Instructional Scroll
+	5108401	9400	物品名稱	技能道具	Level 1 First Aid Instructional Scroll
+	5108402	9400	物品名稱	技能道具	Level 2 First Aid Instructional Scroll
+	5108403	9400	物品名稱	技能道具	Level 3 First Aid Instructional Scroll
+	5108404	9400	物品名稱	技能道具	Level 4 First Aid Instructional Scroll
+	5108405	9400	物品名稱	技能道具	Level 5 First Aid Instructional Scroll
+	5108501	9400	物品名稱	技能道具	Level 1 Smoke Grenade Instructional Scroll
+	5108502	9400	物品名稱	技能道具	Level 2 Smoke Grenade Instructional Scroll
+	5108503	9400	物品名稱	技能道具	Level 3 Smoke Grenade Instructional Scroll
+	5108504	9400	物品名稱	技能道具	Level 4 Smoke Grenade Instructional Scroll
+	5108505	9400	物品名稱	技能道具	Level 5 Smoke Grenade Instructional Scroll
+	5108601	9400	物品名稱	技能道具	Level 1 HP/MP Conversion Instructional Scroll
+	5108602	9400	物品名稱	技能道具	Level 2 HP/MP Conversion Instructional Scroll
+	5108603	9400	物品名稱	技能道具	Level 3 HP/MP Conversion Instructional Scroll
+	5108604	9400	物品名稱	技能道具	Level 4 HP/MP Conversion Instructional Scroll
+	5108605	9400	物品名稱	技能道具	Level 5 HP/MP Conversion Instructional Scroll
+	5110101	9400	物品名稱	技能道具	Level 1 Machine Gun Instructional Scroll
+	5110102	9400	物品名稱	技能道具	Level 2 Machine Gun Instructional Scroll
+	5110103	9400	物品名稱	技能道具	Level 3 Machine Gun Instructional Scroll
+	5110104	9400	物品名稱	技能道具	Level 4 Machine Gun Instructional Scroll
+	5110105	9400	物品名稱	技能道具	Level 5 Machine Gun Instructional Scroll
+	5110201	9400	物品名稱	技能道具	Level 1 Exploding Bazooka Instructional Scroll
+	5110202	9400	物品名稱	技能道具	Level 2 Exploding Bazooka Instructional Scroll
+	5110203	9400	物品名稱	技能道具	Level 3 Exploding Bazooka Instructional Scroll
+	5110204	9400	物品名稱	技能道具	Level 4 Exploding Bazooka Instructional Scroll
+	5110205	9400	物品名稱	技能道具	Level 5 Exploding Bazooka Instructional Scroll
+	5110301	9400	物品名稱	技能道具	Level 1 Whirlwind Kick Instructional Scroll
+	5110302	9400	物品名稱	技能道具	Level 2 Whirlwind Kick Instructional Scroll
+	5110303	9400	物品名稱	技能道具	Level 3 Whirlwind Kick Instructional Scroll
+	5110304	9400	物品名稱	技能道具	Level 4 Whirlwind Kick Instructional Scroll
+	5110305	9400	物品名稱	技能道具	Level 5 Whirlwind Kick Instructional Scroll
+	5110401	9400	物品名稱	技能道具	Level 1 Fury Shot Instructional Scroll
+	5110402	9400	物品名稱	技能道具	Level 2 Fury Shot Instructional Scroll
+	5110403	9400	物品名稱	技能道具	Level 3 Fury Shot Instructional Scroll
+	5110404	9400	物品名稱	技能道具	Level 4 Fury Shot Instructional Scroll
+	5110405	9400	物品名稱	技能道具	Level 5 Fury Shot Instructional Scroll
+	5110501	9400	物品名稱	技能道具	Level 1 Storm Gun Instructional Scroll
+	5110502	9400	物品名稱	技能道具	Level 2 Storm Gun Instructional Scroll
+	5110503	9400	物品名稱	技能道具	Level 3 Storm Gun Instructional Scroll
+	5110504	9400	物品名稱	技能道具	Level 4 Storm Gun Instructional Scroll
+	5110505	9400	物品名稱	技能道具	Level 5 Storm Gun Instructional Scroll
+	5110601	9400	物品名稱	技能道具	Level 1 Spiral Missile Instructional Scroll
+	5110602	9400	物品名稱	技能道具	Level 2 Spiral Missile Instructional Scroll
+	5110603	9400	物品名稱	技能道具	Level 3 Spiral Missile Instructional Scroll
+	5110604	9400	物品名稱	技能道具	Level 4 Spiral Missile Instructional Scroll
+	5110605	9400	物品名稱	技能道具	Level 5 Spiral Missile Instructional Scroll
+	5120101	9400	物品名稱	技能道具	Level 1 Iron Head Instructional Scroll
+	5120102	9400	物品名稱	技能道具	Level 2 Iron Head Instructional Scroll
+	5120103	9400	物品名稱	技能道具	Level 3 Iron Head Instructional Scroll
+	5120104	9400	物品名稱	技能道具	Level 4 Iron Head Instructional Scroll
+	5120105	9400	物品名稱	技能道具	Level 5 Iron Head Instructional Scroll
+	5120201	9400	物品名稱	技能道具	Level 1 Lightning Eyes Instructional Scroll
+	5120202	9400	物品名稱	技能道具	Level 2 Lightning Eyes Instructional Scroll
+	5120203	9400	物品名稱	技能道具	Level 3 Lightning Eyes Instructional Scroll
+	5120204	9400	物品名稱	技能道具	Level 4 Lightning Eyes Instructional Scroll
+	5120205	9400	物品名稱	技能道具	Level 5 Lightning Eyes Instructional Scroll
+	5120301	9400	物品名稱	技能道具	Level 1 Lion's Roar Instructional Scroll
+	5120302	9400	物品名稱	技能道具	Level 2 Lion's Roar Instructional Scroll
+	5120303	9400	物品名稱	技能道具	Level 3 Lion's Roar Instructional Scroll
+	5120304	9400	物品名稱	技能道具	Level 4 Lion's Roar Instructional Scroll
+	5120305	9400	物品名稱	技能道具	Level 5 Lion's Roar Instructional Scroll
+	5120401	9400	物品名稱	技能道具	Level 1 Lightning Vision Instructional Scroll
+	5120402	9400	物品名稱	技能道具	Level 2 Lightning Vision Instructional Scroll
+	5120403	9400	物品名稱	技能道具	Level 3 Lightning Vision Instructional Scroll
+	5120404	9400	物品名稱	技能道具	Level 4 Lightning Vision Instructional Scroll
+	5120405	9400	物品名稱	技能道具	Level 5 Lightning Vision Instructional Scroll
+	5120501	9400	物品名稱	技能道具	Level 1 Fire Tornado Instructional Scroll
+	5120502	9400	物品名稱	技能道具	Level 2 Fire Tornado Instructional Scroll
+	5120503	9400	物品名稱	技能道具	Level 3 Fire Tornado Instructional Scroll
+	5120504	9400	物品名稱	技能道具	Level 4 Fire Tornado Instructional Scroll
+	5120505	9400	物品名稱	技能道具	Level 5 Fire Tornado Instructional Scroll
+	5120601	9400	物品名稱	技能道具	Level 1 Flame Dash Instructional Scroll
+	5120602	9400	物品名稱	技能道具	Level 2 Flame Dash Instructional Scroll
+	5120603	9400	物品名稱	技能道具	Level 3 Flame Dash Instructional Scroll
+	5120604	9400	物品名稱	技能道具	Level 4 Flame Dash Instructional Scroll
+	5120605	9400	物品名稱	技能道具	Level 5 Flame Dash Instructional Scroll
+	5130101	9400	物品名稱	技能道具	Level 1 Ice Crystal Diamond Instructional Scroll
+	5130102	9400	物品名稱	技能道具	Level 2 Ice Crystal Diamond Instructional Scroll
+	5130103	9400	物品名稱	技能道具	Level 3 Ice Crystal Diamond Instructional Scroll
+	5130104	9400	物品名稱	技能道具	Level 4 Ice Crystal Diamond Instructional Scroll
+	5130105	9400	物品名稱	技能道具	Level 5 Ice Crystal Diamond Instructional Scroll
+	5130201	9400	物品名稱	技能道具	Level 1 Mischievous Charm Instructional Scroll
+	5130202	9400	物品名稱	技能道具	Level 2 Mischievous Charm Instructional Scroll
+	5130203	9400	物品名稱	技能道具	Level 3 Mischievous Charm Instructional Scroll
+	5130204	9400	物品名稱	技能道具	Level 4 Mischievous Charm Instructional Scroll
+	5130205	9400	物品名稱	技能道具	Level 5 Mischievous Charm Instructional Scroll
+	5130301	9400	物品名稱	技能道具	Level 1 Thunderstorm Walk Instructional Scroll
+	5130302	9400	物品名稱	技能道具	Level 2 Thunderstorm Walk Instructional Scroll
+	5130303	9400	物品名稱	技能道具	Level 3 Thunderstorm Walk Instructional Scroll
+	5130304	9400	物品名稱	技能道具	Level 4 Thunderstorm Walk Instructional Scroll
+	5130305	9400	物品名稱	技能道具	Level 5 Thunderstorm Walk Instructional Scroll
+	5130401	9400	物品名稱	技能道具	Level 1 Furious Charm Instructional Scroll
+	5130402	9400	物品名稱	技能道具	Level 2 Furious Charm Instructional Scroll
+	5130403	9400	物品名稱	技能道具	Level 3 Furious Charm Instructional Scroll
+	5130404	9400	物品名稱	技能道具	Level 4 Furious Charm Instructional Scroll
+	5130405	9400	物品名稱	技能道具	Level 5 Furious Charm Instructional Scroll
+	5130501	9400	物品名稱	技能道具	Level 1 Icy Windstorm Instructional Scroll
+	5130502	9400	物品名稱	技能道具	Level 2 Icy Windstorm Instructional Scroll
+	5130503	9400	物品名稱	技能道具	Level 3 Icy Windstorm Instructional Scroll
+	5130504	9400	物品名稱	技能道具	Level 4 Icy Windstorm Instructional Scroll
+	5130505	9400	物品名稱	技能道具	Level 5 Icy Windstorm Instructional Scroll
+	5130601	9400	物品名稱	技能道具	Level 1 Ice Crystal Sublimation Instructional Scroll
+	5130602	9400	物品名稱	技能道具	Level 2 Ice Crystal Sublimation Instructional Scroll
+	5130603	9400	物品名稱	技能道具	Level 3 Ice Crystal Sublimation Instructional Scroll
+	5130604	9400	物品名稱	技能道具	Level 4 Ice Crystal Sublimation Instructional Scroll
+	5130605	9400	物品名稱	技能道具	Level 5 Ice Crystal Sublimation Instructional Scroll
+	5140101	9400	物品名稱	技能道具	Level 1 Random Shot Instructional Scroll
+	5140102	9400	物品名稱	技能道具	Level 2 Random Shot Instructional Scroll
+	5140103	9400	物品名稱	技能道具	Level 3 Random Shot Instructional Scroll
+	5140104	9400	物品名稱	技能道具	Level 4 Random Shot Instructional Scroll
+	5140105	9400	物品名稱	技能道具	Level 5 Random Shot Instructional Scroll
+	5140201	9400	物品名稱	技能道具	Level 1 Seven Star Sword Instructional Scroll
+	5140202	9400	物品名稱	技能道具	Level 2 Seven Star Sword Instructional Scroll
+	5140203	9400	物品名稱	技能道具	Level 3 Seven Star Sword Instructional Scroll
+	5140204	9400	物品名稱	技能道具	Level 4 Seven Star Sword Instructional Scroll
+	5140205	9400	物品名稱	技能道具	Level 5 Seven Star Sword Instructional Scroll
+	5140301	9400	物品名稱	技能道具	Level 1 Reinvigorating Kick Instructional Scroll
+	5140302	9400	物品名稱	技能道具	Level 2 Reinvigorating Kick Instructional Scroll
+	5140303	9400	物品名稱	技能道具	Level 3 Reinvigorating Kick Instructional Scroll
+	5140304	9400	物品名稱	技能道具	Level 4 Reinvigorating Kick Instructional Scroll
+	5140305	9400	物品名稱	技能道具	Level 5 Reinvigorating Kick Instructional Scroll
+	5140401	9400	物品名稱	技能道具	Level 1 Continuous Darts Instructional Scroll
+	5140402	9400	物品名稱	技能道具	Level 2 Continuous Darts Instructional Scroll
+	5140403	9400	物品名稱	技能道具	Level 3 Continuous Darts Instructional Scroll
+	5140404	9400	物品名稱	技能道具	Level 4 Continuous Darts Instructional Scroll
+	5140405	9400	物品名稱	技能道具	Level 5 Continuous Darts Instructional Scroll
+	5140501	9400	物品名稱	技能道具	Level 1 Healing Formation Instructional Scroll
+	5140502	9400	物品名稱	技能道具	Level 2 Healing Formation Instructional Scroll
+	5140503	9400	物品名稱	技能道具	Level 3 Healing Formation Instructional Scroll
+	5140504	9400	物品名稱	技能道具	Level 4 Healing Formation Instructional Scroll
+	5140505	9400	物品名稱	技能道具	Level 5 Healing Formation Instructional Scroll
+	5140601	9400	物品名稱	技能道具	Level 1 Sacred Light Instructional Scroll
+	5140602	9400	物品名稱	技能道具	Level 2 Sacred Light Instructional Scroll
+	5140603	9400	物品名稱	技能道具	Level 3 Sacred Light Instructional Scroll
+	5140604	9400	物品名稱	技能道具	Level 4 Sacred Light Instructional Scroll
+	5140605	9400	物品名稱	技能道具	Level 5 Sacred Light Instructional Scroll
+	5150101	9400	物品名稱	技能道具	Level 1 Arrogant Dragon Instructional Scroll
+	5150102	9400	物品名稱	技能道具	Level 2 Arrogant Dragon Instructional Scroll
+	5150103	9400	物品名稱	技能道具	Level 3 Arrogant Dragon Instructional Scroll
+	5150104	9400	物品名稱	技能道具	Level 4 Arrogant Dragon Instructional Scroll
+	5150105	9400	物品名稱	技能道具	Level 5 Arrogant Dragon Instructional Scroll
+	5150201	9400	物品名稱	技能道具	Level 1 Nine Hydras Instructional Scroll
+	5150202	9400	物品名稱	技能道具	Level 2 Nine Hydras Instructional Scroll
+	5150203	9400	物品名稱	技能道具	Level 3 Nine Hydras Instructional Scroll
+	5150204	9400	物品名稱	技能道具	Level 4 Nine Hydras Instructional Scroll
+	5150205	9400	物品名稱	技能道具	Level 5 Nine Hydras Instructional Scroll
+	5150301	9400	物品名稱	技能道具	Level 1 Damage Defense Instructional Scroll
+	5150302	9400	物品名稱	技能道具	Level 2 Damage Defense Instructional Scroll
+	5150303	9400	物品名稱	技能道具	Level 3 Damage Defense Instructional Scroll
+	5150304	9400	物品名稱	技能道具	Level 4 Damage Defense Instructional Scroll
+	5150305	9400	物品名稱	技能道具	Level 5 Damage Defense Instructional Scroll
+	5150401	9400	物品名稱	技能道具	Level 1 Dark Cloud Cover Instructional Scroll
+	5150402	9400	物品名稱	技能道具	Level 2 Dark Cloud Cover Instructional Scroll
+	5150403	9400	物品名稱	技能道具	Level 3 Dark Cloud Cover Instructional Scroll
+	5150404	9400	物品名稱	技能道具	Level 4 Dark Cloud Cover Instructional Scroll
+	5150405	9400	物品名稱	技能道具	Level 5 Dark Cloud Cover Instructional Scroll
+	5150501	9400	物品名稱	技能道具	Level 1 Entwined Roots Instructional Scroll
+	5150502	9400	物品名稱	技能道具	Level 2 Entwined Roots Instructional Scroll
+	5150503	9400	物品名稱	技能道具	Level 3 Entwined Roots Instructional Scroll
+	5150504	9400	物品名稱	技能道具	Level 4 Entwined Roots Instructional Scroll
+	5150505	9400	物品名稱	技能道具	Level 5 Entwined Roots Instructional Scroll
+	5150601	9400	物品名稱	技能道具	Level 1 Weakening Attack Instructional Scroll
+	5150602	9400	物品名稱	技能道具	Level 2 Weakening Attack Instructional Scroll
+	5150603	9400	物品名稱	技能道具	Level 3 Weakening Attack Instructional Scroll
+	5150604	9400	物品名稱	技能道具	Level 4 Weakening Attack Instructional Scroll
+	5150605	9400	物品名稱	技能道具	Level 5 Weakening Attack Instructional Scroll
+	5160101	9400	物品名稱	技能道具	Level 1 Fiery Axe Instructional Scroll
+	5160102	9400	物品名稱	技能道具	Level 2 Fiery Axe Instructional Scroll
+	5160103	9400	物品名稱	技能道具	Level 3 Fiery Axe Instructional Scroll
+	5160104	9400	物品名稱	技能道具	Level 4 Fiery Axe Instructional Scroll
+	5160105	9400	物品名稱	技能道具	Level 5 Fiery Axe Instructional Scroll
+	5160201	9400	物品名稱	技能道具	Level 1 Raging Wildfire Instructional Scroll
+	5160202	9400	物品名稱	技能道具	Level 2 Raging Wildfire Instructional Scroll
+	5160203	9400	物品名稱	技能道具	Level 3 Raging Wildfire Instructional Scroll
+	5160204	9400	物品名稱	技能道具	Level 4 Raging Wildfire Instructional Scroll
+	5160205	9400	物品名稱	技能道具	Level 5 Raging Wildfire Instructional Scroll
+	5160301	9400	物品名稱	技能道具	Level 1 Indestructible Wall Instructional Scroll
+	5160302	9400	物品名稱	技能道具	Level 2 Indestructible Wall Instructional Scroll
+	5160303	9400	物品名稱	技能道具	Level 3 Indestructible Wall Instructional Scroll
+	5160304	9400	物品名稱	技能道具	Level 4 Indestructible Wall Instructional Scroll
+	5160305	9400	物品名稱	技能道具	Level 5 Indestructible Wall Instructional Scroll
+	5160401	9400	物品名稱	技能道具	Level 1 Strong Constitution Instructional Scroll
+	5160402	9400	物品名稱	技能道具	Level 2 Strong Constitution Instructional Scroll
+	5160403	9400	物品名稱	技能道具	Level 3 Strong Constitution Instructional Scroll
+	5160404	9400	物品名稱	技能道具	Level 4 Strong Constitution Instructional Scroll
+	5160405	9400	物品名稱	技能道具	Level 5 Strong Constitution Instructional Scroll
+	5160501	9400	物品名稱	技能道具	Level 1 Intense Anger Instructional Scroll
+	5160502	9400	物品名稱	技能道具	Level 2 Intense Anger Instructional Scroll
+	5160503	9400	物品名稱	技能道具	Level 3 Intense Anger Instructional Scroll
+	5160504	9400	物品名稱	技能道具	Level 4 Intense Anger Instructional Scroll
+	5160505	9400	物品名稱	技能道具	Level 5 Intense Anger Instructional Scroll
+	5160601	9400	物品名稱	技能道具	Level 1 Imposing Prestige Instructional Scroll
+	5160602	9400	物品名稱	技能道具	Level 2 Imposing Prestige Instructional Scroll
+	5160603	9400	物品名稱	技能道具	Level 3 Imposing Prestige Instructional Scroll
+	5160604	9400	物品名稱	技能道具	Level 4 Imposing Prestige Instructional Scroll
+	5160605	9400	物品名稱	技能道具	Level 5 Imposing Prestige Instructional Scroll
+	5170101	9400	物品名稱	技能道具	Level 1 Sacrificial Strike Instructional Scroll
+	5170102	9400	物品名稱	技能道具	Level 2 Sacrificial Strike Instructional Scroll
+	5170103	9400	物品名稱	技能道具	Level 3 Sacrificial Strike Instructional Scroll
+	5170104	9400	物品名稱	技能道具	Level 4 Sacrificial Strike Instructional Scroll
+	5170105	9400	物品名稱	技能道具	Level 5 Sacrificial Strike Instructional Scroll
+	5170201	9400	物品名稱	技能道具	Level 1 Lunar Meteor Instructional Scroll
+	5170202	9400	物品名稱	技能道具	Level 2 Lunar Meteor Instructional Scroll
+	5170203	9400	物品名稱	技能道具	Level 3 Lunar Meteor Instructional Scroll
+	5170204	9400	物品名稱	技能道具	Level 4 Lunar Meteor Instructional Scroll
+	5170205	9400	物品名稱	技能道具	Level 5 Lunar Meteor Instructional Scroll
+	5170301	9400	物品名稱	技能道具	Level 1 Devastating Attack Instructional Scroll
+	5170302	9400	物品名稱	技能道具	Level 2 Devastating Attack Instructional Scroll
+	5170303	9400	物品名稱	技能道具	Level 3 Devastating Attack Instructional Scroll
+	5170304	9400	物品名稱	技能道具	Level 4 Devastating Attack Instructional Scroll
+	5170305	9400	物品名稱	技能道具	Level 5 Devastating Attack Instructional Scroll
+	5170401	9400	物品名稱	技能道具	Level 1 Flower Moon Illusion Instructional Scroll
+	5170402	9400	物品名稱	技能道具	Level 2 Flower Moon Illusion Instructional Scroll
+	5170403	9400	物品名稱	技能道具	Level 3 Flower Moon Illusion Instructional Scroll
+	5170404	9400	物品名稱	技能道具	Level 4 Flower Moon Illusion Instructional Scroll
+	5170405	9400	物品名稱	技能道具	Level 5 Flower Moon Illusion Instructional Scroll
+	5170501	9400	物品名稱	技能道具	Level 1 Uncontrollable Fury Instructional Scroll
+	5170502	9400	物品名稱	技能道具	Level 2 Uncontrollable Fury Instructional Scroll
+	5170503	9400	物品名稱	技能道具	Level 3 Uncontrollable Fury Instructional Scroll
+	5170504	9400	物品名稱	技能道具	Level 4 Uncontrollable Fury Instructional Scroll
+	5170505	9400	物品名稱	技能道具	Level 5 Uncontrollable Fury Instructional Scroll
+	5170601	9400	物品名稱	技能道具	Level 1 Morale Boost Instructional Scroll
+	5170602	9400	物品名稱	技能道具	Level 2 Morale Boost Instructional Scroll
+	5170603	9400	物品名稱	技能道具	Level 3 Morale Boost Instructional Scroll
+	5170604	9400	物品名稱	技能道具	Level 4 Morale Boost Instructional Scroll
+	5170605	9400	物品名稱	技能道具	Level 5 Morale Boost Instructional Scroll
+	5180101	9400	物品名稱	技能道具	Level 1 Aimed Shot Instructional Scroll
+	5180102	9400	物品名稱	技能道具	Level 2 Aimed Shot Instructional Scroll
+	5180103	9400	物品名稱	技能道具	Level 3 Aimed Shot Instructional Scroll
+	5180104	9400	物品名稱	技能道具	Level 4 Aimed Shot Instructional Scroll
+	5180105	9400	物品名稱	技能道具	Level 5 Aimed Shot Instructional Scroll
+	5180201	9400	物品名稱	技能道具	Level 1 Blasting Shot Instructional Scroll
+	5180202	9400	物品名稱	技能道具	Level 2 Blasting Shot Instructional Scroll
+	5180203	9400	物品名稱	技能道具	Level 3 Blasting Shot Instructional Scroll
+	5180204	9400	物品名稱	技能道具	Level 4 Blasting Shot Instructional Scroll
+	5180205	9400	物品名稱	技能道具	Level 5 Blasting Shot Instructional Scroll
+	5180301	9400	物品名稱	技能道具	Level 1 Arrow Storm Instructional Scroll
+	5180302	9400	物品名稱	技能道具	Level 2 Arrow Storm Instructional Scroll
+	5180303	9400	物品名稱	技能道具	Level 3 Arrow Storm Instructional Scroll
+	5180304	9400	物品名稱	技能道具	Level 4 Arrow Storm Instructional Scroll
+	5180305	9400	物品名稱	技能道具	Level 5 Arrow Storm Instructional Scroll
+	5180401	9400	物品名稱	技能道具	Level 1 Flying Sand Formation Instructional Scroll
+	5180402	9400	物品名稱	技能道具	Level 2 Flying Sand Formation Instructional Scroll
+	5180403	9400	物品名稱	技能道具	Level 3 Flying Sand Formation Instructional Scroll
+	5180404	9400	物品名稱	技能道具	Level 4 Flying Sand Formation Instructional Scroll
+	5180405	9400	物品名稱	技能道具	Level 5 Flying Sand Formation Instructional Scroll
+	5180501	9400	物品名稱	技能道具	Level 1 Paralysis Trap Instructional Scroll
+	5180502	9400	物品名稱	技能道具	Level 2 Paralysis Trap Instructional Scroll
+	5180503	9400	物品名稱	技能道具	Level 3 Paralysis Trap Instructional Scroll
+	5180504	9400	物品名稱	技能道具	Level 4 Paralysis Trap Instructional Scroll
+	5180505	9400	物品名稱	技能道具	Level 5 Paralysis Trap Instructional Scroll
+	5180601	9400	物品名稱	技能道具	Level 1 Virulence Trap Instructional Scroll
+	5180602	9400	物品名稱	技能道具	Level 2 Virulence Trap Instructional Scroll
+	5180603	9400	物品名稱	技能道具	Level 3 Virulence Trap Instructional Scroll
+	5180604	9400	物品名稱	技能道具	Level 4 Virulence Trap Instructional Scroll
+	5180605	9400	物品名稱	技能道具	Level 5 Virulence Trap Instructional Scroll
+	5300000	9400	物品描述	共用，遊戲中不顯示任何訊息	
+#	5320001	9400	物品描述	任務道具(測試用)	Taels earned by a hard working Qian Qi.
+#	5320002	9400	物品描述	任務道具(測試用)	Taels given by Ah Wang after breaking the piggy bank.
+#	5320003	9400	物品描述	任務道具(測試用)	Personal savings of the frugal Lai Fu.
+	5320004	9400	物品描述	任務道具	A precious jade that possesses psychic power.
+	5320005	9400	物品描述	任務道具	A famous product of the Carrot Village that might cure depression?
+#	5320006	9400	物品描述	任務道具(測試用)	A letter by the village leader written in blood.
+	5320007	9400	物品描述	任務道具	Hot steamed buns that are loved by the soldiers of the Elephant Kingdom.
+	5320008	9400	物品描述	任務道具	A legendary spell used for suppressing tigers within the range of 8 yards.
+	5320009	9400	物品描述	任務道具	The stolen parts searched for by Tank Squad Leader.
+	5320010	9400	物品描述	任務道具	The stolen parts searched for by Tank Squad Leader.
+	5320011	9400	物品描述	任務道具	The stolen parts searched for by Tank Squad Leader.
+	5320012	9400	物品描述	任務道具	The stolen parts searched for by Tank Squad Leader.
+	5320013	9400	物品描述	任務道具	The stolen parts searched for by Tank Squad Leader.
+	5320014	9400	物品描述	任務道具	The stolen parts searched for by Tank Squad Leader.
+	5320015	9400	物品描述	任務道具	The stolen parts searched for by Tank Squad Leader.
+	5320016	9400	物品描述	任務道具	A rope used for tying up rabbits.
+	5320017	9400	物品描述	任務道具	Glasses used for covering the devilish eyes of Liger Clan.
+	5320018	9400	物品描述	任務道具	A black liquid used for painting or writing.
+	5320019	9400	物品描述	任務道具	A white paper with many uses.
+	5320020	9400	物品描述	任務道具	A good brush for painting or writing.
+	5320021	9400	物品描述	任務道具	A sticky liquid substance.
+	5320022	9400	物品描述	任務道具	A piece of an aromatic leaf.
+	5320023	9400	物品描述	任務道具	A refreshing flavored substance for chewing.
+	5320024	9400	物品描述	任務道具	It will counteract the toxins of a headstand.
+	5320025	9400	物品描述	任務道具	Primary medicine to treat hair loss.
+	5320026	9400	物品描述	任務道具	Essential ingredient for the hair regrowth solution.
+	5320027	9400	物品描述	任務道具	It's a masterpiece of Watermelon Tusker.
+	5320028	9400	物品描述	任務道具	A crown made of cactus.
+	5320029	9400	物品描述	任務道具	A very potent and concentrated antidote.
+	5320030	9400	物品描述	有機率掉守護神物品	"To open the Starlight Treasure Box, it requires the Starlight Treasure Box and a magnet. There is a chance to obtain a Starlight Guardian Angel."
+	5320031	9400	物品描述	開寶盒物品	An item required for using a Starlight Treasure Box.
+	5320032	9400	物品描述	有機率掉守護神物品	"To open the Blessing Treasure Box, it requires the Blessing Treasure Box and a magnet. There is a chance to obtain a Blessing Guardian Angel."
+	5320033	9400	物品描述	開寶盒物品	An item required for using a Blessing Treasure Box.
+	5320034	9400	物品描述	有機率掉守護神物品	"To open the Hope Treasure Box, it will requires the Hope Treasure Box and a magnet. There is a chance to obtain a Hope Guardian Angel."
+	5320035	9400	物品描述	開寶盒物品	An item required for opening the Hope Treasure Box.
+	5320036	9400	物品描述	接守護神任務道具	An item required for the quest Pray for Protection of Starlight.
+	5320037	9400	物品描述	接守護神任務道具	An item required for the quest Pray for Protection of Starlight.
+	5320038	9400	物品描述	接守護神任務道具	An item required for the quest Pray for Protection of Blessing.
+	5320039	9400	物品描述	接守護神任務道具	An item required for the quest Pray for Protection of Blessing.
+	5320040	9400	物品描述	接守護神任務道具	An item required for the quest Pray for Protection of Hope.
+	5320041	9400	物品描述	接守護神任務道具	An item required for the quest Pray for Protection of Hope.
+	5320046	9400	物品描述	接守護神任務道具	The elixir used by the Dark Legion to make people fall into unconsciousness.
+	5320047	9400	物品描述	接守護神任務道具	It will break the Dark Elixir to awaken people.
+	5320066	9400	物品描述		"Hand this keepsake to Woo the Wise to receive the ""Shining Star Treasure Box"" "
+	5320067	9400	物品描述		"Hand this keepsake to Woo the Wise to receive the ""Best Wishes Treasure Box"" "
+	5320068	9400	物品描述		"Hand this keepsake to Woo the Wise to receive the ""Endless Hope Treasure Box"" "
+	5320069	9400	物品描述		Super nutritious food can help the children grow
+	5320073	9400	物品描述		Clear Blue Bead
+	5320074	9400	物品描述		Clear Green Bead
+	5320075	9400	物品描述		Clear Yellow Bead
+	5320076	9400	物品描述		Clear Red Bead
+	5320077	9400	物品描述		"Open this chest that illuminates a mysterious blue light, and you shall receive a powerful piece of head armor. "
+	5320078	9400	物品描述		"Open this chest that illuminates a mysterious blue light, and you shall receive a powerful piece of lower body armor."
+	5320079	9400	物品描述		"Open this chest that illuminates a mysterious blue light, and you shall receive a powerful piece of upper body armor."
+	5320080	9400	物品描述		"Open this chest that illuminates a mysterious blue light, and you shall receive a powerful weapon."
+	5320081	9400	物品描述		"Open this chest that illuminates a mysterious green light, and you shall receive a powerful piece of head armor. "
+	5320082	9400	物品描述		"Open this chest that illuminates a mysterious green light, and you shall receive a powerful piece of lower body armor."
+	5320083	9400	物品描述		"Open this chest that illuminates a mysterious green light, and you shall receive a powerful piece of upper body armor."
+	5320084	9400	物品描述		"Open this chest that illuminates a mysterious green light, and you shall receive a powerful weapon."
+	5320085	9400	物品描述		"Open this chest that illuminates a mysterious yellow light, and you shall receive a powerful piece of head armor."
+	5320086	9400	物品描述		"Open this chest that illuminates a mysterious yellow light, and you shall receive a powerful piece of lower body armor."
+	5320087	9400	物品描述		"Open this chest that illuminates a mysterious yellow light, and you shall receive a powerful piece of upper body armor."
+	5320088	9400	物品描述		"Open this chest that illuminates a mysterious yellow light, and you shall receive a powerful weapon."
+	5320089	9400	物品描述		"Open this chest that illuminates a mysterious red light, and you shall receive a powerful piece of head armor."
+	5320090	9400	物品描述		"Open this chest that illuminates a mysterious red light, and you shall receive a powerful piece of lower body armor."
+	5320091	9400	物品描述		"Open this chest that illuminates a mysterious red light, and you shall receive a powerful piece of upper body armor."
+	5320092	9400	物品描述		"Open this chest that illuminates a mysterious red light, and you shall receive a powerful weapon."
+#	5320093	9400	物品描述	任務道具	Bananas that give Mighty Ray his electric power.
+	5320094	9400	物品描述	任務道具	Rigid wood used to build tanks.
+	5320095	9400	物品描述	任務道具	Wood cutouts of Mystique Sonia and Mighty Ray.
+	5320096	9400	物品描述	任務道具	Bananas used to make delicious jam.
+	5320097	9400	物品描述	任務道具	Delicious banana jam.
+	5320099	9400	物品描述	任務道具	A neat washcloth that can be used to clean carrots. 
+	5320100	9400	物品描述	任務道具	Freshly picked carrots that are rich in nutrients.
+	5320101	9400	物品描述	任務道具	Mighty Ray's electric power will get stronger after eating this.
+	5320102	9400	物品描述	任務道具	Bamboos tips used by Lin Chung as bullets.
+	5320103	9400	物品描述	任務道具	A Rabbit Clan's rope. It stimulates superb jump rope skills.<BR> Requires: 200MP
+	5320104	9400	物品描述	任務道具	A small sickle that cuts off bamboo tips.
+	5320105	9400	物品描述	任務道具	A shovel for digging through garbage. 
+	5320106	9400	物品描述	任務道具	The ink found in the wastepaper dump.
+	5320107	9400	物品描述	任務道具	The Big Green hero's proof will recover a lot of your HP and MP.
+	5320108	9400	物品描述	任務道具	A magical carrot that has multiple nutrients.
+	5320109	9400	物品描述	任務道具	A headset for learning the Rabbit Clan's language. 
+	5320110	9400	物品描述	任務道具	Chaotic Snail's Shell.
+	5320111	9400	物品描述	任務道具	Proof of defeating White Cupid Fighter.
+	5320112	9400	物品描述	任務道具	"Rabbit Clan's camera, which may be used to capture beautiful images. "
+	5320113	9400	物品描述	任務道具	Magical ointment for mosquito bites.
+	5320114	9400	物品描述	任務道具	Pictures of Cross Country Rabbit. 
+	5320115	9400	物品描述	任務道具	Raw materials for making aromatics.
+	5320118	9400	物品描述	任務道具	Chaotic Snail's spiraling shell. 
+	5320119	9400	物品描述	任務道具	Recommendation Letter of Ninja Usagimaru.
+	5320120	9400	物品描述	任務道具	Recommendation Letter of Cross Country Rabbit. 
+	5320121	9400	物品描述	任務道具	Recommendation Letter of Cupid Ranger.
+	5320122	9400	物品描述	任務道具	Notes about windmill making.
+	5320123	9400	物品描述	任務道具	An item designed to wash off mud.
+	5320124	9400	物品描述	任務道具	It produces a faint flame.
+	5320125	9400	物品描述	任務道具	An item for starting a camp fire.
+	5320126	9400	物品描述	任務道具	A life saving item.
+	5320127	9400	物品描述	任務道具	A stale bun.
+	5320128	9400	物品描述	任務道具	A bamboo tip.
+	5320129	9400	物品描述	任務道具	A tree branch with a light fragrance.
+	5320130	9400	物品描述	任務道具	Nutritious worms.
+	5320131	9400	物品描述	任務道具	Candies covered with ants.
+	5320132	9400	物品描述	任務道具	Non-banana scented essential oil.
+	5320133	9400	物品描述	任務道具	"When negotiating with the Liger King, use this bracelet to summon the Sailor Brothers."
+	5320134	9400	物品描述	任務道具	A hammer used for repairing tanks.
+	5320135	9400	物品描述	任務道具	An orange crab that pinches Brutus' butt.
+	5320136	9400	物品描述	任務道具	A mirror used for seeing other people's true face.
+	5320137	9400	物品描述	任務道具	A special weapon used by Tree Man Troops.
+	5320138	9400	物品描述	任務道具	A stethoscope used by doctors.
+	5320139	9400	物品描述	任務道具	A normal ring hanging from Liger Clan's mouth. 
+	5320140	9400	物品描述	任務道具	A golden ring that seems to be very accurate.
+	5320141	9400	物品描述	任務道具	This is a surprise for the beginners.
+	5320142	9400			
+	5325009	9400	物品描述	回復類型道具	Leprechaun's Gold
+	5325010	9400	物品描述		Contents: Shamrock Hat
+	5325011	9400	物品描述	加成道具	This drink can increase 40% EXP earning rate.
+	5325012	9400	物品描述	加成道具	This drink can significantly increase 40% chance of getting items.
+	5325013	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325014	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325015	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325016	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325017	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325018	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325019	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325020	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325021	9400	物品描述	加成道具	There will be a gorgeous effect after using the item.
+	5325022	9400	物品描述	加成道具	"After being used, it will create a firework for the Sailor Brothers."
+	5325023	9400	物品描述	加成道具	"After being used, it will create a mysterious firework."
+	5330001	9400	物品描述	回復類型道具	A potion to recover about 400 HP.
+	5330002	9400	物品描述	回復類型道具	A potion to recover about 1200 HP.
+	5330003	9400	物品描述	回復類型道具	A potion to recover about 2000 HP.
+	5330004	9400	物品描述	回復類型道具	A potion to recover about 2800 HP.
+	5330005	9400	物品描述	回復類型道具	A potion to recover about 3600 HP.
+	5330006	9400	物品描述	回復類型道具	A potion to recover about 4400 HP.
+	5330007	9400	物品描述	回復類型道具	A potion to recover about 600 MP.
+	5330008	9400	物品描述	回復類型道具	A potion to recover about 1600 MP.
+	5330009	9400	物品描述	回復類型道具	A potion to recover about 2700 MP.
+	5330010	9400	物品描述	回復類型道具	A potion to recover about 3800 MP.
+	5330011	9400	物品描述	回復類型道具	A potion to recover about 4900 MP.
+	5330012	9400	物品描述	回復類型道具	A potion to recover about 6000 MP.
+	5330013	9400	物品描述	回復類型道具	A potion to recover about 280 HP and 440 MP.
+	5330014	9400	物品描述	回復類型道具	A potion to recover about 810 HP and 1280 MP.
+	5330015	9400	物品描述	回復類型道具	A potion to recover about 1370 HP and 2160 MP.
+	5330016	9400	物品描述	回復類型道具	A potion to recover about 1930 HP and 3040 MP.
+	5330017	9400	物品描述	回復類型道具	A potion to recover about 2490 HP and 3920 MP.
+	5330018	9400	物品描述	回復類型道具	A potion to recover about 3050 HP and 4800 MP.
+	5330019	9400	物品描述	回復類型道具	A potion to recover about 3000 HP and 3000 MP.
+	5330020	9400	物品描述	強化道具	Cursed weapon scroll will reduce the weapon enchantment by 1 point.
+	5330021	9400	物品描述	強化道具	Cursed shield scroll will reduce the shield enchantment by 1 point.
+	5330022	9400	物品描述	強化道具	General enchant weapon scroll may increase the weapon enchantment up to 1 point.
+	5330023	9400	物品描述	強化道具	General enchant shield scroll may increase the shield enchantment up to 1 point.
+	5330024	9400	物品描述	強化道具	Blessed enchant weapon scroll may increase the weapon enchantment up to 2-5 points.
+	5330025	9400	物品描述	強化道具	Blessed enchant shield scroll may increase the shield enchantment up to 2-5 points.
+	5330026	9400	物品描述	強化道具	"It prevents the equipment from exploding and disappearing during the enchantment process. If an explosion occurs, the scroll on the Enchant interface plot will automatically function and one scroll will be deducted."
+	5330027	9400	物品描述	復活道具	"Through a shock, the spirit can return to body to revive, restoring strength and power."
+	5330028	9400	物品描述	死亡不懲罰道具	A command plate that has magical powers allows the character to die without deducting experience points. Death will automatically deduct one Immortal Gold Plate.
+	5330029	9400	物品描述	傳送道具	"Possessing power beyond time and space, this scroll can return you to a nearby City.."
+	5330030	9400	物品描述	傳送道具	"Possessing power beyond time and space, this scroll can instantly return you to Hero City District A."
+	5330031	9400	物品描述	傳送道具	"Possessing power beyond time and space, this scroll can instantly return you to Hero City District B."
+	5330032	9400	物品描述	傳送道具	"Possessing power beyond time and space, this scroll can instantly return you to Hero City District C."
+	5330033	9400	物品描述	GASH 回復類型道具	A potion which can recover about 12000 HP and 12000 MP.
+	5330034	9400	物品描述	GSAH 強化道具	A powerful enchant weapon scroll that increases the weapon enchantment by 1 point.
+	5330035	9400	物品描述	GSAH 強化道具	A powerful enchant shield scroll that increases the shield enchantment by 1 point.
+	5330036	9400	物品描述	GSAH 強化道具	A powerful blessed enchant weapon scroll that increases the weapon enchantment by 2-5 points.
+	5330037	9400	物品描述	GSAH 強化道具	A powerful blessed enchant shield scroll that increases the shield enchantment by 2-5 points.
+	5330038	9400	物品描述	傳送道具	"Possessing power beyond time and space, this scroll can instantly teleport you to a nearby City."
+	5330039	9400	物品描述	傳送道具	"Possessing power beyond time and space, this scroll can instantly teleport you to the selected coordinate."
+	5330040	9400	物品描述	傳送道具	"Possessing power beyond time and space, this scroll can instantly teleport you to another player."
+	5330041	9400	物品描述	便利性道具	This magical repair kit can fix equipment at any time.
+	5330042	9400	物品描述	便利性道具	"Possessing power beyond time and space, this little box can retrieve items in the warehouse."
+	5330043	9400	物品描述	社群道具	The ticket can be used for sending items.
+	5330044	9400	物品描述	社群道具	It can talk to any server in the world.
+	5330045	9400	物品描述	社群道具	It can talk to your server.
+	5330046	9400	物品描述	加成道具	This scroll can increase 50% EXP earning rate.
+	5330047	9400	物品描述	加成道具	The mysterious treasure pot can significantly increase 50% chance of getting items.
+	5330048	9400	物品描述		"After drinking the elixir and disabling your slowed state, you will no longer have problems moving."
+	5330049	9400	物品描述		"After drinking the elixir and disabling your frozen state, you are no longer afraid of the cold winds and won't be scared to go on a long journey alone."
+	5330050	9400	物品描述		"After drinking the elixir and curing the poison, it will increase your purification ability and improve your metabolism. By removing the internal toxins, your body is now back to a normal state."
+	5330051	9400	物品描述		"After using the Disable Attack Scroll, you can instantly disable the opponent's ability to increase their attack power."
+	5330052	9400	物品描述		"After using the Disable Defense Scroll, you can instantly disable the opponent's ability to increase their defense power. "
+	5330053	9400	物品描述		"After using the Disable Purification Scroll, you can instantly disable the opponent's ability of soul purification."
+	5330054	9400	物品描述		"After using the item, 25 additional spaces will be added to the backpack and can expand up to 250 spaces. "
+	5330055	9400	物品描述		"After using the item, 25 additional spaces will be added to the backpack and can expand up to 250 spaces. "
+	5330089	9400	物品描述	技能消耗品	"Items needed when using ""First Aid"" skill."
+	5330090	9400	物品描述	技能消耗品	"Items needed when using ""Smoke Grenade"" skill."
+	5330091	9400	物品名稱	強化道具	General enchanted weapon scroll may increase the weapon enchantment up to 1 point and is anti-exploding.
+	5330092	9400	物品名稱	強化道具	General enchanted shield scroll may increase the shield enchantment up to 1 point and is anti-exploding.
+	5330093	9400	物品名稱	強化道具	Blessed enchanted weapon scroll may increase the weapon enchantment up to 2-5 points and is anti-exploding.
+	5330094	9400	物品名稱	強化道具	Blessed enchanted shield scroll may increase the shield enchantment up to 2-5 points and is anti-exploding.
+	5330095	9400	物品名稱	強化道具	A powerful and enchanted weapon scroll that increases the weapon enchantment by 1 point and is anti-exploding.
+	5330096	9400	物品名稱	強化道具	A powerful and enchanted shield scroll that increases the shield enchantment by 1 point and is anti-exploding.
+	5330097	9400	物品名稱	強化道具	A powerful and blessed enchanted weapon scroll that increases the weapon enchantment by 2-5 points and is anti-exploding.
+	5330098	9400	物品名稱	強化道具	A powerful and blessed enchanted shield scroll that increases the shield enchantment by 2-5 points and is anti-exploding.
+	5330101	9400	物品名稱	強化道具	Crystallized wish that enchants your equipment and makes it more powerful. Enchantment Effect: 1
+	5330102	9400	物品名稱	強化道具	Crystallized wish that enchants your equipment and makes it more powerful. Enchantment Effect: 2
+	5330103	9400	物品名稱	強化道具	Crystallized wish that enchants your equipment and makes it more powerful. Enchantment Effect: 3
+	5330104	9400	物品名稱	強化道具	Crystallized wish that enchants your equipment and makes it more powerful. Enchantment Effect: 4
+	5331001	9400	物品描述	變身道具	The magical candy allows you to transform into the Rabbit King and inherit their powers. Click the status icon to end the makeover.
+	5331002	9400	物品描述	變身道具	The magical candy allows you to transform into the Elephant King and inherit their powers. Click the status icon to end makeover.
+	5331003	9400	物品描述	變身道具	The magical candy allows you to transform into the Liger King and inherit their powers. Click the status icon to end the makeover.
+	5331004	9400	物品描述	變身道具	The magical candy allows you to transform into the Camel King and inherit their powers. Click the status icon to end makeover.
+	5331005	9400	物品描述	變身道具	The magical candy allows you to transform into the Eagle King and inherit their powers. Click the status icon to end the makeover.
+	5331006	9400	物品描述	變身道具	The magical candy allows you to transform into the Cat King and inherit their powers. Click the status icon to end the makeover.
+	5331011	9400	物品描述	變身道具	The magical candy allows you to transform into the Lin Chung and inherit his powers. Press the status icon to end the makeover.
+	5331012	9400	物品描述	變身道具	The magical candy allows you to transform into the Mighty Ray and inherit his powers. Press the status icon to end the makeover.
+	5331013	9400	物品描述	變身道具	The magical candy allows you to transform into the Mystique Sonia and inherit her powers. Press the status icon to end the makeover.
+	5331014	9400	物品描述	變身道具	The magical candy allows you to transform into the Mr. No Hands and inherit his powers. Press the status icon to end the makeover.
+	5331015	9400	物品描述	變身道具	The magical candy allows you to transform into the Kowloon and inherit his powers. Press the status icon to end the makeover.
+	5331016	9400	物品描述	變身道具	The magical candy allows you to transform into the Hurricane Lee and inherit his powers. Press the status icon to end the makeover.
+	5331017	9400	物品描述	變身道具	The magical candy allows you to transform into the Latifah and inherit her powers. Press the status icon to end the makeover.
+	5331018	9400	物品描述	變身道具	The magical candy allows you to transform into the Archer Lee and inherit his powers. Press the status icon to end the makeover.
+	5331019	9400	物品描述	任務道具	A magical candy that allows you to transform into the Gourd Cannon Chariot and inherit its powers. Click the status icon to end the makeover.
+	5332010	9400	物品描述	變身道具	Call on Rabbit King to perform a large-scale mighty attack on nearby opponents.
+	5332011	9400	物品描述	變身道具	Call on the Rabbit King to perform a large-scale powerful attack on nearby opponents.
+	5332012	9400	物品描述	變身道具	Call on the Rabbit King to perform a large-scale super attack on nearby opponents.
+	5332013	9400	物品描述	變身道具	Call on the Rabbit King to perform a large-scale ultimate attack on nearby opponents.
+	5332020	9400	物品描述	變身道具	Call on Elephant King to perform a large-scale mighty attack on nearby opponents.
+	5332021	9400	物品描述	變身道具	Call on the Elephant King to perform a large-scale powerful attack on nearby opponents.
+	5332022	9400	物品描述	變身道具	Call on the Elephant King to perform a large-scale super attack on nearby opponents.
+	5332023	9400	物品描述	變身道具	Call on the Elephant King to perform a large-scale ultimate attack on nearby opponents.
+	5332030	9400	物品描述	變身道具	Call on Liger King to perform a large-scale mighty attack on nearby opponents.
+	5332031	9400	物品描述	變身道具	Call on the Liger King to perform a large-scale powerful attack on nearby opponents.
+	5332032	9400	物品描述	變身道具	Call on the Liger King to perform a large-scale super attack on nearby opponents.
+	5332033	9400	物品描述	變身道具	Call on the Liger King to perform a large-scale ultimate attack on nearby opponents.
+	5332040	9400	物品描述	變身道具	Call on Eagle King to perform a large-scale mighty attack on nearby opponents.
+	5332041	9400	物品描述	變身道具	Call on the Eagle King to perform a large-scale powerful attack on nearby opponents.
+	5332042	9400	物品描述	變身道具	Call on the Eagle King to perform a large-scale super attack on nearby opponents.
+	5332043	9400	物品描述	變身道具	Call on the Eagle King to perform a large-scale ultimate attack on nearby opponents.
+	5332050	9400	物品描述	變身道具	Call on Camel King to perform a large-scale mighty attack against nearby opponents.
+	5332051	9400	物品描述	變身道具	Call on the Camel King to perform a large-scale Powerful attack against nearby opponents.
+	5332052	9400	物品描述	變身道具	Call on the Camel King to perform a large-scale Super attack against nearby opponents.
+	5332053	9400	物品描述	變身道具	Call on the Camel King to perform a large-scale Ultimate attack against nearby opponents.
+	5332060	9400	物品描述	變身道具	Call on Cat King to perform a large-scale mighty attack on nearby opponents.
+	5332061	9400	物品描述	變身道具	Call on the Cat King to perform a large-scale powerful attack on nearby opponents.
+	5332062	9400	物品描述	變身道具	Call on the Cat King to perform a large-scale super attack on nearby opponents.
+	5332063	9400	物品描述	變身道具	Call on the Cat King to perform a large-scale ultimate attack on nearby opponents.
+	5340008	9400	物品描述	任務道具	A little bouncy ball.
+	5340009	9400	物品描述		The key to the top floor of the Basil Tower (LV25).
+	5340010	9400	物品描述		The key to the top floor of the Basil Tower (LV30).
+	5340011	9400	物品描述		The key to the top floor of the Basil Tower (LV45).
+	5340012	9400	物品描述		The key to the top floor of the Basil Tower (LV50).
+	5340013	9400	物品描述		The key to the top floor of the Basil Tower (LV55).
+	5390001	9400	物品描述	作弊道具	"To quickly get rid of the nearby monsters, pick up any rod and yell, ""BE GONE!"""
+	5390002	9400	物品描述	作弊道具	"To move quickly, pick up any nearby rod and yell, ""HASTE BOOST!"""
+	5390003	9400	物品描述	作弊道具	"To increase maximum health, pick up any rod and yell, ""STAMINA BOOST!"""
+	5390101	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 1."
+	5390102	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 2."
+	5390103	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 3."
+	5390104	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 4."
+	5390105	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 5."
+	5390106	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 6."
+	5390107	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 7."
+	5390108	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 8."
+	5390109	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 9."
+	5390110	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 10."
+	5390111	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the weapon that has never been enhanced by 11."
+	5390201	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 1."
+	5390202	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 2."
+	5390203	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 3."
+	5390204	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 4."
+	5390205	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 5."
+	5390206	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 6."
+	5390207	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 7."
+	5390208	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 8."
+	5390209	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 9."
+	5390210	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 10."
+	5390211	9400	物品描述	作弊道具	"A special scroll written with Rambo's first blood. It enhances Bronze Holy Armor to Rambo Bronze Holy Armor. However, in Hero 108, the scroll can only increase the enhancement of the shield that has never been enhanced by 11."
+	5408101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Defense (1)"".<BR><BR>Focused Defense (1): <BR>Increases your Defense Power. (LV.7)<BR>Effect: DEF +16<BR>Sustain Times: 900 seconds<BR>"
+	5408102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Defense (2)"". (Must Learned ""Focused Defense (1)"")<BR><BR>Focused Defense (2): <BR>Increases your Defense Power. (LV.17)<BR>Effect: DEF +26<BR>Sustain Times: 900 seconds<BR>"
+	5408103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Defense (3)"". (Must Learned ""Focused Defense (2)"")<BR><BR>Focused Defense (3): <BR>Increases your Defense Power. (LV.27)<BR>Effect: DEF +36<BR>Sustain Times: 900 seconds<BR>"
+	5408104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Defense (4)"". (Must Learned ""Focused Defense (3)"")<BR><BR>Focused Defense (4): <BR>Increases your Defense Power. (LV.37)<BR>Effect: DEF +46<BR>Sustain Times: 900 seconds<BR>"
+	5408105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Defense (5)"". (Must Learned ""Focused Defense (4)"")<BR><BR>Focused Defense (5): <BR>Increases your Defense Power. (LV.47)<BR>Effect: DEF +56<BR>Sustain Times: 900 seconds<BR>"
+	5408201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Attack (1)"".<BR><BR>Focused Attack (1): <BR>Increases your Attack Power. (LV.8)<BR>Effect: ATK +26<BR>Sustain Times: 900 seconds<BR>"
+	5408202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Attack (2)"". (Must Learned ""Focused Attack (1)"")<BR><BR>Focused Attack (2): <BR>Increases your Attack Power. (LV.18)<BR>Effect: ATK +41<BR>Sustain Times: 900 seconds<BR>"
+	5408203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Attack (3)"". (Must Learned ""Focused Attack (2)"")<BR><BR>Focused Attack (3): <BR>Increases your Attack Power. (LV.28)<BR>Effect: ATK +56<BR>Sustain Times: 900 seconds<BR>"
+	5408204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Attack (4)"". (Must Learned ""Focused Attack (3)"")<BR><BR>Focused Attack (4): <BR>Increases your Attack Power. (LV.38)<BR>Effect: ATK +71<BR>Sustain Times: 900 seconds<BR>"
+	5408205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Focused Attack (5)"". (Must Learned ""Focused Attack (4)"")<BR><BR>Focused Attack (5): <BR>Increases your Attack Power. (LV.48)<BR>Effect: ATK +86<BR>Sustain Times: 900 seconds<BR>"
+	5408301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Increased Concentration (1)"".<BR><BR>Increased Concentration (1): <BR>Increases your Critical Power. (LV.9)<BR>Effect: CRI +7<BR>Sustain Times: 900 seconds<BR>"
+	5408302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Increased Concentration (2)"". (Must Learned ""Increased Concentration (1)"")<BR><BR>Increased Concentration (2): <BR>Increases your Critical Power. (LV.19)<BR>Effect: CRI +10<BR>Sustain Times: 900 seconds<BR>"
+	5408303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Increased Concentration (3)"". (Must Learned ""Increased Concentration (2)"")<BR><BR>Increased Concentration (3): <BR>Increases your Critical Power. (LV.29)<BR>Effect: CRI +12<BR>Sustain Times: 900 seconds<BR>"
+	5408304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Increased Concentration (4)"". (Must Learned ""Increased Concentration (3)"")<BR><BR>Increased Concentration (4): <BR>Increases your Critical Power. (LV.39)<BR>Effect: CRI +15<BR>Sustain Times: 900 seconds<BR>"
+	5408305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Increased Concentration (5)"". (Must Learned ""Increased Concentration (4)"")<BR><BR>Increased Concentration (5): <BR>Increases your Critical Power. (LV.49)<BR>Effect: CRI +17<BR>Sustain Times: 900 seconds<BR>"
+	5408401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""First Aid (1)"".<BR><BR>First Aid (1): <BR>Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.5)<BR>Healing: 60<BR>Healing Times: 5<BR>"
+	5408402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""First Aid (2)"". (Must Learned ""First Aid (1)"")<BR><BR>First Aid (2): <BR>Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.15)<BR>Healing: 80<BR>Healing Times: 6<BR>"
+	5408403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""First Aid (3)"". (Must Learned ""First Aid (2)"")<BR><BR>First Aid (3): <BR>Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.25)<BR>Healing: 100<BR>Healing Times: 7<BR>"
+	5408404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""First Aid (4)"". (Must Learned ""First Aid (3)"")<BR><BR>First Aid (4): <BR>Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.35)<BR>Healing: 110<BR>Healing Times: 8<BR>"
+	5408405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""First Aid (5)"". (Must Learned ""First Aid (4)"")<BR><BR>First Aid (5): <BR>Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.45)<BR>Healing: 120<BR>Healing Times: 9<BR>"
+	5408501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Smoke Grenade (1)"".<BR><BR>Smoke Grenade (1): <BR>Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.11)<BR>Effect: DEX -20<BR>Sustain Times: 30 seconds<BR>"
+	5408502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Smoke Grenade (2)"". (Must Learned ""Smoke Grenade (1)"")<BR><BR>Smoke Grenade (2): <BR>Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.21)<BR>Effect: DEX -30<BR>Sustain Times: 30 seconds<BR>"
+	5408503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Smoke Grenade (3)"". (Must Learned ""Smoke Grenade (2)"")<BR><BR>Smoke Grenade (3): <BR>Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.31)<BR>Effect: DEX -40<BR>Sustain Times: 30 seconds<BR>"
+	5408504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Smoke Grenade (4)"". (Must Learned ""Smoke Grenade (3)"")<BR><BR>Smoke Grenade (4): <BR>Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.41)<BR>Effect: DEX -50<BR>Sustain Times: 30 seconds<BR>"
+	5408505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Smoke Grenade (5)"". (Must Learned ""Smoke Grenade (4)"")<BR><BR>Smoke Grenade (5): <BR>Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.51)<BR>Effect: DEX -60<BR>Sustain Times: 30 seconds<BR>"
+	5408601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""HP/MP Conversion (1)"".<BR><BR>HP/MP Conversion (1): <BR>Converts your HP into 1270 MP. (LV.14)<BR>"
+	5408602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""HP/MP Conversion (2)"". (Must Learned ""HP/MP Conversion (1)"")<BR><BR>HP/MP Conversion (2): <BR>Converts your HP into 1820 MP. (LV.24)<BR>"
+	5408603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""HP/MP Conversion (3)"". (Must Learned ""HP/MP Conversion (2)"")<BR><BR>HP/MP Conversion (3): <BR>Converts your HP into 2370 MP. (LV.34)<BR>"
+	5408604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""HP/MP Conversion (4)"". (Must Learned ""HP/MP Conversion (3)"")<BR><BR>HP/MP Conversion (4): <BR>Converts your HP into 2920 MP. (LV.44)<BR>"
+	5408605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""HP/MP Conversion (5)"". (Must Learned ""HP/MP Conversion (4)"")<BR><BR>HP/MP Conversion (5): <BR>Converts your HP into 3470 MP. (LV.54)<BR>"
+	5410101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Machine Gun (1)"".<BR><BR>Machine Gun (1): <BR>Fire bullets to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1<BR>"
+	5410102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Machine Gun (2)"". (Must Learned ""Machine Gun (1)"")<BR><BR>Machine Gun (2): <BR>Fire bullets to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1<BR>"
+	5410103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Machine Gun (3)"". (Must Learned ""Machine Gun (2)"")<BR><BR>Machine Gun (3): <BR>Fire bullets to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1<BR>"
+	5410104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Machine Gun (4)"". (Must Learned ""Machine Gun (3)"")<BR><BR>Machine Gun (4): <BR>Fire bullets to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1<BR>"
+	5410105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Machine Gun (5)"". (Must Learned ""Machine Gun (4)"")<BR><BR>Machine Gun (5): <BR>Fire bullets to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1<BR>"
+	5410201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Exploding Bazooka (1)"".<BR><BR>Exploding Bazooka (1): <BR>Fire bullets and release an impact wave to attack opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Shoot Times: 1<BR>"
+	5410202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Exploding Bazooka (2)"". (Must Learned ""Exploding Bazooka (1)"")<BR><BR>Exploding Bazooka (2): <BR>Fire bullets and release an impact wave to attack opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Shoot Times: 1<BR>"
+	5410203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Exploding Bazooka (3)"". (Must Learned ""Exploding Bazooka (2)"")<BR><BR>Exploding Bazooka (3): <BR>Fire bullets and release an impact wave to attack opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Shoot Times: 1<BR>"
+	5410204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Exploding Bazooka (4)"". (Must Learned ""Exploding Bazooka (3)"")<BR><BR>Exploding Bazooka (4): <BR>Fire bullets and release an impact wave to attack opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Shoot Times: 1<BR>"
+	5410205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Exploding Bazooka (5)"". (Must Learned ""Exploding Bazooka (4)"")<BR><BR>Exploding Bazooka (5): <BR>Fire bullets and release an impact wave to attack opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Shoot Times: 1<BR>"
+	5410301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Whirlwind Kick (1)"".<BR><BR>Whirlwind Kick (1): <BR>Quickly attack opponents within your range. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 3<BR>"
+	5410302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Whirlwind Kick (2)"". (Must Learned ""Whirlwind Kick (1)"")<BR><BR>Whirlwind Kick (2): <BR>Quickly attack opponents within your range. (LV. 9)<BR>Skill Power: 1584<BR>Attack Times: 3<BR>"
+	5410303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Whirlwind Kick (3)"". (Must Learned ""Whirlwind Kick (2)"")<BR><BR>Whirlwind Kick (3): <BR>Quickly attack opponents within your range. (LV. 17)<BR>Skill Power: 3900<BR>Attack Times: 3<BR>"
+	5410304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Whirlwind Kick (4)"". (Must Learned ""Whirlwind Kick (3)"")<BR><BR>Whirlwind Kick (4): <BR>Quickly attack opponents within your range. (LV. 25)<BR>Skill Power: 7684<BR>Attack Times: 3<BR>"
+	5410305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Whirlwind Kick (5)"". (Must Learned ""Whirlwind Kick (4)"")<BR><BR>Whirlwind Kick (5): <BR>Quickly attack opponents within your range. (LV. 33)<BR>Skill Power: 12726<BR>Attack Times: 3<BR>"
+	5410401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fury Shot (1)"".<BR><BR>Fury Shot (1): <BR>Fire bullets in midair to attack surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3<BR>"
+	5410402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fury Shot (2)"". (Must Learned ""Fury Shot (1)"")<BR><BR>Fury Shot (2): <BR>Fire bullets in midair to attack surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3<BR>"
+	5410403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fury Shot (3)"". (Must Learned ""Fury Shot (2)"")<BR><BR>Fury Shot (3): <BR>Fire bullets in midair to attack surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3<BR>"
+	5410404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fury Shot (4)"". (Must Learned ""Fury Shot (3)"")<BR><BR>Fury Shot (4): <BR>Fire bullets in midair to attack surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3<BR>"
+	5410405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fury Shot (5)"". (Must Learned ""Fury Shot (4)"")<BR><BR>Fury Shot (5): <BR>Fire bullets in midair to attack surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3<BR>"
+	5410501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Storm Gun (1)"".<BR><BR>Storm Gun (1): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 2<BR>"
+	5410502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Storm Gun (2)"". (Must Learned ""Storm Gun (1)"")<BR><BR>Storm Gun (2): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 2<BR>"
+	5410503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Storm Gun (3)"". (Must Learned ""Storm Gun (2)"")<BR><BR>Storm Gun (3): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 2<BR>"
+	5410504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Storm Gun (4)"". (Must Learned ""Storm Gun (3)"")<BR><BR>Storm Gun (4): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 2<BR>"
+	5410505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Storm Gun (5)"". (Must Learned ""Storm Gun (4)"")<BR><BR>Storm Gun (5): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 2<BR>"
+	5410601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Spiral Missile (1)"".<BR><BR>Spiral Missile (1): <BR>Attack opponents ahead to disable their special skill attack. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 2<BR>"
+	5410602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Spiral Missile (2)"". (Must Learned ""Spiral Missile (1)"")<BR><BR>Spiral Missile (2): <BR>Attack opponents ahead to disable their special skill attack. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 2<BR>"
+	5410603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Spiral Missile (3)"". (Must Learned ""Spiral Missile (2)"")<BR><BR>Spiral Missile (3): <BR>Attack opponents ahead to disable their special skill attack. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 2<BR>"
+	5410604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Spiral Missile (4)"". (Must Learned ""Spiral Missile (3)"")<BR><BR>Spiral Missile (4): <BR>Attack opponents ahead to disable their special skill attack. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 2<BR>"
+	5410605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Spiral Missile (5)"". (Must Learned ""Spiral Missile (4)"")<BR><BR>Spiral Missile (5): <BR>Attack opponents ahead to disable their special skill attack. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 2<BR>"
+	5420101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Iron Head (1)"".<BR><BR>Iron Head (1): <BR>Use head-butt to release an impact wave to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1<BR>"
+	5420102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Iron Head (2)"". (Must Learned ""Iron Head (1)"")<BR><BR>Iron Head (2): <BR>Use head-butt to release an impact wave to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1<BR>"
+	5420103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Iron Head (3)"". (Must Learned ""Iron Head (2)"")<BR><BR>Iron Head (3): <BR>Use head-butt to release an impact wave to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1<BR>"
+	5420104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Iron Head (4)"". (Must Learned ""Iron Head (3)"")<BR><BR>Iron Head (4): <BR>Use head-butt to release an impact wave to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1<BR>"
+	5420105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Iron Head (5)"". (Must Learned ""Iron Head (4)"")<BR><BR>Iron Head (5): <BR>Use head-butt to release an impact wave to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1<BR>"
+	5420201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Eyes (1)"".<BR><BR>Lightning Eyes (1): <BR>Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 3<BR>"
+	5420202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Eyes (2)"". (Must Learned ""Lightning Eyes (1)"")<BR><BR>Lightning Eyes (2): <BR>Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 3<BR>"
+	5420203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Eyes (3)"". (Must Learned ""Lightning Eyes (2)"")<BR><BR>Lightning Eyes (3): <BR>Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 3<BR>"
+	5420204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Eyes (4)"". (Must Learned ""Lightning Eyes (3)"")<BR><BR>Lightning Eyes (4): <BR>Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3<BR>"
+	5420205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Eyes (5)"". (Must Learned ""Lightning Eyes (4)"")<BR><BR>Lightning Eyes (5): <BR>Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 3<BR>"
+	5420301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lion's Roar (1)"".<BR><BR>Lion's Roar (1): <BR>Howl to release an impact wave that will attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1<BR>"
+	5420302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lion's Roar (2)"". (Must Learned ""Lion's Roar (1)"")<BR><BR>Lion's Roar (2): <BR>Howl to release an impact wave that will attack opponents ahead. (LV. 9)<BR>Skill Power: 1584<BR>Shoot Times: 1<BR>"
+	5420303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lion's Roar (3)"". (Must Learned ""Lion's Roar (2)"")<BR><BR>Lion's Roar (3): <BR>Howl to release an impact wave that will attack opponents ahead. (LV. 17)<BR>Skill Power: 3900<BR>Shoot Times: 1<BR>"
+	5420304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lion's Roar (4)"". (Must Learned ""Lion's Roar (3)"")<BR><BR>Lion's Roar (4): <BR>Howl to release an impact wave that will attack opponents ahead. (LV. 25)<BR>Skill Power: 7684<BR>Shoot Times: 1<BR>"
+	5420305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lion's Roar (5)"". (Must Learned ""Lion's Roar (4)"")<BR><BR>Lion's Roar (5): <BR>Howl to release an impact wave that will attack opponents ahead. (LV. 33)<BR>Skill Power: 12726<BR>Shoot Times: 1<BR>"
+	5420401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Vision (1)"".<BR><BR>Lightning Vision (1): <BR>Release thunder in midair to attack surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 4<BR>"
+	5420402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Vision (2)"". (Must Learned ""Lightning Vision (1)"")<BR><BR>Lightning Vision (2): <BR>Release thunder in midair to attack surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 4<BR>"
+	5420403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Vision (3)"". (Must Learned ""Lightning Vision (2)"")<BR><BR>Lightning Vision (3): <BR>Release thunder in midair to attack surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 4<BR>"
+	5420404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Vision (4)"". (Must Learned ""Lightning Vision (3)"")<BR><BR>Lightning Vision (4): <BR>Release thunder in midair to attack surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 4<BR>"
+	5420405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lightning Vision (5)"". (Must Learned ""Lightning Vision (4)"")<BR><BR>Lightning Vision (5): <BR>Release thunder in midair to attack surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 4<BR>"
+	5420501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fire Tornado (1)"".<BR><BR>Fire Tornado (1): <BR>Use flame attack to inflict continuous burns on surrounding opponents. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 3<BR>"
+	5420502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fire Tornado (2)"". (Must Learned ""Fire Tornado (1)"")<BR><BR>Fire Tornado (2): <BR>Use flame attack to inflict continuous burns on surrounding opponents. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 3<BR>"
+	5420503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fire Tornado (3)"". (Must Learned ""Fire Tornado (2)"")<BR><BR>Fire Tornado (3): <BR>Use flame attack to inflict continuous burns on surrounding opponents. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 3<BR>"
+	5420504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fire Tornado (4)"". (Must Learned ""Fire Tornado (3)"")<BR><BR>Fire Tornado (4): <BR>Use flame attack to inflict continuous burns on surrounding opponents. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 3<BR>"
+	5420505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fire Tornado (5)"". (Must Learned ""Fire Tornado (4)"")<BR><BR>Fire Tornado (5): <BR>Use flame attack to inflict continuous burns on surrounding opponents. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 3<BR>"
+	5420601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flame Dash (1) "".<BR><BR>Flame Dash (1) : <BR>Throw flames forward to attack opponents and inflict continuous burns. (LV. 32)<BR>Skill Power: 12095<BR>Shoot Times: 4<BR>"
+	5420602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flame Dash (2)"". (Must Learned ""Flame Dash (1) "")<BR><BR>Flame Dash (2): <BR>Throw flames forward to attack opponents and inflict continuous burns. (LV. 39)<BR>Skill Power: 17808<BR>Shoot Times: 4<BR>"
+	5420603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flame Dash (3)"". (Must Learned ""Flame Dash (2)"")<BR><BR>Flame Dash (3): <BR>Throw flames forward to attack opponents and inflict continuous burns. (LV. 46)<BR>Skill Power: 26235<BR>Shoot Times: 4<BR>"
+	5420604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flame Dash (4)"". (Must Learned ""Flame Dash (3)"")<BR><BR>Flame Dash (4): <BR>Throw flames forward to attack opponents and inflict continuous burns. (LV. 53)<BR>Skill Power: 35526<BR>Shoot Times: 4<BR>"
+	5420605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flame Dash (5)"". (Must Learned ""Flame Dash (4)"")<BR><BR>Flame Dash (5): <BR>Throw flames forward to attack opponents and inflict continuous burns. (LV. 60)<BR>Skill Power: 49128<BR>Shoot Times: 4<BR>"
+	5430101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Diamond (1)"".<BR><BR>Ice Crystal Diamond (1): <BR>Shoot ice cubes to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1<BR>"
+	5430102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Diamond (2)"". (Must Learned ""Ice Crystal Diamond (1)"")<BR><BR>Ice Crystal Diamond (2): <BR>Shoot ice cubes to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1<BR>"
+	5430103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Diamond (3)"". (Must Learned ""Ice Crystal Diamond (2)"")<BR><BR>Ice Crystal Diamond (3): <BR>Shoot ice cubes to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1<BR>"
+	5430104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Diamond (4)"". (Must Learned ""Ice Crystal Diamond (3)"")<BR><BR>Ice Crystal Diamond (4): <BR>Shoot ice cubes to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1<BR>"
+	5430105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Diamond (5)"". (Must Learned ""Ice Crystal Diamond (4)"")<BR><BR>Ice Crystal Diamond (5): <BR>Shoot ice cubes to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1<BR>"
+	5430201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Mischievous Charm (1)"".<BR><BR>Mischievous Charm (1): <BR>Use yaksha to attack opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 3<BR>"
+	5430202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Mischievous Charm (2)"". (Must Learned ""Mischievous Charm (1)"")<BR><BR>Mischievous Charm (2): <BR>Use yaksha to attack opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 3<BR>"
+	5430203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Mischievous Charm (3)"". (Must Learned ""Mischievous Charm (2)"")<BR><BR>Mischievous Charm (3): <BR>Use yaksha to attack opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 3<BR>"
+	5430204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Mischievous Charm (4)"". (Must Learned ""Mischievous Charm (3)"")<BR><BR>Mischievous Charm (4): <BR>Use yaksha to attack opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3<BR>"
+	5430205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Mischievous Charm (5)"". (Must Learned ""Mischievous Charm (4)"")<BR><BR>Mischievous Charm (5): <BR>Use yaksha to attack opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 3<BR>"
+	5430301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Thunderstorm Walk (1)"".<BR><BR>Thunderstorm Walk (1): <BR>Summon a thunder cloud to attack surrounding opponents. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 3<BR>"
+	5430302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Thunderstorm Walk (2)"". (Must Learned ""Thunderstorm Walk (1)"")<BR><BR>Thunderstorm Walk (2): <BR>Summon a thunder cloud to attack surrounding opponents. (LV. 9)<BR>Skill Power: 1584<BR>Attack Times: 3<BR>"
+	5430303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Thunderstorm Walk (3)"". (Must Learned ""Thunderstorm Walk (2)"")<BR><BR>Thunderstorm Walk (3): <BR>Summon a thunder cloud to attack surrounding opponents. (LV. 17)<BR>Skill Power: 3900<BR>Attack Times: 3<BR>"
+	5430304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Thunderstorm Walk (4)"". (Must Learned ""Thunderstorm Walk (3)"")<BR><BR>Thunderstorm Walk (4): <BR>Summon a thunder cloud to attack surrounding opponents. (LV. 25)<BR>Skill Power: 7684<BR>Attack Times: 3<BR>"
+	5430305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Thunderstorm Walk (5)"". (Must Learned ""Thunderstorm Walk (4)"")<BR><BR>Thunderstorm Walk (5): <BR>Summon a thunder cloud to attack surrounding opponents. (LV. 33)<BR>Skill Power: 12726<BR>Attack Times: 3<BR>"
+	5430401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Furious Charm (1)"".<BR><BR>Furious Charm (1): <BR>Use yaksha to attack surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3<BR>"
+	5430402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Furious Charm (2)"". (Must Learned ""Furious Charm (1)"")<BR><BR>Furious Charm (2): <BR>Use yaksha to attack surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3<BR>"
+	5430403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Furious Charm (3)"". (Must Learned ""Furious Charm (2)"")<BR><BR>Furious Charm (3): <BR>Use yaksha to attack surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3<BR>"
+	5430404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Furious Charm (4)"". (Must Learned ""Furious Charm (3)"")<BR><BR>Furious Charm (4): <BR>Use yaksha to attack surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3<BR>"
+	5430405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Furious Charm (5)"". (Must Learned ""Furious Charm (4)"")<BR><BR>Furious Charm (5): <BR>Use yaksha to attack surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3<BR>"
+	5430501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Icy Windstorm (1)"".<BR><BR>Icy Windstorm (1): <BR>Use ice cubes to freeze opponents and also inflict damage. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1<BR>"
+	5430502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Icy Windstorm (2)"". (Must Learned ""Icy Windstorm (1)"")<BR><BR>Icy Windstorm (2): <BR>Use ice cubes to freeze opponents and also inflict damage. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1<BR>"
+	5430503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Icy Windstorm (3)"". (Must Learned ""Icy Windstorm (2)"")<BR><BR>Icy Windstorm (3): <BR>Use ice cubes to freeze opponents and also inflict damage. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1<BR>"
+	5430504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Icy Windstorm (4)"". (Must Learned ""Icy Windstorm (3)"")<BR><BR>Icy Windstorm (4): <BR>Use ice cubes to freeze opponents and also inflict damage. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1<BR>"
+	5430505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Icy Windstorm (5)"". (Must Learned ""Icy Windstorm (4)"")<BR><BR>Icy Windstorm (5): <BR>Use ice cubes to freeze opponents and also inflict damage. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1<BR>"
+	5430601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Sublimation (1)"".<BR><BR>Ice Crystal Sublimation (1): <BR>Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 3<BR>"
+	5430602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Sublimation (2)"". (Must Learned ""Ice Crystal Sublimation (1)"")<BR><BR>Ice Crystal Sublimation (2): <BR>Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3<BR>"
+	5430603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Sublimation (3)"". (Must Learned ""Ice Crystal Sublimation (2)"")<BR><BR>Ice Crystal Sublimation (3): <BR>Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 3<BR>"
+	5430604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Sublimation (4)"". (Must Learned ""Ice Crystal Sublimation (3)"")<BR><BR>Ice Crystal Sublimation (4): <BR>Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 3<BR>"
+	5430605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Ice Crystal Sublimation (5)"". (Must Learned ""Ice Crystal Sublimation (4)"")<BR><BR>Ice Crystal Sublimation (5): <BR>Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 3<BR>"
+	5440101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Random Shot (1)"".<BR><BR>Random Shot (1): <BR>Fire darts to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 3<BR>"
+	5440102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Random Shot (2)"". (Must Learned ""Random Shot (1)"")<BR><BR>Random Shot (2): <BR>Fire darts to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 3<BR>"
+	5440103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Random Shot (3)"". (Must Learned ""Random Shot (2)"")<BR><BR>Random Shot (3): <BR>Fire darts to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 3<BR>"
+	5440104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Random Shot (4)"". (Must Learned ""Random Shot (3)"")<BR><BR>Random Shot (4): <BR>Fire darts to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 3<BR>"
+	5440105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Random Shot (5)"". (Must Learned ""Random Shot (4)"")<BR><BR>Random Shot (5): <BR>Fire darts to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 3<BR>"
+	5440201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Seven Star Sword (1)"".<BR><BR>Seven Star Sword (1): <BR>Fire darts in midair to attack opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 2<BR>"
+	5440202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Seven Star Sword (2)"". (Must Learned ""Seven Star Sword (1)"")<BR><BR>Seven Star Sword (2): <BR>Fire darts in midair to attack opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 2<BR>"
+	5440203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Seven Star Sword (3)"". (Must Learned ""Seven Star Sword (2)"")<BR><BR>Seven Star Sword (3): <BR>Fire darts in midair to attack opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 2<BR>"
+	5440204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Seven Star Sword (4)"". (Must Learned ""Seven Star Sword (3)"")<BR><BR>Seven Star Sword (4): <BR>Fire darts in midair to attack opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 2<BR>"
+	5440205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Seven Star Sword (5)"". (Must Learned ""Seven Star Sword (4)"")<BR><BR>Seven Star Sword (5): <BR>Fire darts in midair to attack opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 2<BR>"
+	5440301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Reinvigorating Kick (1)"".<BR><BR>Reinvigorating Kick (1): <BR>Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 1)<BR>Healing: 300<BR>Healing Times: 1<BR>"
+	5440302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Reinvigorating Kick (2)"". (Must Learned ""Reinvigorating Kick (1)"")<BR><BR>Reinvigorating Kick (2): <BR>Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 9)<BR>Healing: 540<BR>Healing Times: 1<BR>"
+	5440303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Reinvigorating Kick (3)"". (Must Learned ""Reinvigorating Kick (2)"")<BR><BR>Reinvigorating Kick (3): <BR>Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 17)<BR>Healing: 780<BR>Healing Times: 1<BR>"
+	5440304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Reinvigorating Kick (4)"". (Must Learned ""Reinvigorating Kick (3)"")<BR><BR>Reinvigorating Kick (4): <BR>Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 25)<BR>Healing: 1020<BR>Healing Times: 1<BR>"
+	5440305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Reinvigorating Kick (5)"". (Must Learned ""Reinvigorating Kick (4)"")<BR><BR>Reinvigorating Kick (5): <BR>Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 33)<BR>Healing: 1260<BR>Healing Times: 1<BR>"
+	5440401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Continuous Darts (1)"".<BR><BR>Continuous Darts (1): <BR>Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3<BR>"
+	5440402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Continuous Darts (2)"". (Must Learned ""Continuous Darts (1)"")<BR><BR>Continuous Darts (2): <BR>Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3<BR>"
+	5440403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Continuous Darts (3)"". (Must Learned ""Continuous Darts (2)"")<BR><BR>Continuous Darts (3): <BR>Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3<BR>"
+	5440404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Continuous Darts (4)"". (Must Learned ""Continuous Darts (3)"")<BR><BR>Continuous Darts (4): <BR>Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3<BR>"
+	5440405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Continuous Darts (5)"". (Must Learned ""Continuous Darts (4)"")<BR><BR>Continuous Darts (5): <BR>Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3<BR>"
+	5440501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Healing Formation (1)"".<BR><BR>Healing Formation (1): <BR>Wave the flag to revitalize your surrounding teammates. (LV. 13)<BR>Healing: 180<BR>Healing Times: 10<BR>"
+	5440502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Healing Formation (2)"". (Must Learned ""Healing Formation (1)"")<BR><BR>Healing Formation (2): <BR>Wave the flag to revitalize your surrounding teammates. (LV. 21)<BR>Healing: 240<BR>Healing Times: 10<BR>"
+	5440503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Healing Formation (3)"". (Must Learned ""Healing Formation (2)"")<BR><BR>Healing Formation (3): <BR>Wave the flag to revitalize your surrounding teammates. (LV. 29)<BR>Healing: 300<BR>Healing Times: 10<BR>"
+	5440504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Healing Formation (4)"". (Must Learned ""Healing Formation (3)"")<BR><BR>Healing Formation (4): <BR>Wave the flag to revitalize your surrounding teammates. (LV. 37)<BR>Healing: 370<BR>Healing Times: 10<BR>"
+	5440505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Healing Formation (5)"". (Must Learned ""Healing Formation (4)"")<BR><BR>Healing Formation (5): <BR>Wave the flag to revitalize your surrounding teammates. (LV. 45)<BR>Healing: 430<BR>Healing Times: 10<BR>"
+	5440601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacred Light (1)"".<BR><BR>Sacred Light (1): <BR>Temporarily increase defense power to you and your teammates. (LV. 32)<BR>Effect: DEF +8% & +21<BR>Sustain Times: 300 seconds<BR>"
+	5440602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacred Light (2)"". (Must Learned ""Sacred Light (1)"")<BR><BR>Sacred Light (2): <BR>Temporarily increase defense power to you and your teammates. (LV. 39)<BR>Effect: DEF +9% & +24<BR>Sustain Times: 300 seconds<BR>"
+	5440603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacred Light (3)"". (Must Learned ""Sacred Light (2)"")<BR><BR>Sacred Light (3): <BR>Temporarily increase defense power to you and your teammates. (LV. 46)<BR>Effect: DEF +10% & +28<BR>Sustain Times: 300 seconds<BR>"
+	5440604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacred Light (4)"". (Must Learned ""Sacred Light (3)"")<BR><BR>Sacred Light (4): <BR>Temporarily increase defense power to you and your teammates. (LV. 53)<BR>Effect: DEF +11% & +31<BR>Sustain Times: 300 seconds<BR>"
+	5440605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacred Light (5)"". (Must Learned ""Sacred Light (4)"")<BR><BR>Sacred Light (5): <BR>Temporarily increase defense power to you and your teammates. (LV. 60)<BR>Effect: DEF +12% & +35<BR>Sustain Times: 300 seconds<BR>"
+	5450101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrogant Dragon (1)"".<BR><BR>Arrogant Dragon (1): <BR>Quickly attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 1<BR>"
+	5450102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrogant Dragon (2)"". (Must Learned ""Arrogant Dragon (1)"")<BR><BR>Arrogant Dragon (2): <BR>Quickly attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 1<BR>"
+	5450103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrogant Dragon (3)"". (Must Learned ""Arrogant Dragon (2)"")<BR><BR>Arrogant Dragon (3): <BR>Quickly attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 1<BR>"
+	5450104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrogant Dragon (4)"". (Must Learned ""Arrogant Dragon (3)"")<BR><BR>Arrogant Dragon (4): <BR>Quickly attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 1<BR>"
+	5450105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrogant Dragon (5)"". (Must Learned ""Arrogant Dragon (4)"")<BR><BR>Arrogant Dragon (5): <BR>Quickly attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1<BR>"
+	5450201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Nine Hydras (1)"".<BR><BR>Nine Hydras (1): <BR>Attack opponents within your range. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 4<BR>"
+	5450202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Nine Hydras (2)"". (Must Learned ""Nine Hydras (1)"")<BR><BR>Nine Hydras (2): <BR>Attack opponents within your range. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 4<BR>"
+	5450203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Nine Hydras (3)"". (Must Learned ""Nine Hydras (2)"")<BR><BR>Nine Hydras (3): <BR>Attack opponents within your range. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 4<BR>"
+	5450204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Nine Hydras (4)"". (Must Learned ""Nine Hydras (3)"")<BR><BR>Nine Hydras (4): <BR>Attack opponents within your range. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 4<BR>"
+	5450205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Nine Hydras (5)"". (Must Learned ""Nine Hydras (4)"")<BR><BR>Nine Hydras (5): <BR>Attack opponents within your range. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 4<BR>"
+	5450301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Damage Defense (1)"".<BR><BR>Damage Defense (1): <BR>Attack and temporarily decrease the defense power of opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 1<BR>"
+	5450302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Damage Defense (2)"". (Must Learned ""Damage Defense (1)"")<BR><BR>Damage Defense (2): <BR>Attack and temporarily decrease the defense power of opponents ahead. (LV. 9)<BR>Skill Power: 1584<BR>Attack Times: 1<BR>"
+	5450303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Damage Defense (3)"". (Must Learned ""Damage Defense (2)"")<BR><BR>Damage Defense (3): <BR>Attack and temporarily decrease the defense power of opponents ahead. (LV. 17)<BR>Skill Power: 3900<BR>Attack Times: 1<BR>"
+	5450304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Damage Defense (4)"". (Must Learned ""Damage Defense (3)"")<BR><BR>Damage Defense (4): <BR>Attack and temporarily decrease the defense power of opponents ahead. (LV. 25)<BR>Skill Power: 7684<BR>Attack Times: 1<BR>"
+	5450305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Damage Defense (5)"". (Must Learned ""Damage Defense (4)"")<BR><BR>Damage Defense (5): <BR>Attack and temporarily decrease the defense power of opponents ahead. (LV. 33)<BR>Skill Power: 12726<BR>Attack Times: 1<BR>"
+	5450401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Dark Cloud Cover (1)"".<BR><BR>Dark Cloud Cover (1): <BR>Attack the opponents ahead to disable their special skill attack. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1<BR>"
+	5450402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Dark Cloud Cover (2)"". (Must Learned ""Dark Cloud Cover (1)"")<BR><BR>Dark Cloud Cover (2): <BR>Attack the opponents ahead to disable their special skill attack. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1<BR>"
+	5450403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Dark Cloud Cover (3)"". (Must Learned ""Dark Cloud Cover (2)"")<BR><BR>Dark Cloud Cover (3): <BR>Attack the opponents ahead to disable their special skill attack. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1<BR>"
+	5450404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Dark Cloud Cover (4)"". (Must Learned ""Dark Cloud Cover (3)"")<BR><BR>Dark Cloud Cover (4): <BR>Attack the opponents ahead to disable their special skill attack. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1<BR>"
+	5450405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Dark Cloud Cover (5)"". (Must Learned ""Dark Cloud Cover (4)"")<BR><BR>Dark Cloud Cover (5): <BR>Attack the opponents ahead to disable their special skill attack. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1<BR>"
+	5450501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Entwined Roots (1)"".<BR><BR>Entwined Roots (1): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 4<BR>"
+	5450502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Entwined Roots (2)"". (Must Learned ""Entwined Roots (1)"")<BR><BR>Entwined Roots (2): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 4<BR>"
+	5450503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Entwined Roots (3)"". (Must Learned ""Entwined Roots (2)"")<BR><BR>Entwined Roots (3): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 4<BR>"
+	5450504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Entwined Roots (4)"". (Must Learned ""Entwined Roots (3)"")<BR><BR>Entwined Roots (4): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 4<BR>"
+	5450505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Entwined Roots (5)"". (Must Learned ""Entwined Roots (4)"")<BR><BR>Entwined Roots (5): <BR>Attack and temporarily decrease the movement speed of opponents ahead. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 4<BR>"
+	5450601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Weakening Attack (1)"".<BR><BR>Weakening Attack (1): <BR>Temporarily decrease the attack power of opponents ahead. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 1<BR>"
+	5450602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Weakening Attack (2)"". (Must Learned ""Weakening Attack (1)"")<BR><BR>Weakening Attack (2): <BR>Temporarily decrease the attack power of opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 1<BR>"
+	5450603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Weakening Attack (3)"". (Must Learned ""Weakening Attack (2)"")<BR><BR>Weakening Attack (3): <BR>Temporarily decrease the attack power of opponents ahead. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 1<BR>"
+	5450604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Weakening Attack (4)"". (Must Learned ""Weakening Attack (3)"")<BR><BR>Weakening Attack (4): <BR>Temporarily decrease the attack power of opponents ahead. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 1<BR>"
+	5450605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Weakening Attack (5)"". (Must Learned ""Weakening Attack (4)"")<BR><BR>Weakening Attack (5): <BR>Temporarily decrease the attack power of opponents ahead. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 1<BR>"
+	5460101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fiery Axe (1)"".<BR><BR>Fiery Axe (1): <BR>Rapidly and continuously attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 6<BR>"
+	5460102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fiery Axe (2)"". (Must Learned ""Fiery Axe (1)"")<BR><BR>Fiery Axe (2): <BR>Rapidly and continuously attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 6<BR>"
+	5460103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fiery Axe (3)"". (Must Learned ""Fiery Axe (2)"")<BR><BR>Fiery Axe (3): <BR>Rapidly and continuously attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 6<BR>"
+	5460104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fiery Axe (4)"". (Must Learned ""Fiery Axe (3)"")<BR><BR>Fiery Axe (4): <BR>Rapidly and continuously attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 6<BR>"
+	5460105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Fiery Axe (5)"". (Must Learned ""Fiery Axe (4)"")<BR><BR>Fiery Axe (5): <BR>Rapidly and continuously attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 6<BR>"
+	5460201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Raging Wildfire (1)"".<BR><BR>Raging Wildfire (1): <BR>Attack opponents within your range. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3<BR>"
+	5460202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Raging Wildfire (2)"". (Must Learned ""Raging Wildfire (1)"")<BR><BR>Raging Wildfire (2): <BR>Attack opponents within your range. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3<BR>"
+	5460203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Raging Wildfire (3)"". (Must Learned ""Raging Wildfire (2)"")<BR><BR>Raging Wildfire (3): <BR>Attack opponents within your range. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3<BR>"
+	5460204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Raging Wildfire (4)"". (Must Learned ""Raging Wildfire (3)"")<BR><BR>Raging Wildfire (4): <BR>Attack opponents within your range. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3<BR>"
+	5460205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Raging Wildfire (5)"". (Must Learned ""Raging Wildfire (4)"")<BR><BR>Raging Wildfire (5): <BR>Attack opponents within your range. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3<BR>"
+	5460301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Indestructible Wall (1)"".<BR><BR>Indestructible Wall (1): <BR>Temporarily increase your defense power. (LV. 1)<BR>Effect: DEF +105% & +20<BR>Sustain Times: 15 seconds<BR>"
+	5460302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Indestructible Wall (2)"". (Must Learned ""Indestructible Wall (1)"")<BR><BR>Indestructible Wall (2): <BR>Temporarily increase your defense power. (LV. 9)<BR>Effect: DEF +125% & +36<BR>Sustain Times: 15 seconds<BR>"
+	5460303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Indestructible Wall (3)"". (Must Learned ""Indestructible Wall (2)"")<BR><BR>Indestructible Wall (3): <BR>Temporarily increase your defense power. (LV. 17)<BR>Effect: DEF +145% & +52<BR>Sustain Times: 15 seconds<BR>"
+	5460304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Indestructible Wall (4)"". (Must Learned ""Indestructible Wall (3)"")<BR><BR>Indestructible Wall (4): <BR>Temporarily increase your defense power. (LV. 25)<BR>Effect: DEF +165% & +68<BR>Sustain Times: 15 seconds<BR>"
+	5460305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Indestructible Wall (5)"". (Must Learned ""Indestructible Wall (4)"")<BR><BR>Indestructible Wall (5): <BR>Temporarily increase your defense power. (LV. 33)<BR>Effect: DEF +185% & +84<BR>Sustain Times: 15 seconds<BR>"
+	5460401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Strong Constitution (1)"".<BR><BR>Strong Constitution (1): <BR>Temporarily increase your Maximum HP. (LV. 15)<BR>Effect: MAX HP +480<BR>Sustain Times: 900 seconds<BR>"
+	5460402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Strong Constitution (2)"". (Must Learned ""Strong Constitution (1)"")<BR><BR>Strong Constitution (2): <BR>Temporarily increase your Maximum HP. (LV. 23)<BR>Effect: MAX HP +640<BR>Sustain Times: 900 seconds<BR>"
+	5460403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Strong Constitution (3)"". (Must Learned ""Strong Constitution (2)"")<BR><BR>Strong Constitution (3): <BR>Temporarily increase your Maximum HP. (LV. 31)<BR>Effect: MAX HP +800<BR>Sustain Times: 900 seconds<BR>"
+	5460404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Strong Constitution (4)"". (Must Learned ""Strong Constitution (3)"")<BR><BR>Strong Constitution (4): <BR>Temporarily increase your Maximum HP. (LV. 39)<BR>Effect: MAX HP +960<BR>Sustain Times: 900 seconds<BR>"
+	5460405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Strong Constitution (5)"". (Must Learned ""Strong Constitution (4)"")<BR><BR>Strong Constitution (5): <BR>Temporarily increase your Maximum HP. (LV. 47)<BR>Effect: MAX HP +1120<BR>Sustain Times: 900 seconds<BR>"
+	5460501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Intense Anger (1)"".<BR><BR>Intense Anger (1): <BR>Attack surrounding opponents and draw their attention to you. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1<BR>"
+	5460502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Intense Anger (2)"". (Must Learned ""Intense Anger (1)"")<BR><BR>Intense Anger (2): <BR>Attack surrounding opponents and draw their attention to you. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1<BR>"
+	5460503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Intense Anger (3)"". (Must Learned ""Intense Anger (2)"")<BR><BR>Intense Anger (3): <BR>Attack surrounding opponents and draw their attention to you. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1<BR>"
+	5460504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Intense Anger (4)"". (Must Learned ""Intense Anger (3)"")<BR><BR>Intense Anger (4): <BR>Attack surrounding opponents and draw their attention to you. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1<BR>"
+	5460505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Intense Anger (5)"". (Must Learned ""Intense Anger (4)"")<BR><BR>Intense Anger (5): <BR>Attack surrounding opponents and draw their attention to you. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1<BR>"
+	5460601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Imposing Prestige (1)"".<BR><BR>Imposing Prestige (1): <BR>Attack opponents within your range to cause damage and dizziness. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 1<BR>"
+	5460602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Imposing Prestige (2)"". (Must Learned ""Imposing Prestige (1)"")<BR><BR>Imposing Prestige (2): <BR>Attack opponents within your range to cause damage and dizziness. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 1<BR>"
+	5460603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Imposing Prestige (3)"". (Must Learned ""Imposing Prestige (2)"")<BR><BR>Imposing Prestige (3): <BR>Attack opponents within your range to cause damage and dizziness. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 1<BR>"
+	5460604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Imposing Prestige (4)"". (Must Learned ""Imposing Prestige (3)"")<BR><BR>Imposing Prestige (4): <BR>Attack opponents within your range to cause damage and dizziness. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 1<BR>"
+	5460605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Imposing Prestige (5)"". (Must Learned ""Imposing Prestige (4)"")<BR><BR>Imposing Prestige (5): <BR>Attack opponents within your range to cause damage and dizziness. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 1<BR>"
+	5470101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacrificial Strike (1)"".<BR><BR>Sacrificial Strike (1): <BR>Quickly and heavily strike opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 2<BR>"
+	5470102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacrificial Strike (2)"". (Must Learned ""Sacrificial Strike (1)"")<BR><BR>Sacrificial Strike (2): <BR>Quickly and heavily strike opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 2<BR>"
+	5470103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacrificial Strike (3)"". (Must Learned ""Sacrificial Strike (2)"")<BR><BR>Sacrificial Strike (3): <BR>Quickly and heavily strike opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 2<BR>"
+	5470104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacrificial Strike (4)"". (Must Learned ""Sacrificial Strike (3)"")<BR><BR>Sacrificial Strike (4): <BR>Quickly and heavily strike opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 2<BR>"
+	5470105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Sacrificial Strike (5)"". (Must Learned ""Sacrificial Strike (4)"")<BR><BR>Sacrificial Strike (5): <BR>Quickly and heavily strike opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 2<BR>"
+	5470201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lunar Meteor (1)"".<BR><BR>Lunar Meteor (1): <BR>Use a heavy strike to hit the airborne opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 3<BR>"
+	5470202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lunar Meteor (2)"". (Must Learned ""Lunar Meteor (1)"")<BR><BR>Lunar Meteor (2): <BR>Use a heavy strike to hit the airborne opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 3<BR>"
+	5470203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lunar Meteor (3)"". (Must Learned ""Lunar Meteor (2)"")<BR><BR>Lunar Meteor (3): <BR>Use a heavy strike to hit the airborne opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 3<BR>"
+	5470204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lunar Meteor (4)"". (Must Learned ""Lunar Meteor (3)"")<BR><BR>Lunar Meteor (4): <BR>Use a heavy strike to hit the airborne opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3<BR>"
+	5470205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Lunar Meteor (5)"". (Must Learned ""Lunar Meteor (4)"")<BR><BR>Lunar Meteor (5): <BR>Use a heavy strike to hit the airborne opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 3<BR>"
+	5470301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Devastating Attack (1)"".<BR><BR>Devastating Attack (1): <BR>Attack opponents within your range and make them dizzy. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1<BR>"
+	5470302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Devastating Attack (2)"". (Must Learned ""Devastating Attack (1)"")<BR><BR>Devastating Attack (2): <BR>Attack opponents within your range and make them dizzy. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1<BR>"
+	5470303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Devastating Attack (3)"". (Must Learned ""Devastating Attack (2)"")<BR><BR>Devastating Attack (3): <BR>Attack opponents within your range and make them dizzy. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1<BR>"
+	5470304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Devastating Attack (4)"". (Must Learned ""Devastating Attack (3)"")<BR><BR>Devastating Attack (4): <BR>Attack opponents within your range and make them dizzy. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1<BR>"
+	5470305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Devastating Attack (5)"". (Must Learned ""Devastating Attack (4)"")<BR><BR>Devastating Attack (5): <BR>Attack opponents within your range and make them dizzy. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1<BR>"
+	5470401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flower Moon Illusion (1)"".<BR><BR>Flower Moon Illusion (1): <BR>Reflect a portion of damage sustained by you back to the opponents. (LV. 32)<BR>Reflect Rate: 50%<BR>Sustain Times: 10 seconds<BR>"
+	5470402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flower Moon Illusion (2)"". (Must Learned ""Flower Moon Illusion (1)"")<BR><BR>Flower Moon Illusion (2): <BR>Reflect a portion of damage sustained by you back to the opponents. (LV. 39)<BR>Reflect Rate: 55%<BR>Sustain Times: 10 seconds<BR>"
+	5470403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flower Moon Illusion (3)"". (Must Learned ""Flower Moon Illusion (2)"")<BR><BR>Flower Moon Illusion (3): <BR>Reflect a portion of damage sustained by you back to the opponents. (LV. 46)<BR>Reflect Rate: 60%<BR>Sustain Times: 10 seconds<BR>"
+	5470404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flower Moon Illusion (4)"". (Must Learned ""Flower Moon Illusion (3)"")<BR><BR>Flower Moon Illusion (4): <BR>Reflect a portion of damage sustained by you back to the opponents. (LV. 53)<BR>Reflect Rate: 65%<BR>Sustain Times: 10 seconds<BR>"
+	5470405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flower Moon Illusion (5)"". (Must Learned ""Flower Moon Illusion (4)"")<BR><BR>Flower Moon Illusion (5): <BR>Reflect a portion of damage sustained by you back to the opponents. (LV. 60)<BR>Reflect Rate: 70%<BR>Sustain Times: 10 seconds<BR>"
+	5470501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Uncontrollable Fury (1)"".<BR><BR>Uncontrollable Fury (1): <BR>Temporarily increase your attack power. (LV. 1)<BR>Effect: ATK +80% & +9<BR>Sustain Times: 15 seconds<BR>"
+	5470502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Uncontrollable Fury (2)"". (Must Learned ""Uncontrollable Fury (1)"")<BR><BR>Uncontrollable Fury (2): <BR>Temporarily increase your attack power. (LV. 9)<BR>Effect: ATK +85% & +20<BR>Sustain Times: 15 seconds<BR>"
+	5470503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Uncontrollable Fury (3)"". (Must Learned ""Uncontrollable Fury (2)"")<BR><BR>Uncontrollable Fury (3): <BR>Temporarily increase your attack power. (LV. 17)<BR>Effect: ATK +90% & +31<BR>Sustain Times: 15 seconds<BR>"
+	5470504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Uncontrollable Fury (4)"". (Must Learned ""Uncontrollable Fury (3)"")<BR><BR>Uncontrollable Fury (4): <BR>Temporarily increase your attack power. (LV. 25)<BR>Effect: ATK +95% & +42<BR>Sustain Times: 15 seconds<BR>"
+	5470505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Uncontrollable Fury (5)"". (Must Learned ""Uncontrollable Fury (4)"")<BR><BR>Uncontrollable Fury (5): <BR>Temporarily increase your attack power. (LV. 33)<BR>Effect: ATK +100% & +57<BR>Sustain Times: 15 seconds<BR>"
+	5470601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Morale Boost (1)"".<BR><BR>Morale Boost (1): <BR>Temporarily increase the attack power for you and your teammates. (LV. 26)<BR>Effect: ATK +55% & +46<BR>Sustain Times: 300 seconds<BR>"
+	5470602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Morale Boost (2)"". (Must Learned ""Morale Boost (1)"")<BR><BR>Morale Boost (2): <BR>Temporarily increase the attack power for you and your teammates. (LV. 34)<BR>Effect: ATK +60% & +58<BR>Sustain Times: 300 seconds<BR>"
+	5470603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Morale Boost (3)"". (Must Learned ""Morale Boost (2)"")<BR><BR>Morale Boost (3): <BR>Temporarily increase the attack power for you and your teammates. (LV. 42)<BR>Effect: ATK +65% & +76<BR>Sustain Times: 300 seconds<BR>"
+	5470604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Morale Boost (4)"". (Must Learned ""Morale Boost (3)"")<BR><BR>Morale Boost (4): <BR>Temporarily increase the attack power for you and your teammates. (LV. 50)<BR>Effect: ATK +70% & +92<BR>Sustain Times: 300 seconds<BR>"
+	5470605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Morale Boost (5)"". (Must Learned ""Morale Boost (4)"")<BR><BR>Morale Boost (5): <BR>Temporarily increase the attack power for you and your teammates. (LV. 58)<BR>Effect: ATK +75% & +119<BR>Sustain Times: 300 seconds<BR>"
+	5480101	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Aimed Shot (1)"".<BR><BR>Aimed Shot (1): <BR>Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1<BR>"
+	5480102	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Aimed Shot (2)"". (Must Learned ""Aimed Shot (1)"")<BR><BR>Aimed Shot (2): <BR>Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1<BR>"
+	5480103	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Aimed Shot (3)"". (Must Learned ""Aimed Shot (2)"")<BR><BR>Aimed Shot (3): <BR>Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1<BR>"
+	5480104	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Aimed Shot (4)"". (Must Learned ""Aimed Shot (3)"")<BR><BR>Aimed Shot (4): <BR>Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1<BR>"
+	5480105	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Aimed Shot (5)"". (Must Learned ""Aimed Shot (4)"")<BR><BR>Aimed Shot (5): <BR>Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1<BR>"
+	5480201	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Blasting Shot (1)"".<BR><BR>Blasting Shot (1): <BR>Exploding arrows that immobilize targets. (LV. 15)<BR>Skill Power: 3264<BR>Shoot Times: 1<BR>"
+	5480202	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Blasting Shot (2)"". (Must Learned ""Blasting Shot (1)"")<BR><BR>Blasting Shot (2): <BR>Exploding arrows that immobilize targets. (LV. 23)<BR>Skill Power: 6432<BR>Shoot Times: 1<BR>"
+	5480203	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Blasting Shot (3)"". (Must Learned ""Blasting Shot (2)"")<BR><BR>Blasting Shot (3): <BR>Exploding arrows that immobilize targets. (LV. 31)<BR>Skill Power: 11480<BR>Shoot Times: 1<BR>"
+	5480204	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Blasting Shot (4)"". (Must Learned ""Blasting Shot (3)"")<BR><BR>Blasting Shot (4): <BR>Exploding arrows that immobilize targets. (LV. 39)<BR>Skill Power: 17808<BR>Shoot Times: 1<BR>"
+	5480205	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Blasting Shot (5)"". (Must Learned ""Blasting Shot (4)"")<BR><BR>Blasting Shot (5): <BR>Exploding arrows that immobilize targets. (LV. 47)<BR>Skill Power: 27272<BR>Shoot Times: 1<BR>"
+	5480301	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrow Storm (1)"".<BR><BR>Arrow Storm (1): <BR>Shoot a volley of arrows to force opponents ahead to retreat. (LV. 13)<BR>Skill Power: 2574<BR>Shoot Times: 1<BR>"
+	5480302	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrow Storm (2)"". (Must Learned ""Arrow Storm (1)"")<BR><BR>Arrow Storm (2): <BR>Shoot a volley of arrows to force opponents ahead to retreat. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1<BR>"
+	5480303	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrow Storm (3)"". (Must Learned ""Arrow Storm (2)"")<BR><BR>Arrow Storm (3): <BR>Shoot a volley of arrows to force opponents ahead to retreat. (LV. 29)<BR>Skill Power: 9804<BR>Shoot Times: 1<BR>"
+	5480304	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrow Storm (4)"". (Must Learned ""Arrow Storm (3)"")<BR><BR>Arrow Storm (4): <BR>Shoot a volley of arrows to force opponents ahead to retreat. (LV. 37)<BR>Skill Power: 16238<BR>Shoot Times: 1<BR>"
+	5480305	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Arrow Storm (5)"". (Must Learned ""Arrow Storm (4)"")<BR><BR>Arrow Storm (5): <BR>Shoot a volley of arrows to force opponents ahead to retreat. (LV. 45)<BR>Skill Power: 25218<BR>Shoot Times: 1<BR>"
+	5480401	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flying Sand Formation (1)"".<BR><BR>Flying Sand Formation (1): <BR>Use multiple shots to attack opponents within your range. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 4<BR>"
+	5480402	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flying Sand Formation (2)"". (Must Learned ""Flying Sand Formation (1)"")<BR><BR>Flying Sand Formation (2): <BR>Use multiple shots to attack opponents within your range. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 4<BR>"
+	5480403	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flying Sand Formation (3)"". (Must Learned ""Flying Sand Formation (2)"")<BR><BR>Flying Sand Formation (3): <BR>Use multiple shots to attack opponents within your range. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 4<BR>"
+	5480404	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flying Sand Formation (4)"". (Must Learned ""Flying Sand Formation (3)"")<BR><BR>Flying Sand Formation (4): <BR>Use multiple shots to attack opponents within your range. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 4<BR>"
+	5480405	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Flying Sand Formation (5)"". (Must Learned ""Flying Sand Formation (4)"")<BR><BR>Flying Sand Formation (5): <BR>Use multiple shots to attack opponents within your range. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 4<BR>"
+	5480501	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Paralysis Trap (1)"".<BR><BR>Paralysis Trap (1): <BR>Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 1)<BR>Skill Power: 120<BR>Attack Times: 10<BR>"
+	5480502	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Paralysis Trap (2)"". (Must Learned ""Paralysis Trap (1)"")<BR><BR>Paralysis Trap (2): <BR>Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 9)<BR>Skill Power: 475<BR>Attack Times: 10<BR>"
+	5480503	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Paralysis Trap (3)"". (Must Learned ""Paralysis Trap (2)"")<BR><BR>Paralysis Trap (3): <BR>Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 17)<BR>Skill Power: 1170<BR>Attack Times: 10<BR>"
+	5480504	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Paralysis Trap (4)"". (Must Learned ""Paralysis Trap (3)"")<BR><BR>Paralysis Trap (4): <BR>Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 25)<BR>Skill Power: 2305<BR>Attack Times: 10<BR>"
+	5480505	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Paralysis Trap (5)"". (Must Learned ""Paralysis Trap (4)"")<BR><BR>Paralysis Trap (5): <BR>Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 33)<BR>Skill Power: 3818<BR>Attack Times: 10<BR>"
+	5480601	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Virulence Trap (1)"".<BR><BR>Virulence Trap (1): <BR>Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 32)<BR>Skill Power: 3629<BR>Attack Times: 10<BR>"
+	5480602	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Virulence Trap (2)"". (Must Learned ""Virulence Trap (1)"")<BR><BR>Virulence Trap (2): <BR>Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 39)<BR>Skill Power: 5342<BR>Attack Times: 10<BR>"
+	5480603	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Virulence Trap (3)"". (Must Learned ""Virulence Trap (2)"")<BR><BR>Virulence Trap (3): <BR>Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 46)<BR>Skill Power: 7871<BR>Attack Times: 10<BR>"
+	5480604	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Virulence Trap (4)"". (Must Learned ""Virulence Trap (3)"")<BR><BR>Virulence Trap (4): <BR>Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 53)<BR>Skill Power: 10658<BR>Attack Times: 10<BR>"
+	5480605	9400	物品描述	技能道具說明敘述	"After studying this scroll, you will learn how to use the ""Virulence Trap (5)"". (Must Learned ""Virulence Trap (4)"")<BR><BR>Virulence Trap (5): <BR>Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 60)<BR>Skill Power: 14738<BR>Attack Times: 10<BR>"
+	5500000	9400	物品由來	共用，遊戲中不顯示任何訊息	
+#	5520001	9400	物品由來	任務道具(測試用)	Taels earned by a hard working Qian Qi.
+#	5520002	9400	物品由來	任務道具(測試用)	Taels given by Ah Wang after breaking the piggy bank.
+#	5520003	9400	物品由來	任務道具(測試用)	Personal savings of the frugal Lai Fu.
+	5520004	9400	物品由來	任務道具	A precious jade that possesses a psychic power.
+	5520005	9400	物品由來	任務道具	A famous product of the Carrot Village that might cure depression?
+#	5520006	9400	物品由來	任務道具(測試用)	A letter by the village head written in blood.
+	5520007	9400	物品由來	任務道具	Delicious buns made by army cooks.
+	5520008	9400	物品由來	任務道具	Magic spells collected by the Flywheel Tigers.
+	5520009	9400	物品由來	任務道具	Tank parts stolen by the Liger Clan.
+	5520010	9400	物品由來	任務道具	Tank parts stolen by the Liger Clan.
+	5520011	9400	物品由來	任務道具	Tank parts stolen by the Liger Clan.
+	5520012	9400	物品由來	任務道具	Tank parts stolen by the Liger Clan.
+	5520013	9400	物品由來	任務道具	Tank parts stolen by the Liger Clan.
+	5520014	9400	物品由來	任務道具	Tank parts stolen by the Liger Clan.
+	5520015	9400	物品由來	任務道具	Tank parts stolen by the Liger Clan.
+	5520016	9400	物品由來	任務道具	A famous product made by rope-makers in the Rabbit Kingdom.
+	5520017	9400	物品由來	任務道具	A heirloom of the Liger Kingdom.
+	5520018	9400	物品由來	任務道具	People say that the mysterious ink is extracted from petroleum.
+	5520019	9400	物品由來	任務道具	A paper specially made by the Camel Clan.
+	5520020	9400	物品由來	任務道具	A deluxe item made of the furs of sheep and wolves.
+	5520021	9400	物品由來	任務道具	The sap produced by non-toxic trees.
+	5520022	9400	物品由來	任務道具	A herbal plant with a refreshing fragrance.
+	5520023	9400	物品由來	任務道具	Woo's invention to get rid of bad breath.
+	5520024	9400	物品由來	任務道具	An antidote made by the Scorpion King because he always stings himself.
+	5520025	9400	物品由來	任務道具	"A heirloom formula to cure baldness, made by Andrew, which doesn't smell good..."
+	5520026	9400	物品由來	任務道具	"An exclusive formula made by Andrew, which looks a little nasty..."
+	5520027	9400	物品由來	任務道具	Refreshing and juicy watermelon.
+	5520028	9400	物品由來	任務道具	"""Made of cactus with clusters of spines, it is delicious, novel and fun.<BR>Besides, it can be used for poking at people."""
+	5520029	9400	物品由來	任務道具	"""Scorpion experts painstakingly combined ten secret antidotes <BR>into this Super Antidote."""
+	5520030	9400	物品由來	有機率掉守護神物品	"The reward for completing the quest of ""Pray for Starlight Treasure Box."""
+	5520031	9400	物品由來	開寶盒物品	Item purchased from the Mall.
+	5520032	9400	物品由來	有機率掉守護神物品	"The reward for completing the quest of ""Pray for Blessing Treasure Box."""
+	5520034	9400	物品由來	有機率掉守護神物品	"The reward for completing the quest of ""Pray for Hope Treasure Box."""
+	5520035	9400	物品由來	任務道具	Firecrackers obtained from the cat's tail.
+	5520036	9400	物品由來	任務道具	Firecrackers on Ocean Mimi's tail.
+	5520037	9400	物品由來	任務道具	Firecrackers on Golden Cat's tail.
+	5520038	9400	物品由來	任務道具	The Sweetest Ice Cream on the Sweetest Ice Cream Mountain.
+	5520046	9400	物品由來	任務道具	"""The King of Darkness invented this elixir to bully other animals.<BR>It works on humans, too!"""
+	5520047	9400	物品由來	任務道具	"""It's the antidote made by David. It looks so gross."""
+	5520048	9400	物品由來	任務道具	It's a sample of mutated plants. It looks so weird!....
+	5520049	9400	物品由來	任務道具	It's a sample of tropical plants. It looks delicious!
+	5520050	9400	物品由來		A herb picked along the roadside.
+	5520051	9400	物品由來		A bottle borrowed from Summer.
+	5520052	9400	物品由來		An essence obtained from a Dirty Skunk. It smells gross.
+	5520053	9400	物品由來		An aromatic made by Charlotte.
+	5520073	9400	物品由來		[Raid Boss] Animus' crystallized internal powers.
+	5520077	9400	物品由來		Mysterious chest made by Lu Zhishen.
+	5520081	9400	物品由來		Mysterious chest especially made by Lu Zhishen.
+	5520085	9400	物品由來		Mysterious chest artfully made by Lu Zhishen.
+	5520089	9400	物品由來		Mysterious chest Lu Zhishen spent his entire life to create.
+#	5520090	9400	物品由來		A gigantic banana tree from the Sacred Woods.
+	5520091	9400	物品由來		Wood collected by Green Elephant Warrior.
+	5520092	9400	物品由來		A human-shaped wooden cutout made by the Zebra Brothers.
+	5520093	9400	物品由來		Banana jam made by Adam.
+	5520124	9400	物品由來		"Ordinary matches, but they work better if you spray the lumber piles with coal oil first."
+	5520125	9400	物品由來		Ordinary coal oil that you can spray to help ignite the lumber piles.
+	5530001	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530002	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530003	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530004	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530005	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530006	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530007	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530008	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530009	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530010	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530011	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530012	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530013	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530014	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530015	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530016	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530017	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530018	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530019	9400	物品由來	回復類型道具	Special potion developed by the Big Green adviser Woo the Wise.
+	5530027	9400	物品由來	復活道具	Magical stick with a strong electric current.
+	5530028	9400	物品由來	死亡不懲罰道具	An old command plate that is in the possession of the Emperor.
+	5540008	9400	物品由來	任務道具	It's the favorite ball of Liger Clan.

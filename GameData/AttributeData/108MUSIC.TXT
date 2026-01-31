@@ -1,0 +1,78 @@
+	Id	ClassId	Name			DescStringId	IsLanguageDependent		FilePath
+#	項目編號	種類編號	名稱	版本	場景	說明文字編號	語言版編號	舊檔名	檔案位置
+	1	9100	村莊1	JIMI		0	0		music001.ogg
+	2	9100	村莊2	JIMI		0	0		music002.ogg
+	3	9100	村莊3	JIMI		0	0		music003.ogg
+	4	9100	野外段1	JIMI		0	0		music004.ogg
+	5	9100	副本段1	JIMI		0	0		music005.ogg
+	6	9100	副本段2	JIMI		0	0		music006.ogg
+	7	9100	創角選角	JIMI		0	0		music007.ogg
+	8	9100	新手教學	JIMI		0	0		music008.ogg
+	9	9100	副本段3	JIMI		0	0		music009.ogg
+	10	9100	副本段4	JIMI		0	0		music010.ogg
+	11	9100	兔象城BOSS	JIMI		0	0		music011.ogg
+	12	9100	登入畫面	外包		0	0		music012.ogg
+	13	9100	片頭動畫	JIMI		0	0		music013.ogg
+	14	9100	登入畫面	JIMI		0	0		music014.ogg
+	15	9100	選角創角	外包		0	0		music015.ogg
+	16	9100	村莊、新手教學	外包		0	0		music016.ogg
+	17	9100	村莊	外包		0	0		music017.ogg
+	18	9100	兔城野外1	外包		0	0		music018.ogg
+	19	9100	象城野外1	外包		0	0		music019.ogg
+	20	9100	彪城野外1	外包		0	0		music020.ogg
+	21	9100	駱駝城野外1	外包		0	0		music021.ogg
+	22	9100	鷹城野外1	外包		0	0		music022.ogg
+	23	9100	貓城野外1	外包		0	0		music023.ogg
+	24	9100	兔城副本1	外包	沼澤	0	0		music024.ogg
+	25	9100	兔城副本2	外包	平原	0	0		music025.ogg
+	26	9100	兔城副本3	外包	海邊	0	0		music026.ogg
+	27	9100	象城副本1	外包		0	0		music027.ogg
+	28	9100	象城副本2	外包		0	0		music028.ogg
+	29	9100	象城副本3	外包		0	0		music029.ogg
+	30	9100	彪城副本1	外包		0	0		music030.ogg
+	31	9100	彪城副本2	外包		0	0		music031.ogg	
+	32	9100	駱駝城副本1	外包		0	0		music032.ogg	
+	33	9100	駱駝城副本2	外包	慢板	0	0		music033.ogg	
+	34	9100	鷹城副本1	外包		0	0		music034.ogg	
+	35	9100	副本BOSS戰	外包		0	0		music035.ogg	
+	36	9100	貓城副本1	外包		0	0		music036.ogg	
+	37	9100	貓城副本2	外包		0	0		music037.ogg	
+	38	9100	彪駝城BOSS	外包		0	0		music038.ogg	
+	39	9100	鷹貓城BOSS	外包		0	0		music039.ogg	
+	40	9100	結算畫面	JIMI					stageclear.ogg	
+	41	9100	宋江被俘(跳繩)	JIMI	LevelDesign 7			01cut01a(HI_Q).wav	cutscene001.ogg	
+	42	9100	裝甲兔兵攻擊	JIMI	LevelDesign 6			01cut02a(HI_Q).wav	cutscene002.ogg	
+	43	9100	毒霧兔出場	JIMI	LevelDesign 6			01cut03a(HI_Q).wav	cutscene003.ogg	
+	44	9100	跳跳出場	JIMI	LevelDesign 12			01cut04a(HI_Q).wav	cutscene004.ogg	
+	45	9100	眾象奔騰出場	JIMI	LevelDesign 18			02cut02a(HI_Q).wav	cutscene005.ogg	
+	46	9100	小飛出場	JIMI	LevelDesign 22			02cut06a(HI_Q).wav	cutscene006.ogg	
+	47	9100	木樁輪出場	JIMI	LevelDesign 23			02cut08a(HI_Q).wav	cutscene007.ogg
+	48	9100	香蕉發射要塞登場	JIMI	LevelDesign 17			02cut09a(HI_Q).wav	cutscene008.ogg
+	49	9100	老蜥蜴王登場	JIMI	LevelDesign 19			02cut13a(HI_Q).wav	cutscene009.ogg
+	50	9100	胖胖象登場	JIMI	LevelDesign 21			02cut16a(HI_Q).wav	cutscene010.ogg
+	51	9100	坦克象王登場	JIMI	LevelDesign 24			02cut18a(HI_Q).wav	cutscene011.ogg
+	52	9100	村民被奴役	JIMI	LevelDesign 23			LV0023.wav	cutscene012.ogg
+	53	9100	捲笛象王出場	JIMI	LevelDesign 25			LV0025.wav	cutscene013.ogg
+	101	9100	神木密林(加環境音效)	1004	原音樂19				music101.ogg
+	102	9100	雲在天草原(加環境音效)	1006	原音樂23				music102.ogg
+	103	9100	風暴沙漠(加環境音效)	1007	原音樂33				music103.ogg
+	104	9100	暴雨之森(加環境音效)	1018	原音樂36				music104.ogg
+	105	9100	戰火荒漠(加環境音效)	1019	原音樂36				music105.ogg
+	106	9100	水蝕大漠(加環境音效)	1020	原音樂37				music106.ogg
+	107	9100	落雷極地(加環境音效)	1021	原音樂26				music107.ogg
+	108	9100	孤寂雪原(加環境音效)	1022	原音樂37				music108.ogg
+	109	9100	風雨遺跡(加環境音效)	1023	原音樂36				music109.ogg
+	110	9100	象牙林(加環境音效)	1003	原音樂22				music110.ogg
+	111	9100	落葉林地(加環境音效)	1013	原音樂25				music111.ogg
+	112	9100	螢火平原(加環境音效)	1014	原音樂26				music112.ogg
+	113	9100	曙光之城(加環境音效)	1015	原音樂26				music113.ogg
+	114	9100	螢火密林(加環境音效)	1016	原音樂26				music114.ogg
+	115	9100	綠光森林(加環境音效)	1017	原音樂25				music115.ogg
+	116	9100	綠椰沙丘(加環境音效)	1008	原音樂33				music116.ogg
+	117	9100	凜冬高原、寂靜之城(加環境音效)	1009、1010	原音樂25				music117.ogg
+	118	9100	石板遺蹟(加環境音效)	1011	原音樂24				music118.ogg
+	119	9100	聖鷹之城(加環境音效)	1012	原音樂21				music119.ogg
+	120	9100	機械廣場(加環境音效)	4001	原音樂6				music120.ogg
+	121	9100	英雄城1-3(加環境音效)	3、2001、2002	原音樂17				music121.ogg
+	122	9100	青青峽谷(加環境音效)	1005	原音樂22				music122.ogg
+	123	9100	深痕之地(加環境音效)	1024	原音樂37				music123.ogg

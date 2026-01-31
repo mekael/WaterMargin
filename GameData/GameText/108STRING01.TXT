@@ -1,0 +1,937 @@
+#	Id	ClassId	String
+	1	9400	
+	2	9400	
+	3	9400	System Message
+	4	9400	Please send the message later.
+	5	9400	:
+	6	9400	: 
+	7	9400	"<img src=""Data/UI_Hero108/ObjBar/ObjLine2.tga"" left=0 top=0 width=128 height=2>"
+	8	9400	You don't have enough GP.
+	9	9400	You don't have enough space in your backpack.
+	10	9400	You have purchased
+	11	9400	You have sold
+	12	9400	Got
+	13	9400	Spent
+	14	9400	x
+	15	9400	Countdown before the level begins.
+	16	9400	Start the timer.
+	17	9400	Time's up!!
+	18	9400	"5 minutes left, go go go!"
+	19	9400	"1 minute left, go go go!"
+	20	9400	"30 seconds left, go go go!"
+	21	9400	"10 seconds left, go go go!"
+	22	9400	"5 seconds left, go go go!"
+	23	9400	"4 seconds left, go go go!"
+	24	9400	"3 seconds left, go go go!"
+	25	9400	"2 seconds left, go go go!"
+	26	9400	"1 second left, go go go!"
+	27	9400	Are you sure you want to delete this item?
+	28	9400	Separate the items
+	29	9400	Please enter the amount you want to separate.
+	30	9400	The separated amount exceeds the limit of items. Please re-enter.
+	31	9400	[ %s ] invites you to join the team. Do you want to join?
+	32	9400	Invitation has been sent. Awaiting response from the other party.
+	33	9400	[ %s ] has declined to join your team.
+	34	9400	The team leader has begun the quest [ %s ]. Do you want to join?
+	35	9400	You are not the team leader and cannot activate this quest!
+	36	9400	Password is too short.
+	37	9400	Password contains illegal characters.
+	38	9400	You do not have revival items and cannot revive here.
+	39	9400	You have not lost EXP. Deduct one Immortal Gold Plate.
+	40	9400	"There is no response, invitation cancelled."
+	41	9400	Cannot switch channel.
+	42	9400	Transmission failed.
+	43	9400	Are you sure you want to quit this quest?
+	44	9400	Are you sure you want to quit the game?
+	45	9400	Disconnected from game server.
+	46	9400	Collection finished and automatically deducted. Please collect rewards from the Quest NPC.
+	47	9400	Awaiting
+	48	9400	Cancelled
+	49	9400	Got [ %s ] x %d.
+	50	9400	I caused [ %s ] %d HP damage.
+	51	9400	I healed [ %s ] %d HP.
+	52	9400	I caused [ %s ] %d MP damage.
+	53	9400	I healed [ %s ] %d MP.
+	54	9400	I avoided attack from [ %s ].
+	55	9400	[ %s ] caused me %d HP damage.
+	56	9400	[ %s ] healed me by %d HP.
+	57	9400	[ %s ] caused me %d MP damage.
+	58	9400	[ %s ] healed me by %d MP.
+	59	9400	[ %s ] avoided my attack.
+	60	9400	Got [ %s ] x %d.
+	61	9400	Took back [ %s ] x %d
+	62	9400	Deleted [ %s ] x %d
+	63	9400	Do you want to exit instance or quit game?
+	64	9400	Quit Game
+	65	9400	Exit Instance
+	66	9400	Your amount has reached the limit. Unable to get more GP!
+	67	9400	The other party's amount has reached the limit. Unable to get more GP!
+	68	9400	Got GP %d.
+	69	9400	Got EXP %d.
+	70	9400	Lost GP %d.
+	71	9400	Lost EXP %d.
+	72	9400	Your [ %s ] is bound and cannot be traded to other players.
+	73	9400	The other party's [ %s ] is bound and cannot be traded to you.
+	74	9400	[ %s ] cannot be sold to shop
+	75	9400	[ %s ] cannot be stored in warehouse
+	76	9400	[ %s ] cannot be deleted
+	77	9400	You don't have enough warehouse space. 
+	78	9400	[ %s ] has killed [ %s ].
+	79	9400	You are killed by [ %s ].
+	80	9400	You have dropped [ %s ] x %d.
+	81	9400	You have Karma Points and cannot use Shop Option.
+	82	9400	You have killed [ %s ]. 
+	83	9400	Cannot use [ %s ].
+	84	9400	You are not at the qualified level.
+	85	9400	Your character is not qualified.
+	86	9400	You must learn [ %s ] first.
+	87	9400	"<img src=""Data/UI_Hero108/ObjBar/ObjLine2.tga"" left=0 top=0 width=128 height=2>"
+	88	9400	[ %s ] has declined to add you as friend.
+	89	9400	[ %s ] has accepted you as a friend.
+	90	9400	[ %s ] has closed the friend invitation.
+	91	9400	[ %s ]'s Friends List is full.
+	92	9400	The character name doesn't exist.
+	93	9400	Addition to Friends List is completed. 
+	94	9400	Removal of Friends List is completed.
+	95	9400	Are you sure you want to remove [ %s ] from your Friends List?
+	96	9400	Add to Block List is completed.
+	97	9400	Remove from Block List is completed.
+	98	9400	Are you sure you want to remove [ %s ] from your Block List?
+	99	9400	Your Friends List is full.
+	100	9400	Your Block List is full.
+	101	9400	[ %s ] has added you as friend. Do you want to accept?
+	102	9400	[ %s ] already exists in your Friends List.
+	103	9400	[ %s ] already exists in your Block List.
+	104	9400	Add to Block List has failed.
+	105	9400	Remove from Block List has failed.
+	106	9400	Used [ %s ] x %d
+	107	9400	I caused target %d HP damage.
+	108	9400	I healed target %d HP.
+	109	9400	I caused target %d MP damage.
+	110	9400	I healed target %d MP.
+	111	9400	I avoided attack from target.
+	112	9400	I was hurt by %d HP damage.
+	113	9400	I was healed by %d HP.
+	114	9400	I was hurt by %d MP damage.
+	115	9400	I was healed by %d MP.
+	116	9400	Target avoided my attack.
+	117	9400	Equip [ %s ]
+	118	9400	Remove Equipment [ %s ]
+	119	9400	You don't have enough backpack space.
+	120	9400	You are not authorized to pick up this item.
+	121	9400	Notice
+	122	9400	Got Fame %d.
+	123	9400	Lost Fame %d.
+	124	9400	New password cannot be the same as the old password.
+	125	9400	[ %s ] got [ %s ] x %d.
+	126	9400	The other party already has a team.
+	127	9400	Expansion is complete.
+	128	9400	Expansion limit has been reached. Unable to expand.
+	129	9400	The character name contains illegal characters.
+	130	9400	The character name is too long.
+	131	9400	The mood contains illegal characters.
+	132	9400	The interface has been turned on. Failed to use the item.
+	133	9400	I caused target %d HP critical hit.
+	134	9400	I caused target %d MP critical hit.
+	135	9400	I was hurt by %d HP critical damage.
+	136	9400	I was hurt by %d MP critical damage.
+	137	9400	I caused [ %s ] %d HP critical hit.
+	138	9400	I caused [ %s ] %d MP critical hit.
+	139	9400	[ %s ] caused me %d HP critical damage.
+	140	9400	[ %s ] caused me %d MP critical damage.
+	141	9400	Deposit [ %s ] in the warehouse.
+	142	9400	Withdraw [ %s ] from the warehouse.
+	100001	9400	
+	100002	9400	OK
+	100003	9400	
+	100004	9400	Cancel
+	100005	9400	
+	100006	9400	Close
+	102001	9400	Account
+	102002	9400	Password
+	102003	9400	Remember this account.
+	102004	9400	Sign Up
+	102005	9400	Apply for a new account at the official website.
+	102006	9400	Please enter your account.
+	102007	9400	Please enter your password.
+	102008	9400	Account does not exist.
+	102009	9400	Password incorrect.
+	102010	9400	
+	102011	9400	
+	102012	9400	
+	102013	9400	Log into the game at http://us.beanfun.com
+	102014	9400	Channel List
+	102015	9400	http://us.beanfun.com
+	102016	9400	"Failed to login. Perhaps the server is busy, account or password are incorrect, or the version is incorrect. "
+	102017	9400	Account is still in use.
+	102018	9400	Failed to input the account into database.
+	102019	9400	Saving data...
+	102020	9400	Verification has failed.
+	103001	9400	You have not entered your name.
+	103002	9400	The name is too long.
+	103003	9400	New password does not match the confirmed password.
+	103004	9400	Please re-enter your password.
+	103005	9400	The password is too long.
+	103006	9400	The name has already been taken.
+	103007	9400	The name cannot contain special characters.
+	103008	9400	Are you sure you want to create this character?
+	103009	9400	Create Character
+	103010	9400	Previous
+	103011	9400	Next
+	103012	9400	Profile Settings
+	103013	9400	Name
+	103014	9400	Password
+	103015	9400	Re-confirm Password
+	103016	9400	Select Character
+	103017	9400	Character Information
+	103018	9400	Name
+	103019	9400	Character
+	103020	9400	Level
+	103021	9400	Map
+	103022	9400	
+	103023	9400	Return to Login Page
+	103024	9400	
+	103025	9400	Delete the Selected Character
+	103026	9400	
+	103027	9400	Create a New Character
+	103028	9400	
+	103029	9400	Start Game
+	103030	9400	Delete Character
+	103031	9400	Notice: The character will be permanently removed after the character has been deleted for seven days!
+	103032	9400	Please enter the password
+	103033	9400	Select Previous Character
+	103034	9400	Select Next Character
+	103035	9400	Rotate Left
+	103036	9400	Rotate Right
+	103037	9400	
+	103038	9400	Restore the Selected Character
+	103039	9400	Term of Character Deletion
+	103040	9400	Character Deleted Soon
+	104001	9400	Instance
+	104002	9400	Shop
+	104003	9400	Quit
+	104004	9400	Name
+	104005	9400	Please select the amount
+	104006	9400	
+	104007	9400	Purchase Items
+	104008	9400	
+	104009	9400	Buy Items Back
+	104010	9400	Purchase Price
+	104011	9400	Selling Price
+	104012	9400	Trade
+	104013	9400	Confirmed
+	104014	9400	Waiting
+	104015	9400	The amount of GP is not enough.
+	104016	9400	You don't have enough backpack space.
+	104017	9400	Trading Target
+	104018	9400	Give GP
+	104019	9400	Get GP
+	104020	9400	Complete Trade
+	104021	9400	Sell
+	104022	9400	Total
+	104023	9400	Trading Cancelled
+	104024	9400	Trading Completed
+	104025	9400	Player information incorrect.
+	104026	9400	The other player's data is incorrect.
+	104027	9400	The other player doesn't have enough backpack space.
+	104028	9400	The other player's GP is not enough.
+	104029	9400	No Players
+	104030	9400	Trading Started
+	104031	9400	Trading
+	104032	9400	Requests to trade with you.
+	104033	9400	Warehouse
+	104034	9400	Warehouse Password
+	104035	9400	Open 
+	104036	9400	Enter Password
+	104037	9400	Change Password
+	104038	9400	Enter Old Password
+	104039	9400	Enter New Password
+	104040	9400	Setup Password
+	104041	9400	Withdraw
+	104042	9400	Deposit
+	104043	9400	Please enter the amount of GP you want to withdraw.
+	104044	9400	Please enter the amount of GP you want to deposit.
+	104045	9400	Enter amount
+	104046	9400	The amount is over the maximum limit. Please re-enter.
+	104047	9400	Save to 
+	104048	9400	Password changed successfully .
+	104049	9400	Password change failed.
+	104050	9400	Emotion Hot Key
+	104051	9400	F1
+	104052	9400	F2
+	104053	9400	F3
+	104054	9400	F4
+	104055	9400	F5
+	104056	9400	F6
+	104057	9400	F7
+	104058	9400	F8
+	104059	9400	F9
+	104060	9400	F10
+	104061	9400	Emotion
+	104062	9400	Emotion List
+	104063	9400	Level Content
+	104064	9400	Save GP to Warehouse
+	104065	9400	Take GP to backpack
+	104066	9400	Repair Equipment
+	104067	9400	
+	104068	9400	
+	104069	9400	Single Item Repair
+	104070	9400	Repair all worn equipment
+	104071	9400	You have ended %s status.
+	104072	9400	Track Quest
+	104073	9400	Time Remaining
+	104074	9400	Adjust mini map size ( Ctrl + + )( Ctrl + - )
+	104075	9400	Item [ %s ] could not be found.
+	104076	9400	Confirm the items and price of trade
+	104077	9400	Track Quest ( Ctrl + &lt; )
+	104078	9400	Free-For-All
+	104079	9400	Round Robin
+	104080	9400	You are not the team leader and don't have the proper authority.
+	104081	9400	"The team's loot option is ""Free-For-All""."
+	104082	9400	"The team's loot option is ""Round Robin""."
+	104083	9400	"The setting of the loot option ""Free-For-All"" has completed."
+	104084	9400	"The setting of the loot option ""Round Robin"" has completed."
+	104085	9400	Select Character Teleport
+	104086	9400	Please enter the name of character you want to teleport to.
+	104087	9400	Team is full.
+	104088	9400	Cannot transfer [ %s ] when trading.
+	105001	9400	Character
+	105002	9400	Backpack
+	105003	9400	Whisper
+	105004	9400	Invite
+	105005	9400	Add 
+	105006	9400	Block
+	105007	9400	Pass on
+	105008	9400	Remove 
+	105009	9400	Disband 
+	105010	9400	Leave 
+	105011	9400	Use
+	105012	9400	Equip
+	105013	9400	Use
+	105014	9400	HotKey1
+	105015	9400	HotKey2
+	105016	9400	HotKey3
+	105017	9400	HotKey4
+	105018	9400	HotKey5
+	105019	9400	HotKey6
+	105020	9400	HotKey7
+	105021	9400	HotKey8
+	105022	9400	HotKey9
+	105023	9400	HotKey0
+	105024	9400	Delete
+	105025	9400	Accepted Location
+	105026	9400	Accepted NPC
+	105027	9400	Report Location
+	105028	9400	Report NPC
+	105029	9400	Character ( Ctrl + C )
+	105030	9400	Backpack ( Ctrl +B )
+	105031	9400	Skills ( Ctrl + K )
+	105032	9400	Quest ( Ctrl + Q )
+	105033	9400	System ( Ctrl + ] )
+	105034	9400	Friends ( Ctrl + F )
+	105035	9400	beanpoint Shop ( Ctrl + &gt; )
+	105036	9400	Settings ( Ctrl + O )
+	105037	9400	Quit Game
+	105038	9400	Copy ID
+	105039	9400	Guild ( Ctrl + G )
+	105040	9400	Controls ( Ctrl + I )
+	105041	9400	Character
+	105042	9400	Character Information
+	105043	9400	Model
+	105044	9400	Equipment
+	105045	9400	Hot Key
+	105046	9400	Skills
+	105047	9400	HP
+	105048	9400	MP
+	105049	9400	EXP
+	105050	9400	Atk
+	105051	9400	Def
+	105052	9400	Dex
+	105053	9400	Con
+	105054	9400	Int
+	105055	9400	Earth Atk
+	105056	9400	Water Atk
+	105057	9400	Fire Atk
+	105058	9400	Air Atk
+	105059	9400	Earth Def
+	105060	9400	Water Def
+	105061	9400	Fire Def
+	105062	9400	Air Def
+	105063	9400	Head
+	105064	9400	Upper Body
+	105065	9400	Lower Body
+	105066	9400	Weapon
+	105067	9400	Ring
+	105068	9400	Necklace
+	105069	9400	Bracelet
+	105070	9400	Guardian Angel
+	105071	9400	Backpack
+	105072	9400	beanpoints
+	105073	9400	GP
+	105074	9400	Character
+	105075	9400	Quest
+	105076	9400	Quest Content
+#	105077	9400	General
+#	105078	9400	General Quest
+#	105079	9400	Instance
+#	105080	9400	Instance Quest
+#	105081	9400	Activity
+#	105082	9400	Activity Quest
+#	105083	9400	Share
+#	105084	9400	Share a quest with Teammates.
+	105085	9400	Delete Quest
+	105086	9400	All
+	105087	9400	Team
+	105088	9400	Whisper
+	105089	9400	Guild
+	105090	9400	System
+	105091	9400	Say
+	105092	9400	Yell
+	105093	9400	Filter
+	105094	9400	Filter Received Messages
+	105095	9400	Change window size
+	105096	9400	Channel
+	105097	9400	Mail
+	105098	9400	Emotion ( Ctrl + [ )
+	105099	9400	Rank
+	105100	9400	Guild
+	105101	9400	Nickname
+	105102	9400	World Map ( Ctrl + / )
+	105103	9400	108 World
+	105104	9400	Suitable Character
+	105105	9400	Level Limit
+	105106	9400	Equipment Position
+	105107	9400	Character is not qualified.
+	105108	9400	Cost
+	105109	9400	Cool-down Time
+	105110	9400	Cool-down Time by Group
+	105111	9400	Second
+	105112	9400	Level is not qualified.
+	105113	9400	None
+	105114	9400	Merge
+	105115	9400	Separate
+	105116	9400	You have successfully learned the skill.
+	105117	9400	You have already learned this skill and cannot learn it again.
+	105118	9400	You must learn the previous level of skill before learning this one.
+	105119	9400	You are not qualified to learn the skill.
+	105120	9400	Main Menu
+	105121	9400	Message
+	105122	9400	You are not on a team. Unable to use Team Channel.
+	105123	9400	You are not in a guild. Unable to use Guild Channel.
+	105124	9400	Cannot be traded to another player
+	105125	9400	Cannot be sold to shop
+	105126	9400	Cannot be stored in warehouse
+	105127	9400	This item cannot be deleted
+	105128	9400	You are able to take this quest
+	105129	9400	Quest incomplete. Cannot turn in this quest.
+	105130	9400	Quest completed. Turn in this quest.
+	105131	9400	Karma (-)
+	105132	9400	Fame
+	105133	9400	Endurance
+	105134	9400	Unbreakable
+	105135	9400	[ %s ] is almost broken. Repair it immediately.
+	105136	9400	[ %s ] is completely broken and can no longer be used.
+	105137	9400	Mount
+	105138	9400	Equipment Page - Contains items with statistics.
+	105139	9400	Costume Page - Contains decorative items that take first display priority.
+	105140	9400	Head Accessory
+	105141	9400	Upper Body Accessory
+	105142	9400	Lower Body Accessory
+	105143	9400	Weapon Accessory
+	105144	9400	Guardian Angel Accessory
+	105145	9400	Mount Accessory
+	105146	9400	Whisper Target ( /w ID or /whisper ID )
+	105147	9400	Enable or Disable Chat Window Hidden
+	105148	9400	Repair Fee
+	105149	9400	[ %s ] has been repaired.
+	105150	9400	Spent a total of [ %d ].
+	105151	9400	You don't have enough GP. Unable to repair.
+	105152	9400	Report ( Ctrl + R )
+	105153	9400	Help ( Ctrl + H )
+	105154	9400	Report Content
+	105155	9400	Report Target
+	105156	9400	Description of Incident
+	105157	9400	
+	105158	9400	Send Report
+	105159	9400	It costs %s GP to file a report.
+	105160	9400	False reports will be penalized.
+	105161	9400	Share
+	105162	9400	Filed report successful.
+	105163	9400	Please select report content.
+	105164	9400	Please select report target.
+	105165	9400	False Report
+	105166	9400	Help
+	105167	9400	1. Foul language / Indecent text<BR>2. Spreading personal information<BR>3. Advertisement<BR>4. Cash Trading: Account / Item / Point...etc.<BR>5. Official / GM Personnel Impostor
+	105168	9400	"False reports will be penalized. If the reporter's dialogue is offensive, they will also be penalized."
+	105169	9400	
+	105170	9400	
+	105171	9400	
+	105172	9400	
+	105173	9400	Reset to Default Settings
+	105174	9400	Resolution
+	105175	9400	Window
+	105176	9400	Select Resolution
+	105177	9400	The resolution you have selected has surpassed the maximum resolution on your screen. Please adjust your screen resolution first. 
+	105178	9400	"Cannot find any settings for screen resolution, please check your hardware. "
+#	105179	9400	Display Me Only
+#	105180	9400	Disable All
+	105181	9400	Music
+	105182	9400	Sound
+	105183	9400	Volume Up
+	105184	9400	Volume Down
+	105185	9400	Mute
+	105186	9400	Save Photo To
+	105187	9400	Character and Title
+	105188	9400	Reject Invitation
+	105189	9400	PVP Protection
+	105190	9400	Rank
+	105191	9400	Name
+	105192	9400	Name + Guild
+	105193	9400	Name + Mood
+	105194	9400	Trading
+	105195	9400	Friend
+	105196	9400	Team
+	105197	9400	Recruiting
+	105198	9400	Guild
+	105199	9400	Purple Name
+	105200	9400	White Name
+	105201	9400	Auto Pick Up
+	105202	9400	Auto HP Replenishment
+	105203	9400	Auto MP Replenishment
+	105204	9400	Auto Return to Village
+	105205	9400	Set HP Below
+	105206	9400	Set MP Below
+	105207	9400	"%, Use"
+	105208	9400	Select Item
+	105209	9400	
+	105210	9400	Releasing colorful radiance.
+	105211	9400	A dazzling red light was released. The equipment will explode into %s [ %s ].
+	105212	9400	A dazzling red light was released and then disappeared after a while.
+	105213	9400	[ %s ] has successfully enchanted [ +%d%s ].
+	105214	9400	Attack Power Increased
+	105215	9400	Defense Power Increased
+	105216	9400	Enchant ( Ctrl + E )
+	105217	9400	Enchant
+	105218	9400	
+	105219	9400	
+	105220	9400	
+	105221	9400	
+	105222	9400	
+	105223	9400	Random Item:
+	105224	9400	An ordinary white light is released. No change on the equipment.
+	105225	9400	Covered by an eerie radiance. The equipment ability has decreased.
+	105226	9400	Unable to enchant. Please select the corresponding equipment to enchant.
+	105227	9400	Cannot be clicked. Anti-Exploding Scroll in the backpack will function automatically.
+	105228	9400	Please use scroll first.
+	105229	9400	Rank
+	105230	9400	Rank Limitation
+	105231	9400	None
+	105232	9400	Level UP!
+	105233	9400	Congratulations! Your rank levels up to [ %s ].
+	105234	9400	Foul language / Indecent text
+	105235	9400	Spreading personal information
+	105236	9400	Advertisement
+	105237	9400	Cash Trading
+	105238	9400	Official / GM Personnel Impostor
+	105239	9400	Class
+	105240	9400	Category
+	105241	9400	Position
+	105242	9400	Leader
+	105243	9400	Officer
+	105244	9400	Veteran
+	105245	9400	Member
+	105246	9400	Recruit
+	105247	9400	Remove
+	105248	9400	Notice
+	105249	9400	Class
+	105250	9400	Disband 
+	105251	9400	Transfer
+	105252	9400	Name
+	105253	9400	Promote
+	105254	9400	Demote
+	105255	9400	Remove
+	105256	9400	Hand Over
+	105257	9400	Invite
+	105258	9400	Whisper
+	105259	9400	Leave
+	105260	9400	Display Offline Members
+	105261	9400	Guild Members
+	105262	9400	Online
+	105263	9400	V
+	105264	9400	Mood
+	105265	9400	Status
+	105266	9400	Location
+	105267	9400	Offline
+	105268	9400	Online
+	105269	9400	Busy
+	105270	9400	Away
+	105271	9400	Remove
+	105272	9400	Remove
+	105273	9400	Add as a Friend
+	105274	9400	Add as an Block
+	105275	9400	Display All Friends
+	105276	9400	Display All Online Friends
+	105277	9400	Display All Offline Friends
+	105278	9400	Add to Friends List
+	105279	9400	Add to Block List
+	105280	9400	Scene Channel
+	105281	9400	Last Online Time
+	105282	9400	Create Guild
+	105283	9400	Create Guild
+	105284	9400	Please enter the new guild name.
+	105285	9400	Please enter the name of the player you want to invite.
+	105286	9400	Are you sure you want to disband this guild?
+	105287	9400	Are you sure you want to leave this guild?
+	105288	9400	You don't have enough authority.
+	105289	9400	Please enter the position name.
+	105290	9400	You have joined the guild.
+	105291	9400	Mail ( Ctrl + M )
+	105292	9400	Guild Level Up
+	105293	9400	Your guild is currently at level [ %d ]. Do you want to promote the guild to level [ %d ]?
+	105294	9400	Your character ranking is too low. Unable to level up the guild.
+	105295	9400	You don't have enough GP. Unable to level up the guild.
+	105296	9400	Your character level is too low. Unable to level up the guild.
+	105297	9400	You do not have a guild. Unable to level up the guild.
+	105298	9400	You are not the Guild Leader. Unable to level up the guild.
+	105299	9400	
+	105300	9400	Your guild level is already at its highest.
+	105301	9400	Your character ranking is too low. Unable to create a guild.
+	105302	9400	You do not have enough GP. Unable to create a guild.
+	105303	9400	Your character level is too low. Unable to create a guild.
+	105304	9400	The guild name is blank.
+	105305	9400	The guild name is too long.
+	105306	9400	The guild name contains illegal characters.
+	105307	9400	You have not entered a character name.
+	105308	9400	The character name is too long.
+	105309	9400	The character name contains illegal characters.
+	105310	9400	Recruit
+	105311	9400	Do you want to save the original message and continue to edit?
+	105312	9400	The mail has been sent.
+	105313	9400	You have not selected any recipients.
+	105314	9400	The mail has no subject.
+	105315	9400	Recruit
+	105316	9400	Invite the player to join the guild
+	105317	9400	Disband guild
+	105318	9400	Leave guild
+	105319	9400	[ %s ] invites you to join the guild [ %s ]. 
+	105320	9400	[ %s ] joins the guild.
+	105321	9400	[ %s ] has declined to join the guild.
+	105322	9400	The guild message has been updated.
+	105323	9400	The guild has been disbanded.
+	105324	9400	Already quit the guild.
+	105325	9400	Member Level Up has completed.
+	105326	9400	Member Level Up has failed.
+	105327	9400	Member Level Down has completed
+	105328	9400	Member Level Down has failed.
+	105329	9400	Removal of Guild Member has completed.
+	105330	9400	Removal of Guild Member has failed.
+	105331	9400	Leader Setting has completed.
+	105332	9400	Leader Setting has failed.
+	105333	9400	Position name change has completed.
+	105334	9400	Position name change has failed.
+	105335	9400	Guild has been created.
+	105336	9400	Guild has failed to create.
+	105337	9400	Guild Level Up  has completed.
+	105338	9400	Guild Level Up has failed.
+	105339	9400	The position name is blank.
+	105340	9400	The position name is too long.
+	105341	9400	The position name contains special characters.
+	105342	9400	Guild
+	105343	9400	The other party already has a guild.
+	105344	9400	Join a guild invitation has been sent. Waiting response from the other party.
+	105345	9400	Guild is full.
+	105346	9400	Removal of member requires PVP.
+	105347	9400	The guild does not have this member.
+	105348	9400	You cannot remove this member.
+	105349	9400	Failed to join.
+	105350	9400	[ %s ] has quit the guild.
+	105351	9400	[ %s ] guild has been created.
+	105352	9400	[ %s ] guild has been disbanded.
+	105353	9400	You have exceeded Level 12. You must duel with the Leader to quit the guild.
+	105354	9400	A Leader can't leave a guild. Please transfer the Leader position to another member first.
+	105355	9400	Guild Name
+	105356	9400	Guild Position
+	105357	9400	None
+	105358	9400	Application for Leaving
+	105359	9400	PVP Kick
+	105360	9400	Usurpation to Become Leader
+	105361	9400	Usurpation to Become Officer
+	105362	9400	Usurpation to Become Veteran
+	105363	9400	Guild Level Limitation
+	105364	9400	Guild Position Limitation
+	105365	9400	Quest Restoration has failed.
+	105366	9400	Can't find the quest.
+	105367	9400	Quest condition check has failed.
+	105368	9400	You don't have enough space in your backpack.
+	105369	9400	You are carrying too much GP.
+	105370	9400	Quest Path
+	105371	9400	Quest Path ( Ctrl + P )
+	105372	9400	
+	105373	9400	%d Days
+	105374	9400	%d Hours
+	105375	9400	%d Day
+	105376	9400	%d Hour
+	105377	9400	Deleted Soon!
+	105378	9400	Failed to delete the mail.
+	105379	9400	The Mail has been deleted. 
+	105380	9400	Status
+	105381	9400	Are you sure you want to send out this mail?
+	105382	9400	Please enter the amount of GP you want to send out.
+	105383	9400	Mail cannot be sent to yourself.
+	105384	9400	From
+	105385	9400	Subject
+	105386	9400	Sent
+	105387	9400	Content
+	105388	9400	Saved file to [ %s ]
+	105389	9400	"You exceeded the maximum number of letters allowed, please delete some."
+	105390	9400	Server
+	105391	9400	The guild message is too long.
+	105392	9400	The guild message contains special characters.
+	105393	9400	You cannot add yourself as a friend.
+	105394	9400	You cannot add yourself in Block List
+	105395	9400	Block List cannot be blank 
+	105396	9400	Your report content is too long
+	105397	9400	"""%s"" Successfully Accepted"
+	105398	9400	Failed to accept quest
+	105399	9400	Quest list is full 
+	105400	9400	
+	105401	9400	No whisper contact.
+	105402	9400	You didn't input any whispers.
+	105403	9400	Send GP
+	105404	9400	Friends
+	105405	9400	Mail
+	105406	9400	Returned mail 
+	105407	9400	Say ( /s or /say )
+	105408	9400	Guild ( /g or /guild )
+	105409	9400	Team ( /t or /team )
+	105410	9400	Yell ( /y or /yell )
+	105411	9400	Speed
+	105412	9400	Max HP
+	105413	9400	Max MP
+	105414	9400	HP Regenerate
+	105415	9400	MP Regenerate
+	105416	9400	Physical Attack Reflection Rate
+	105417	9400	Element Attack Reflection Rate
+	105418	9400	Damage Increase
+	105419	9400	Damage Decrease
+	105420	9400	Damage Increase Percent
+	105421	9400	Damage Decrease Percent
+	105422	9400	Elemental Damage Increase
+	105423	9400	Elemental Damage Decrease
+	105424	9400	Elemental Damage Increase Percent
+	105425	9400	Elemental Damage Decrease Percent
+	105426	9400	Still within cool-down time. Unable to use.
+	105427	9400	Item does not exist.
+	105428	9400	Unable to use skills and items while jumping.
+	105429	9400	Your level is too low. Unable to use it.
+	105430	9400	Unable to use skills under current status.
+	105431	9400	Unable to use skills when riding the mount.
+	105432	9400	You don't have enough HP. Unable to use these skills.
+	105433	9400	You don't have enough MP. Unable to use these skills.
+	105434	9400	You don't have enough GP. Unable to use these skills.
+	105435	9400	Not enough items.
+	105436	9400	This item cannot be used.
+	105437	9400	This item cannot be equipped.
+	105438	9400	You are not qualified to use.
+	105439	9400	The character's rank is too low.
+	105440	9400	The guild position does not match. Unable to use.
+	105441	9400	The level of the guild is too low. Unable to use.
+	105442	9400	The item is abnormal. Unable to use.
+	105443	9400	New
+	105444	9400	Reply
+	105445	9400	Save Mail Content
+	105446	9400	Refresh Mail
+	105447	9400	Delete Mail
+	105448	9400	Receive GP
+	105449	9400	Send GP
+	105450	9400	Friend / Guild List
+	105451	9400	Send Mail
+	105452	9400	Overdue mail has been deleted.
+	105453	9400	You have reached the maximum number of items to send.
+	105454	9400	Broadcast ( /b or /broadcast )
+	105455	9400	World
+	105456	9400	Broadcast
+	105457	9400	World Loudspeaker
+	105458	9400	To %s
+	105459	9400	You didn't input any message.
+	105460	9400	"You exceeded the maximum number of letters allowed, please delete some."
+	105461	9400	Report failed.
+	105462	9400	Add to Friends List
+	105463	9400	Add to Block List
+	105464	9400	Quest Name
+	105465	9400	Accepted Level
+	105466	9400	Accepted Location
+	105467	9400	Accepted NPC
+	105468	9400	You do not have enough GP. Unable to send mail.
+	105469	9400	%d Minutes
+	105470	9400	%d Minute
+	105471	9400	Online Time
+	105472	9400	The equipment will be bound after this item is used.
+	105473	9400	The item is rented.
+	105474	9400	Item Rental Term
+	105475	9400	Unable to use the broadcast channel due to insufficient single server loudspeakers. Please go to beanpoint Shop to purchase.
+	105476	9400	Number of Receivable Items
+	105477	9400	Backpack for sending item
+	105478	9400	Backpack for receiving item
+	105479	9400	Some controls are not defined!
+	105480	9400	Are you sure you want to delete this mail?
+	105481	9400	Auto Track Quest
+	105482	9400	Automatically add the quests you are taking into quest track list or not?
+	105483	9400	[ %s ] has accepted to join the guild.
+	105484	9400	The whisper target could not be found.
+	105485	9400	GM
+	105486	9400	From
+	105487	9400	To
+	105488	9400	Subject
+	105489	9400	Guild Name
+	105490	9400	Guild Level
+	105491	9400	Guild Leader's Name
+	105492	9400	Settings
+	105493	9400	Report
+	105494	9400	Enchant Scrolls You Owned
+	105495	9400	Block List is a list of people who has been blocked from player to player. The message that has sent from Block List player will be filtered and rejected immediately.
+	105496	9400	Whisper to
+	105497	9400	Forever
+	105498	9400	Str
+	105499	9400	The rental term starts when the item is received.
+	105500	9400	The rental term starts when the item is equipped.
+	105501	9400	The rental term starts when the item is used.
+	105502	9400	Complete Damage
+	105503	9400	Damage Reduction
+	105504	9400	Critical Power
+	105505	9400	Critical Rate
+	105506	9400	Luck
+	105507	9400	Guardian
+	105508	9400	Damage Enchant Rate
+	105509	9400	Damage Reduction Rate
+	105510	9400	Damage Reflection Rate
+	105511	9400	The mailbox is full. Please delete old mail.
+	105512	9400	Number of Unread Mail
+	105513	9400	You need enough GP to send mail.
+	105514	9400	Number of Characters Allowed: %d
+	105515	9400	Right-click character name and select whisper.
+	105516	9400	Mood
+	105517	9400	Information Displayed on the Friends List
+	105518	9400	Friends List Display
+	105519	9400	Edit Guild Information
+	105520	9400	Guild Information Edited
+	105521	9400	Edit Guild Position
+	105522	9400	Editing Guild Position Completed.
+	105523	9400	Combat
+	105524	9400	"""%s"" Successfully Deleted"
+	105525	9400	Total Postage %d GP
+	105526	9400	"Category: Every character belongs to one category, and their Atk and Def of that category are higher.<BR>Level: Affects a character's Basic Power, possibilities of using props, equipment and accepting quests.<BR>HP: A character dies when its HP decreases to 0.<BR>MP: Affects number of times using skills.<BR>EXP: Essential for character upgrade.<BR>Fame: Essential for promotion.<BR>Rank: Affects guild creation and guild upgrade conditions.<BR>Karma (-): Affects level of punishment for a character after they die in PK."
+	105527	9400	"Atk: Affects the damage you inflict on a target when attacking.<BR>Def: Affects the damage you receive while under attack.<BR>Str: Affects the damage you inflict on a target when attacking.<BR>Dex: Affects Attack Rate, Critical Attack and Dash Time.<BR>Con: Affects Maximum HP and the damage you receive while under attack.<BR>Int: Affects Maximum MP and the damage you receive while under MP targeting attack.<BR>Cri: Affects Critical Attack Rate.<BR>Luck: Affects the chance to get items that are dropped by monsters and the success rate of equipment enchantment.<BR>Element Attack: Affects the enhancement of the damage you inflict on a target when attacking element monsters.<BR>Element Defense: Affects the reduction of the damage you receive while under element attack."
+	105528	9400	Absolute Atk: Affects extra damage you inflict on targets despite their Def.<BR>Damage Reduction: Extra reduction of the damage you receive.<BR>Damage Enhancement Rate: The rate of the damage you inflict.<BR>Damage Reduction Rate: Reduction rate of the damage you receive.<BR>Counterattack Damage Rate: The rate of the damage you receive when you strike back after being attacked.<BR>Critical Attack Rate: Chance of conducting Critical Attack when attacking.<BR>Guardian: Affects Success rate of equipment enchantment.
+	105529	9400	
+	105530	9400	Open Backpack
+	105531	9400	
+	105532	9400	Arrange by Item Type
+	105533	9400	
+	105534	9400	
+	105535	9400	
+	105536	9400	Enchant
+	105537	9400	Enchanted Resources
+	105538	9400	Please enter quantity
+	105539	9400	Enter the quantity of the supply you want to use (1~1000).
+	105540	9400	Incorrect quantity. Please re-enter.
+	105541	9400	Success Rate
+	105542	9400	There is no GP in the mail.
+	105543	9400	
+	105544	9400	You can accept this quest.
+	105545	9400	
+	105546	9400	Quest is incomplete. Check this quest's content.
+	105547	9400	
+	105548	9400	Quest completed. Turn in this quest.
+	105549	9400	Please place the equipment you want to enchant.
+	105550	9400	Please place an Enchant Scroll.
+	105551	9400	The equipment has reached its highest level. Unable to enchant.
+	105552	9400	Unable to enchant.
+	105553	9400	Failed to enchant the equipment.
+	106001	9400	You are dead! Do you want to revive?<BR>Press OK to revive here (it will cost a revival item).<BR>Press Cancel and you will be revived in the village or entrance.
+	106002	9400	You are already dead!<BR>Press OK to be revived in the village or entrance. 
+	106011	9400	Name
+	106012	9400	Kill
+	106013	9400	Damage
+	106014	9400	Revive
+	106015	9400	GP
+	106016	9400	EXP
+	106017	9400	FAME
+	106018	9400	Game Level
+	106019	9400	Victory terms
+	106020	9400	Failure terms
+	106021	9400	Quest List
+	106022	9400	All-Time High
+	106023	9400	Record Holder
+	106024	9400	Countdown %d seconds to quit instance.
+	106025	9400	Countdown %d seconds to quit instance.
+	106026	9400	
+	106027	9400	Quit Instance
+	107001	9400	GM System
+	107002	9400	Map Teleport
+	107003	9400	Add Item
+	107004	9400	Create NPC
+	107005	9400	Enter the scene name
+	107006	9400	Choose a map name from the list or enter the map ID
+	107007	9400	Enter the channel number
+	107008	9400	Teleport
+	107009	9400	Search
+	107010	9400	Enter item name
+	107011	9400	Choose an item name from the list or enter the item ID
+	107012	9400	Enter item quantity
+	107013	9400	Add
+	107014	9400	Enter NPC name
+	107015	9400	Choose an NPC name from the list or enter the NPC ID
+	107016	9400	Enter NPC quantity
+	107017	9400	Create
+	107018	9400	Command
+	108001	9400	You have exceeded the time limit to answer.
+	108002	9400	"Congratulations, your answer was right."
+	108003	9400	"Sorry, your answer was wrong."
+	108004	9400	Quiz
+	109001	9400	beanpoint Shop
+	109002	9400	Type of Items
+	109003	9400	Amount of Items
+	109004	9400	Exchange Code
+	109005	9400	Buy this item for yourself.
+	109006	9400	Buy this item as a gift.
+	109007	9400	Check remaining beanpoints.
+	109008	9400	Enter character name.
+	109009	9400	Please enter the character's name you want to receive a gift.
+	109010	9400	Please enter Exchange Code.
+	109011	9400	Are you sure you want to exchange?
+	109012	9400	Are you sure you want to buy the items below?
+	109013	9400	To
+	109014	9400	Enter Shop Password
+	109015	9400	Shop Password is the same as Character Deletion Password.
+	109016	9400	Please enter Shop Password.
+	109017	9400	Item purchase has failed.
+	109018	9400	Item purchase is complete.
+	109019	9400	Time for purchase exceeded.
+	109020	9400	No such code.
+	109021	9400	This code has been exchanged.
+	109022	9400	No such items.
+	109023	9400	beanpoints price error.
+	109024	9400	beanpoints deduction has failed.
+	109025	9400	Exchange Ticket has expired.
+	109026	9400	Not enough beanpoints.
+	109027	9400	This item is sold out.
+	109028	9400	Unable to exchange item.
+	109029	9400	Unable to obtain beanpoints information.
+	109030	9400	No such character.
+	109031	9400	Exchange code into items.
+	109032	9400	Shop Items
+	109033	9400	This is the item you have purchased.
+	109034	9400	Shop Gifts
+	109035	9400	This Shop gift is from [ %s ].
+	109036	9400	[ Unknown ]
+	109037	9400	Querying Points...
+	109038	9400	Exchanging Code...
+	109039	9400	Purchasing Items...
+	109040	9400	Checkout in progress. Please wait.
+	109041	9400	***Popular Items***
+	109042	9400	Best-Selling items in the shop
+	109043	9400	"Once purchased, the item will be sent to your mailbox in about 30 seconds."
+	109044	9400	Sale Volume
+	109045	9400	Default
+	109046	9400	Restore Original Equipment

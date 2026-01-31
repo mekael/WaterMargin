@@ -1,0 +1,139 @@
+#	Id	ClassId	String
+	1010001	9400	1
+	1010002	9400	2
+	1020001	9400	Air
+	1020002	9400	Fire
+	1020003	9400	Water
+	1020004	9400	Earth
+	1020101	9400	Lin Chung
+	1020102	9400	Mighty Ray
+	1020103	9400	Mystique Sonia
+	1020104	9400	Mr. No Hands
+	1020105	9400	Kowloon
+	1020106	9400	Hurricane Lee
+	1020107	9400	Latifah
+	1020108	9400	Archer Lee
+	1020151	9400	Ranger
+	1020152	9400	Warrior
+	1020153	9400	Mage
+	1020154	9400	Healer
+	1020155	9400	Monk
+	1020156	9400	Guardian
+	1020157	9400	Berserker
+	1020158	9400	Hunter
+	1021101	9400	<B>Profession:</B> Ranger<BR><B>Category:</B> Air<BR><B>Weapon:</B> Dart Gun<BR><B>Personality:</B> Calm and Collected<BR><B>Likes:</B> Drawing<BR><B>Dislikes:</B> Giving Up Easily<BR><B>Favorite Color:</B> Black
+	1021102	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021103	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021104	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021105	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021106	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021107	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021108	9400	"Character Background: <BR>Lin Chung<BR>Hero ID: 006<BR>Lin Chung is the calmest and most accomplished hero in the First Squad. He possesses the legendary Panther Vision, which allows him to see great distances, become an extraordinary sharpshooter and see the world in slow motion while he moves with terrific speed. Besides protecting the world, Lin Chung enjoys being outdoors while collecting the bamboo shoots he uses for bullets. Lin Chung aspires to be a great artist and spends all of his free time sketching... (Hey! Keep your mind on fighting!)"
+	1021201	9400	"<B>Profession:</B> Warrior<BR><B>Category:</B> Fire<BR><B>Weapon:</B> None<BR><B>Personality:</B> Passionate, and Likes to Show Off<BR><B>Likes:</B> Helping Others<BR><B>Dislikes:</B> Bananas<BR><B>Favorite Color:</B> Yellow"
+	1021202	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021203	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021204	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021205	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021206	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021207	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021208	9400	"Character Background: <BR>Mighty Ray<BR>Hero ID: 025<BR>Mighty Ray is definitely the burly force of First Squad and we'll let him believe that he is the right man for any job. With his unparalleled confidence and raw power, Mighty Ray is more of a doer than a thinker. Although he is over zealous and often inept, he manages to complete his missions. Mighty Ray's super powerful and most useful weapon is his Magical Electric Eyeballs, which were accidentally given to him by the Monkey King. Mighty Ray needs to eat bananas to recharge his eyeballs but the problem is he hates bananas. Mighty Ray's signature yell is, ""I am Mighty Ray! Fear my eyes!"" When you hear that yell, Mighty Ray will release his powers."
+	1021301	9400	"<B><B>Profession:</B> Mage<BR><B>Category:</B> Water<BR><B>Weapon:</B> Blue Tongue, Yaksha<BR><B>Personality:</B> Competitive<BR><B>Likes:</B> Cute Guys<BR><B>Dislikes:</B> Plain Buns<BR><B>Favorite Color:</B> Purple"
+	1021302	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021303	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021304	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021305	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021306	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021307	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021308	9400	"Character Background: <BR>Mystique Sonia<BR>Hero ID: 103<BR>Mystique Sonia is the only girl in the First Squad. Many heroes in the Big Green have a huge crush on her. But, Mystique Sonia's true love is the yaksha on her head. The fashionable yet mysterious yaksha is actually a super powerful combat partner as well as her sweetest boyfriend. With just a kiss, Sonia can immediately regain all of her abilities. Mystique Sonia's weapon is her long tongue, which can be stretched out to great lengths and spin like a fan! Mystique Sonia's buns are also well-known. She makes them for the army to keep their strength up!"
+	1021401	9400	<B>Profession:</B> Healer<BR><B>Category:</B> Earth<BR><B>Weapon:</B> Spells<BR><B>Personality:</B> Sophisticated and Funny<BR><B>Likes:</B> Asking Others to Scratch His Back<BR><B>Dislikes:</B> Rainy Days<BR><B>Favorite Color:</B> Red and Yellow
+	1021402	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021403	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021404	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021405	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021406	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021407	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021408	9400	"Character Background: <BR>Mr. No Hands<BR>Hero ID: 020<BR>Mr. No Hands is the leader of First Squad, and the hero with the greatest composure. He is a strict but kind-hearted leader who is easily irritated by the strong-willed warriors under his charge. The tassel of his hat spins like a helicopter allowing him to fly. His clothes can shoot dangerous darts at his enemies. Mr. No Hands actually does have hands. They are covered by his uniform. For some unknown reason, without those constraints, Mr. No Hands would obsessively tickle himself and forget about everything."
+	1021501	9400	<B>Profession:</B> Monk<BR><B>Category:</B> Air<BR><B>Weapon:</B> Long Staff<BR><B>Personality:</B> Clever and Shrewd<BR><B>Likes:</B> Studying Martial Arts<BR><B>Dislikes:</B> Being an Alternate<BR><B>Favorite Color:</B> Black
+	1021502	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021503	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021504	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021505	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021506	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021507	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021508	9400	"Character Background: <BR>Kowloon<BR>Hero ID: 023<BR>The nickname for Kowloon is ""Nine Dragons."" They call him this because there are nine little dragons on the big ""#"" sign on his back. From the side, it looks like the head of a rattlesnake and represents how ferocious Kowloon is when he fights. <BR>Kowloon's favorite weapon is the long staff, and he is also good with his fists. He is as skilled as Lin Chung, and is an awesome hero of the Second Squad. As a storm soldier for Second Squad, Kowloon's combat position is the same as Mighty Ray of First Squad. But, he much more intelligent and more calm compared to Mighty Ray. Kowloon is considered the thinker of Second Squad."
+	1021601	9400	"<B>Profession:</B> Guardian<BR><B>Category:</B> Fire<BR><B>Weapon:</B> Axe<BR><B>Personality:</B> Rude, Muddleheaded and Dirty<BR><B>Likes:</B> Cooking<BR><B>Dislikes:</B> Mystique Sonia's Food<BR><B>Favorite Color:</B> Dark Grey"
+	1021602	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021603	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021604	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021605	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021606	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021607	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021608	9400	"Character background: <BR>Hurricane Lee<BR>Hero ID: 022<BR>Hurricane Lee is a storm solider of the Second Squad.  He is a pastry chef, like Mystique Sonia. However...unlike Mystique Sonia's buns which are nice and clean, the dumplings made by the often rude and silly Hurricane Lee are always messy and...well...dirty. In Big Green, only the Second Squad members eat them, but only out of loyalty to him. <BR>Hurricane Lee's double axes are used for both combat and cooking. His other weapons are his dumplings which he lets get hard overnight. Coupled with Hurricane Lee's strong arm, those fast-moving, rock-like dumplings really pack a punch! Big and burly, Hurricane Lee can't stand the heat in the kitchen so he always wears a pair of little black shorts."
+	1021701	9400	"<B>Profession:</B> Berserker<BR><B>Category:</B> Water<BR><B>Weapon:</B> Spiked Mace<BR><B>Personality:</B> Strong, Foolhardy and Gallant<BR><B>Likes:</B> Boosting Morale<BR><B>Dislikes:</B> Failure<BR><B>Favorite Color:</B> Chocolate Brown"
+	1021702	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021703	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021704	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021705	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021706	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021707	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021708	9400	"Character Background: <BR>Latifah<BR>Hero ID: 101<BR>With her beautiful dark skin, Latifah is the Second Squad Leader. Gallant yet foolhardy, Latifah is louder and stronger than anyone. Her sense of glory for protecting the Second Squad is unmatched. Her greatest wish is for Second Squad to earn the title of ""First Squad,"" so that everyone will know that Second Squad is best! <BR>Latifah's weapons are a spiked mace and her naturally incredible strength. As a leader, Latifah wants to be the best in everything, which includes arguing and fighting. Whenever she sees the First Squad Leader, Mr. No Hands, she always starts a fight. Compared with Mr. No Hands who leads by his intelligence, Latifah leads by her raw power."
+	1021801	9400	<B>Profession:</B> Hunter<BR><B>Category:</B> Earth<BR><B>Weapon:</B> Bow and Arrow<BR><B>Personality:</B> Super Nervous and Very Cautious<BR><B>Likes:</B> Hitting the Bull's Eye<BR><B>Dislikes:</B> Drooling During an Afternoon Nap<BR><B>Favorite Color:</B> Red
+	1021802	9400	"Atk: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021803	9400	"Def: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021804	9400	"Str: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021805	9400	"Dex: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021806	9400	"Con: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021807	9400	"Int: <img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13><img src=""Data/UI_Hero108/CharacterNamePasswordInput/cnpi_star.tga"" left=0 top=0 width=13 height=13>"
+	1021808	9400	"Character Background: <BR>Archer Lee<BR>Hero ID: 009<BR>Archer Lee is the best archer in Big Green. He absolutely never misses! Archer Lee is also very cautious and silent. Coupled with his eccentric personality, he always unexpectedly solves problems for his squad members. <BR>No matter how hot or cold it is, Archer Lee will put on thick armor to protect himself from pain and injury. His tender heart is the same as his delicate skin. Both can get hurt easily if not well taken care of."
+	1030001	9400	Soldier
+	1030002	9400	Corporal
+	1030003	9400	Sergeant
+	1030004	9400	Staff Sergeant
+	1030005	9400	Master Sergeant
+	1030006	9400	Knight
+	1030007	9400	1st Lieutenant Knight
+	1030008	9400	Knight Captain
+	1030009	9400	Major
+	1030010	9400	Commander
+	1030011	9400	Commander-in-Chief
+	1030012	9400	Army General
+	1050001	9400	Speechless
+	1050002	9400	Smile
+	1050003	9400	Shy
+	1050004	9400	Kind-Hearted
+	1050005	9400	Delightful
+	1050006	9400	Angry
+	1050007	9400	Laugh
+	1050008	9400	Cocky
+	1050009	9400	Amazed
+	1050010	9400	Infuriated
+	1050011	9400	Adore
+	1050012	9400	Doubt
+	1050013	9400	Follow
+	1050014	9400	Cry
+	1050015	9400	Dejected
+	1050016	9400	Triumphant
+	1050017	9400	Sick
+	1050018	9400	Sorry
+	1050019	9400	Thanks
+	1050020	9400	Bye
+	1050021	9400	Sleep
+	1050022	9400	Train
+	1050023	9400	Shake Head
+	1050024	9400	Nod
+	1050025	9400	Scissors
+	1050026	9400	Rock
+	1050027	9400	Paper
+	1050028	9400	Light Bulb
+	1050029	9400	Out of HP
+	1050030	9400	Out of MP
+	1050031	9400	Buff
+	1050032	9400	SOS
+	1050033	9400	Ready
+	1050034	9400	GO
+	1050035	9400	YES
+	1050036	9400	NO
+	1050037	9400	Run
+	1050038	9400	Fire
+	1050039	9400	Stop
+	1050040	9400	Surrender

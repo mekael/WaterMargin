@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="big5"?>
+<ChatColorConfig>
+	<Say_RGBA>				255 255 255 255</Say_RGBA>
+	<Whisper_RGBA>			227 122 122 255</Whisper_RGBA>	
+	<Team_RGBA>			  	 70 255   0 255</Team_RGBA>
+	<Guild_RGBA>			 20 185 148 255</Guild_RGBA>
+	<System_RGBA>			200 200 200 255</System_RGBA>
+	<Combat_RGBA>			170 160 157 255</Combat_RGBA>
+	<GM_RGBA>				255 255   0 255</GM_RGBA>
+	<Yell_RGBA>				0   200 255 255</Yell_RGBA>
+	<Broadcast_RGBA>		255   0 255 255</Broadcast_RGBA>
+	<MultiBroadcast_RGBA>	255  122   0 255</MultiBroadcast_RGBA>
+</ChatColorConfig>

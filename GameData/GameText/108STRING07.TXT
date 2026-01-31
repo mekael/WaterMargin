@@ -1,0 +1,3894 @@
+#	Id	ClassId	String
+	6000001	9400	Lin Chung's Hat
+	6000002	9400	Lin Chung's Clothes
+	6000003	9400	Lin Chung's Shoes
+	6000004	9400	Lin Chung's Spear
+	6001521	9400	Quality Wooden Ring of Water Attack
+	6001522	9400	Quality Wooden Ring of Fire Attack
+	6001520	9400	Quality Wooden Ring of Earth Attack
+	6000008	9400	Wood Spear
+	6000009	9400	Civilian Cloth Hat
+	6000010	9400	Civilian Cloth Gown
+	6000011	9400	Civilian Straw Sandals
+	6000012	9400	Iron Spear
+	6000013	9400	Traditional Cloth Hat
+	6000014	9400	Traditional Cloth Gown
+	6000015	9400	Traditional Straw Sandals
+	6000016	9400	Bronze Spear
+	6001523	9400	Quality Wooden Ring of Air Attack
+	6001316	9400	Quality Wooden Necklace of Intelligence
+	6001314	9400	Quality Wooden Necklace of Dexterity
+	6000020	9400	Silver Spear
+	6000021	9400	Zen Gray Hat
+	6000022	9400	Zen Gray Clothes
+	6000023	9400	Zen Gray Shoes
+	6000024	9400	Zen Gray Wood Spear
+	6000025	9400	Green Lotus Hat
+	6000026	9400	Green Lotus Clothes
+	6000027	9400	Green Lotus Shoes
+	6000028	9400	Green Lotus Iron Spear
+	6000029	9400	Deep Azure Hat
+	6000030	9400	Deep Azure Clothes
+	6000031	9400	Deep Azure Shoes
+	6000032	9400	Deep Azure Bronze Spear
+	6000033	9400	Monastic Hat
+	6000034	9400	Monastic Clothes
+	6000035	9400	Monastic Shoes
+	6000036	9400	Monastic Silver Spear
+	6000037	9400	Red Hot Hat
+	6000038	9400	Red Hot Clothes
+	6000039	9400	Red Hot Shoes
+	6000040	9400	Red Hot Wood Spear
+	6000041	9400	Air Return Hat
+	6000042	9400	Air Return Clothes
+	6000043	9400	Air Return Shoes
+	6000044	9400	Air Return Iron Spear
+	6000045	9400	Magical Hat
+	6000046	9400	Magical Clothes
+	6000047	9400	Magical Shoes
+	6000048	9400	Magical Bronze Spear
+	6000049	9400	Buddha Hat
+	6000050	9400	Buddha Clothes
+	6000051	9400	Buddha Shoes
+	6000052	9400	Buddha Silver Spear
+	6000053	9400	Leopard Hat
+	6000054	9400	Leopard Clothes
+	6000055	9400	Leopard Shoes
+	6000056	9400	Leopard Gold Spear
+	6000057	9400	Hermit Hat
+	6000058	9400	Hermit Robe
+	6000059	9400	Hermit Shoes
+	6000060	9400	Hermit Wood Spear
+	6000061	9400	Layman Hat
+	6000062	9400	Layman Robe
+	6000063	9400	Layman Shoes
+	6000064	9400	Layman Iron Spear
+	6000065	9400	Gentlemanly Hat
+	6000066	9400	Gentlemanly Robe
+	6000067	9400	Gentlemanly Shoes
+	6000068	9400	Gentlemanly Bronze Spear
+	6000069	9400	Virtuoso Hat
+	6000070	9400	Virtuoso Robe
+	6000071	9400	Virtuoso Shoes
+	6000072	9400	Virtuoso Silver Spear
+	6000073	9400	Warrior Hat
+	6000074	9400	Warrior Robe
+	6000075	9400	Warrior Shoes
+	6000076	9400	Warrior Wood Spear
+	6000077	9400	Training Hat
+	6000078	9400	Training Robe
+	6000079	9400	Training Shoes
+	6000080	9400	Training Iron Spear
+	6000081	9400	Steel Body Hat
+	6000082	9400	Steel Body Robe
+	6000083	9400	Steel Body Shoes
+	6000084	9400	Steel Body Bronze Spear
+	6000085	9400	Martial Art Hat
+	6000086	9400	Martial Art Robe
+	6000087	9400	Martial Art Shoes
+	6000088	9400	Martial Art Silver Spear
+	6000089	9400	Mongolian Hat
+	6000090	9400	Mongolian Clothes
+	6000091	9400	Mongolian Robe
+	6000092	9400	Mongolian Wood Spear
+	6000093	9400	Wilderness Hat
+	6000094	9400	Wilderness Robe
+	6000095	9400	Wilderness Shoes
+	6000096	9400	Wilderness Iron Spear
+	6000097	9400	Heroic Spirit Hat
+	6000098	9400	Heroic Spirit Robe
+	6000099	9400	Heroic Spirit Shoes
+	6000100	9400	Heroic Spirit Bronze Spear
+	6000101	9400	Toothless Hat
+	6000102	9400	Toothless Robe
+	6000103	9400	Toothless Shoes
+	6000104	9400	Toothless Silver Spear
+	6000105	9400	Wanderer Hat
+	6000106	9400	Wanderer Robe
+	6000107	9400	Wanderer Shoes
+	6000108	9400	Wanderer Wood Spear
+	6000109	9400	Chivalry Hat
+	6000110	9400	Chivalry Robe
+	6000111	9400	Chivalry Shoes
+	6000112	9400	Chivalry Iron Spear
+	6000113	9400	Thousand Treads Hat
+	6000114	9400	Thousand Treads Robe
+	6000115	9400	Thousand Treads Shoes
+	6000116	9400	Thousand Treads Bronze Spear
+	6000117	9400	Tibetan Buddhism Hat
+	6000118	9400	Tibetan Buddhism Robe
+	6000119	9400	Tibetan Buddhism Shoes
+	6000120	9400	Tibetan Buddhism Silver Spear
+	6000121	9400	Ninja Hat
+	6000122	9400	Ninja Robe
+	6000123	9400	Ninja Shoes
+	6000124	9400	Ninja Gold Spear
+	6000125	9400	Plateau Hat
+	6000126	9400	Plateau Robe
+	6000127	9400	Plateau Shoes
+	6000128	9400	Plateau Wood Spear
+	6000129	9400	Hunting Hat
+	6000130	9400	Hunting Robe
+	6000131	9400	Hunting Shoes
+	6000132	9400	Hunting Iron Spear
+	6000133	9400	Beast-Taming Hat
+	6000134	9400	Beast-Taming Robe
+	6000135	9400	Beast-Taming Shoes
+	6000136	9400	Beast-Taming Bronze Spear
+	6000137	9400	Fierce Body Hat
+	6000138	9400	Fierce Body Robe
+	6000139	9400	Fierce Body Shoes
+	6000140	9400	Fierce Body Silver Spear
+	6000141	9400	Palace Hat
+	6000142	9400	Palace Robe
+	6000143	9400	Palace Shoes
+	6000144	9400	Palace Wood Spear
+	6000145	9400	Sharp Eye Hat
+	6000146	9400	Sharp Eye Robe
+	6000147	9400	Sharp Eye Shoes
+	6000148	9400	Sharp Eye Iron Spear
+	6000149	9400	Vigorous Tactic Hat
+	6000150	9400	Vigorous Tactic Robe
+	6000151	9400	Vigorous Tactic Shoes
+	6000152	9400	Vigorous Tactic Bronze Spear
+	6000153	9400	Experience Hat
+	6000154	9400	Experience Robe
+	6000155	9400	Experience Shoes
+	6000156	9400	Experience Silver Spear
+	6000157	9400	Jackal and Wolf Hat
+	6000158	9400	Jackal and Wolf Robe
+	6000159	9400	Jackal and Wolf Shoes
+	6000160	9400	Jackal and Wolf Wood Spear
+	6000161	9400	Lone Wolf Hat
+	6000162	9400	Lone Wolf Robe
+	6000163	9400	Lone Wolf Shoes
+	6000164	9400	Lone Wolf Iron Spear
+	6000165	9400	Silver Fox Hat
+	6000166	9400	Silver Fox Robe
+	6000167	9400	Silver Fox Shoes
+	6000168	9400	Silver Fox Bronze Spear
+	6000169	9400	Howling Dog Hat
+	6000170	9400	Howling Dog Robe
+	6000171	9400	Howling Dog Shoes
+	6000172	9400	Howling Dog Silver Spear
+	6000173	9400	Gravel Hat
+	6000174	9400	Gravel Robe
+	6000175	9400	Gravel Shoes
+	6000176	9400	Gravel Wood Spear
+	6000177	9400	Green Stone Hat
+	6000178	9400	Green Stone Robe
+	6000179	9400	Green Stone Shoes
+	6000180	9400	Green Stone Iron Spear
+	6000181	9400	Boulder Hat
+	6000182	9400	Boulder Robe
+	6000183	9400	Boulder Shoes
+	6000184	9400	Boulder Bronze Spear
+	6000185	9400	Meteor Hat
+	6000186	9400	Meteor Robe
+	6000187	9400	Meteor Shoes
+	6000188	9400	Meteor Silver Spear
+	6000189	9400	Skull Hat
+	6000190	9400	Skull Robe
+	6000191	9400	Skull Shoes
+	6000192	9400	Skull Gold Spear
+	6000193	9400	
+	6000194	9400	
+	6000195	9400	
+	6000196	9400	
+	6000197	9400	
+	6000198	9400	
+	6000199	9400	
+	6000200	9400	
+	6000201	9400	
+	6000202	9400	
+	6000203	9400	
+	6000204	9400	
+	6000205	9400	
+	6000206	9400	
+	6000207	9400	
+	6000208	9400	
+	6000209	9400	
+	6000210	9400	
+	6000211	9400	
+	6000212	9400	
+	6000213	9400	
+	6000214	9400	
+	6000215	9400	
+	6000216	9400	
+	6000217	9400	
+	6000218	9400	
+	6000219	9400	
+	6000220	9400	
+	6000221	9400	
+	6000222	9400	
+	6000223	9400	
+	6000224	9400	
+	6000225	9400	
+	6000226	9400	
+	6000227	9400	
+	6000228	9400	
+	6000229	9400	
+	6000230	9400	
+	6000231	9400	
+	6000232	9400	
+	6000233	9400	
+	6000234	9400	
+	6000235	9400	
+	6000236	9400	
+	6000237	9400	
+	6000238	9400	
+	6000239	9400	
+	6000240	9400	
+	6000241	9400	
+	6000242	9400	
+	6000243	9400	
+	6000244	9400	
+	6000245	9400	
+	6000246	9400	
+	6000247	9400	
+	6000248	9400	
+	6000249	9400	
+	6000250	9400	
+	6000251	9400	
+	6000252	9400	
+	6000253	9400	
+	6000254	9400	
+	6000255	9400	
+	6000256	9400	
+	6000257	9400	
+	6000258	9400	
+	6000259	9400	
+	6000260	9400	
+	6000261	9400	
+	6000262	9400	
+	6000263	9400	
+	6000264	9400	
+	6000265	9400	
+	6000266	9400	
+	6000267	9400	
+	6000268	9400	
+	6000269	9400	
+	6000270	9400	
+	6000271	9400	
+	6000272	9400	
+	6000273	9400	
+	6000274	9400	
+	6000275	9400	
+	6000276	9400	
+	6000277	9400	
+	6000278	9400	
+	6000279	9400	
+	6000280	9400	
+	6000281	9400	
+	6000282	9400	
+	6000283	9400	
+	6000284	9400	
+	6000285	9400	
+	6000286	9400	
+	6000287	9400	
+	6000288	9400	
+	6000289	9400	
+	6000290	9400	
+	6000291	9400	
+	6000292	9400	
+	6000293	9400	
+	6000294	9400	
+	6000295	9400	
+	6000296	9400	
+	6000297	9400	
+	6000298	9400	
+	6000299	9400	
+	6000300	9400	
+	6000301	9400	
+	6000302	9400	
+	6000303	9400	
+	6000304	9400	
+	6000305	9400	
+	6000306	9400	
+	6000307	9400	
+	6000308	9400	
+	6000309	9400	
+	6000310	9400	
+	6000311	9400	
+	6000312	9400	
+	6000313	9400	
+	6000314	9400	
+	6000315	9400	
+	6000316	9400	
+	6000317	9400	
+	6000318	9400	
+	6000319	9400	
+	6000320	9400	
+	6000321	9400	
+	6000322	9400	
+	6000323	9400	
+	6000324	9400	
+	6000325	9400	
+	6000326	9400	
+	6000327	9400	
+	6000328	9400	
+	6000329	9400	Mighty Ray's Bandana
+	6000330	9400	Mighty Ray's Vest
+	6000331	9400	Mighty Ray's Shoes
+	6000332	9400	Mighty Ray's Boxing Gloves
+	6001315	9400	Quality Wooden Necklace of Constitution
+	6001406	9400	Quality Wooden Bracelet of Water Defense
+	6001407	9400	Quality Wooden Bracelet of Fire Defense
+	6001405	9400	Quality Wooden Bracelet of Earth Defense
+	6000337	9400	Civilian Cloth Hat
+	6000338	9400	Civilian Cloth Gown
+	6000339	9400	Civilian Straw Sandals
+	6000340	9400	Iron Boxing Gloves
+	6000341	9400	Traditional Cloth Hat
+	6000342	9400	Traditional Cloth Gown
+	6000343	9400	Traditional Straw Sandals
+	6000344	9400	Bronze Boxing Gloves
+	6001408	9400	Quality Wooden Bracelet of Air Defense
+	6001526	9400	Quality Stone Ring of Water Attack
+	6001527	9400	Quality Stone Ring of Fire Attack
+	6000348	9400	Silver Boxing Gloves
+	6000349	9400	Rapid Thunder Hat
+	6000350	9400	Rapid Thunder Clothes
+	6000351	9400	Rapid Thunder Shoes
+	6000352	9400	Rapid Thunder Boxing Gloves
+	6000353	9400	Swift Thunder Hat
+	6000354	9400	Swift Thunder Clothes
+	6000355	9400	Swift Thunder Shoes
+	6000356	9400	Swift Thunder Boxing Gloves
+	6000357	9400	Thunderous Hat
+	6000358	9400	Thunderous Clothes
+	6000359	9400	Thunderous Shoes
+	6000360	9400	Thunderous Boxing Gloves
+	6000361	9400	Blasting Thunder Hat
+	6000362	9400	Blasting Thunder Clothes
+	6000363	9400	Blasting Thunder Shoes
+	6000364	9400	Blasting Thunder Boxing Gloves
+	6000365	9400	Micro-electric Hat
+	6000366	9400	Micro-electric Clothes
+	6000367	9400	Micro-electric Shoes
+	6000368	9400	Micro-electric Boxing Gloves
+	6000369	9400	Lightning Hat
+	6000370	9400	Lightning Clothes
+	6000371	9400	Lightning Shoes
+	6000372	9400	Lightning Boxing Gloves
+	6000373	9400	Bright Thunder Hat
+	6000374	9400	Bright Thunder Clothes
+	6000375	9400	Bright Thunder Shoes
+	6000376	9400	Bright Thunder Boxing Gloves
+	6000377	9400	Thunderbolt King Hat
+	6000378	9400	Thunderbolt King Clothes
+	6000379	9400	Thunderbolt King Shoes
+	6000380	9400	Thunderbolt King Boxing Gloves
+	6000381	9400	God of Wind Hat
+	6000382	9400	God of Wind Clothes
+	6000383	9400	God of Wind Shoes
+	6000384	9400	God of Wind Boxing Gloves
+	6000385	9400	Black Bull Hat
+	6000386	9400	Black Bull Clothes
+	6000387	9400	Black Bull Shoes
+	6000388	9400	Black Bull Boxing Gloves
+	6000389	9400	Barbaric Bull Hat
+	6000390	9400	Barbaric Bull Clothes
+	6000391	9400	Barbaric Bull Shoes
+	6000392	9400	Barbaric Bull Boxing Gloves
+	6000393	9400	Ferocious Bull Hat
+	6000394	9400	Ferocious Bull Clothes
+	6000395	9400	Ferocious Bull Shoes
+	6000396	9400	Ferocious Bull Full Set
+	6000397	9400	Wild Bull Hat
+	6000398	9400	Wild Bull Clothes
+	6000399	9400	Wild Bull Shoes
+	6000400	9400	Wild Bull Boxing Gloves
+	6000401	9400	Pointed Horn Hat
+	6000402	9400	Pointed Horn Robe
+	6000403	9400	Pointed Horn Shoes
+	6000404	9400	Pointed Horn Boxing Gloves
+	6000405	9400	Sharp Thorn Hat
+	6000406	9400	Sharp Thorn Clothes
+	6000407	9400	Sharp Thorn Shoes
+	6000408	9400	Sharp Thorn Boxing Gloves
+	6000409	9400	Mixed Spot Hat
+	6000410	9400	Mixed Spot Clothes
+	6000411	9400	Mixed Spot Shoes
+	6000412	9400	Mixed Spot Boxing Gloves
+	6000413	9400	Spiked Edge Hat
+	6000414	9400	Spiked Edge Clothes
+	6000415	9400	Spiked Edge Shoes
+	6000416	9400	Spiked Edge Boxing Gloves
+	6000417	9400	Yellow Tiger Hat
+	6000418	9400	Yellow Tiger Clothes
+	6000419	9400	Yellow Tiger Shoes
+	6000420	9400	Yellow Tiger Boxing Gloves
+	6000421	9400	Ferocious Tiger Hat
+	6000422	9400	Ferocious Tiger Clothes
+	6000423	9400	Ferocious Tiger Shoes
+	6000424	9400	Ferocious Tiger Boxing Gloves
+	6000425	9400	Combat Tiger Hat
+	6000426	9400	Combat Tiger Clothes
+	6000427	9400	Combat Tiger Shoes
+	6000428	9400	Combat Tiger Boxing Gloves
+	6000429	9400	Tiger King Hat
+	6000430	9400	Tiger King Clothes
+	6000431	9400	Tiger King Shoes
+	6000432	9400	Tiger King Boxing Gloves
+	6000433	9400	Flying Tiger Hat
+	6000434	9400	Flying Tiger Clothes
+	6000435	9400	Flying Tiger Shoes
+	6000436	9400	Flying Tiger Boxing Gloves
+	6000437	9400	Subdued Tiger Hat
+	6000438	9400	Subdued Tiger Clothes
+	6000439	9400	Subdued Tiger Shoes
+	6000440	9400	Subdued Tiger Boxing Gloves
+	6000441	9400	Dominant Tiger Hat
+	6000442	9400	Dominant Tiger Clothes
+	6000443	9400	Dominant Tiger Shoes
+	6000444	9400	Dominant Tiger Boxing Gloves
+	6000445	9400	Divine Moment Hat
+	6000446	9400	Divine Moment Clothes
+	6000447	9400	Divine Moment Shoes
+	6000448	9400	Divine Boxing Gloves
+	6000449	9400	Iron Warrior Hat
+	6000450	9400	Iron Warrior Clothes
+	6000451	9400	Iron Warrior Shoes
+	6000452	9400	Iron Warrior Boxing Gloves
+	6000453	9400	Hidden Mist Hat
+	6000454	9400	Hidden Mist Clothes
+	6000455	9400	Hidden Mist Shoes
+	6000456	9400	Hidden Mist Boxing Gloves
+	6000457	9400	Potent Claw Hat
+	6000458	9400	Potent Claw Clothes
+	6000459	9400	Potent Claw Shoes
+	6000460	9400	Potent Claw Boxing Gloves
+	6000461	9400	Hidden Form Hat
+	6000462	9400	Hidden Form Clothes
+	6000463	9400	Hidden Form Shoes
+	6000464	9400	Hidden Form Boxing Gloves
+	6000465	9400	Cloak Hat
+	6000466	9400	Cloak Concealment Clothes
+	6000467	9400	Cloak Concealment Shoes
+	6000468	9400	Cloak Concealment Boxing Gloves
+	6000469	9400	Bandit Hat
+	6000470	9400	Bandit Clothes
+	6000471	9400	Bandit Shoes
+	6000472	9400	Bandit Boxing Gloves
+	6000473	9400	Dark Tiger Cub Hat
+	6000474	9400	Dark Tiger Cub Clothes
+	6000475	9400	Dark Tiger Cub Shoes
+	6000476	9400	Dark Tiger Cub Boxing Gloves
+	6000477	9400	Doom Hat
+	6000478	9400	Doom Clothes
+	6000479	9400	Doom Shoes
+	6000480	9400	Doom Boxing Gloves
+	6000481	9400	Power Hat
+	6000482	9400	Power Clothes
+	6000483	9400	Power Shoes
+	6000484	9400	Power Boxing Gloves
+	6000485	9400	Aluminum Armor Hat
+	6000486	9400	Aluminum Armor Clothes
+	6000487	9400	Aluminum Armor Shoes
+	6000488	9400	Aluminum Armor Boxing Gloves
+	6000489	9400	Iron Armor Hat
+	6000490	9400	Iron Armor Clothes
+	6000491	9400	Iron Armor Shoes
+	6000492	9400	Iron Armor Boxing Gloves
+	6000493	9400	Bronze Armor Hat
+	6000494	9400	Bronze Armor Clothes
+	6000495	9400	Bronze Armor Shoes
+	6000496	9400	Bronze Armor Boxing Gloves
+	6000497	9400	Silver Armor Hat
+	6000498	9400	Silver Armor Clothes
+	6000499	9400	Silver Armor Shoes
+	6000500	9400	Silver Armor Boxing Gloves
+	6000501	9400	Patterned Armor Hat
+	6000502	9400	Patterned Armor Clothes
+	6000503	9400	Patterned Armor Shoes
+	6000504	9400	Patterned Armor Boxing Gloves
+	6000505	9400	Armored Hat
+	6000506	9400	Armored Clothes
+	6000507	9400	Armored Shoes
+	6000508	9400	Armored Boxing Gloves
+	6000509	9400	Steel Armor Hat
+	6000510	9400	Steel Armor Clothes
+	6000511	9400	Steel Armor Shoes
+	6000512	9400	Steel Armor Boxing Gloves
+	6000513	9400	Alloy Hat
+	6000514	9400	Alloy Clothes
+	6000515	9400	Alloy Shoes
+	6000516	9400	Alloy Boxing Gloves
+	6000517	9400	Electronic Hat
+	6000518	9400	Electronic Clothes
+	6000519	9400	Electronic Shoes
+	6000520	9400	Electronic Boxing Gloves
+	6000521	9400	
+	6000522	9400	
+	6000523	9400	
+	6000524	9400	
+	6000525	9400	
+	6000526	9400	
+	6000527	9400	
+	6000528	9400	
+	6000529	9400	
+	6000530	9400	
+	6000531	9400	
+	6000532	9400	
+	6000533	9400	
+	6000534	9400	
+	6000535	9400	
+	6000536	9400	
+	6000537	9400	
+	6000538	9400	
+	6000539	9400	
+	6000540	9400	
+	6000541	9400	
+	6000542	9400	
+	6000543	9400	
+	6000544	9400	
+	6000545	9400	
+	6000546	9400	
+	6000547	9400	
+	6000548	9400	
+	6000549	9400	
+	6000550	9400	
+	6000551	9400	
+	6000552	9400	
+	6000553	9400	
+	6000554	9400	
+	6000555	9400	
+	6000556	9400	
+	6000557	9400	
+	6000558	9400	
+	6000559	9400	
+	6000560	9400	
+	6000561	9400	
+	6000562	9400	
+	6000563	9400	
+	6000564	9400	
+	6000565	9400	
+	6000566	9400	
+	6000567	9400	
+	6000568	9400	
+	6000569	9400	
+	6000570	9400	
+	6000571	9400	
+	6000572	9400	
+	6000573	9400	
+	6000574	9400	
+	6000575	9400	
+	6000576	9400	
+	6000577	9400	
+	6000578	9400	
+	6000579	9400	
+	6000580	9400	
+	6000581	9400	
+	6000582	9400	
+	6000583	9400	
+	6000584	9400	
+	6000585	9400	
+	6000586	9400	
+	6000587	9400	
+	6000588	9400	
+	6000589	9400	
+	6000590	9400	
+	6000591	9400	
+	6000592	9400	
+	6000593	9400	
+	6000594	9400	
+	6000595	9400	
+	6000596	9400	
+	6000597	9400	
+	6000598	9400	
+	6000599	9400	
+	6000600	9400	
+	6000601	9400	
+	6000602	9400	
+	6000603	9400	
+	6000604	9400	
+	6000605	9400	
+	6000606	9400	
+	6000607	9400	
+	6000608	9400	
+	6000609	9400	
+	6000610	9400	
+	6000611	9400	
+	6000612	9400	
+	6000613	9400	
+	6000614	9400	
+	6000615	9400	
+	6000616	9400	
+	6000617	9400	
+	6000618	9400	
+	6000619	9400	
+	6000620	9400	
+	6000621	9400	
+	6000622	9400	
+	6000623	9400	
+	6000624	9400	
+	6000625	9400	
+	6000626	9400	
+	6000627	9400	
+	6000628	9400	
+	6000629	9400	
+	6000630	9400	
+	6000631	9400	
+	6000632	9400	
+	6000633	9400	
+	6000634	9400	
+	6000635	9400	
+	6000636	9400	
+	6000637	9400	
+	6000638	9400	
+	6000639	9400	
+	6000640	9400	
+	6000641	9400	
+	6000642	9400	
+	6000643	9400	
+	6000644	9400	
+	6000645	9400	
+	6000646	9400	
+	6000647	9400	
+	6000648	9400	
+	6000649	9400	
+	6000650	9400	
+	6000651	9400	
+	6000652	9400	
+	6000653	9400	
+	6000654	9400	
+	6000655	9400	
+	6000656	9400	
+	6000657	9400	Mystique Sonia's Hat
+	6000658	9400	Mystique Sonia's Clothes
+	6000659	9400	Mystique Sonia's Shoes
+	6000660	9400	Mystique Sonia's Staff
+	6001525	9400	Quality Stone Ring of Earth Attack
+	6001528	9400	Quality Stone Ring of Air Attack
+	6001320	9400	Quality Stone Necklace of Intelligence
+	6000664	9400	Wooden Staff
+	6000665	9400	Civilian Cloth Hat
+	6000666	9400	Civilian Cloth Gown
+	6000667	9400	Civilian Straw Sandals
+	6000668	9400	Iron Staff
+	6000669	9400	Traditional Cloth Hat
+	6000670	9400	Traditional Cloth Gown
+	6000671	9400	Traditional Straw Sandals
+	6000672	9400	Bronze Staff
+	6001318	9400	Quality Stone Necklace of Dexterity
+	6001319	9400	Quality Stone Necklace of Constitution
+	6001411	9400	Quality Stone Bracelet of Water Defense
+	6000676	9400	Silver Staff
+	6000677	9400	OcSuperiorodus Hat
+	6000678	9400	OcSuperiorodus Clothes
+	6000679	9400	OcSuperiorodus Shoes
+	6000680	9400	OcSuperiorodus Staff
+	6000681	9400	Squid Hat
+	6000682	9400	Squid Clothes
+	6000683	9400	Squid Shoes
+	6000684	9400	Squid Staff
+	6000685	9400	OcSuperiorodous Hat
+	6000686	9400	OcSuperiorodous Clothes
+	6000687	9400	OcSuperiorodous Shoes
+	6000688	9400	OcSuperiorodous Staff
+	6000689	9400	OcSuperioroda Hat
+	6000690	9400	OcSuperioroda Clothes
+	6000691	9400	OcSuperioroda Shoes
+	6000692	9400	OcSuperioroda Staff
+	6000693	9400	Sepiida Hat
+	6000694	9400	Sepiida Clothes
+	6000695	9400	Sepiida Shoes
+	6000696	9400	Sepiida Staff
+	6000697	9400	Cuttlefish Hat
+	6000698	9400	Cuttlefish Clothes
+	6000699	9400	Cuttlefish Shoes
+	6000700	9400	Cuttlefish Staff
+	6000701	9400	Neritic Squid Hat
+	6000702	9400	Neritic Squid Clothes
+	6000703	9400	Neritic Squid Shoes
+	6000704	9400	Neritic Squid Staff
+	6000705	9400	Sepia Hat
+	6000706	9400	Sepia Clothes
+	6000707	9400	Sepia Shoes
+	6000708	9400	Sepia Staff
+	6000709	9400	Puffer Hat
+	6000710	9400	Puffer Clothes
+	6000711	9400	Puffer Shoes
+	6000712	9400	Puffer Staff
+	6000713	9400	Pirate Hat
+	6000714	9400	Pirate Clothes
+	6000715	9400	Pirate Shoes
+	6000716	9400	Pirate Staff
+	6000717	9400	Sailor Hat
+	6000718	9400	Sailor Clothes
+	6000719	9400	Sailor Shoes
+	6000720	9400	Sailor Staff
+	6000721	9400	First Mate Hat
+	6000722	9400	First Mate Clothes
+	6000723	9400	First Mate Shoes
+	6000724	9400	First Mate Staff
+	6000725	9400	Sailing King Hat
+	6000726	9400	Sailing King Clothes
+	6000727	9400	Sailing King Shoes
+	6000728	9400	Sailing King Staff
+	6000729	9400	Sea Crossing Hat
+	6000730	9400	Sea Crossing Clothes
+	6000731	9400	Sea Crossing Shoes
+	6000732	9400	Sea Crossing Staff
+	6000733	9400	Wind Riding Hat
+	6000734	9400	Wind Riding Clothes
+	6000735	9400	Wind Riding Shoes
+	6000736	9400	Wind Riding Staff
+	6000737	9400	Surge Hat
+	6000738	9400	Surge Clothes
+	6000739	9400	Surge Shoes
+	6000740	9400	Surge Staff
+	6000741	9400	Howling Hat
+	6000742	9400	Howling Clothes
+	6000743	9400	Howling Shoes
+	6000744	9400	Howling Staff
+	6000745	9400	Foreigner Hat
+	6000746	9400	Foreigner Clothes
+	6000747	9400	Foreigner Shoes
+	6000748	9400	Foreigner Staff
+	6000749	9400	Torrid Summer Hat
+	6000750	9400	Torrid Summer Clothes
+	6000751	9400	Torrid Summer Shoes
+	6000752	9400	Torrid Summer Staff
+	6000753	9400	Star and Moon Hat
+	6000754	9400	Star and Moon Clothes
+	6000755	9400	Star and Moon Shoes
+	6000756	9400	Star and Moon Staff
+	6000757	9400	Mayan Hat
+	6000758	9400	Mayan Clothes
+	6000759	9400	Mayan Shoes
+	6000760	9400	Mayan Staff
+	6000761	9400	Pasha Hat
+	6000762	9400	Pasha Clothes
+	6000763	9400	Pasha Shoes
+	6000764	9400	Pasha Staff
+	6000765	9400	Tulu Hat
+	6000766	9400	Tulu Clothes
+	6000767	9400	Tulu Shoes
+	6000768	9400	Tulu Staff
+	6000769	9400	Kannong Hat
+	6000770	9400	Kannong Clothes
+	6000771	9400	Kannong Shoes
+	6000772	9400	Kannong Staff
+	6000773	9400	Turkey Hat
+	6000774	9400	Turkey Clothes
+	6000775	9400	Turkey Shoes
+	6000776	9400	Turkey Staff
+	6000777	9400	Peacock Hat
+	6000778	9400	Peacock Clothes
+	6000779	9400	Peacock Shoes
+	6000780	9400	Peacock Staff
+	6000781	9400	Clown Hat
+	6000782	9400	Clown Clothes
+	6000783	9400	Clown Shoes
+	6000784	9400	Clown Staff
+	6000785	9400	Acrobatic Hat
+	6000786	9400	Acrobatic Clothes
+	6000787	9400	Acrobatic Shoes
+	6000788	9400	Acrobatic Staff
+	6000789	9400	Dancer Hat
+	6000790	9400	Dancer Clothes
+	6000791	9400	Dancer Shoes
+	6000792	9400	Dancer Staff
+	6000793	9400	Phantom Hat
+	6000794	9400	Phantom Clothes
+	6000795	9400	Phantom Shoes
+	6000796	9400	Phantom Staff
+	6000797	9400	Greedy Hat
+	6000798	9400	Greedy Clothes
+	6000799	9400	Greedy Shoes
+	6000800	9400	Greedy Staff
+	6000801	9400	Dream Hat
+	6000802	9400	Dream Clothes
+	6000803	9400	Dream Shoes
+	6000804	9400	Dream Staff
+	6000805	9400	Illusion Hat
+	6000806	9400	Illusion Clothes
+	6000807	9400	Illusion Shoes
+	6000808	9400	Illusion Staff
+	6000809	9400	Shadowy Hat
+	6000810	9400	Shadowy Clothes
+	6000811	9400	Shadowy Shoes
+	6000812	9400	Shadowy Staff
+	6000813	9400	Little Ghost Hat
+	6000814	9400	Little Ghost Clothes
+	6000815	9400	Little Ghost Shoes
+	6000816	9400	Little Ghost Staff
+	6000817	9400	Ghostly Hat
+	6000818	9400	Ghostly Clothes
+	6000819	9400	Ghostly Shoes
+	6000820	9400	Ghostly Staff
+	6000821	9400	Loud Ghost Hat
+	6000822	9400	Loud Ghost Clothes
+	6000823	9400	Loud Ghost Shoes
+	6000824	9400	Loud Ghost Staff
+	6000825	9400	Yaksha Hat
+	6000826	9400	Yaksha Clothes
+	6000827	9400	Yaksha Shoes
+	6000828	9400	Yaksha Staff
+	6000829	9400	Spirit Hat
+	6000830	9400	Spirit Clothes
+	6000831	9400	Spirit Shoes
+	6000832	9400	Spirit Staff
+	6000833	9400	Demon Hat
+	6000834	9400	Demon Clothes
+	6000835	9400	Demon Shoes
+	6000836	9400	Demon Staff
+	6000837	9400	Nightmare Hat
+	6000838	9400	Nightmare Clothes
+	6000839	9400	Nightmare Shoes
+	6000840	9400	Nightmare Staff
+	6000841	9400	Bloodthirsty Hat
+	6000842	9400	Bloodthirsty Clothes
+	6000843	9400	Bloodthirsty Shoes
+	6000844	9400	Bloodthirsty Staff
+	6000845	9400	Tulip Hat
+	6000846	9400	Tulip Clothes
+	6000847	9400	Tulip Shoes
+	6000848	9400	Tulip Staff
+	6000849	9400	
+	6000850	9400	
+	6000851	9400	
+	6000852	9400	
+	6000853	9400	
+	6000854	9400	
+	6000855	9400	
+	6000856	9400	
+	6000857	9400	
+	6000858	9400	
+	6000859	9400	
+	6000860	9400	
+	6000861	9400	
+	6000862	9400	
+	6000863	9400	
+	6000864	9400	
+	6000865	9400	
+	6000866	9400	
+	6000867	9400	
+	6000868	9400	
+	6000869	9400	
+	6000870	9400	
+	6000871	9400	
+	6000872	9400	
+	6000873	9400	
+	6000874	9400	
+	6000875	9400	
+	6000876	9400	
+	6000877	9400	
+	6000878	9400	
+	6000879	9400	
+	6000880	9400	
+	6000881	9400	
+	6000882	9400	
+	6000883	9400	
+	6000884	9400	
+	6000885	9400	
+	6000886	9400	
+	6000887	9400	
+	6000888	9400	
+	6000889	9400	
+	6000890	9400	
+	6000891	9400	
+	6000892	9400	
+	6000893	9400	
+	6000894	9400	
+	6000895	9400	
+	6000896	9400	
+	6000897	9400	
+	6000898	9400	
+	6000899	9400	
+	6000900	9400	
+	6000901	9400	
+	6000902	9400	
+	6000903	9400	
+	6000904	9400	
+	6000905	9400	
+	6000906	9400	
+	6000907	9400	
+	6000908	9400	
+	6000909	9400	
+	6000910	9400	
+	6000911	9400	
+	6000912	9400	
+	6000913	9400	
+	6000914	9400	
+	6000915	9400	
+	6000916	9400	
+	6000917	9400	
+	6000918	9400	
+	6000919	9400	
+	6000920	9400	
+	6000921	9400	
+	6000922	9400	
+	6000923	9400	
+	6000924	9400	
+	6000925	9400	
+	6000926	9400	
+	6000927	9400	
+	6000928	9400	
+	6000929	9400	
+	6000930	9400	
+	6000931	9400	
+	6000932	9400	
+	6000933	9400	
+	6000934	9400	
+	6000935	9400	
+	6000936	9400	
+	6000937	9400	
+	6000938	9400	
+	6000939	9400	
+	6000940	9400	
+	6000941	9400	
+	6000942	9400	
+	6000943	9400	
+	6000944	9400	
+	6000945	9400	
+	6000946	9400	
+	6000947	9400	
+	6000948	9400	
+	6000949	9400	
+	6000950	9400	
+	6000951	9400	
+	6000952	9400	
+	6000953	9400	
+	6000954	9400	
+	6000955	9400	
+	6000956	9400	
+	6000957	9400	
+	6000958	9400	
+	6000959	9400	
+	6000960	9400	
+	6000961	9400	
+	6000962	9400	
+	6000963	9400	
+	6000964	9400	
+	6000965	9400	
+	6000966	9400	
+	6000967	9400	
+	6000968	9400	
+	6000969	9400	
+	6000970	9400	
+	6000971	9400	
+	6000972	9400	
+	6000973	9400	
+	6000974	9400	
+	6000975	9400	
+	6000976	9400	
+	6000977	9400	
+	6000978	9400	
+	6000979	9400	
+	6000980	9400	
+	6000981	9400	
+	6000982	9400	
+	6000983	9400	
+	6000984	9400	
+	6000985	9400	Mr. No Hands's Bandana
+	6000986	9400	Mr. No Hands's Clothes
+	6000987	9400	Mr. No Hands's Shoes
+	6000988	9400	Mr. No Hands's Launcher
+	6001412	9400	Quality Stone Bracelet of Fire Defense
+	6001410	9400	Quality Stone Bracelet of Earth Defense
+	6001413	9400	Quality Stone Bracelet of Air Defense
+	6002986	9400	Quality Spirit
+	6000993	9400	Civilian Cloth Hat
+	6000994	9400	Civilian Cloth Gown
+	6000995	9400	Civilian Straw Sandals
+	6000996	9400	Iron Launcher
+	6000997	9400	Traditional Cloth Hat
+	6000998	9400	Traditional Cloth Gown
+	6000999	9400	Traditional Straw Sandals
+	6001000	9400	Bronze Launcher
+	6001545	9400	Quality Silver Ring of Water Attack
+	6001546	9400	Quality Silver Ring of Fire Attack
+	6001544	9400	Quality Silver Ring of Earth Attack
+	6001004	9400	Silver Launcher
+	6001005	9400	Intern Hat
+	6001006	9400	Intern Robe
+	6001007	9400	Intern Shoes
+	6001008	9400	Intern Badge
+	6001009	9400	Student Hat
+	6001010	9400	Student Robe
+	6001011	9400	Student Shoes
+	6001012	9400	Student Badge
+	6001013	9400	University Hat
+	6001014	9400	University Robe
+	6001015	9400	University Shoes
+	6001016	9400	University Badge
+	6001017	9400	Researcher Hat
+	6001018	9400	Researcher Robe
+	6001019	9400	Researcher Shoes
+	6001020	9400	Researcher Badge
+	6001021	9400	Scholarly Hat
+	6001022	9400	Scholarly Robe
+	6001023	9400	Scholarly Shoes
+	6001024	9400	Scholarly Badge
+	6001025	9400	Sky and Earth Hat
+	6001026	9400	Sky and Earth Robe
+	6001027	9400	Sky and Earth Shoes
+	6001028	9400	Sky and Earth Badge
+	6001029	9400	Blue Sea Hat
+	6001030	9400	Blue Sea Robe
+	6001031	9400	Blue Sea Shoes
+	6001032	9400	Blue Sea Badge
+	6001033	9400	Sacred Emperor Hat
+	6001034	9400	Sacred Emperor Robe
+	6001035	9400	Sacred Emperor Shoes
+	6001036	9400	Sacred Emperor Badge
+	6001037	9400	Brown Rice Hat
+	6001038	9400	Brown Rice Clothes
+	6001039	9400	Brown Rice Shoes
+	6001040	9400	Brown Rice Badge
+	6001041	9400	Polar Hat
+	6001042	9400	Polar Robe
+	6001043	9400	Polar Shoes
+	6001044	9400	Polar Badge
+	6001045	9400	Trench Hat
+	6001046	9400	Trench Robe
+	6001047	9400	Trench Shoes
+	6001048	9400	Trench Badge
+	6001049	9400	Gods and Ghosts Hat
+	6001050	9400	Gods and Ghosts Robe
+	6001051	9400	Gods and Ghosts Shoes
+	6001052	9400	Gods and Ghosts Badge
+	6001053	9400	Wailing Hat
+	6001054	9400	Wailing Robe
+	6001055	9400	Wailing Shoes
+	6001056	9400	Wailing Badge
+	6001057	9400	Ice Cold Hat
+	6001058	9400	Ice Cold Robe
+	6001059	9400	Ice Cold Shoes
+	6001060	9400	Ice Cold Badge
+	6001061	9400	Rock Climbing Hat
+	6001062	9400	Rock Climbing Robe
+	6001063	9400	Rock Climbing Shoes
+	6001064	9400	Rock Climbing Badge
+	6001065	9400	Highland Hat
+	6001066	9400	Highland Robe
+	6001067	9400	Highland Shoes
+	6001068	9400	Highland Badge
+	6001069	9400	Snowy Mountain Hat
+	6001070	9400	Snowy Mountain Robe
+	6001071	9400	Snowy Mountain Shoes
+	6001072	9400	Snowy Mountain Badge
+	6001073	9400	Spotted Tiger Hat
+	6001074	9400	Spotted Tiger Clothes
+	6001075	9400	Spotted Tiger Shoes
+	6001076	9400	Spotted Tiger Badge
+	6001077	9400	Fighting Tiger Hat
+	6001078	9400	Fighting Tiger Clothes
+	6001079	9400	Fighting Tiger Shoes
+	6001080	9400	Fighting Tiger Badge
+	6001081	9400	Ferocious Tiger Hat
+	6001082	9400	Ferocious Tiger Clothes
+	6001083	9400	Ferocious Tiger Shoes
+	6001084	9400	Ferocious Tiger Badge
+	6001085	9400	Fiery Tiger Hat
+	6001086	9400	Fiery Tiger Clothes
+	6001087	9400	Fiery Tiger Shoes
+	6001088	9400	Fiery Tiger Badge
+	6001089	9400	Striped Tiger Hat
+	6001090	9400	Striped Tiger Robe
+	6001091	9400	Striped Tiger Shoes
+	6001092	9400	Striped Tiger Badge
+	6001093	9400	Illusion Tiger Hat
+	6001094	9400	Illusion Tiger Robe
+	6001095	9400	Illusion Tiger Shoes
+	6001096	9400	Illusion Tiger Badge
+	6001097	9400	Underworld Tiger Hat
+	6001098	9400	Underworld Tiger Robe
+	6001099	9400	Underworld Tiger Shoes
+	6001100	9400	Underworld Tiger Badge
+	6001101	9400	Spiritual Tiger Hat
+	6001102	9400	Spiritual Tiger Robe
+	6001103	9400	Spiritual Tiger Shoes
+	6001104	9400	Spiritual Tiger Badge
+	6001105	9400	Hot Spring Hat
+	6001106	9400	Hot Spring Robe
+	6001107	9400	Hot Spring Shoes
+	6001108	9400	Hot Spring Badge
+	6001109	9400	Prisoner of War Hat
+	6001110	9400	Prisoner of War Robe
+	6001111	9400	Prisoner of War Shoes
+	6001112	9400	Prisoner of War Badge
+	6001113	9400	Beggar's Hat
+	6001114	9400	Beggar's Robe
+	6001115	9400	Beggar's Shoes
+	6001116	9400	Beggar's Badge
+	6001117	9400	Counseling Hat
+	6001118	9400	Counseling Robe
+	6001119	9400	Counseling Shoes
+	6001120	9400	Counseling Badge
+	6001121	9400	Light Returning Hat
+	6001122	9400	Light Returning Robe
+	6001123	9400	Light Returning Shoes
+	6001124	9400	Light Returning Badge
+	6001125	9400	Emptiness Hat
+	6001126	9400	Emptiness Robe
+	6001127	9400	Emptiness Shoes
+	6001128	9400	Emptiness Badge
+	6001129	9400	Silence Hat
+	6001130	9400	Silence Robe
+	6001131	9400	Silence Shoes
+	6001132	9400	Silence Badge
+	6001133	9400	Disaster Hat
+	6001134	9400	Disaster Robe
+	6001135	9400	Disaster Shoes
+	6001136	9400	Disaster Badge
+	6001137	9400	Spirit-binding Hat
+	6001138	9400	Spirit-binding Robe
+	6001139	9400	Spirit-binding Shoes
+	6001140	9400	Spirit-binding Badge
+	6001141	9400	Guidance Hat
+	6001142	9400	Guidance Robe
+	6001143	9400	Guidance Shoes
+	6001144	9400	Guidance Badge
+	6001145	9400	Gaze Hat
+	6001146	9400	Gaze Robe
+	6001147	9400	Gaze Shoes
+	6001148	9400	Gaze Badge
+	6001149	9400	Bard Hat
+	6001150	9400	Bard Robe
+	6001151	9400	Bard Shoes
+	6001152	9400	Bard Badge
+	6001153	9400	Prayer Hat
+	6001154	9400	Prayer Robe
+	6001155	9400	Prayer Shoes
+	6001156	9400	Prayer Badge
+	6001157	9400	Arrogance Hat
+	6001158	9400	Arrogance Robe
+	6001159	9400	Arrogance Shoes
+	6001160	9400	Arrogance Badge
+	6001161	9400	Secrecy Hat
+	6001162	9400	Secrecy Robe
+	6001163	9400	Secrecy Shoes
+	6001164	9400	Secrecy Magical Badge
+	6001165	9400	Vision Hat
+	6001166	9400	Vision Robe
+	6001167	9400	Vision Shoes
+	6001168	9400	Vision Badge
+	6001169	9400	Crusade Hat
+	6001170	9400	Crusade Robe
+	6001171	9400	Crusade Shoes
+	6001172	9400	Crusade Badge
+	6001173	9400	Swallow Hat
+	6001174	9400	Swallow Robe
+	6001175	9400	Swallow Shoes
+	6001176	9400	Swallow Badge
+	6001177	9400	
+	6001178	9400	
+	6001179	9400	
+	6001180	9400	
+	6001181	9400	
+	6001182	9400	
+	6001183	9400	
+	6001184	9400	
+	6001185	9400	
+	6001186	9400	
+	6001187	9400	
+	6001188	9400	
+	6001189	9400	
+	6001190	9400	
+	6001191	9400	
+	6001192	9400	
+	6001193	9400	
+	6001194	9400	
+	6001195	9400	
+	6001196	9400	
+	6001197	9400	
+	6001198	9400	
+	6001199	9400	
+	6001200	9400	
+	6001201	9400	
+	6001202	9400	
+	6001203	9400	
+	6001204	9400	
+	6001205	9400	
+	6001206	9400	
+	6001207	9400	
+	6001208	9400	
+	6001209	9400	
+	6001210	9400	
+	6001211	9400	
+	6001212	9400	
+	6001213	9400	
+	6001214	9400	
+	6001215	9400	
+	6001216	9400	
+	6001217	9400	
+	6001218	9400	
+	6001219	9400	
+	6001220	9400	
+	6001221	9400	
+	6001222	9400	
+	6001223	9400	
+	6001224	9400	
+	6001225	9400	
+	6001226	9400	
+	6001227	9400	
+	6001228	9400	
+	6001229	9400	
+	6001230	9400	
+	6001231	9400	
+	6001232	9400	
+	6001233	9400	
+	6001234	9400	
+	6001235	9400	
+	6001236	9400	
+	6001237	9400	
+	6001238	9400	
+	6001239	9400	
+	6001240	9400	
+	6001241	9400	
+	6001242	9400	
+	6001243	9400	
+	6001244	9400	
+	6001245	9400	
+	6001246	9400	
+	6001247	9400	
+	6001248	9400	
+	6001249	9400	
+	6001250	9400	
+	6001251	9400	
+	6001252	9400	
+	6001253	9400	
+	6001254	9400	
+	6001255	9400	
+	6001256	9400	
+	6001257	9400	
+	6001258	9400	
+	6001259	9400	
+	6001260	9400	
+	6001261	9400	
+	6001262	9400	
+	6001263	9400	
+	6001264	9400	
+	6001265	9400	
+	6001266	9400	
+	6001267	9400	
+	6001268	9400	
+	6001269	9400	
+	6001270	9400	
+	6001271	9400	
+	6001272	9400	
+	6001273	9400	
+	6001274	9400	
+	6001275	9400	
+	6001276	9400	
+	6001277	9400	
+	6001278	9400	
+	6001279	9400	
+	6001280	9400	
+	6001281	9400	
+	6001282	9400	
+	6001283	9400	
+	6001284	9400	
+	6001285	9400	
+	6001286	9400	
+	6001287	9400	
+	6001288	9400	
+	6001289	9400	
+	6001290	9400	
+	6001291	9400	
+	6001292	9400	
+	6001293	9400	
+	6001294	9400	
+	6001295	9400	
+	6001296	9400	
+	6001297	9400	
+	6001298	9400	
+	6001299	9400	
+	6001300	9400	
+	6001301	9400	
+	6001302	9400	
+	6001303	9400	
+	6001304	9400	
+	6001305	9400	
+	6001306	9400	
+	6001307	9400	
+	6001308	9400	
+	6001309	9400	
+	6001310	9400	
+	6001311	9400	
+	6001312	9400	
+	6001547	9400	Quality Silver Ring of Air Attack
+	6001335	9400	Quality Silver Necklace of Intelligence
+	6001333	9400	Quality Silver Necklace of Dexterity
+	6001334	9400	Quality Silver Necklace of Constitution
+	6001430	9400	Quality Silver Bracelet of Water Defense
+	6001431	9400	Quality Silver Bracelet of Fire Defense
+	6001429	9400	Quality Silver Bracelet of Earth Defense
+	6001432	9400	Quality Silver Bracelet of Air Defense
+	6002995	9400	Quality Resplendence
+	6001555	9400	Quality Platinum Ring of Water Attack
+	6001556	9400	Quality Platinum Ring of Fire Attack
+	6001554	9400	Quality Platinum Ring of Earth Attack
+	6001325	9400	Superior Iron Necklace of Dexterity
+	6001326	9400	Superior Iron Necklace of Constitution
+	6001327	9400	Superior Iron Necklace of Intelligence
+	6001557	9400	Quality Platinum Ring of Air Attack
+	6001343	9400	Quality Platinum Necklace of Intelligence
+	6001341	9400	Quality Platinum Necklace of Dexterity
+	6001342	9400	Quality Platinum Necklace of Constitution
+	6001440	9400	Quality Platinum Bracelet of Water Defense
+	6001441	9400	Quality Platinum Bracelet of Fire Defense
+	6001439	9400	Quality Platinum Bracelet of Earth Defense
+	6001442	9400	Quality Platinum Bracelet of Air Defense
+	6001564	9400	Quality Pearl Ring of Water Attack
+	6001565	9400	Quality Pearl Ring of Fire Attack
+	6001563	9400	Quality Pearl Ring of Earth Attack
+	6001566	9400	Quality Pearl Ring of Air Attack
+	6001350	9400	Quality Pearl Necklace of Intelligence
+	6001348	9400	Quality Pearl Necklace of Dexterity
+	6001349	9400	Quality Pearl Necklace of Constitution
+	6001449	9400	Quality Pearl Bracelet of Water Defense
+	6001344	9400	Superior Platinum Necklace of Dexterity
+	6001345	9400	Superior Platinum Necklace of Constitution
+	6001346	9400	Superior Platinum Necklace of Intelligence
+	6001450	9400	Quality Pearl Bracelet of Fire Defense
+	6001448	9400	Quality Pearl Bracelet of Earth Defense
+	6001451	9400	Quality Pearl Bracelet of Air Defense
+	6001531	9400	Quality Iron Ring of Water Attack
+	6001532	9400	Quality Iron Ring of Fire Attack
+	6001530	9400	Quality Iron Ring of Earth Attack
+	6001533	9400	Quality Iron Ring of Air Attack
+	6001324	9400	Quality Iron Necklace of Intelligence
+	6001322	9400	Quality Iron Necklace of Dexterity
+	6001323	9400	Quality Iron Necklace of Constitution
+	6001416	9400	Quality Iron Bracelet of Water Defense
+	6001417	9400	Quality Iron Bracelet of Fire Defense
+	6001415	9400	Quality Iron Bracelet of Earth Defense
+	6001418	9400	Quality Iron Bracelet of Air Defense
+	6002991	9400	Quality Holy Protection
+	6001550	9400	Quality Gold Ring of Water Attack
+	6001363	9400	Superior Diamond Necklace of Dexterity
+	6001364	9400	Superior Diamond Necklace of Constitution
+	6001365	9400	Superior Diamond Necklace of Intelligence
+	6001366	9400	
+	6001367	9400	
+	6001368	9400	
+	6001369	9400	
+	6001370	9400	
+	6001371	9400	
+	6001372	9400	
+	6001373	9400	
+	6001374	9400	
+	6001375	9400	
+	6001376	9400	
+	6001377	9400	
+	6001378	9400	
+	6001379	9400	
+	6001380	9400	
+	6001381	9400	
+	6001382	9400	
+	6001383	9400	
+	6001384	9400	
+	6001385	9400	
+	6001386	9400	
+	6001387	9400	
+	6001388	9400	
+	6001389	9400	
+	6001390	9400	
+	6001391	9400	
+	6001392	9400	
+	6001393	9400	
+	6001394	9400	
+	6001395	9400	
+	6001396	9400	
+	6001397	9400	
+	6001398	9400	
+	6001399	9400	
+	6001400	9400	
+	6001401	9400	
+	6001402	9400	
+	6001403	9400	
+	6001551	9400	Quality Gold Ring of Fire Attack
+	6001549	9400	Quality Gold Ring of Earth Attack
+	6001552	9400	Quality Gold Ring of Air Attack
+	6001339	9400	Quality Gold Necklace of Intelligence
+	6001337	9400	Quality Gold Necklace of Dexterity
+	6001338	9400	Quality Gold Necklace of Constitution
+	6001435	9400	Quality Gold Bracelet of Water Defense
+	6001436	9400	Quality Gold Bracelet of Fire Defense
+	6001434	9400	Quality Gold Bracelet of Earth Defense
+	6001437	9400	Quality Gold Bracelet of Air Defense
+	6002979	9400	Quality Fluorescent Light
+	6001579	9400	Quality Diamond Ring of Water Attack
+	6001580	9400	Quality Diamond Ring of Fire Attack
+	6001578	9400	Quality Diamond Ring of Earth Attack
+	6001581	9400	Quality Diamond Ring of Air Attack
+	6001419	9400	Superior Iron Bracelet of Earth Defense
+	6001420	9400	Superior Iron Bracelet of Water Defense
+	6001421	9400	Superior Iron Bracelet of Fire Defense
+	6001422	9400	Superior Iron Bracelet of Air Defense
+	6001362	9400	Quality Diamond Necklace of Intelligence
+	6001360	9400	Quality Diamond Necklace of Dexterity
+	6001361	9400	Quality Diamond Necklace of Constitution
+	6001464	9400	Quality Diamond Bracelet of Water Defense
+	6001465	9400	Quality Diamond Bracelet of Fire Defense
+	6001463	9400	Quality Diamond Bracelet of Earth Defense
+	6001466	9400	Quality Diamond Bracelet of Air Defense
+	6002982	9400	Quality Candlelight
+	6001540	9400	Quality Bronze Ring of Water Attack
+	6001541	9400	Quality Bronze Ring of Fire Attack
+	6001539	9400	Quality Bronze Ring of Earth Attack
+	6001542	9400	Quality Bronze Ring of Air Attack
+	6001331	9400	Quality Bronze Necklace of Intelligence
+	6001329	9400	Quality Bronze Necklace of Dexterity
+	6001330	9400	Quality Bronze Necklace of Constitution
+	6001425	9400	Quality Bronze Bracelet of Water Defense
+	6001426	9400	Quality Bronze Bracelet of Fire Defense
+	6001424	9400	Quality Bronze Bracelet of Earth Defense
+	6001427	9400	Quality Bronze Bracelet of Air Defense
+	6001574	9400	Quality Amber Ring of Water Attack
+	6001443	9400	Superior Platinum Bracelet of Earth Defense
+	6001444	9400	Superior Platinum Bracelet of Water Defense
+	6001445	9400	Superior Platinum Bracelet of Fire Defense
+	6001446	9400	Superior Platinum Bracelet of Air Defense
+	6001575	9400	Quality Amber Ring of Fire Attack
+	6001573	9400	Quality Amber Ring of Earth Attack
+	6001576	9400	Quality Amber Ring of Air Attack
+	6001358	9400	Quality Amber Necklace of Intelligence
+	6001356	9400	Quality Amber Necklace of Dexterity
+	6001357	9400	Quality Amber Necklace of Constitution
+	6001459	9400	Quality Amber Bracelet of Water Defense
+	6001460	9400	Quality Amber Bracelet of Fire Defense
+	6001458	9400	Quality Amber Bracelet of Earth Defense
+	6001461	9400	Quality Amber Bracelet of Air Defense
+	6001569	9400	Quality Agate Ring of Water Attack
+	6001570	9400	Quality Agate Ring of Fire Attack
+	6001568	9400	Quality Agate Ring of Earth Attack
+	6001571	9400	Quality Agate Ring of Air Attack
+	6001354	9400	Quality Agate Necklace of Intelligence
+	6001352	9400	Quality Agate Necklace of Dexterity
+	6001353	9400	Quality Agate Necklace of Constitution
+	6001454	9400	Quality Agate Bracelet of Water Defense
+	6001455	9400	Quality Agate Bracelet of Fire Defense
+	6001453	9400	Quality Agate Bracelet of Earth Defense
+	6001467	9400	Superior Diamond Bracelet of Earth Defense
+	6001468	9400	Superior Diamond Bracelet of Water Defense
+	6001469	9400	Superior Diamond Bracelet of Fire Defense
+	6001470	9400	Superior Diamond Bracelet of Air Defense
+	6001471	9400	
+	6001472	9400	
+	6001473	9400	
+	6001474	9400	
+	6001475	9400	
+	6001476	9400	
+	6001477	9400	
+	6001478	9400	
+	6001479	9400	
+	6001480	9400	
+	6001481	9400	
+	6001482	9400	
+	6001483	9400	
+	6001484	9400	
+	6001485	9400	
+	6001486	9400	
+	6001487	9400	
+	6001488	9400	
+	6001489	9400	
+	6001490	9400	
+	6001491	9400	
+	6001492	9400	
+	6001493	9400	
+	6001494	9400	
+	6001495	9400	
+	6001496	9400	
+	6001497	9400	
+	6001498	9400	
+	6001499	9400	
+	6001500	9400	
+	6001501	9400	
+	6001502	9400	
+	6001503	9400	
+	6001504	9400	
+	6001505	9400	
+	6001506	9400	
+	6001507	9400	
+	6001508	9400	
+	6001509	9400	
+	6001510	9400	
+	6001511	9400	
+	6001512	9400	
+	6001513	9400	
+	6001514	9400	
+	6001515	9400	
+	6001516	9400	
+	6001517	9400	
+	6001518	9400	
+	6001456	9400	Quality Agate Bracelet of Air Defense
+	6002655	9400	Poor Quality Visor
+	6000007	9400	Poor Quality Straw Sandals
+	6000335	9400	Poor Quality Straw Sandals
+	6000663	9400	Poor Quality Straw Sandals
+	6000991	9400	Poor Quality Straw Sandals
+	6002328	9400	Poor Quality Straw Sandals
+	6001672	9400	Poor Quality Pants
+	6002000	9400	Poor Quality Pants
+	6000992	9400	Poor Quality Launcher
+	6000005	9400	Poor Quality Cloth Hat
+	6000333	9400	Poor Quality Cloth Hat
+	6000661	9400	Poor Quality Cloth Hat
+	6000989	9400	Poor Quality Cloth Hat
+	6001670	9400	Poor Quality Cloth Hat
+	6001534	9400	Superior Iron Ring of Earth Attack
+	6001535	9400	Superior Iron Ring of Water Attack
+	6001536	9400	Superior Iron Ring of Fire Attack
+	6001537	9400	Superior Iron Ring of Air Attack
+	6001998	9400	Poor Quality Cloth Hat
+	6002326	9400	Poor Quality Cloth Hat
+	6002654	9400	Poor Quality Cloth Hat
+	6000006	9400	Poor Quality Cloth Gown
+	6000334	9400	Poor Quality Cloth Gown
+	6000662	9400	Poor Quality Cloth Gown
+	6000990	9400	Poor Quality Cloth Gown
+	6001671	9400	Poor Quality Cloth Gown
+	6001999	9400	Poor Quality Cloth Gown
+	6002327	9400	Poor Quality Cloth Gown
+	6000336	9400	Poor Quality Boxing Gloves
+	6002657	9400	Poor Quality Bow and Arrow
+	6002656	9400	Poor Quality Body Armor
+	6002001	9400	Poor Quality Axe
+	6003177	9400	High Quality Wooden Ring of Water Attack
+	6003178	9400	High Quality Wooden Ring of Fire Attack
+	6003176	9400	High Quality Wooden Ring of Earth Attack
+	6003179	9400	High Quality Wooden Ring of Air Attack
+	6003045	9400	High Quality Wooden Necklace of Intelligence
+	6003043	9400	High Quality Wooden Necklace of Dexterity
+	6001558	9400	Superior Platinum Ring of Earth Attack
+	6001559	9400	Superior Platinum Ring of Water Attack
+	6001560	9400	Superior Platinum Ring of Fire Attack
+	6001561	9400	Superior Platinum Ring of Air Attack
+	6003044	9400	High Quality Wooden Necklace of Constitution
+	6003101	9400	High Quality Wooden Bracelet of Water Defense
+	6003102	9400	High Quality Wooden Bracelet of Fire Defense
+	6003100	9400	High Quality Wooden Bracelet of Earth Defense
+	6003103	9400	High Quality Wooden Bracelet of Air Defense
+	6002667	9400	High Quality Visor
+	6000019	9400	High Quality Straw Sandals
+	6000347	9400	High Quality Straw Sandals
+	6000675	9400	High Quality Straw Sandals
+	6001003	9400	High Quality Straw Sandals
+	6002340	9400	High Quality Straw Sandals
+	6003181	9400	High Quality Stone Ring of Water Attack
+	6003182	9400	High Quality Stone Ring of Fire Attack
+	6003180	9400	High Quality Stone Ring of Earth Attack
+	6003183	9400	High Quality Stone Ring of Air Attack
+	6003048	9400	High Quality Stone Necklace of Intelligence
+	6003046	9400	High Quality Stone Necklace of Dexterity
+	6003047	9400	High Quality Stone Necklace of Constitution
+	6003105	9400	High Quality Stone Bracelet of Water Defense
+	6003106	9400	High Quality Stone Bracelet of Fire Defense
+	6001582	9400	Superior Diamond Ring of Earth Attack
+	6001583	9400	Superior Diamond Ring of Water Attack
+	6001584	9400	Superior Diamond Ring of Fire Attack
+	6001585	9400	Superior Diamond Ring of Air Attack
+	6001586	9400	
+	6001587	9400	
+	6001588	9400	
+	6001589	9400	
+	6001590	9400	
+	6001591	9400	
+	6001592	9400	
+	6001593	9400	
+	6001594	9400	
+	6001595	9400	
+	6001596	9400	
+	6001597	9400	
+	6001598	9400	
+	6001599	9400	
+	6001600	9400	
+	6001601	9400	
+	6001602	9400	
+	6001603	9400	
+	6001604	9400	
+	6001605	9400	
+	6001606	9400	
+	6001607	9400	
+	6001608	9400	
+	6001609	9400	
+	6001610	9400	
+	6001611	9400	
+	6001612	9400	
+	6001613	9400	
+	6001614	9400	
+	6001615	9400	
+	6001616	9400	
+	6001617	9400	
+	6001618	9400	
+	6001619	9400	
+	6001620	9400	
+	6001621	9400	
+	6001622	9400	
+	6001623	9400	
+	6001624	9400	
+	6001625	9400	
+	6001626	9400	
+	6001627	9400	
+	6001628	9400	
+	6001629	9400	
+	6001630	9400	
+	6001631	9400	
+	6001632	9400	
+	6001633	9400	
+	6001634	9400	Lin Chung's Hat
+	6001635	9400	Lin Chung's Clothes
+	6001636	9400	Lin Chung's Shoes
+	6001637	9400	Lin Chung's Spear
+	6001638	9400	Mighty Ray's Bandana
+	6001639	9400	Mighty Ray's Vest
+	6001640	9400	Mighty Ray's Shoes
+	6001641	9400	Mighty Ray's Boxing Gloves
+	6001642	9400	Mystique Sonia's Hat
+	6001643	9400	Mystique Sonia's Clothes
+	6001644	9400	Mystique Sonia's Shoes
+	6001645	9400	Mystique Sonia's Staff
+	6001646	9400	Mr. No Hands's Bandana
+	6001647	9400	Mr. No Hands's Clothes
+	6001648	9400	Mr. No Hands's Shoes
+	6001649	9400	Mr. No Hands's Launcher
+	6001650	9400	Kowloon's Hat
+	6001651	9400	Kowloon's Clothes
+	6001652	9400	Kowloon's Pants
+	6001653	9400	Kowloon's Long Staff
+	6001654	9400	Hurricane Lee's Bandana
+	6001655	9400	Hurricane Lee's Pants
+	6001656	9400	Hurricane Lee's Vest
+	6001657	9400	Hurricane Lee's Axe
+	6001658	9400	Latifah's Hat
+	6001659	9400	Latifah's Shoes
+	6001660	9400	Latifah's Clothes
+	6001661	9400	Latifah's Spiked Mace
+	6001662	9400	Archer Lee's Bandana
+	6001663	9400	Archer Lee's Visor
+	6001664	9400	Archer Lee's Visor
+	6001665	9400	Archer Lee's Bow and Arrow
+	6001666	9400	Kowloon's Hat
+	6001667	9400	Kowloon's Clothes
+	6001668	9400	Kowloon's Pants
+	6001669	9400	Kowloon's Long Staff
+	6003104	9400	High Quality Stone Bracelet of Earth Defense
+	6003107	9400	High Quality Stone Bracelet of Air Defense
+	6003193	9400	High Quality Silver Ring of Water Attack
+	6001673	9400	Long Wood Staff
+	6001674	9400	Civilian Cloth Hat
+	6001675	9400	Civilian Cloth Gown
+	6001676	9400	Civilian Pants
+	6001677	9400	Long Iron Staff
+	6001678	9400	Traditional Cloth Hat
+	6001679	9400	Traditional Cloth Gown
+	6001680	9400	Traditional Pants
+	6001681	9400	Long Bronze Staff
+	6003194	9400	High Quality Silver Ring of Fire Attack
+	6003192	9400	High Quality Silver Ring of Earth Attack
+	6003195	9400	High Quality Silver Ring of Air Attack
+	6001685	9400	Long Silver Staff
+	6001686	9400	Zen Gray Hat
+	6001687	9400	Zen Gray Clothes
+	6001688	9400	Zen Gray Pants
+	6001689	9400	Long Zen Gray Wood Staff
+	6001690	9400	Green Lotus Hat
+	6001691	9400	Green Lotus Clothes
+	6001692	9400	Green Lotus Pants
+	6001693	9400	Long Green Lotus Iron Staff
+	6001694	9400	Deep Azure Hat
+	6001695	9400	Deep Azure Clothes
+	6001696	9400	Deep Azure Pants
+	6001697	9400	Long Deep Azure Bronze Staff
+	6001698	9400	Monastic Hat
+	6001699	9400	Monastic Clothes
+	6001700	9400	Monastic Pants
+	6001701	9400	Long Monastic Silver Staff
+	6001702	9400	Red Hot Hat
+	6001703	9400	Red Hot Clothes
+	6001704	9400	Red Hot Pants
+	6001705	9400	Long Red Hot Wood Staff
+	6001706	9400	Air Return Hat
+	6001707	9400	Air Return Clothes
+	6001708	9400	Air Return Pants
+	6001709	9400	Long Air Return Iron Staff
+	6001710	9400	Magical Hat
+	6001711	9400	Magical Clothes
+	6001712	9400	Magical Pants
+	6001713	9400	Long Magical Bronze Staff
+	6001714	9400	Buddha Hat
+	6001715	9400	Buddha Clothes
+	6001716	9400	Buddha Pants
+	6001717	9400	Long Buddha Silver Staff
+	6001718	9400	Cowskin Hat
+	6001719	9400	Cowskin Cloth Gown
+	6001720	9400	Cowskin Pants
+	6001721	9400	Long Golden Cow Staff
+	6001722	9400	Hermit Hat
+	6001723	9400	Hermit Robe
+	6001724	9400	Hermit Pants
+	6001725	9400	Long Hermit Wood Staff
+	6001726	9400	Layman Hat
+	6001727	9400	Layman Robe
+	6001728	9400	Layman Pants
+	6001729	9400	Long Layman Iron Staff
+	6001730	9400	Gentlemanly Hat
+	6001731	9400	Gentlemanly Robe
+	6001732	9400	Gentlemanly Pants
+	6001733	9400	Long Gentlemanly Bronze Staff
+	6001734	9400	Virtuoso Hat
+	6001735	9400	Virtuoso Robe
+	6001736	9400	Virtuoso Pants
+	6001737	9400	Long Virtuoso Silver Staff
+	6001738	9400	Warrior Hat
+	6001739	9400	Warrior Robe
+	6001740	9400	Warrior Pants
+	6001741	9400	Long Warrior Wood Staff
+	6001742	9400	Training Hat
+	6001743	9400	Training Robe
+	6001744	9400	Training Pants
+	6001745	9400	Long Training Iron Staff
+	6001746	9400	Steel Body Hat
+	6001747	9400	Steel Body Robe
+	6001748	9400	Steel Body Pants
+	6001749	9400	Long Steel Body Bronze Staff
+	6001750	9400	Martial Art Hat
+	6001751	9400	Martial Art Robe
+	6001752	9400	Martial Art Pants
+	6001753	9400	Long Martial Art Silver Staff
+	6001754	9400	Mongolian Hat
+	6001755	9400	Mongolian Robe
+	6001756	9400	Mongolian Pants
+	6001757	9400	Long Mongolian Wood Staff
+	6001758	9400	Wilderness Hat
+	6001759	9400	Wilderness Robe
+	6001760	9400	Wilderness Pants
+	6001761	9400	Long Wilderness Iron Staff
+	6001762	9400	Heroic Spirit Hat
+	6001763	9400	Heroic Spirit Robe
+	6001764	9400	Heroic Spirit Pants
+	6001765	9400	Long Heroic Spirit Bronze Staff
+	6001766	9400	Toothless Hat
+	6001767	9400	Toothless Robe
+	6001768	9400	Toothless Pants
+	6001769	9400	Long Toothless Silver Staff
+	6001770	9400	Wanderer Hat
+	6001771	9400	Wanderer Robe
+	6001772	9400	Wanderer Pants
+	6001773	9400	Long Wanderer Wood Staff
+	6001774	9400	Chivalry Hat
+	6001775	9400	Chivalry Robe
+	6001776	9400	Chivalry Pants
+	6001777	9400	Long Chivalry Iron Staff
+	6001778	9400	Thousand Steps Hat
+	6001779	9400	Thousand Steps Robe
+	6001780	9400	Thousand Steps Pants
+	6001781	9400	Long Thousand Steps Bronze Staff
+	6001782	9400	Tibetan Buddhism Hat
+	6001783	9400	Tibetan Buddhism Robe
+	6001784	9400	Tibetan Buddhism Pants
+	6001785	9400	Long Tibetan Buddhism Silver Staff
+	6001786	9400	Pharmacist Hat
+	6001787	9400	Pharmacist Robe
+	6001788	9400	Pharmacist Pants
+	6001789	9400	Long Pharmacist Gold Staff
+	6001790	9400	Plateau Hat
+	6001791	9400	Plateau Robe
+	6001792	9400	Plateau Pants
+	6001793	9400	Long Plateau Wood Staff
+	6001794	9400	Hunting Hat
+	6001795	9400	Hunting Robe
+	6001796	9400	Hunting Pants
+	6001797	9400	Long Hunting Iron Staff
+	6001798	9400	Beast Taming Hat
+	6001799	9400	Beast Taming Robe
+	6001800	9400	Beast Taming Pants
+	6001801	9400	Long Beast Taming Bronze Staff
+	6001802	9400	Fierce Body Hat
+	6001803	9400	Fierce Body Robe
+	6001804	9400	Fierce Body Pants
+	6001805	9400	Long Fierce Body Silver Staff
+	6001806	9400	Palace Hat
+	6001807	9400	Palace Robe
+	6001808	9400	Palace Pants
+	6001809	9400	Long Palace Wood Staff
+	6001810	9400	Sharp Eye Hat
+	6001811	9400	Sharp Eye Robe
+	6001812	9400	Sharp Eye Pants
+	6001813	9400	Long Sharp Eye Iron Staff
+	6001814	9400	Vigorous Tactic Hat
+	6001815	9400	Vigorous Tactic Robe
+	6001816	9400	Vigorous Tactic Pants
+	6001817	9400	Long Vigorous Tactic Bronze Staff
+	6001818	9400	Experience Hat
+	6001819	9400	Experience Robe
+	6001820	9400	Experience Pants
+	6001821	9400	Long Experience Silver Staff
+	6001822	9400	Jackal and Wolf Hat
+	6001823	9400	Jackal and Wolf Robe
+	6001824	9400	Jackal and Wolf Pants
+	6001825	9400	Long Jackal and Wolf Wood Staff
+	6001826	9400	Lone Wolf Hat
+	6001827	9400	Lone Wolf Robe
+	6001828	9400	Lone Wolf Pants
+	6001829	9400	Long Lone Wolf Iron Staff
+	6001830	9400	Silver Fox Hat
+	6001831	9400	Silver Fox Robe
+	6001832	9400	Silver Fox Pants
+	6001833	9400	Long Silver Fox Bronze Staff
+	6001834	9400	Howling Dog Hat
+	6001835	9400	Howling Dog Robe
+	6001836	9400	Howling Dog Shoes
+	6001837	9400	Long Howling Dog Silver Staff
+	6001838	9400	Gravel Hat
+	6001839	9400	Gravel Robe
+	6001840	9400	Gravel Pants
+	6001841	9400	Long Gravel Wood Staff
+	6001842	9400	Green Stone Hat
+	6001843	9400	Green Stone Robe
+	6001844	9400	Green Stone Pants
+	6001845	9400	Long Green Stone Iron Staff
+	6001846	9400	Boulder Hat
+	6001847	9400	Boulder Robe
+	6001848	9400	Boulder Pants
+	6001849	9400	Long Boulder Bronze Staff
+	6001850	9400	Meteor Hat
+	6001851	9400	Meteor Robe
+	6001852	9400	Meteor Pants
+	6001853	9400	Long Meteor Silver Staff
+	6001854	9400	Brass Armor Hat
+	6001855	9400	Brass Armor Robe
+	6001856	9400	Brass Armor Combat Pants
+	6001857	9400	Long Brass Armor Staff
+	6001858	9400	
+	6001859	9400	
+	6001860	9400	
+	6001861	9400	
+	6001862	9400	
+	6001863	9400	
+	6001864	9400	
+	6001865	9400	
+	6001866	9400	
+	6001867	9400	
+	6001868	9400	
+	6001869	9400	
+	6001870	9400	
+	6001871	9400	
+	6001872	9400	
+	6001873	9400	
+	6001874	9400	
+	6001875	9400	
+	6001876	9400	
+	6001877	9400	
+	6001878	9400	
+	6001879	9400	
+	6001880	9400	
+	6001881	9400	
+	6001882	9400	
+	6001883	9400	
+	6001884	9400	
+	6001885	9400	
+	6001886	9400	
+	6001887	9400	
+	6001888	9400	
+	6001889	9400	
+	6001890	9400	
+	6001891	9400	
+	6001892	9400	
+	6001893	9400	
+	6001894	9400	
+	6001895	9400	
+	6001896	9400	
+	6001897	9400	
+	6001898	9400	
+	6001899	9400	
+	6001900	9400	
+	6001901	9400	
+	6001902	9400	
+	6001903	9400	
+	6001904	9400	
+	6001905	9400	
+	6001906	9400	
+	6001907	9400	
+	6001908	9400	
+	6001909	9400	
+	6001910	9400	
+	6001911	9400	
+	6001912	9400	
+	6001913	9400	
+	6001914	9400	
+	6001915	9400	
+	6001916	9400	
+	6001917	9400	
+	6001918	9400	
+	6001919	9400	
+	6001920	9400	
+	6001921	9400	
+	6001922	9400	
+	6001923	9400	
+	6001924	9400	
+	6001925	9400	
+	6001926	9400	
+	6001927	9400	
+	6001928	9400	
+	6001929	9400	
+	6001930	9400	
+	6001931	9400	
+	6001932	9400	
+	6001933	9400	
+	6001934	9400	
+	6001935	9400	
+	6001936	9400	
+	6001937	9400	
+	6001938	9400	
+	6001939	9400	
+	6001940	9400	
+	6001941	9400	
+	6001942	9400	
+	6001943	9400	
+	6001944	9400	
+	6001945	9400	
+	6001946	9400	
+	6001947	9400	
+	6001948	9400	
+	6001949	9400	
+	6001950	9400	
+	6001951	9400	
+	6001952	9400	
+	6001953	9400	
+	6001954	9400	
+	6001955	9400	
+	6001956	9400	
+	6001957	9400	
+	6001958	9400	
+	6001959	9400	
+	6001960	9400	
+	6001961	9400	
+	6001962	9400	
+	6001963	9400	
+	6001964	9400	
+	6001965	9400	
+	6001966	9400	
+	6001967	9400	
+	6001968	9400	
+	6001969	9400	
+	6001970	9400	
+	6001971	9400	
+	6001972	9400	
+	6001973	9400	
+	6001974	9400	
+	6001975	9400	
+	6001976	9400	
+	6001977	9400	
+	6001978	9400	
+	6001979	9400	
+	6001980	9400	
+	6001981	9400	
+	6001982	9400	
+	6001983	9400	
+	6001984	9400	
+	6001985	9400	
+	6001986	9400	
+	6001987	9400	
+	6001988	9400	
+	6001989	9400	
+	6001990	9400	
+	6001991	9400	
+	6001992	9400	
+	6001993	9400	
+	6001994	9400	Hurricane Lee's Bandana
+	6001995	9400	Hurricane Lee's Vest
+	6001996	9400	Hurricane Lee's Pants
+	6001997	9400	Hurricane Lee's Axe
+	6003057	9400	High Quality Silver Necklace of Intelligence
+	6003055	9400	High Quality Silver Necklace of Dexterity
+	6003056	9400	High Quality Silver Necklace of Constitution
+	6003117	9400	High Quality Silver Bracelet of Water Defense
+	6002002	9400	Civilian Cloth Hat
+	6002003	9400	Civilian Cloth Gown
+	6002004	9400	Civilian Pants
+	6002005	9400	Iron Axe
+	6002006	9400	Traditional Cloth Hat
+	6002007	9400	Traditional Cloth Gown
+	6002008	9400	Traditional Pants
+	6002009	9400	Bronze Axe
+	6003118	9400	High Quality Silver Bracelet of Fire Defense
+	6003116	9400	High Quality Silver Bracelet of Earth Defense
+	6003119	9400	High Quality Silver Bracelet of Air Defense
+	6002013	9400	Silver Axe
+	6002014	9400	Rapid Thunder Hat
+	6002015	9400	Rapid Thunder Clothes
+	6002016	9400	Rapid Thunder Pants
+	6002017	9400	Rapid Thunder Axe
+	6002018	9400	Swift Thunder Hat
+	6002019	9400	Swift Thunder Clothes
+	6002020	9400	Swift Thunder Pants
+	6002021	9400	Swift Thunder Axe
+	6002022	9400	Thunderous Hat
+	6002023	9400	Thunderous Clothes
+	6002024	9400	Thunderous Pants
+	6002025	9400	Thunderous Axe
+	6002026	9400	Blasting Thunder Hat
+	6002027	9400	Blasting Thunder Clothes
+	6002028	9400	Blasting Thunder Pants
+	6002029	9400	Blasting Thunder Axe
+	6002030	9400	Micro-Electric Hat
+	6002031	9400	Micro-Electric Clothes
+	6002032	9400	Micro-Electric Pants
+	6002033	9400	Micro-Electric Axe
+	6002034	9400	Lightning Hat
+	6002035	9400	Lightning Clothes
+	6002036	9400	Lightning Pants
+	6002037	9400	Lightning Axe
+	6002038	9400	Bright Thunder Hat
+	6002039	9400	Bright Thunder Clothes
+	6002040	9400	Bright Thunder Pants
+	6002041	9400	Bright Thunder Axe
+	6002042	9400	Thunderbolt King Hat
+	6002043	9400	Thunderbolt King Clothes
+	6002044	9400	Thunderbolt King Pants
+	6002045	9400	Thunderbolt King Axe
+	6002046	9400	Deity of Wind Hat
+	6002047	9400	Deity of Wind Clothes
+	6002048	9400	Deity of Wind Pants
+	6002049	9400	Deity of Wind Axe
+	6002050	9400	Black Bull Hat
+	6002051	9400	Black Bull Clothes
+	6002052	9400	Black Bull Pants
+	6002053	9400	Black Bull Axe
+	6002054	9400	Barbaric Bull Hat
+	6002055	9400	Barbaric Bull Clothes
+	6002056	9400	Barbaric Bull Pants
+	6002057	9400	Barbaric Bull Axe
+	6002058	9400	Ferocious Bull Hat
+	6002059	9400	Ferocious Bull Clothes
+	6002060	9400	Ferocious Bull Pants
+	6002061	9400	Ferocious Bull Full Set
+	6002062	9400	Wild Bull Hat
+	6002063	9400	Wild Bull Clothes
+	6002064	9400	Wild Bull Pants
+	6002065	9400	Wild Bull Axe
+	6002066	9400	Pointed Horn Hat
+	6002067	9400	Pointed Horn Robe
+	6002068	9400	Pointed Horn Pants
+	6002069	9400	Pointed Horn Axe
+	6002070	9400	Sharp Thorn Hat
+	6002071	9400	Sharp Thorn Clothes
+	6002072	9400	Sharp Thorn Pants
+	6002073	9400	Sharp Thorn Axe
+	6002074	9400	Mixed Spot Hat
+	6002075	9400	Mixed Spot Clothes
+	6002076	9400	Mixed Spot Pants
+	6002077	9400	Mixed Spot Axe
+	6002078	9400	Spiked Edge Hat
+	6002079	9400	Spiked Edge Clothes
+	6002080	9400	Spiked Edge Pants
+	6002081	9400	Spiked Edge Axe
+	6002082	9400	Yellow Tiger Hat
+	6002083	9400	Yellow Tiger Clothes
+	6002084	9400	Yellow Tiger Pants
+	6002085	9400	Yellow Tiger Axe
+	6002086	9400	Ferocious Tiger Hat
+	6002087	9400	Ferocious Tiger Clothes
+	6002088	9400	Ferocious Tiger Pants
+	6002089	9400	Ferocious Tiger Axe
+	6002090	9400	Combat Tiger Hat
+	6002091	9400	Combat Tiger Clothes
+	6002092	9400	Combat Tiger Pants
+	6002093	9400	Combat Tiger Axe
+	6002094	9400	Tiger King Hat
+	6002095	9400	Tiger King Clothes
+	6002096	9400	Tiger King Pants
+	6002097	9400	Tiger King Axe
+	6002098	9400	Flying Tiger Hat
+	6002099	9400	Flying Tiger Clothes
+	6002100	9400	Flying Tiger Pants
+	6002101	9400	Flying Tiger Axe
+	6002102	9400	Subdued Tiger Hat
+	6002103	9400	Subdued Tiger Clothes
+	6002104	9400	Subdued Tiger Pants
+	6002105	9400	Subdued Tiger Axe
+	6002106	9400	Dominant Tiger Hat
+	6002107	9400	Dominant Tiger Clothes
+	6002108	9400	Dominant Tiger Pants
+	6002109	9400	Dominant Tiger Axe
+	6002110	9400	Divine Moment Hat
+	6002111	9400	Divine Moment Clothes
+	6002112	9400	Divine Moment Pants
+	6002113	9400	Divine Moment Axe
+	6002114	9400	Bull Warrior Helmet
+	6002115	9400	Bull Warrior Leather Clothes
+	6002116	9400	Bull Warrior Leather Pants
+	6002117	9400	Bull Warrior Axe
+	6002118	9400	Hidden Mist Hat
+	6002119	9400	Hidden Mist Clothes
+	6002120	9400	Hidden Mist Pants
+	6002121	9400	Hidden Mist Axe
+	6002122	9400	Potent Claw Hat
+	6002123	9400	Potent Claw Clothes
+	6002124	9400	Potent Claw Pants
+	6002125	9400	Potent Claw Axe
+	6002126	9400	Hidden Form Hat
+	6002127	9400	Hidden Form Clothes
+	6002128	9400	Hidden Form Pants
+	6002129	9400	Hidden Form Axe
+	6002130	9400	Cloak Concealment Hat
+	6002131	9400	Cloak Concealment Clothes
+	6002132	9400	Cloak Concealment Pants
+	6002133	9400	Cloak Concealment Axe
+	6002134	9400	Bandit Hat
+	6002135	9400	Bandit Clothes
+	6002136	9400	Bandit Pants
+	6002137	9400	Bandit Axe
+	6002138	9400	Dark Tiger Cub Hat
+	6002139	9400	Dark Tiger Cub Clothes
+	6002140	9400	Dark Tiger Cub Pants
+	6002141	9400	Dark Tiger Cub Axe
+	6002142	9400	Doom Hat
+	6002143	9400	Doom Clothes
+	6002144	9400	Doom Pants
+	6002145	9400	Doom Axe
+	6002146	9400	Power Hat
+	6002147	9400	Power Clothes
+	6002148	9400	Power Pants
+	6002149	9400	Power Axe
+	6002150	9400	Aluminum Armor Hat
+	6002151	9400	Aluminum Armor Clothes
+	6002152	9400	Aluminum Armor Pants
+	6002153	9400	Aluminum Armor Axe
+	6002154	9400	Iron Armor Hat
+	6002155	9400	Iron Armor Clothes
+	6002156	9400	Iron Armor Pants
+	6002157	9400	Iron Armor Axe
+	6002158	9400	Bronze Armor Hat
+	6002159	9400	Bronze Armor Clothes
+	6002160	9400	Bronze Armor Pants
+	6002161	9400	Bronze Armor Axe
+	6002162	9400	Silver Armor Hat
+	6002163	9400	Silver Armor Clothes
+	6002164	9400	Silver Armor Pants
+	6002165	9400	Silver Armor Axe
+	6002166	9400	Patterned Armor Hat
+	6002167	9400	Patterned Armor Clothes
+	6002168	9400	Patterned Armor Pants
+	6002169	9400	Patterned Armor Axe
+	6002170	9400	Armored Hat
+	6002171	9400	Armored Clothes
+	6002172	9400	Armored Pants
+	6002173	9400	Armored Axe
+	6002174	9400	Steel Armor Hat
+	6002175	9400	Steel Armor Clothes
+	6002176	9400	Steel Armor Pants
+	6002177	9400	Steel Armor Axe
+	6002178	9400	Alloy Hat
+	6002179	9400	Alloy Clothes
+	6002180	9400	Alloy Pants
+	6002181	9400	Alloy Axe
+	6002182	9400	Running Bull Armor Hat
+	6002183	9400	Running Bull Armor Clothes
+	6002184	9400	Running Bull Armor Pants
+	6002185	9400	Running Bull Axe
+	6002186	9400	
+	6002187	9400	
+	6002188	9400	
+	6002189	9400	
+	6002190	9400	
+	6002191	9400	
+	6002192	9400	
+	6002193	9400	
+	6002194	9400	
+	6002195	9400	
+	6002196	9400	
+	6002197	9400	
+	6002198	9400	
+	6002199	9400	
+	6002200	9400	
+	6002201	9400	
+	6002202	9400	
+	6002203	9400	
+	6002204	9400	
+	6002205	9400	
+	6002206	9400	
+	6002207	9400	
+	6002208	9400	
+	6002209	9400	
+	6002210	9400	
+	6002211	9400	
+	6002212	9400	
+	6002213	9400	
+	6002214	9400	
+	6002215	9400	
+	6002216	9400	
+	6002217	9400	
+	6002218	9400	
+	6002219	9400	
+	6002220	9400	
+	6002221	9400	
+	6002222	9400	
+	6002223	9400	
+	6002224	9400	
+	6002225	9400	
+	6002226	9400	
+	6002227	9400	
+	6002228	9400	
+	6002229	9400	
+	6002230	9400	
+	6002231	9400	
+	6002232	9400	
+	6002233	9400	
+	6002234	9400	
+	6002235	9400	
+	6002236	9400	
+	6002237	9400	
+	6002238	9400	
+	6002239	9400	
+	6002240	9400	
+	6002241	9400	
+	6002242	9400	
+	6002243	9400	
+	6002244	9400	
+	6002245	9400	
+	6002246	9400	
+	6002247	9400	
+	6002248	9400	
+	6002249	9400	
+	6002250	9400	
+	6002251	9400	
+	6002252	9400	
+	6002253	9400	
+	6002254	9400	
+	6002255	9400	
+	6002256	9400	
+	6002257	9400	
+	6002258	9400	
+	6002259	9400	
+	6002260	9400	
+	6002261	9400	
+	6002262	9400	
+	6002263	9400	
+	6002264	9400	
+	6002265	9400	
+	6002266	9400	
+	6002267	9400	
+	6002268	9400	
+	6002269	9400	
+	6002270	9400	
+	6002271	9400	
+	6002272	9400	
+	6002273	9400	
+	6002274	9400	
+	6002275	9400	
+	6002276	9400	
+	6002277	9400	
+	6002278	9400	
+	6002279	9400	
+	6002280	9400	
+	6002281	9400	
+	6002282	9400	
+	6002283	9400	
+	6002284	9400	
+	6002285	9400	
+	6002286	9400	
+	6002287	9400	
+	6002288	9400	
+	6002289	9400	
+	6002290	9400	
+	6002291	9400	
+	6002292	9400	
+	6002293	9400	
+	6002294	9400	
+	6002295	9400	
+	6002296	9400	
+	6002297	9400	
+	6002298	9400	
+	6002299	9400	
+	6002300	9400	
+	6002301	9400	
+	6002302	9400	
+	6002303	9400	
+	6002304	9400	
+	6002305	9400	
+	6002306	9400	
+	6002307	9400	
+	6002308	9400	
+	6002309	9400	
+	6002310	9400	
+	6002311	9400	
+	6002312	9400	
+	6002313	9400	
+	6002314	9400	
+	6002315	9400	
+	6002316	9400	
+	6002317	9400	
+	6002318	9400	
+	6002319	9400	
+	6002320	9400	
+	6002321	9400	
+	6002322	9400	Latifah's Hat
+	6002323	9400	Latifah's Clothes
+	6002324	9400	Latifah's Shoes
+	6002325	9400	Latifah's Spiked Mace
+	6003201	9400	High Quality Platinum Ring of Water Attack
+	6003202	9400	High Quality Platinum Ring of Fire Attack
+	6003200	9400	High Quality Platinum Ring of Earth Attack
+	6002329	9400	Wooden Spiked Mace
+	6002330	9400	Civilian Cloth Hat
+	6002331	9400	Civilian Cloth Gown
+	6002332	9400	Civilian Straw Sandals
+	6002333	9400	Iron Spiked Mace
+	6002334	9400	Traditional Cloth Hat
+	6002335	9400	Traditional Cloth Gown
+	6002336	9400	Traditional Straw Sandals
+	6002337	9400	Bronze Spiked Mace
+	6003203	9400	High Quality Platinum Ring of Air Attack
+	6003063	9400	High Quality Platinum Necklace of Intelligence
+	6003061	9400	High Quality Platinum Necklace of Dexterity
+	6002341	9400	Silver Spiked Mace
+	6002342	9400	OcSuperiorodous Hat
+	6002343	9400	OcSuperiorodous Clothes
+	6002344	9400	OcSuperiorodous Shoes
+	6002345	9400	OcSuperiorodous Spiked Mace
+	6002346	9400	Squid Hat
+	6002347	9400	Squid Clothes
+	6002348	9400	Squid Shoes
+	6002349	9400	Squid Spiked Mace
+	6002350	9400	OcSuperiorus Hat
+	6002351	9400	OcSuperiorus Clothes
+	6002352	9400	OcSuperiorus Shoes
+	6002353	9400	OcSuperiorus Spiked Mace
+	6002354	9400	OcSuperioroda Hat
+	6002355	9400	OcSuperioroda Clothes
+	6002356	9400	OcSuperioroda Shoes
+	6002357	9400	OcSuperioroda Spiked Mace
+	6002358	9400	Sepiida Hat
+	6002359	9400	Sepiida Clothes
+	6002360	9400	Sepiida Shoes
+	6002361	9400	Sepiida Spiked Mace
+	6002362	9400	Cuttlefish Hat
+	6002363	9400	Cuttlefish Clothes
+	6002364	9400	Cuttlefish Shoes
+	6002365	9400	Cuttlefish Spiked Mace
+	6002366	9400	Neritic Squid Hat
+	6002367	9400	Neritic Squid Clothes
+	6002368	9400	Neritic Squid Shoes
+	6002369	9400	Neritic Squid Spiked Mace
+	6002370	9400	Sepia Hat
+	6002371	9400	Sepia Clothes
+	6002372	9400	Sepia Shoes
+	6002373	9400	Sepia Spiked Mace
+	6002374	9400	Lean Bull Leather Hat
+	6002375	9400	Lean Bull Leather Clothes
+	6002376	9400	Lean Bull Leather Shoes
+	6002377	9400	Bull's Horn Spiked Mace
+	6002378	9400	Pirate Hat
+	6002379	9400	Pirate Clothes
+	6002380	9400	Pirate Shoes
+	6002381	9400	Pirate Spiked Mace
+	6002382	9400	Sailor Hat
+	6002383	9400	Sailor Clothes
+	6002384	9400	Sailor Shoes
+	6002385	9400	Sailor Spiked Mace
+	6002386	9400	First Mate Hat
+	6002387	9400	First Mate Clothes
+	6002388	9400	First Mate Shoes
+	6002389	9400	First Mate Spiked Mace
+	6002390	9400	Sailing King Hat
+	6002391	9400	Sailing King Clothes
+	6002392	9400	Sailing King Shoes
+	6002393	9400	Sailing King Spiked Mace
+	6002394	9400	Sea Crossing Hat
+	6002395	9400	Sea Crossing Clothes
+	6002396	9400	Sea Crossing Shoes
+	6002397	9400	Sea Crossing Spiked Mace
+	6002398	9400	Wind Riding Hat
+	6002399	9400	Wind Riding Clothes
+	6002400	9400	Wind Riding Shoes
+	6002401	9400	Wind Riding Spiked Mace
+	6002402	9400	Surge Hat
+	6002403	9400	Surge Clothes
+	6002404	9400	Surge Shoes
+	6002405	9400	Surge Spiked Mace
+	6002406	9400	Howling Hat
+	6002407	9400	Howling Clothes
+	6002408	9400	Howling Shoes
+	6002409	9400	Howling Spiked Mace
+	6002410	9400	Foreigner Hat
+	6002411	9400	Foreigner Clothes
+	6002412	9400	Foreigner Shoes
+	6002413	9400	Foreigner Spiked Mace
+	6002414	9400	Torrid Summer Hat
+	6002415	9400	Torrid Summer Clothes
+	6002416	9400	Torrid Summer Shoes
+	6002417	9400	Torrid Summer Spiked Mace
+	6002418	9400	Star and Moon Hat
+	6002419	9400	Star and Moon Clothes
+	6002420	9400	Star and Moon Shoes
+	6002421	9400	Star and Moon Spiked Mace
+	6002422	9400	Mayan Hat
+	6002423	9400	Mayan Clothes
+	6002424	9400	Mayan Shoes
+	6002425	9400	Mayan Spiked Mace
+	6002426	9400	Pasha Hat
+	6002427	9400	Pasha Clothes
+	6002428	9400	Pasha Shoes
+	6002429	9400	Pasha Spiked Mace
+	6002430	9400	Tulu Hat
+	6002431	9400	Tulu Clothes
+	6002432	9400	Tulu Shoes
+	6002433	9400	Tulu Spiked Mace
+	6002434	9400	Kannong Hat
+	6002435	9400	Kannong Clothes
+	6002436	9400	Kannong Shoes
+	6002437	9400	Kannong Spiked Mace
+	6002438	9400	Turkey Hat
+	6002439	9400	Turkey Clothes
+	6002440	9400	Turkey Shoes
+	6002441	9400	Turkey Spiked Mace
+	6002442	9400	Peacock Hat
+	6002443	9400	Peacock Clothes
+	6002444	9400	Peacock Shoes
+	6002445	9400	Peacock Spiked Mace
+	6002446	9400	Clown Hat
+	6002447	9400	Clown Clothes
+	6002448	9400	Clown Shoes
+	6002449	9400	Clown Spiked Mace
+	6002450	9400	Acrobatic Hat
+	6002451	9400	Acrobatic Clothes
+	6002452	9400	Acrobatic Shoes
+	6002453	9400	Acrobatic Spiked Mace
+	6002454	9400	Dancer Hat
+	6002455	9400	Dancer Clothes
+	6002456	9400	Dancer Shoes
+	6002457	9400	Dancer Spiked Mace
+	6002458	9400	Phantom Hat
+	6002459	9400	Phantom Clothes
+	6002460	9400	Phantom Shoes
+	6002461	9400	Phantom Spiked Mace
+	6002462	9400	Greedy Hat
+	6002463	9400	Greedy Clothes
+	6002464	9400	Greedy Shoes
+	6002465	9400	Greedy Spiked Mace
+	6002466	9400	Dream Hat
+	6002467	9400	Dream Clothes
+	6002468	9400	Dream Shoes
+	6002469	9400	Dream Spiked Mace
+	6002470	9400	Illusion Hat
+	6002471	9400	Illusion Clothes
+	6002472	9400	Illusion Shoes
+	6002473	9400	Illusion Spiked Mace
+	6002474	9400	Shadowy Hat
+	6002475	9400	Shadowy Clothes
+	6002476	9400	Shadowy Shoes
+	6002477	9400	Shadowy Spiked Mace
+	6002478	9400	Little Ghost Hat
+	6002479	9400	Little Ghost Clothes
+	6002480	9400	Little Ghost Shoes
+	6002481	9400	Little Ghost Spiked Mace
+	6002482	9400	Ghostly Hat
+	6002483	9400	Ghostly Clothes
+	6002484	9400	Ghostly Shoes
+	6002485	9400	Ghostly Spiked Mace
+	6002486	9400	Loud Ghost Hat
+	6002487	9400	Loud Ghost Clothes
+	6002488	9400	Loud Ghost Shoes
+	6002489	9400	Loud Ghost Spiked Mace
+	6002490	9400	Yaksha Hat
+	6002491	9400	Yaksha Clothes
+	6002492	9400	Yaksha Shoes
+	6002493	9400	Yaksha Spiked Mace
+	6002494	9400	Spirit Hat
+	6002495	9400	Spirit Clothes
+	6002496	9400	Spirit Shoes
+	6002497	9400	Spirit Spiked Mace
+	6002498	9400	Demon Hat
+	6002499	9400	Demon Clothes
+	6002500	9400	Demon Shoes
+	6002501	9400	Demon Spiked Mace
+	6002502	9400	Nightmare Hat
+	6002503	9400	Nightmare Clothes
+	6002504	9400	Nightmare Shoes
+	6002505	9400	Nightmare Spiked Mace
+	6002506	9400	Bloodthirsty Hat
+	6002507	9400	Bloodthirsty Clothes
+	6002508	9400	Bloodthirsty Shoes
+	6002509	9400	Bloodthirsty Spiked Mace
+	6002510	9400	Tulip Hat
+	6002511	9400	Tulip Silk Clothes
+	6002512	9400	Tulip Shoes
+	6002513	9400	Tulip Spiked Mace
+	6002514	9400	
+	6002515	9400	
+	6002516	9400	
+	6002517	9400	
+	6002518	9400	
+	6002519	9400	
+	6002520	9400	
+	6002521	9400	
+	6002522	9400	
+	6002523	9400	
+	6002524	9400	
+	6002525	9400	
+	6002526	9400	
+	6002527	9400	
+	6002528	9400	
+	6002529	9400	
+	6002530	9400	
+	6002531	9400	
+	6002532	9400	
+	6002533	9400	
+	6002534	9400	
+	6002535	9400	
+	6002536	9400	
+	6002537	9400	
+	6002538	9400	
+	6002539	9400	
+	6002540	9400	
+	6002541	9400	
+	6002542	9400	
+	6002543	9400	
+	6002544	9400	
+	6002545	9400	
+	6002546	9400	
+	6002547	9400	
+	6002548	9400	
+	6002549	9400	
+	6002550	9400	
+	6002551	9400	
+	6002552	9400	
+	6002553	9400	
+	6002554	9400	
+	6002555	9400	
+	6002556	9400	
+	6002557	9400	
+	6002558	9400	
+	6002559	9400	
+	6002560	9400	
+	6002561	9400	
+	6002562	9400	
+	6002563	9400	
+	6002564	9400	
+	6002565	9400	
+	6002566	9400	
+	6002567	9400	
+	6002568	9400	
+	6002569	9400	
+	6002570	9400	
+	6002571	9400	
+	6002572	9400	
+	6002573	9400	
+	6002574	9400	
+	6002575	9400	
+	6002576	9400	
+	6002577	9400	
+	6002578	9400	
+	6002579	9400	
+	6002580	9400	
+	6002581	9400	
+	6002582	9400	
+	6002583	9400	
+	6002584	9400	
+	6002585	9400	
+	6002586	9400	
+	6002587	9400	
+	6002588	9400	
+	6002589	9400	
+	6002590	9400	
+	6002591	9400	
+	6002592	9400	
+	6002593	9400	
+	6002594	9400	
+	6002595	9400	
+	6002596	9400	
+	6002597	9400	
+	6002598	9400	
+	6002599	9400	
+	6002600	9400	
+	6002601	9400	
+	6002602	9400	
+	6002603	9400	
+	6002604	9400	
+	6002605	9400	
+	6002606	9400	
+	6002607	9400	
+	6002608	9400	
+	6002609	9400	
+	6002610	9400	
+	6002611	9400	
+	6002612	9400	
+	6002613	9400	
+	6002614	9400	
+	6002615	9400	
+	6002616	9400	
+	6002617	9400	
+	6002618	9400	
+	6002619	9400	
+	6002620	9400	
+	6002621	9400	
+	6002622	9400	
+	6002623	9400	
+	6002624	9400	
+	6002625	9400	
+	6002626	9400	
+	6002627	9400	
+	6002628	9400	
+	6002629	9400	
+	6002630	9400	
+	6002631	9400	
+	6002632	9400	
+	6002633	9400	
+	6002634	9400	
+	6002635	9400	
+	6002636	9400	
+	6002637	9400	
+	6002638	9400	
+	6002639	9400	
+	6002640	9400	
+	6002641	9400	
+	6002642	9400	
+	6002643	9400	
+	6002644	9400	
+	6002645	9400	
+	6002646	9400	
+	6002647	9400	
+	6002648	9400	
+	6002649	9400	
+	6002650	9400	Archer Lee's Bandana
+	6002651	9400	Archer Lee's Visor
+	6002652	9400	Archer Lee's Body Armor
+	6002653	9400	Archer Lee's Bow and Arrow
+	6003062	9400	High Quality Platinum Necklace of Constitution
+	6003125	9400	High Quality Platinum Bracelet of Water Defense
+	6003126	9400	High Quality Platinum Bracelet of Fire Defense
+	6003124	9400	High Quality Platinum Bracelet of Earth Defense
+	6002658	9400	Civilian Cloth Hat
+	6002659	9400	Civilian Visor
+	6002660	9400	Civilian Body Armor
+	6002661	9400	Iron Bow and Arrow
+	6002662	9400	Traditional Cloth Hat
+	6002663	9400	Traditional Visor
+	6002664	9400	Traditional Body Armor
+	6002665	9400	Bronze Bow and Arrow
+	6003127	9400	High Quality Platinum Bracelet of Air Defense
+	6003205	9400	High Quality Pearl Ring of Water Attack
+	6003206	9400	High Quality Pearl Ring of Fire Attack
+	6002669	9400	Silver Bow and Arrow
+	6002670	9400	Intern Hat
+	6002671	9400	Intern Visor
+	6002672	9400	Intern Body Armor
+	6002673	9400	Intern Bow and Arrow
+	6002674	9400	Student Hat
+	6002675	9400	Student Visor
+	6002676	9400	Student Body Armor
+	6002677	9400	Student Bow and Arrow
+	6002678	9400	University Hat
+	6002679	9400	University Visor
+	6002680	9400	University Body Armor
+	6002681	9400	University Bow and Arrow
+	6002682	9400	Researcher Hat
+	6002683	9400	Researcher Visor
+	6002684	9400	Researcher Body Armor
+	6002685	9400	Researcher Bow and Arrow
+	6002686	9400	Scholarly Hat
+	6002687	9400	Scholarly Visor
+	6002688	9400	Scholarly Body Armor
+	6002689	9400	Scholarly Bow and Arrow
+	6002690	9400	Sky and Earth Hat
+	6002691	9400	Sky and Earth Visor
+	6002692	9400	Sky and Earth Body Armor
+	6002693	9400	Sky and Earth Bow and Arrow
+	6002694	9400	Blue Sea Hat
+	6002695	9400	Blue Sea Visor
+	6002696	9400	Blue Sea Body Armor
+	6002697	9400	Blue Sea Bow and Arrow
+	6002698	9400	Sacred Emperor Hat
+	6002699	9400	Sacred Emperor Visor
+	6002700	9400	Sacred Emperor Body Armor
+	6002701	9400	Sacred Emperor Bow and Arrow
+	6002702	9400	Brewing Hat
+	6002703	9400	Brewing Visor
+	6002704	9400	Brewing Body Armor
+	6002705	9400	Brewing Bow and Arrow
+	6002706	9400	Polar Hat
+	6002707	9400	Polar Visor
+	6002708	9400	Polar Body Armor
+	6002709	9400	Polar Bow and Arrow
+	6002710	9400	Trench Hat
+	6002711	9400	Trench Visor
+	6002712	9400	Trench Body Armor
+	6002713	9400	Trench Bow and Arrow
+	6002714	9400	Gods and Ghosts Hat
+	6002715	9400	Gods and Ghosts Visor
+	6002716	9400	Gods and Ghosts Body Armor
+	6002717	9400	Gods and Ghosts Bow and Arrow
+	6002718	9400	Wailing Hat
+	6002719	9400	Wailing Visor
+	6002720	9400	Wailing Body Armor
+	6002721	9400	Wailing Bow and Arrow
+	6002722	9400	Ice Cold Hat
+	6002723	9400	Ice Cold Visor
+	6002724	9400	Ice Cold Body Armor
+	6002725	9400	Ice Cold Bow and Arrow
+	6002726	9400	Rock Climbing Hat
+	6002727	9400	Rock Climbing Visor
+	6002728	9400	Rock Climbing Body Armor
+	6002729	9400	Rock Climbing Bow and Arrow
+	6002730	9400	Highland Hat
+	6002731	9400	Highland Visor
+	6002732	9400	Highland Body Armor
+	6002733	9400	Highland Bow and Arrow
+	6002734	9400	Snowy Mountain Hat
+	6002735	9400	Snowy Mountain Visor
+	6002736	9400	Snowy Mountain Body Armor
+	6002737	9400	Snowy Mountain Bow and Arrow
+	6002738	9400	Spotted Tiger Hat
+	6002739	9400	Spotted Tiger Visor
+	6002740	9400	Spotted Tiger Body Armor
+	6002741	9400	Spotted Tiger Bow and Arrow
+	6002742	9400	Fighting Tiger Hat
+	6002743	9400	Fighting Tiger Visor
+	6002744	9400	Fighting Tiger Body Armor
+	6002745	9400	Fighting Tiger Bow and Arrow
+	6002746	9400	Ferocious Tiger Hat
+	6002747	9400	Ferocious Tiger Visor
+	6002748	9400	Ferocious Tiger Body Armor
+	6002749	9400	Ferocious Tiger Bow and Arrow
+	6002750	9400	Fiery Tiger Hat
+	6002751	9400	Fiery Tiger Visor
+	6002752	9400	Fiery Tiger Body Armor
+	6002753	9400	Fiery Tiger Bow and Arrow
+	6002754	9400	Striped Tiger Hat
+	6002755	9400	Striped Tiger Visor
+	6002756	9400	Striped Tiger Body Armor
+	6002757	9400	Striped Tiger Bow and Arrow
+	6002758	9400	Illusion Tiger Hat
+	6002759	9400	Illusion Tiger Visor
+	6002760	9400	Illusion Tiger Body Armor
+	6002761	9400	Illusion Tiger Bow and Arrow
+	6002762	9400	Underworld Tiger Hat
+	6002763	9400	Underworld Tiger Visor
+	6002764	9400	Underworld Tiger Body Armor
+	6002765	9400	Underworld Tiger Bow and Arrow
+	6002766	9400	Spiritual Tiger Hat
+	6002767	9400	Spiritual Tiger Visor
+	6002768	9400	Spiritual Tiger Body Armor
+	6002769	9400	Spiritual Tiger Bow and Arrow
+	6002770	9400	Hot Spring Hat
+	6002771	9400	Hot Spring Visor
+	6002772	9400	Hot Spring Body Armor
+	6002773	9400	Hot Spring Bow and Arrow
+	6002774	9400	Prisoner of War Hat
+	6002775	9400	Prisoner of War Visor
+	6002776	9400	Prisoner of War Body Armor
+	6002777	9400	Prisoner of War Bow and Arrow
+	6002778	9400	Beggar Hat
+	6002779	9400	Beggar Visor
+	6002780	9400	Beggar Body Armor
+	6002781	9400	Beggar Bow and Arrow
+	6002782	9400	Counseling Hat
+	6002783	9400	Counseling Visor
+	6002784	9400	Counseling Body Armor
+	6002785	9400	Counseling Bow and Arrow
+	6002786	9400	Light Returning Hat
+	6002787	9400	Light Returning Visor
+	6002788	9400	Light Returning Body Armor
+	6002789	9400	Light Returning Bow and Arrow
+	6002790	9400	Emptiness Hat
+	6002791	9400	Emptiness Visor
+	6002792	9400	Emptiness Body Armor
+	6002793	9400	Emptiness Bow and Arrow
+	6002794	9400	Silence Hat
+	6002795	9400	Silence Visor
+	6002796	9400	Silence Body Armor
+	6002797	9400	Silence Bow and Arrow
+	6002798	9400	Disaster Hat
+	6002799	9400	Disaster Visor
+	6002800	9400	Disaster Body Armor
+	6002801	9400	Disaster Bow and Arrow
+	6002802	9400	Spirit-Binding Hat
+	6002803	9400	Spirit-Binding Visor
+	6002804	9400	Spirit-Binding Body Armor
+	6002805	9400	Spirit-Binding Bow and Arrow
+	6002806	9400	Guidance Hat
+	6002807	9400	Guidance Visor
+	6002808	9400	Guidance Body Armor
+	6002809	9400	Guidance Bow and Arrow
+	6002810	9400	Gaze Hat
+	6002811	9400	Gaze Visor
+	6002812	9400	Gaze Body Armor
+	6002813	9400	Gaze Bow and Arrow
+	6002814	9400	Bard Hat
+	6002815	9400	Bard Visor
+	6002816	9400	Bard Body Armor
+	6002817	9400	Bard Bow and Arrow
+	6002818	9400	Prayer Hat
+	6002819	9400	Prayer Visor
+	6002820	9400	Prayer Body Armor
+	6002821	9400	Prayer Bow and Arrow
+	6002822	9400	Arrogance Hat
+	6002823	9400	Arrogance Visor
+	6002824	9400	Arrogance Body Armor
+	6002825	9400	Arrogance Bow and Arrow
+	6002826	9400	Secrecy Hat
+	6002827	9400	Secrecy Visor
+	6002828	9400	Secrecy Body Armor
+	6002829	9400	Secrecy Magical Bow and Arrow
+	6002830	9400	Vision Hat
+	6002831	9400	Vision Visor
+	6002832	9400	Vision Body Armor
+	6002833	9400	Vision Bow and Arrow
+	6002834	9400	Crusade Hat
+	6002835	9400	Crusade Visor
+	6002836	9400	Crusade Body Armor
+	6002837	9400	Crusade Bow and Arrow
+	6002838	9400	Iron Swallow Hat
+	6002839	9400	Iron Swallow Visor
+	6002840	9400	Iron Swallow Body Armor
+	6002841	9400	Iron Swallow Bow and Arrow
+	6002842	9400	
+	6002843	9400	
+	6002844	9400	
+	6002845	9400	
+	6002846	9400	
+	6002847	9400	
+	6002848	9400	
+	6002849	9400	
+	6002850	9400	
+	6002851	9400	
+	6002852	9400	
+	6002853	9400	
+	6002854	9400	
+	6002855	9400	
+	6002856	9400	
+	6002857	9400	
+	6002858	9400	
+	6002859	9400	
+	6002860	9400	
+	6002861	9400	
+	6002862	9400	
+	6002863	9400	
+	6002864	9400	
+	6002865	9400	
+	6002866	9400	
+	6002867	9400	
+	6002868	9400	
+	6002869	9400	
+	6002870	9400	
+	6002871	9400	
+	6002872	9400	
+	6002873	9400	
+	6002874	9400	
+	6002875	9400	
+	6002876	9400	
+	6002877	9400	
+	6002878	9400	
+	6002879	9400	
+	6002880	9400	
+	6002881	9400	
+	6002882	9400	
+	6002883	9400	
+	6002884	9400	
+	6002885	9400	
+	6002886	9400	
+	6002887	9400	
+	6002888	9400	
+	6002889	9400	
+	6002890	9400	
+	6002891	9400	
+	6002892	9400	
+	6002893	9400	
+	6002894	9400	
+	6002895	9400	
+	6002896	9400	
+	6002897	9400	
+	6002898	9400	
+	6002899	9400	
+	6002900	9400	
+	6002901	9400	
+	6002902	9400	
+	6002903	9400	
+	6002904	9400	
+	6002905	9400	
+	6002906	9400	
+	6002907	9400	
+	6002908	9400	
+	6002909	9400	
+	6002910	9400	
+	6002911	9400	
+	6002912	9400	
+	6002913	9400	
+	6002914	9400	
+	6002915	9400	
+	6002916	9400	
+	6002917	9400	
+	6002918	9400	
+	6002919	9400	
+	6002920	9400	
+	6002921	9400	
+	6002922	9400	
+	6002923	9400	
+	6002924	9400	
+	6002925	9400	
+	6002926	9400	
+	6002927	9400	
+	6002928	9400	
+	6002929	9400	
+	6002930	9400	
+	6002931	9400	
+	6002932	9400	
+	6002933	9400	
+	6002934	9400	
+	6002935	9400	
+	6002936	9400	
+	6002937	9400	
+	6002938	9400	
+	6002939	9400	
+	6002940	9400	
+	6002941	9400	
+	6002942	9400	
+	6002943	9400	
+	6002944	9400	
+	6002945	9400	
+	6002946	9400	
+	6002947	9400	
+	6002948	9400	
+	6002949	9400	
+	6002950	9400	
+	6002951	9400	
+	6002952	9400	
+	6002953	9400	
+	6002954	9400	
+	6002955	9400	
+	6002956	9400	
+	6002957	9400	
+	6002958	9400	
+	6002959	9400	
+	6002960	9400	
+	6002961	9400	
+	6002962	9400	
+	6002963	9400	
+	6002964	9400	
+	6002965	9400	
+	6002966	9400	
+	6002967	9400	
+	6002968	9400	
+	6002969	9400	
+	6002970	9400	
+	6002971	9400	
+	6002972	9400	
+	6002973	9400	
+	6002974	9400	
+	6002975	9400	
+	6002976	9400	
+	6002977	9400	
+	6002978	9400	Normal Fluorescent Light
+	6003204	9400	High Quality Pearl Ring of Earth Attack
+	6002980	9400	Starlight
+	6002981	9400	Normal Candlelight
+	6003207	9400	High Quality Pearl Ring of Air Attack
+	6002983	9400	Normal Magic Light
+	6002984	9400	Hotei Monk
+	6002985	9400	Normal Spirit
+	6003066	9400	High Quality Pearl Necklace of Intelligence
+	6002987	9400	Normal Guardian
+	6002988	9400	Positive God
+	6002989	9400	Blessing
+	6002990	9400	Normal Holy Protection
+	6003064	9400	High Quality Pearl Necklace of Dexterity
+	6002992	9400	Normal Radiance
+	6002993	9400	Goddess Mazu
+	6002994	9400	Normal Resplendence
+	6003065	9400	High Quality Pearl Necklace of Constitution
+	6002996	9400	Normal Sparkle
+	6002997	9400	Ksitigarbha
+	6002998	9400	Hope
+	6002999	9400	Guardian Angel
+	6003000	9400	Holy Spirit
+	6003001	9400	Angel
+	6003002	9400	Cupid
+	6003003	9400	Athena
+	6003004	9400	Guardian Starlight
+	6003005	9400	Sparkling Starlight
+	6003006	9400	Magnificent Starlight
+	6003007	9400	Splendid Starlight
+	6003008	9400	Dazzling Starlight
+	6003009	9400	Glittering Starlight
+	6003010	9400	Brilliant Starlight
+	6003011	9400	GM Hat - Lin Chung 
+	6003012	9400	GM Outfit - Lin Chung 
+	6003013	9400	GM Boots - Lin Chung 
+	6003014	9400	GM Spear - Lin Chung 
+	6003015	9400	GM Hat - Mighty Ray
+	6003016	9400	GM Outfit - Mighty Ray
+	6003017	9400	GM Boots - Mighty Ray
+	6003018	9400	GM Boxing Gloves - Mighty Ray
+	6003019	9400	GM Hat - Mystique Sonia 
+	6003020	9400	GM Outfit - Mystique Sonia 
+	6003021	9400	GM Boots - Mystique Sonia 
+	6003022	9400	GM Staff - Mystique Sonia 
+	6003023	9400	GM Hat - Mr. No Hands
+	6003024	9400	GM Outfit - Mr. No Hands
+	6003025	9400	GM Boots - Mr. No Hands
+	6003026	9400	GM Badge - Mr. No Hands
+	6003027	9400	GM Hat - Kowloon
+	6003028	9400	GM Outfit - Kowloon
+	6003029	9400	GM Pants - Kowloon
+	6003030	9400	GM Staff - Kowloon 
+	6003031	9400	GM Hat - Hurricane Lee
+	6003032	9400	GM Outfit - Hurricane Lee
+	6003033	9400	GM Pants - Hurricane Lee
+	6003034	9400	GM Axe - Hurricane Lee
+	6003035	9400	GM Hat - Latifah
+	6003036	9400	GM Outfit - Latifah 
+	6003037	9400	GM Boots - Latifah
+	6003038	9400	GM Spiked Mace - Latifah 
+	6003039	9400	GM Hat - Archer Lee
+	6003040	9400	GM Visor - Archer Lee
+	6003041	9400	GM Armor - Archer Lee
+	6003042	9400	GM Bow and Arrow - Archer Lee
+	6003129	9400	High Quality Pearl Bracelet of Water Defense
+	6003130	9400	High Quality Pearl Bracelet of Fire Defense
+	6003128	9400	High Quality Pearl Bracelet of Earth Defense
+	6003131	9400	High Quality Pearl Bracelet of Air Defense
+	6001684	9400	High Quality Pants
+	6002012	9400	High Quality Pants
+	6003185	9400	High Quality Iron Ring of Water Attack
+	6003186	9400	High Quality Iron Ring of Fire Attack
+	6003184	9400	High Quality Iron Ring of Earth Attack
+	6003187	9400	High Quality Iron Ring of Air Attack
+	6003051	9400	High Quality Iron Necklace of Intelligence
+	6003049	9400	High Quality Iron Necklace of Dexterity
+	6003050	9400	High Quality Iron Necklace of Constitution
+	6003109	9400	High Quality Iron Bracelet of Water Defense
+	6003110	9400	High Quality Iron Bracelet of Fire Defense
+	6003108	9400	High Quality Iron Bracelet of Earth Defense
+	6003111	9400	High Quality Iron Bracelet of Air Defense
+	6003197	9400	High Quality Gold Ring of Water Attack
+	6003198	9400	High Quality Gold Ring of Fire Attack
+	6003196	9400	High Quality Gold Ring of Earth Attack
+	6003199	9400	High Quality Gold Ring of Air Attack
+	6003060	9400	High Quality Gold Necklace of Intelligence
+	6003058	9400	High Quality Gold Necklace of Dexterity
+	6003059	9400	High Quality Gold Necklace of Constitution
+	6003121	9400	High Quality Gold Bracelet of Water Defense
+	6003122	9400	High Quality Gold Bracelet of Fire Defense
+	6003120	9400	High Quality Gold Bracelet of Earth Defense
+	6003123	9400	High Quality Gold Bracelet of Air Defense
+	6003217	9400	High Quality Diamond Ring of Water Attack
+	6003218	9400	High Quality Diamond Ring of Fire Attack
+	6003216	9400	High Quality Diamond Ring of Earth Attack
+	6003219	9400	High Quality Diamond Ring of Air Attack
+	6003075	9400	High Quality Diamond Necklace of Intelligence
+	6003076	9400	
+	6003077	9400	
+	6003078	9400	
+	6003079	9400	
+	6003080	9400	
+	6003081	9400	
+	6003082	9400	
+	6003083	9400	
+	6003084	9400	
+	6003085	9400	
+	6003086	9400	
+	6003087	9400	
+	6003088	9400	
+	6003089	9400	
+	6003090	9400	
+	6003091	9400	
+	6003092	9400	
+	6003093	9400	
+	6003094	9400	
+	6003095	9400	
+	6003096	9400	
+	6003097	9400	
+	6003098	9400	
+	6003099	9400	
+	6003073	9400	High Quality Diamond Necklace of Dexterity
+	6003074	9400	High Quality Diamond Necklace of Constitution
+	6003141	9400	High Quality Diamond Bracelet of Water Defense
+	6003142	9400	High Quality Diamond Bracelet of Fire Defense
+	6003140	9400	High Quality Diamond Bracelet of Earth Defense
+	6003143	9400	High Quality Diamond Bracelet of Air Defense
+	6000017	9400	High Quality Cloth Hat
+	6000345	9400	High Quality Cloth Hat
+	6000673	9400	High Quality Cloth Hat
+	6001001	9400	High Quality Cloth Hat
+	6001682	9400	High Quality Cloth Hat
+	6002010	9400	High Quality Cloth Hat
+	6002338	9400	High Quality Cloth Hat
+	6002666	9400	High Quality Cloth Hat
+	6000018	9400	High Quality Cloth Gown
+	6000346	9400	High Quality Cloth Gown
+	6000674	9400	High Quality Cloth Gown
+	6001002	9400	High Quality Cloth Gown
+	6001683	9400	High Quality Cloth Gown
+	6002011	9400	High Quality Cloth Gown
+	6002339	9400	High Quality Cloth Gown
+	6003189	9400	High Quality Bronze Ring of Water Attack
+	6003190	9400	High Quality Bronze Ring of Fire Attack
+	6003188	9400	High Quality Bronze Ring of Earth Attack
+	6003191	9400	High Quality Bronze Ring of Air Attack
+	6003054	9400	High Quality Bronze Necklace of Intelligence
+	6003052	9400	High Quality Bronze Necklace of Dexterity
+	6003053	9400	High Quality Bronze Necklace of Constitution
+	6003113	9400	High Quality Bronze Bracelet of Water Defense
+	6003114	9400	High Quality Bronze Bracelet of Fire Defense
+	6003112	9400	High Quality Bronze Bracelet of Earth Defense
+	6003115	9400	High Quality Bronze Bracelet of Air Defense
+	6002668	9400	High Quality Body Armor
+	6003213	9400	High Quality Amber Ring of Water Attack
+	6003214	9400	High Quality Amber Ring of Fire Attack
+	6003212	9400	High Quality Amber Ring of Earth Attack
+	6003215	9400	High Quality Amber Ring of Air Attack
+	6003072	9400	High Quality Amber Necklace of Intelligence
+	6003070	9400	High Quality Amber Necklace of Dexterity
+	6003071	9400	High Quality Amber Necklace of Constitution
+	6003137	9400	High Quality Amber Bracelet of Water Defense
+	6003138	9400	High Quality Amber Bracelet of Fire Defense
+	6003136	9400	High Quality Amber Bracelet of Earth Defense
+	6003139	9400	High Quality Amber Bracelet of Air Defense
+	6003144	9400	
+	6003145	9400	
+	6003146	9400	
+	6003147	9400	
+	6003148	9400	
+	6003149	9400	
+	6003150	9400	
+	6003151	9400	
+	6003152	9400	
+	6003153	9400	
+	6003154	9400	
+	6003155	9400	
+	6003156	9400	
+	6003157	9400	
+	6003158	9400	
+	6003159	9400	
+	6003160	9400	
+	6003161	9400	
+	6003162	9400	
+	6003163	9400	
+	6003164	9400	
+	6003165	9400	
+	6003166	9400	
+	6003167	9400	
+	6003168	9400	
+	6003169	9400	
+	6003170	9400	
+	6003171	9400	
+	6003172	9400	
+	6003173	9400	
+	6003174	9400	
+	6003175	9400	
+	6003209	9400	High Quality Agate Ring of Water Attack
+	6003210	9400	High Quality Agate Ring of Fire Attack
+	6003208	9400	High Quality Agate Ring of Earth Attack
+	6003211	9400	High Quality Agate Ring of Air Attack
+	6003069	9400	High Quality Agate Necklace of Intelligence
+	6003067	9400	High Quality Agate Necklace of Dexterity
+	6003068	9400	High Quality Agate Necklace of Constitution
+	6003133	9400	High Quality Agate Bracelet of Water Defense
+	6003134	9400	High Quality Agate Bracelet of Fire Defense
+	6003132	9400	High Quality Agate Bracelet of Earth Defense
+	6003135	9400	High Quality Agate Bracelet of Air Defense
+	6001519	9400	Average Quality Wooden Ring
+	6001313	9400	Average Quality Wooden Necklace
+	6001404	9400	Average Quality Wooden Bracelet
+	6001524	9400	Average Quality Stone Ring
+	6001317	9400	Average Quality Stone Necklace
+	6001409	9400	Average Quality Stone Bracelet
+	6001543	9400	Average Quality Silver Ring
+	6001332	9400	Average Quality Silver Necklace
+	6001428	9400	Average Quality Silver Bracelet
+	6001553	9400	Average Quality Platinum Ring
+	6001336	9400	Average Quality Platinum Necklace
+	6001340	9400	Average Quality Platinum Necklace
+	6001438	9400	Average Quality Platinum Bracelet
+	6001562	9400	Average Quality Pearl Ring
+	6001347	9400	Average Quality Pearl Necklace
+	6001447	9400	Average Quality Pearl Bracelet
+	6001529	9400	Average Quality Iron Ring
+	6001321	9400	Average Quality Iron Necklace
+	6001414	9400	Average Quality Iron Bracelet
+	6001548	9400	Average Quality Gold Ring
+	6001433	9400	Average Quality Gold Bracelet
+	6001577	9400	Average Quality Diamond Ring
+	6001359	9400	Average Quality Diamond Necklace
+	6001462	9400	Average Quality Diamond Bracelet
+	6001538	9400	Average Quality Bronze Ring
+	6001328	9400	Average Quality Bronze Necklace
+	6001423	9400	Average Quality Bronze Bracelet
+	6001572	9400	Average Quality Amber Ring
+	6001355	9400	Average Quality Amber Necklace
+	6001457	9400	Average Quality Amber Bracelet
+	6001567	9400	Average Quality Agate Ring
+	6001351	9400	Average Quality Agate Necklace
+	6001452	9400	Average Quality Agate Bracelet
+	6003220	9400	
+	6003221	9400	
+	6003222	9400	
+	6003223	9400	
+	6003224	9400	
+	6003225	9400	
+	6003226	9400	
+	6003227	9400	
+	6003228	9400	
+	6003229	9400	
+	6003230	9400	
+	6003231	9400	
+	6003232	9400	
+	6003233	9400	
+	6003234	9400	
+	6003235	9400	
+	6003236	9400	
+	6003237	9400	
+	6003238	9400	
+	6003239	9400	
+	6003240	9400	
+	6003241	9400	
+	6003242	9400	
+	6003243	9400	
+	6003244	9400	
+	6003245	9400	
+	6003246	9400	
+	6003247	9400	
+	6003248	9400	
+	6003249	9400	
+	6003250	9400	
+	6003251	9400	
+	6004001	9400	Celestial Turtle
+	6004002	9400	Turtle Cannon Tank Level 1
+	6004003	9400	Turtle Cannon Tank Level 2
+	6004004	9400	Turtle Cannon Tank Level 3
+	6004005	9400	Turtle Cannon Tank Level 4
+	6004006	9400	Counterfeit Formula Race Car
+	6004007	9400	Fashionable Ladybug
+	6004008	9400	Famously Branded Beetle
+	6004009	9400	P40 Combat Eagle
+	6004010	9400	F6F Shrew
+	6004011	9400	Hippie Heavy-Duty Motorcycle
+	6004012	9400	Wooden Horse
+	6004013	9400	Vintage Car
+	6004014	9400	Prime Pillar
+	6004015	9400	Manager Car
+	6004016	9400	Fancy Car
+	6004017	9400	Luxury Sedan
+	6004501	9400	Master Sergeant Hat
+	6004502	9400	Master Sergeant Clothes
+	6004503	9400	Master Sergeant Boots
+	6004504	9400	Master Sergeant Spear
+	6004505	9400	Commander Hat
+	6004506	9400	Commander Clothes
+	6004507	9400	Commander Boots
+	6004508	9400	Commander Spear
+	6004509	9400	Army General Hat
+	6004510	9400	Army General Clothes
+	6004511	9400	Army General Boots
+	6004512	9400	Army General Spear
+	6004551	9400	Master Sergeant Hat
+	6004552	9400	Master Sergeant Clothes
+	6004553	9400	Master Sergeant Boots
+	6004554	9400	Master Sergeant Boxing Gloves
+	6004555	9400	Commander Hat
+	6004556	9400	Commander Clothes
+	6004557	9400	Commander Boots
+	6004558	9400	Commander Boxing Gloves
+	6004559	9400	Army General Hat
+	6004560	9400	Army General Clothes
+	6004561	9400	Army General Boots
+	6004562	9400	Army General Boxing Gloves
+	6004601	9400	Master Sergeant Hat
+	6004602	9400	Master Sergeant Clothes
+	6004603	9400	Master Sergeant Boots
+	6004604	9400	Master Sergeant Staff
+	6004605	9400	Commander Hat
+	6004606	9400	Commander Clothes
+	6004607	9400	Commander Boots
+	6004608	9400	Commander Staff
+	6004609	9400	Army General Hat
+	6004610	9400	Army General Clothes
+	6004611	9400	Army General Boots
+	6004612	9400	Army General Staff
+	6004651	9400	Master Sergeant Hat
+	6004652	9400	Master Sergeant Clothes
+	6004653	9400	Master Sergeant Boots
+	6004654	9400	Master Sergeant Badge
+	6004655	9400	Commander Hat
+	6004656	9400	Commander Clothes
+	6004657	9400	Commander Boots
+	6004658	9400	Commander Badge
+	6004659	9400	Army General Hat
+	6004660	9400	Army General Clothes
+	6004661	9400	Army General Boots
+	6004662	9400	Army General Badge
+	6004701	9400	Master Sergeant Hat
+	6004702	9400	Master Sergeant Clothes
+	6004703	9400	Master Sergeant Pants
+	6004704	9400	Long Master Sergeant Staff
+	6004705	9400	Commander Hat
+	6004706	9400	Commander Clothes
+	6004707	9400	Commander Pants
+	6004708	9400	Long Commander Staff
+	6004709	9400	Army General Hat
+	6004710	9400	Army General Clothes
+	6004711	9400	Army General Pants
+	6004712	9400	Long Army General Staff
+	6004751	9400	Master Sergeant Hat
+	6004752	9400	Master Sergeant Clothes
+	6004753	9400	Master Sergeant Pants
+	6004754	9400	Master Sergeant Axe
+	6004755	9400	Commander Hat
+	6004756	9400	Commander Clothes
+	6004757	9400	Commander Pants
+	6004758	9400	Commander Axe
+	6004759	9400	Army General Hat
+	6004760	9400	Army General Clothes
+	6004761	9400	Army General Pants
+	6004762	9400	Army General Axe
+	6004801	9400	Master Sergeant Hat
+	6004802	9400	Master Sergeant Clothes
+	6004803	9400	Master Sergeant Boots
+	6004804	9400	Master Sergeant Spiked Mace
+	6004805	9400	Commander Hat
+	6004806	9400	Commander Clothes
+	6004807	9400	Commander Boots
+	6004808	9400	Commander Spiked Mace
+	6004809	9400	Army General Hat
+	6004810	9400	Army General Clothes
+	6004811	9400	Army General Boots
+	6004812	9400	Army General Spiked Mace
+	6004851	9400	Master Sergeant Hat
+	6004852	9400	Master Sergeant Visor
+	6004853	9400	Master Sergeant Body Armor
+	6004854	9400	Master Sergeant Bow and Arrow
+	6004855	9400	Commander Hat
+	6004856	9400	Commander Visor
+	6004857	9400	Commander Body Armor
+	6004858	9400	Commander Bow and Arrow
+	6004859	9400	Army General Hat
+	6004860	9400	Army General Visor
+	6004861	9400	Army General Body Armor
+	6004862	9400	Army General Bow and Arrow
+	6005001	9400	Lord Guan
+	6005002	9400	Deity of Wealth
+	6005003	9400	Master Ji
+	6005004	9400	Goddess Mazu
+	6005005	9400	Maitreya Buddha 
+	6005006	9400	Local Guardian God
+	6005007	9400	Shakyamuni Buddha
+	6005008	9400	Avalokitesvara Buddha
+	6005009	9400	God of Matchmaker
+	6005010	9400	Lucky Pegasus
+	6005011	9400	Deity
+	6005012	9400	Deity of the Sun
+	6005013	9400	Deity of the Moon
+	6005014	9400	Deity of the Sea
+	6005015	9400	Deity of Four Leaf Clover
+	6005016	9400	Deity of Wisdom
+	6005017	9400	Cupid
+	6005018	9400	Guardian Angels
+	6005019	9400	Ebisu
+	6005020	9400	Daikokuten
+	6005021	9400	Bishamonten
+	6005022	9400	Juroujin
+	6005023	9400	Fukurokuju
+	6005024	9400	Benzaiten
+	6005025	9400	Hotei
+	6005026	9400	Fortune Cat
+	6005027	9400	Ksitigarbha Buddha
+	6005501	9400	Flying Rocket
+	6005502	9400	Steam Locomotive
+	6005503	9400	Beetle
+	6005504	9400	Speedy Tank
+	6006001	9400	Fisherman Wide-Brimmed Hat
+	6006002	9400	Fisherman Straw Rain Cape
+	6006003	9400	Fisherman Footwear
+	6006004	9400	Fisherman Fork
+	6006005	9400	Butcher Mask
+	6006006	9400	Butcher Vest
+	6006007	9400	Butcher Shoes
+	6006008	9400	Trembling Butcher
+	6006009	9400	Red Flower Plume
+	6006010	9400	Red Flower Armor
+	6006011	9400	Red Flower Shoes
+	6006012	9400	Red Flower Iron Spear
+	6006013	9400	Buddhist Monk Straw Hat
+	6006014	9400	Buddhist Monk Robe
+	6006015	9400	Buddhist Monk Shoes
+	6006016	9400	Buddhist Monk Staff
+	6006017	9400	Diving Goggles
+	6006018	9400	Colorful Shirt
+	6006019	9400	Beach Sandals
+	6006020	9400	Snorkel
+	6006021	9400	Santa Claus Hat
+	6006022	9400	Santa Claus Robe
+	6006023	9400	Santa Claus Boots
+	6006024	9400	Christmas Candy Cane
+	6006025	9400	Sparta Helmet
+	6006026	9400	Sparta Combat Robe
+	6006027	9400	Sparta Combat Boots
+	6006028	9400	Sparta Spear
+	6006029	9400	Blue Hockey Helmet
+	6006030	9400	Blue Hockey Jersey
+	6006031	9400	Blue Hockey Skates
+	6006032	9400	Blue Hockey Stick
+	6006033	9400	Red Hockey Helmet
+	6006034	9400	White Hockey Jersey
+	6006035	9400	Red Hockey Skates
+	6006036	9400	White Hockey Stick
+	6006037	9400	USA Soccer Jersey
+	6006038	9400	USA Soccer Shoes
+	6006039	9400	England Soccer Jersey
+	6006040	9400	England Soccer Shoes
+	6006041	9400	France Soccer Jersey
+	6006042	9400	France Soccer Shoes
+	6006043	9400	Germany Soccer Jersey
+	6006044	9400	Germany Soccer Shoes
+	6006045	9400	Australia Soccer Jersey
+	6006046	9400	Australia Soccer Shoes
+	6006047	9400	South Africa Soccer Jersey
+	6006048	9400	South Africa Soccer Shoes
+	6006049	9400	Red Car Racing Helmet
+	6006050	9400	Red Car Racing Clothes
+	6006051	9400	Red Car Racing Shoes
+	6006052	9400	Red Car Racing Gloves
+	6006053	9400	Yellow Car Racing Helmet
+	6006054	9400	Yellow Car Racing Clothes
+	6006055	9400	Yellow Car Racing Shoes
+	6006056	9400	Yellow Car Racing Gloves
+	6006057	9400	Thai Boxing Bandanna
+	6006058	9400	Thai Boxing Clothes
+	6006059	9400	Thai Boxing Leg Bandage
+	6006060	9400	Thai Boxing Gloves
+	6006061	9400	Robot Helmet
+	6006062	9400	Robot Armor
+	6006063	9400	Robot Shoes
+	6006064	9400	Robot Spring
+	6007001	9400	Camouflage Bandanna
+	6007002	9400	Battle Tactic Vest
+	6007003	9400	Field Battle Boots
+	6007004	9400	Field Battle Boxing Gloves
+	6007005	9400	Persian Royal Bandanna
+	6007006	9400	Persian Coat
+	6007007	9400	Persian Shoes
+	6007008	9400	Persian Golden Fist Ring
+	6007009	9400	Banana King Hat
+	6007010	9400	Banana King Clothes
+	6007011	9400	Banana King Shoes
+	6007012	9400	Banana King Boxing Gloves
+	6007013	9400	Berserker Wolf Head Hat
+	6007014	9400	Berserker Animal Fur Vest
+	6007015	9400	Berserker Hide Boots
+	6007016	9400	Berserker Boxing Gloves
+	6007017	9400	Indian Hat
+	6007018	9400	Indian Vest
+	6007019	9400	Indian Boots
+	6007020	9400	Indian Boxing Gloves
+	6007021	9400	Head Wrapping Bandage
+	6007022	9400	Body Wrapping Bandage
+	6007023	9400	Hand in Cast
+	6007024	9400	Leg in Cast
+	6007025	9400	Giant Peanut Shell
+	6007026	9400	Beer Keg
+	6007027	9400	Flip-Flops
+	6007028	9400	Can Opener
+	6007029	9400	Moose Horn Hat
+	6007030	9400	Red Moose Vest
+	6007031	9400	Moose Hoof Boots
+	6007032	9400	Moose Boxing Gloves
+	6007033	9400	Beastman Helmet
+	6007034	9400	Beastman Combat Robe
+	6007035	9400	Beastman Combat Boots
+	6007036	9400	Beastman Iron Fist
+	6007037	9400	Blue Hockey Helmet
+	6007038	9400	Blue Hockey Jersey
+	6007039	9400	Blue Hockey Skates
+	6007040	9400	Blue Hockey Stick
+	6007041	9400	White Hockey Helmet
+	6007042	9400	White Hockey Jersey
+	6007043	9400	White Hockey Skates
+	6007044	9400	White Hockey Stick
+	6007045	9400	USA Soccer Jersey
+	6007046	9400	USA Soccer Shoes
+	6007047	9400	England Soccer Jersey
+	6007048	9400	England Soccer Shoes
+	6007049	9400	France Soccer Jersey
+	6007050	9400	France Soccer Shoes
+	6007051	9400	Germany Soccer Jersey
+	6007052	9400	Germany Soccer Shoes
+	6007053	9400	Australia Soccer Jersey
+	6007054	9400	Australia Soccer Shoes
+	6007055	9400	South Africa Soccer Jersey
+	6007056	9400	South Africa Soccer Shoes
+	6007057	9400	Red Car Racing Helmet
+	6007058	9400	Red Car Racing Clothes
+	6007059	9400	Red Car Racing Shoes
+	6007060	9400	Red Car Racing Gloves
+	6007061	9400	Yellow Car Racing Helmet
+	6007062	9400	Yellow Car Racing Clothes
+	6007063	9400	Yellow Car Racing Shoes
+	6007064	9400	Yellow Car Racing Gloves
+	6007065	9400	Thai Boxing Bandanna
+	6007066	9400	Thai Boxing Clothes
+	6007067	9400	Thai Boxing Leg Bandage
+	6007068	9400	Thai Boxing Gloves
+	6007069	9400	Robot Helmet
+	6007070	9400	Robot Armor
+	6007071	9400	Robot Shoes
+	6007072	9400	Robot Gloves
+	6008001	9400	White Fox Hat
+	6008002	9400	White Fox Clothes
+	6008003	9400	White Fox Shoes
+	6008004	9400	Fox Tail Staff
+	6008005	9400	Chameleon Hat
+	6008006	9400	Chameleon Clothes
+	6008007	9400	Chameleon Shoes
+	6008008	9400	Chameleon Staff
+	6008009	9400	Chinese Style Headdress
+	6008010	9400	Chinese Style Robe
+	6008011	9400	Chinese Style Embroidered Shoes
+	6008012	9400	Chinese Style Braid Staff
+	6008013	9400	Rabbit Hat
+	6008014	9400	Rabbit Robe
+	6008015	9400	Rabbit Shoes
+	6008016	9400	Carrot Staff
+	6008017	9400	Monroe Blonde Hair
+	6008018	9400	Monroe Sexy Dress
+	6008019	9400	Monroe High Heels
+	6008020	9400	Monroe Microphone Staff
+	6008021	9400	Christmas Jingle Hat
+	6008022	9400	Christmas Jingle Robe
+	6008023	9400	Christmas Jingle Shoes
+	6008024	9400	Christmas Jingle Staff
+	6008025	9400	Nightmare Hat
+	6008026	9400	Nightmare Dress
+	6008027	9400	Nightmare Shoes
+	6008028	9400	Nightmare Staff
+	6008029	9400	Blue Hockey Helmet
+	6008030	9400	Blue Hockey Jersey
+	6008031	9400	Blue Hockey Skates
+	6008032	9400	Blue Hockey Stick
+	6008033	9400	Red Hockey Helmet
+	6008034	9400	White Hockey Jersey
+	6008035	9400	Red Hockey Skates
+	6008036	9400	White Hockey Stick
+	6008037	9400	USA Soccer Jersey
+	6008038	9400	USA Soccer Shoes
+	6008039	9400	England Soccer Jersey
+	6008040	9400	England Soccer Shoes
+	6008041	9400	France Soccer Jersey
+	6008042	9400	France Soccer Shoes
+	6008043	9400	Germany Soccer Jersey
+	6008044	9400	Germany Soccer Shoes
+	6008045	9400	Australia Soccer Jersey
+	6008046	9400	Australia Soccer Shoes
+	6008047	9400	South Africa Soccer Jersey
+	6008048	9400	South Africa Soccer Shoes
+	6008049	9400	Red Car Racing Helmet
+	6008050	9400	Red Car Racing Clothes
+	6008051	9400	Red Car Racing Shoes
+	6008052	9400	Red Car Racing Gloves
+	6008053	9400	Yellow Car Racing Helmet
+	6008054	9400	Yellow Car Racing Clothes
+	6008055	9400	Yellow Car Racing Shoes
+	6008056	9400	Yellow Car Racing Gloves
+	6008057	9400	Thai Boxing Bandanna
+	6008058	9400	Thai Boxing Clothes
+	6008059	9400	Thai Boxing Leg Bandage
+	6008060	9400	Thai Boxing Gloves
+	6008061	9400	Robot Helmet
+	6008062	9400	Robot Armor
+	6008063	9400	Robot Shoes
+	6008064	9400	Robot Spring
+	6009001	9400	Western Cowboy Hat
+	6009002	9400	Western Cape
+	6009003	9400	Western Boots
+	6009004	9400	Western Mustang Badge
+	6009005	9400	Poisonous Mushroom Hat
+	6009006	9400	Poisonous Mushroom Robe
+	6009007	9400	Poisonous Mushroom Shoes
+	6009008	9400	Poisonous Mushroom Badge
+	6009009	9400	Chief Mask
+	6009010	9400	Chief Robe
+	6009011	9400	Chief Boots
+	6009012	9400	Chief Badge
+	6009013	9400	Flowery Plume
+	6009014	9400	Royal Clothes
+	6009015	9400	Royal Boots
+	6009016	9400	Royal Badge
+	6009017	9400	Scholar Hat
+	6009018	9400	Scholar Robe
+	6009019	9400	Scholar Shoes
+	6009020	9400	Letter Badge
+	6009021	9400	Matador Hat
+	6009022	9400	Matador Cape
+	6009023	9400	Matador Boots
+	6009024	9400	Matador Banderilla Badge
+	6009025	9400	Christmas Gift Hat
+	6009026	9400	Christmas Gift Clothes
+	6009027	9400	Christmas Gift Shoes
+	6009028	9400	Christmas Gift Badge
+	6009029	9400	Alien Helmet
+	6009030	9400	Alien Clothes
+	6009031	9400	Alien Boots
+	6009032	9400	Alien Badge
+	6009033	9400	Blue Hockey Helmet
+	6009034	9400	Blue Hockey Jersey
+	6009035	9400	Blue Hockey Skates
+	6009036	9400	Orange Juice
+	6009037	9400	White Hockey Helmet
+	6009038	9400	White Hockey Jersey
+	6009039	9400	White Hockey Skates
+	6009040	9400	Sports Drink
+	6009041	9400	USA Soccer Jersey
+	6009042	9400	USA Soccer Shoes
+	6009043	9400	England Soccer Jersey
+	6009044	9400	England Soccer Shoes
+	6009045	9400	France Soccer Jersey
+	6009046	9400	France Soccer Shoes
+	6009047	9400	Germany Soccer Jersey
+	6009048	9400	Germany Soccer Shoes
+	6009049	9400	Australia Soccer Jersey
+	6009050	9400	Australia Soccer Shoes
+	6009051	9400	South Africa Soccer Jersey
+	6009052	9400	South Africa Soccer Shoes
+	6009053	9400	Red Car Racing Helmet
+	6009054	9400	Red Car Racing Clothes
+	6009055	9400	Red Car Racing Shoes
+	6009056	9400	Red Car Racing Steering wheel
+	6009057	9400	Yellow Car Racing Helmet
+	6009058	9400	Yellow Car Racing Clothes
+	6009059	9400	Yellow Car Racing Shoes
+	6009060	9400	Yellow Car Racing Steering wheel
+	6009061	9400	Thai Boxing Bandanna
+	6009062	9400	Thai Boxing Clothes
+	6009063	9400	Thai Boxing Leg Bandage
+	6009064	9400	Thai Boxing Gloves
+	6009065	9400	Robot Helmet
+	6009066	9400	Robot Armor
+	6009067	9400	Robot Shoes
+	6009068	9400	Robot Spring
+	6010001	9400	Hip-Hop Hat
+	6010002	9400	Hip-Hop Jacket
+	6010003	9400	Hip-Hop Pants
+	6010004	9400	Hip-Hop Hand
+	6010005	9400	Walker Pompadour
+	6010006	9400	Short Walker Jacket
+	6010007	9400	Walker Leather Pants
+	6010008	9400	Walker Baseball Bat
+	6010009	9400	Christmas Leather Hat
+	6010010	9400	Christmas Leather Clothes
+	6010011	9400	Christmas Leather Pants
+	6010012	9400	Christmas Staff
+	6010013	9400	Jones Cowboy Hat
+	6010014	9400	Jones Cowboy Vest
+	6010015	9400	Jones Cowboy Pants
+	6010016	9400	Jones Raider Staff
+	6010017	9400	Hot Spring House Bandanna
+	6010018	9400	Hot Spring House Haori
+	6010019	9400	Hot Spring House Pants
+	6010020	9400	Long Hot Spring House Staff
+	6010021	9400	Dirty Dance Hat
+	6010022	9400	Dirty Dance Shirt
+	6010023	9400	Dirty Dance Pants
+	6010024	9400	Long Dirty Dance Staff
+	6010025	9400	Samurai Iron Helmet
+	6010026	9400	Samurai Iron Armor
+	6010027	9400	Samurai Iron Skirt
+	6010028	9400	Samurai Iron Staff
+	6010029	9400	Blue Hockey Helmet
+	6010030	9400	Blue Hockey Jersey
+	6010031	9400	Blue Hockey Skates
+	6010032	9400	Blue Hockey Stick
+	6010033	9400	Red Hockey Helmet
+	6010034	9400	White Hockey Jersey
+	6010035	9400	Red Hockey Pants
+	6010036	9400	White Hockey Stick
+	6010037	9400	USA Soccer Jersey
+	6010038	9400	USA Soccer Shorts
+	6010039	9400	England Soccer Jersey
+	6010040	9400	England Soccer Shorts
+	6010041	9400	France Soccer Jersey
+	6010042	9400	France Soccer Shorts
+	6010043	9400	Germany Soccer Jersey
+	6010044	9400	Germany Soccer Shorts
+	6010045	9400	Australia Soccer Jersey
+	6010046	9400	Australia Soccer Shorts
+	6010047	9400	South Africa Soccer Jersey
+	6010048	9400	South Africa Soccer Shorts
+	6010049	9400	Red Car Racing Helmet
+	6010050	9400	Red Car Racing Clothes
+	6010051	9400	Red Car Racing Shoes
+	6010052	9400	Red Car Racing Gloves
+	6010053	9400	Yellow Car Racing Helmet
+	6010054	9400	Yellow Car Racing Clothes
+	6010055	9400	Yellow Car Racing Shoes
+	6010056	9400	Yellow Car Racing Gloves
+	6010057	9400	Thai Boxing Bandanna
+	6010058	9400	Thai Boxing Clothes
+	6010059	9400	Thai Boxing Leg Bandage
+	6010060	9400	Thai Boxing Gloves
+	6010061	9400	Robot Helmet
+	6010062	9400	Robot Armor
+	6010063	9400	Robot Shoes
+	6010064	9400	Robot Spring
+	6011001	9400	Rock & Roll Headphone
+	6011002	9400	Rock & Roll Jacket
+	6011003	9400	Rock & Roll Leather Pants
+	6011004	9400	Rock & Roll Microphone
+	6011005	9400	Punk Bandanna
+	6011006	9400	Punk Jacket
+	6011007	9400	Punk Pants
+	6011008	9400	Punk Wine Bottle
+	6011009	9400	Christmas Baby Hat
+	6011010	9400	Christmas Baby Clothes
+	6011011	9400	Christmas Baby Pants
+	6011012	9400	Christmas Baby Candy
+	6011013	9400	Wizardry School Mask
+	6011014	9400	Wizardry School Shirt
+	6011015	9400	Wizardry School Pants
+	6011016	9400	Wizard Axe
+	6011017	9400	Wild Beast Leather Hat
+	6011018	9400	Wild Beast Leather Clothes
+	6011019	9400	Wild Beast Leather Pants
+	6011020	9400	Wild Beast Paws
+	6011021	9400	Football Helmet
+	6011022	9400	Football Shoulder Pads
+	6011023	9400	Football Protective Gear
+	6011024	9400	Football Iron Stick
+	6011025	9400	Robot Helmet
+	6011026	9400	Robot Armor
+	6011027	9400	Robot Shoes
+	6011028	9400	Robot Spring
+	6012001	9400	Street Hip-Hop Bandanna
+	6012002	9400	Street Hip-Hop Vest
+	6012003	9400	Street Hip-Hop Cloth Shoes
+	6012004	9400	Street Hip-Hop Turntable
+	6012005	9400	Student Hairband
+	6012006	9400	Student Uniform
+	6012007	9400	Student Leather Shoes
+	6012008	9400	Student Pen
+	6012009	9400	Little Christmas Rabbit Ear
+	6012010	9400	Little Christmas Dress
+	6012011	9400	Little Red Christmas Shoes
+	6012012	9400	Christmas Tree Leaf Stick
+	6012013	9400	Finisher Mask
+	6012014	9400	Finisher Leather Clothes
+	6012015	9400	Finisher Leather Boots
+	6012016	9400	Shotgun Spiked Mace
+	6012017	9400	Black Widow Bandanna
+	6012018	9400	Black Widow Dinner Dress
+	6012019	9400	Black Widow Shoes
+	6012020	9400	Black Widow Bone Stick
+	6012021	9400	Green Leaf Bandanna
+	6012022	9400	Green Leaf Dinner Dress
+	6012023	9400	Green Leaf Sandals
+	6012024	9400	Green Leaf Mace
+	6012025	9400	Egyptian Headdress
+	6012026	9400	Egyptian Long Gown
+	6012027	9400	Egyptian Sandals
+	6012028	9400	Egyptian Scepter
+	6012029	9400	Blue Hockey Helmet
+	6012030	9400	Blue Hockey Jersey
+	6012031	9400	Blue Hockey Skates
+	6012032	9400	Blue Hockey Stick
+	6012033	9400	Red Hockey Helmet
+	6012034	9400	White Hockey Jersey
+	6012035	9400	Red Hockey Skates
+	6012036	9400	White Hockey Stick
+	6012037	9400	USA Soccer Jersey
+	6012038	9400	USA Soccer Shoes
+	6012039	9400	England Soccer Jersey
+	6012040	9400	England Soccer Shoes
+	6012041	9400	France Soccer Jersey
+	6012042	9400	France Soccer Shoes
+	6012043	9400	Germany Soccer Jersey
+	6012044	9400	Germany Soccer Shoes
+	6012045	9400	Australia Soccer Jersey
+	6012046	9400	Australia Soccer Shoes
+	6012047	9400	South Africa Soccer Jersey
+	6012048	9400	South Africa Soccer Shoes
+	6012049	9400	Red Car Racing Helmet
+	6012050	9400	Red Car Racing Clothes
+	6012051	9400	Red Car Racing Shoes
+	6012052	9400	Red Car Racing Gloves
+	6012053	9400	Yellow Car Racing Helmet
+	6012054	9400	Yellow Car Racing Clothes
+	6012055	9400	Yellow Car Racing Shoes
+	6012056	9400	Yellow Car Racing Gloves
+	6012057	9400	Thai Boxing Bandanna
+	6012058	9400	Thai Boxing Clothes
+	6012059	9400	Thai Boxing Leg Bandage
+	6012060	9400	Thai Boxing Gloves
+	6012061	9400	Robot Helmet
+	6012062	9400	Robot Armor
+	6012063	9400	Robot Shoes
+	6012064	9400	Robot Spring
+	6013001	9400	DJ Afro
+	6013002	9400	DJ Visor
+	6013003	9400	DJ Body Armor
+	6013004	9400	DJ Bow and Arrow
+	6013005	9400	Cop Helmet
+	6013006	9400	Cop Mask
+	6013007	9400	Cop Body Armor
+	6013008	9400	Cop Bow and Arrow
+	6013009	9400	Gingerbread House Helmet
+	6013010	9400	Gingerbread House Scarf
+	6013011	9400	Gingerbread House Body Armor
+	6013012	9400	Candy Bow and Arrow
+	6013013	9400	Hattori Mask
+	6013014	9400	Hattori Visor
+	6013015	9400	Hattori Jumpsuit
+	6013016	9400	Hattori Ninja Bow and Arrow
+	6013017	9400	Army Steel Helmet
+	6013018	9400	Army Visor
+	6013019	9400	Army Flak Jacket
+	6013020	9400	Army Bow and Arrow
+	6013021	9400	Robot Helmet
+	6013022	9400	Robot Visor
+	6013023	9400	Robot Body Armor
+	6013024	9400	Robot Bow and Arrow
+	6025001	9400	Leprechaun Hat
+	6025002	9400	Leprechaun Hat
+	6025003	9400	Leprechaun Hat
+	6025004	9400	Leprechaun Hat
+	6025005	9400	Leprechaun Hat
+	6025006	9400	Leprechaun Hat
+	6025007	9400	Leprechaun Hat
+	6025008	9400	Leprechaun Hat
+	6090000	9400	GM Attack Necklace
+	6090001	9400	GM Defense Bracelet
+	6100000	9400	
+	6103011	9400	Equipment used to differentiate GMs.
+	6104001	9400	The celestial turtle can only walk very slowly.
+	6104002	9400	The basic model of the Turtle Cannon Tank runs slightly faster than a human.
+	6104003	9400	The modified Turtle Cannon Tank travels at a decent speed.
+	6104004	9400	The upgraded Turtle Cannon Tank goes very fast.
+	6104005	9400	The rebuilt Turtle Cannon Tank goes really fast.
+	6104006	9400	The counterfeit race car can only run very slowly.
+	6104007	9400	The fashionable beetle runs slightly faster than a human.
+	6104008	9400	The famously branded beetle travels at a decent speed.
+	6104009	9400	"The fighter jet, which travels through space and time is very fast."
+	6104010	9400	The fighter jet travels through space and time.
+	6104011	9400	The cool looking and heavy duty motorcycle travels at a decent speed.
+	6104012	9400	The bright red wooden horse is very fast.
+	6104013	9400	The expensive vintage car goes really fast.
+	6104014	9400	The tractor with the fancy paint goes really fast.
+	6104015	9400	"Exclusively used by guild cadres, it is fast and safe."
+	6104016	9400	"Exclusively used by Deputy Guild Master, it is fast and safe."
+	6104017	9400	"Exclusively used by Guild Master, it is fast and safe."
+	6112005	9400	Big Green Standard Hairband Style No. 109
+	6112006	9400	Big Green Standard Student Uniform Style No. 109
+	6112007	9400	Big Green Standard Student Shoes Style No. 109
+	6112008	9400	A huge pen discovered in Big Green.
+	6125001	9400	Leprechaun Hat for St. Patrick's Day.
+	6125002	9400	Leprechaun Hat for St. Patrick's Day.
+	6125003	9400	Leprechaun Hat for St. Patrick's Day.
+	6125004	9400	Leprechaun Hat for St. Patrick's Day.
+	6125005	9400	Leprechaun Hat for St. Patrick's Day.
+	6125006	9400	Leprechaun Hat for St. Patrick's Day.
+	6125007	9400	Leprechaun Hat for St. Patrick's Day.
+	6125008	9400	Leprechaun Hat for St. Patrick's Day.
+	6200000	9400	
+	6204011	9400	"""Produced by the company which rose to fame in the military industry.<BR>A wild and fancy motorcycle."""
+	6204012	9400	"""This wooden horse seems easier to ride from the left side.<BR>Though this is not a white wooden horse."""
+	6204013	9400	"""Produced by the company which rose to fame for its turbo engine technology.<BR>An elegant, luxurious and comfortable car."""
+	6204014	9400	"""It can't change its shape!"""
+	6212005	9400	"""Standard equipment invented by Woo the Wise."""
+	6212006	9400	"""Standard equipment invented by Woo the Wise."""
+	6212007	9400	"""Standard equipment invented by Woo the Wise."""
+	6212008	9400	"""I don't know who made this weapon. <BR>People said that it originally looked like a sword<BR>containing the power of Athena."""

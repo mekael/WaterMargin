@@ -1,0 +1,62 @@
+PacketCommandResult_OK
+Command is successful.
+
+PacketCommandResult_Fail
+Command has failed.
+
+PacketCommandResult_NameDuplicate
+Name is duplicated.
+
+PacketCommandResult_CharacterNotFound
+Can't find the character.
+
+PacketCommandResult_CharacterIsNotEmpty
+Character's slot is full.
+
+PacketCommandResult_CharacterSlotNotEnough
+There are not enough character slots.
+
+PacketCommandResult_CharacterSlotIdError
+Character's slot ID is illegal. The ID is negative or over the maximum value.
+
+PacketCommandResult_CharacterPresetIdError
+Character's race is illegal.
+
+PacketCommandResult_GameRoomEnterFail
+Failed to enter a game room.
+
+PacketCommandResult_GameRoomCreatedFail
+Failed to create a game room.
+
+PacketCommandResult_DropPasswordWrong
+Character's delete password is incorrect.
+
+PacketCommandResult_NoLootRight
+Not qualified to retrieve.
+
+PacketCommandResult_ItemGone
+No such item.
+
+PacketCommandResult_BackpackSlotNotEnough
+Insufficient backpack space.
+
+PacketCommandResult_CharacterNameEmpty
+Character's name is empty.
+
+PacketCommandResult_CharacterNameTooLong
+Character's name is too long.
+
+PacketCommandResult_CharacterNameIllegal
+Character's name contains illegal words.
+
+PacketCommandResult_CharacterPasswordTooShort
+Character's password is too short.
+
+PacketCommandResult_CharacterPasswordTooLong
+Character's password is too long.
+
+PacketCommandResult_CharacterPasswordIllegal
+Character's password contain illegal words.
+
+PacketCommandResult_CharacterIsOnDeleted
+The Character is On Deleted Mode.

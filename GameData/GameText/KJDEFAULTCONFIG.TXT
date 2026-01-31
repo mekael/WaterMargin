@@ -1,0 +1,2 @@
+KJDefaultType (0: WASD. 1: Arrow Key.)
+0

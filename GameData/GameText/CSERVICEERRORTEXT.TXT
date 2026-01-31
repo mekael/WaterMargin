@@ -1,0 +1,35 @@
+seOk
+Ok, no error. (seOk)
+
+seNotConnected
+Service not connected yet. (seNotConnected)
+
+seSocketError
+Sending data failed due to socket error. (seSocketError)
+
+seTimeOut
+Operation failed due to timeout. (seTimeOut)
+
+seEncryptFailed
+Failed to encrypt packet. (seEncryptFailed)
+
+seDecryptFailed
+Failed to decrypt packet. (seDecryptFailed)
+
+seInvalidService
+Invalid service id received. (seInvalidService)
+
+seNoReqService
+Required service is not present. (seNoReqService)
+
+seInvalidCommand
+Invalid command received. (seInvalidCommand)
+
+seExecuteFailed
+Failed to execute commands. (seExecuteFailed)
+
+seAccessDBFailed
+Failed to access database. (seAccessDBFailed)
+
+seUnknownError
+Other unknown error, described in error string. (seUnknownError)

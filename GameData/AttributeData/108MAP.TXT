@@ -1,0 +1,87 @@
+#	Id	ClassId	NameStringId		FilePath	CameraPresetId			
+#	每個區域各留20號給該區場景用。第一個欄位加入# 可以把整列當作註解。								
+#	編號	Class編號	名稱StringID	備注：場景位置	場景路徑	攝影機			
+	1	1000		選角創角場景	Scene_Hero108\se00\se00m001.xml	2			
+	2	1000		新手教學區	Scene_Hero108\se00\se00m002.xml	7			
+	3	1000		英雄城1	Scene_Hero108\se01\se01m013.xml	4			
+#	副本場景。								
+	4	1000		兔子城	Scene_Hero108\se03\se03m003.xml	3			
+	5	1000		兔子城	Scene_Hero108\se03\se03m002.xml	6			
+	6	1000		兔子城	Scene_Hero108\se01\se01m004.xml	3			
+	7	1000		兔子城	Scene_Hero108\se01\se01m007.xml	3			
+	8	1000		兔子城	Scene_Hero108\se01\se01m090.xml	5			
+	9	1000		大象城	Scene_Hero108\sm01\sm01m003.xml	3			
+	10	1000		大象城	Scene_Hero108\se02\se02m001.xml	3			
+	11	1000		大象城	Scene_Hero108\sm02\sm02m002.xml	105			
+	12	1000		大象城	Scene_Hero108\sm01\sm01m001.xml	3			
+	13	1000		大象城	Scene_Hero108\se02\se02m002.xml	3			
+	14	1000		大象城	Scene_Hero108\se02\se02m003.xml	3			
+	15	1000		大象城	Scene_Hero108\se02\se02m004.xml	9			
+	16	1000		大象城	Scene_Hero108\sm01\sm01m001.xml	30			
+	17	1000		彪城	Scene_Hero108\sm04\sm04m001.xml	10			
+	18	1000		彪城	Scene_Hero108\sm05\sm05m001.xml	3			
+	19	1000		彪城	Scene_Hero108\se04\se04m002.xml	51			
+	20	1000		駱駝城	Scene_Hero108\se03\se03m001.xml	3			
+	21	1000		駱駝城	Scene_Hero108\sm01\sm01m006.xml	3			
+	22	1000		鷹城	Scene_Hero108\sm01\sm01m002.xml	3			
+	23	1000		貓城	Scene_Hero108\sm02\sm02m001.xml	3			
+	24	1000		貓城	Scene_Hero108\sm02\sm02m002_1.xml	3			
+	25	1000		兔子城	Scene_Hero108\se01\se01m009.xml	3			
+#	另調地圖（場景物件因設計需要與前面關卡有差異而另存地圖）								
+	501	1000		怪怪洞穴	Scene_Hero108\sm05\sm05m001a.xml	3			
+#	502	1000		叛克平面角度用景	Scene_Hero108\test\sample3.xml	98			
+#	野外場景。								
+	1001	1000		兔子城1	Scene_Hero108\se01\se01m011.xml	3			
+	1002	1000		兔子城2	Scene_Hero108\se01\se01m012.xml	3			
+	1003	1000		大象城1	Scene_Hero108\se02\se02m005.xml	3			
+	1004	1000		大象城2	Scene_Hero108\sm02\sm02m003.xml	3			
+	1005	1000		彪城1	Scene_Hero108\se04\se04m003.xml	3			
+	1006	1000		彪城2	Scene_Hero108\se04\se04m004.xml	3			
+	1007	1000		駱駝城1	Scene_Hero108\sm01\sm01m004.xml	3			
+	1008	1000		駱駝城2	Scene_Hero108\sm01\sm01m005.xml	3			
+	1009	1000		貓城1	Scene_Hero108\se07\se07m001.xml	3			
+	1010	1000		貓城2	Scene_Hero108\se07\se07m002.xml	3			
+	1011	1000		鷹城1	Scene_Hero108\se06\se06m001.xml	3			
+	1012	1000		鷹城2	Scene_Hero108\se06\se06m002.xml	3			
+	1013	1000		兔子城3	Scene_Hero108\se01\se01m014.xml	3			
+	1014	1000		兔子城4	Scene_Hero108\se01\se01m015.xml	3			
+	1015	1000		大象城3	Scene_Hero108\se02\se02m006.xml	3			
+	1016	1000		大象城4	Scene_Hero108\sm02\sm02m005.xml	3			
+	1017	1000		彪城3	Scene_Hero108\se04\se04m005.xml	3			
+	1018	1000		彪城4	Scene_Hero108\se04\se04m006.xml	3			
+	1019	1000		駱駝城3	Scene_Hero108\sm01\sm01m009.xml	3			
+	1020	1000		駱駝城4	Scene_Hero108\sm01\sm01m008.xml	3			
+	1021	1000		貓城3	Scene_Hero108\SE07\SE07m003.xml	3			
+	1022	1000		貓城4	Scene_Hero108\SE07\SE07m004.xml	3			
+	1023	1000		鷹城3	Scene_Hero108\se06\se06m004.xml	3			
+	1024	1000		鷹城4	Scene_Hero108\se06\se06m005.xml	3			
+	1025	1000			Scene_Hero108\SE08\SE08m001.xml	3			
+	1026	1000			Scene_Hero108\SE08\SE08m002.xml	3			
+	1027	1000			Scene_Hero108\se08\se08m003.xml	3			
+	1028	1000			Scene_Hero108\se08\se08m004.xml	3			
+#	城鎮區								
+	2001	1000		英雄城2	Scene_Hero108\sm02\sm02m004.xml	4			
+	2002	1000		英雄城3	Scene_Hero108\se06\se06m003.xml	4			
+	2003	1000		新手訓練場	Scene_Hero108\se00\se00m005.xml	4			
+#	boss推王區								
+	3001	1000		叛克場景	Scene_Hero108\se00\se00m004.xml	3			
+#	九層塔、推王								
+#	4001	1000		龜砲車賽車場	Scene_Hero108\se09\se09m002.xml	98			
+	4002	1000		地下洞穴	Scene_Hero108\sm05\sm05m003.xml	8			
+	4003	1000		地下洞穴2	Scene_Hero108\sm05\sm05m004.xml	8			
+	4004	1000		九層塔	Scene_Hero108\se02\se02r001.xml	3			
+	4005	1000		九宮閣	Scene_Hero108\se02\se02r001.xml	3			
+	4006	1000		大蒜九層塔	Scene_Hero108\se02\se02r001.xml	3			
+	4007	1000		麻辣九層塔	Scene_Hero108\se02\se02r001.xml	3			
+	4008	1000		地獄九層塔	Scene_Hero108\se02\se02r001.xml	3			
+#	PK競技場								
+	5001	1000		PK競技場	Scene_Hero108\se01\se01m016.xml	3			
+	5002	1000		PK競技場	Scene_Hero108\sm02\sm02m006.xml	3			
+	5003	1000		PK競技場	Scene_Hero108\se06\se06m006.xml	3			
+#	特殊用途區								
+#	6001	1000		市集地	Scene_Hero108\se10\se10m001.xml	3			
+#	企劃測試用景								
+	99012	1000		叛克測試用場景	Scene_Hero108\se00\se00m004.xml	8			
+#	美術測試用景								
+	99999	1000		美術測試用場景	Scene_Hero108\test\artsample.xml	51			
+	99998	1000		美術測試用場景	Scene_Hero108\se01\se01m011.xml	3			

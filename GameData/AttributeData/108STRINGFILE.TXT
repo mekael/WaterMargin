@@ -1,0 +1,12 @@
+#	Id	ClassId	IsLanguageDependent	FilePath
+#	編號	Class編號	語系支援	路徑（相對於 Preset 資料夾）
+	1	9410	1	108String01.txt
+	2	9410	1	108String02.txt
+	3	9410	1	108String03.txt
+	4	9410	1	108String04.txt
+	5	9410	1	108String05.txt
+	6	9410	1	108String06.txt
+	7	9410	1	108String07.txt
+	8	9410	1	108String08.txt
+	9	9410	1	108String09.txt
+	10	9410	1	108String10.txt

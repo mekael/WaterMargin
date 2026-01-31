@@ -1,0 +1,121 @@
+#	Id	ClassId	String
+	1	9303	<CENTER><FONT COLOR=#FFFFFF>
+	2	9303	<B>Gamania</B><BR>
+	3	9303	<B>Excutive Producer</B><BR>
+	4	9303	Albert<BR>
+	5	9303	Alan Kuo<BR>
+	6	9303	<BR>
+	7	9303	<B>Original Design</B><BR>
+	8	9303	Pongo Kuo<BR>
+	9	9303	Phoenix Tarng<BR>
+	10	9303	<BR>
+	11	9303	<B>Animation Development Office</B><BR>
+	12	9303	Sanvy Hsieh<BR>
+	13	9303	<BR>
+	14	9303	<B>RedGate Games</B><BR>
+	15	9303	<B>Executive Producer</B><BR>
+	16	9303	Jacky Chu<BR>
+	17	9303	<BR>
+	18	9303	<BR>
+	19	9303	<B>Game Producer</B><BR>
+	20	9303	Arthur Shen<BR>
+	21	9303	<BR>
+	22	9303	<B>Lead Programmer</B><BR>
+	23	9303	Peter Lu<BR>
+	24	9303	<B>Programmer</B><BR>
+	25	9303	Cake Chen<BR>
+	26	9303	Neo Chen<BR>
+	27	9303	Reese Lee<BR>
+	28	9303	Tomes Ho<BR>
+	29	9303	<BR>
+	30	9303	<B>Lead Designer</B><BR>
+	31	9303	Iris Liu<BR>
+	32	9303	<B>Designer</B><BR>
+	33	9303	Leo Lau<BR>
+	34	9303	Goeffery Yeh<BR>
+	35	9303	Pc Lin<BR>
+	36	9303	Liying Chen<BR>
+	37	9303	<BR>
+	38	9303	<B>Lead Artist</B><BR>
+	39	9303	Giki<BR>
+	40	9303	<B>Artist</B><BR>
+	41	9303	Klein Yu<BR>
+	42	9303	Carrie Lin<BR>
+	43	9303	Climen Chen<BR>
+	44	9303	<B>Support Artist</B><BR>
+	45	9303	Gamania Beijing RD<BR>
+	46	9303	<BR>
+	47	9303	<B>Gamania Support Team</B><BR>
+	48	9303	<B>UI Design Consultant</B><BR>
+	49	9303	Jack Yu<BR>
+	50	9303	Lotus Chi <BR>
+	51	9303	<B>3D Graphics Programmer</B><BR>
+	52	9303	Kyle Lin<BR>
+	53	9303	<B>Item Mall System Programmer</B><BR>
+	54	9303	Richard Hsiao<BR>
+	55	9303	Pale Chen<BR>
+	56	9303	Wallace Lai<BR>
+	57	9303	Chihyu Lai <BR>
+	58	9303	Chiungting Fang <BR>
+	59	9303	Charles Ku<BR>
+	60	9303	Yusyuan Lin<BR>
+	61	9303	Hugh Wu<BR>
+	62	9303	<B>File System Programmer</B><BR>
+	63	9303	Kermit Tien<BR>
+	64	9303	<B>Patch Program Programmer</B><BR>
+	65	9303	Kermit Tien<BR>
+	66	9303	<B>Backend System Programmer</B><BR>
+	67	9303	Null Su<BR>
+	68	9303	Tommy Hsu<BR>
+	69	9303	<B>Audio Programmer</B><BR>
+	70	9303	Jack Yu<BR>
+	71	9303	Lynn Yang<BR>
+	72	9303	<B>Testing Tool Programmer</B><BR>
+	73	9303	Pale Chen<BR>
+	74	9303	<B>Music Director</B><BR>
+	75	9303	Jimi Lee<BR>
+	76	9303	<BR>
+	77	9303	<B>GATE Manager</B><BR>
+	78	9303	Gilbert Hsieh<BR>
+	79	9303	<B>MR Manager</B><BR>
+	80	9303	Caoshun Wu<BR>
+	81	9303	<B>TS Manager</B><BR>
+	82	9303	Yoshio Lin<BR>
+	83	9303	<B>QA Manager</B><BR>
+	84	9303	Bob Wang<BR>
+	85	9303	<BR>
+	86	9303	<B>Special Thanks</B><BR>
+	87	9303	Yasushi Adachi<BR>
+	88	9303	Tomoaki Fukui<BR>
+	89	9303	EricTsai<BR>
+	90	9303	<BR>
+	91	9303	David Wong<BR>
+	92	9303	Paley Yung<BR>
+	93	9303	Frankie Wong<BR>
+	94	9303	Wayne Po<BR>
+	95	9303	Jerry Wei<BR>
+	96	9303	Yuwei Chang<BR>
+	97	9303	Kevin Crawford<BR>
+	98	9303	Alice Ly<BR>
+	99	9303	Andrew Wei<BR>
+	100	9303	<BR>
+	101	9303	Otto Hsieh<BR>
+	102	9303	Jerry Chio<BR>
+	103	9303	<BR>
+	104	9303	Connie Ma<BR>
+	105	9303	Alan Lan<BR>
+	106	9303	<BR>
+	107	9303	Mincy Yang<BR>
+	108	9303	Anna Tsai<BR>
+	109	9303	Jason Wu<BR>
+	110	9303	King Tsai<BR>
+	111	9303	Hank Ho<BR>
+	112	9303	Smotwnpooh Lee<BR>
+	113	9303	Wex Wu<BR>
+	114	9303	Molly Lin<BR>
+	115	9303	Ophelia Huang<BR>
+	116	9303	Beryl Li<BR>
+	117	9303	Helene Chang<BR>
+	118	9303	Stella Chou<BR>
+	119	9303	Yiyu Huang<BR>
+	120	9303	</FONT></CENTER>

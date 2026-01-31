@@ -1,0 +1,827 @@
+#	Id	ClassId	String
+	3000001	9400	Wooden Man
+	3000002	9400	Masked Grasshopper
+	3000003	9400	Rabbit Warrior
+	3000004	9400	White Rabbit Squad Leader
+	3000005	9400	Plains Guardian No. 1
+	3000006	9400	Masked Grasshopper
+	3000007	9400	Rabbit Warrior
+	3000008	9400	White Rabbit Squad Leader
+	3000009	9400	Plains Guardian No. 1
+	3000010	9400	Evil Dark
+	3000011	9400	Little Earth Snail
+	3000012	9400	Yellow Rabbit Squad Leader
+	3000013	9400	Husky Tusker
+	3000014	9400	Evil Little Earth Snail
+	3000015	9400	Evil Hedgehog
+	3000016	9400	Red Rabbit Squad Leader
+	3000017	9400	Jump Rope Brother Rabbit
+	3000018	9400	Evil Little Earth Snail
+	3000019	9400	Evil Hedgehog
+	3000020	9400	Red Rabbit Squad Leader
+	3000021	9400	Jump Rope Brother Rabbit
+	3000022	9400	Destructive Grasshopper
+	3000023	9400	Masked Rabbit
+	3000024	9400	Whirlwind White Rabbit Squad Leader
+	3000025	9400	Celestial Rabbit
+	3000026	9400	Spiky Head
+	3000027	9400	Tank Rabbit
+	3000028	9400	Whirlwind Yellow Rabbit Squad Leader
+	3000029	9400	Poisonous Mist Rabbit
+	3000030	9400	Spiky Head
+	3000031	9400	Tank Rabbit
+	3000032	9400	Whirlwind Yellow Rabbit Squad Leader
+	3000033	9400	Poisonous Mist Rabbit
+	3000034	9400	Barbaric Little Earth Snail
+	3000035	9400	Deadly Grasshopper
+	3000036	9400	Barbaric Red Rabbit Squad Leader
+	3000037	9400	Soul-Stealing Aman
+	3000038	9400	Evil Grasshopper
+	3000039	9400	Restless Little Earth Snail
+	3000040	9400	Barbaric White Rabbit Squad Leader
+	3000041	9400	Castle Guardian No. 2 
+#	3000042	9400	Evil Grasshopper
+#	3000043	9400	Restless Little Earth Snail
+#	3000044	9400	Barbaric White Rabbit Squad Leader
+#	3000045	9400	Castle Guardian No. 2 
+	3000046	9400	Restless White Rabbit
+	3000047	9400	Armored Rabbit Warrior
+	3000048	9400	Barbaric Yellow Rabbit Squad Leader
+	3000049	9400	Poisonous Gassy Chubby Bunny
+	3000050	9400	Carrot Weirdo
+	3000051	9400	Barbaric Rabbit Warrior
+	3000052	9400	Barbaric Cupid
+	3000053	9400	Rabbit King a.k.a. Jumpy Ghostface
+	3000054	9400	Carrot
+	3000055	9400	Little White Snail
+	3000056	9400	Evil Little White Snail
+	3000057	9400	Evil Little White Snail
+	3000058	9400	Barbaric Little White Snail
+	3000059	9400	Restless Little White Snail
+	3000060	9400	Restless Little White Snail
+	3001701	9400	Mischievous Rascal
+	3001702	9400	Wrinkle-Nosed Elephant
+	3001703	9400	Turquoise Elephant
+	3001704	9400	Uprising Elephant
+	3001705	9400	Little Turquoise Elephant
+	3001706	9400	Little Wrinkle-Nosed Elephant
+	3001801	9400	Chickadee
+	3001802	9400	Passionate Rascal
+	3001803	9400	Little Red Elephant
+	3001804	9400	Little Blue Elephant
+	3001805	9400	Little Orange Brown Elephant
+	3001806	9400	Little Green Elephant
+	3001807	9400	Hammer-Nosed Elephant
+	3001808	9400	Shield Elephant Squad Leader
+	3001809	9400	Second Lieutenant of Beret Elephant
+	3001810	9400	Sparky Black
+	3001811	9400	Sparky White
+	3001901	9400	Green Goblin Lantern
+	3001902	9400	Swollen-Nosed Elephant
+	3001903	9400	Brown Leaf Elephant
+	3001904	9400	Heavily Armored Tank Elephant
+	3001905	9400	Little Chameleonic Red Dragon
+	3001906	9400	Spiked Cannon Monster Dragon Chariot
+	3001907	9400	Big Dragon Cannon Chariot
+	3001908	9400	Old Lizard King
+	3001909	9400	Little Chameleonic Blue Dragon
+	3001910	9400	Little Chameleonic Green Dragon
+	3001911	9400	Little Spiked Chameleon Cannon Chariot
+	3001912	9400	Little Round Chameleon Cannon Chariot
+	3001913	9400	Little Machine Gun Dragon Chariot
+	3001914	9400	Round Chameleon Cannon Chariot
+	3001915	9400	Machine Gun Dragon Chariot
+	3001916	9400	Spiked Chameleon Cannon Chariot
+	3001917	9400	Pointed Dragon Cannon Chariot
+	3001918	9400	Magical Dragon Cannon Chariot
+	3002001	9400	Ruthless Rascal
+	3002002	9400	Eeeny
+	3002003	9400	Sparky Black
+	3002004	9400	Burning Tank Elephant
+	3002005	9400	Pink Elephant Gate Squad Leader
+	3002006	9400	Green Elephant Gate Squad Leader
+	3002007	9400	Black Elephant Gate Squad Leader
+	3002008	9400	Blue Elephant Gate Squad Leader
+	3002009	9400	Sparky White
+	3002101	9400	Meeny
+	3002102	9400	Single Green Lantern
+	3002103	9400	Pink Elephant
+	3002104	9400	Tank Elephant
+	3002105	9400	Buding
+	3002106	9400	Pink Elephant Supplies Commander
+	3002107	9400	Green Elephant Supplies Commander
+	3002108	9400	Black Elephant Supplies Commander
+	3002109	9400	Blue Elephant Supplies Commander
+	3002201	9400	Rebellious Rascal
+	3002202	9400	Transparent Monster (Not Shown)
+	3002203	9400	Spiral Flying Elephant
+	3002204	9400	Flood Elephant Sovereign
+	3002205	9400	Rolling Stone Elephant Sovereign 
+	3002206	9400	Cannonball Elephant Sovereign 
+	3002207	9400	Wooden Post Elephant Sovereign 
+	3002208	9400	Watermelon Elephant Sovereign 
+	3002209	9400	Crazy Little Fei
+	3002301	9400	Deadly Rascal
+	3002302	9400	Miney
+	3002303	9400	Tall Green Elephant
+	3002304	9400	Combative Tank Elephant
+	3002305	9400	Wood Sawing Elephant Head Platform
+	3002306	9400	Spiked Wheel Launching Pad
+	3002401	9400	Green Demon Lantern
+	3002402	9400	Momo
+	3002403	9400	Kabu Elephant
+	3002404	9400	Fighting Tank Elephant
+	3002405	9400	Little Blue Water Elephant
+	3002406	9400	Chameleonic Flirtatious Dragon
+	3002407	9400	Helmet Dragon Chariot
+	3002408	9400	Kabu Tall Elephant
+	3002409	9400	Raging Tank Elephant
+	3002410	9400	Little Tank Elephant
+	3002411	9400	Elephant King
+	3002501	9400	Elephant King
+	3002601	9400	Malicious Rascal
+	3002602	9400	Spring Nose Elephant 
+	3002603	9400	Dark Green Elephant Squad Leader
+	3002604	9400	Invincible 60 Seconds
+	3002605	9400	Sparky Black
+	3002606	9400	Sparky White
+	3002701	9400	Mini Elephant
+	3002801	9400	Green Goblin Lantern
+	3002802	9400	Swollen Nosed Elephant
+	3002803	9400	Brown Leaf Elephant
+	3002804	9400	Heavily Armored Tank Elephant
+	3002805	9400	Little Chameleonic Red Dragon
+	3002806	9400	Spiked Cannon Monster Dragon Chariot
+	3002807	9400	Big Dragon Cannon Chariot
+	3002808	9400	Old Lizard King
+	3002809	9400	Little Chameleonic Blue Dragon
+	3002810	9400	Little Chameleonic Green Dragon
+	3002811	9400	Little Spiked Chameleon Cannon Chariot
+	3002812	9400	Little Round Chameleon Cannon Chariot
+	3002813	9400	Little Machine Gun Dragon Chariot
+	3002814	9400	Round Chameleon Cannon Chariot
+	3002815	9400	Machine Gun Dragon Chariot
+	3002816	9400	Spiked Chameleon Cannon Chariot
+	3002817	9400	Pointed Dragon Cannon Chariot
+	3002818	9400	Magical Dragon Cannon Chariot
+	3002901	9400	Wild Elephant Warrior
+	3002902	9400	Demolition Elephant
+	3002903	9400	Eeeny
+	3002904	9400	Ruthless Rascal
+	3003001	9400	Iron Masked Grasshopper
+	3003002	9400	Black Tiger
+	3003003	9400	Tank Liger
+	3003004	9400	Chariot Liger King
+	3003101	9400	Misty Ghost Rascal
+	3003102	9400	Striped Tiger
+	3003103	9400	Chubby Lion
+	3003104	9400	Flame-Throwing Liger King
+	3003105	9400	Flame-Throwing Liger King
+	3003106	9400	Evil Rascal
+	3003107	9400	Evil Tiger
+	3003201	9400	Little Black Tiger
+	3003202	9400	Little Yellow Tiger
+	3003203	9400	Flywheel Tiger No. 1
+	3003204	9400	Flywheel Tiger No. 2
+	3003205	9400	Flywheel Tiger No. 3
+	3003206	9400	Flywheel Tiger No. 4
+	3003207	9400	Flywheel Tiger No. 5
+	3003208	9400	Flywheel Tiger No. 6
+	3003209	9400	Brother Black Tiger
+	3003301	9400	Little Soldier Liger
+	3003302	9400	Tank Liger
+	3003303	9400	Gourd Cannon Chariot
+	3003304	9400	Liger Prince
+	3003401	9400	Liger Clan Warrior
+	3003402	9400	Liger Clan Gatekeeper
+	3003403	9400	Golden Lion Village
+	3003404	9400	ApeTrully 
+	3003501	9400	Tank Squad Leader
+	3003502	9400	Liger Clan Machinist
+	3003503	9400	Thunder Tiger
+	3003504	9400	Thunder Tiger's Troops
+	3003601	9400	Rabbit Sidekick
+	3003602	9400	Mask Ninja
+	3003603	9400	Little Blue Elephant
+	3003604	9400	Elephant Captain
+	3003605	9400	Ferocious Lion
+	3003606	9400	Missile Liger
+	3003607	9400	Cowardly Shooter
+	3003608	9400	Camel Locke
+	3003609	9400	Ferocious Cat
+	3003610	9400	Ferocious Dog
+	3003611	9400	Hammer Head Ostrich
+	3003612	9400	Eagle King Wheel
+	3004001	9400	Flying Bat
+	3004002	9400	Furious Rascal
+	3004003	9400	Pickaxe Ostrich
+	3004004	9400	Hot Dog Tycoon
+	3004101	9400	Soaring Bat
+	3004102	9400	Stinky Skunk
+	3004103	9400	Hammerhead Ostrich
+	3004104	9400	Cool Flashy Wheeler
+	3004201	9400	Dashing Bird
+	3004202	9400	Ferocious Pickaxe Ostrich
+	3004203	9400	Ferocious Hammerhead Ostrich
+	3004204	9400	Eagle King
+	3004301	9400	Gliding Eagle
+	3004401	9400	Twister Sparta
+	3005001	9400	Mountain Camel
+	3005002	9400	Little Desert Scorpion
+	3005003	9400	Scorpion Soldier
+	3005004	9400	Double Laughter Scorpion
+	3005101	9400	Little Desert Soldier
+	3005102	9400	Desert Detective
+	3005103	9400	Chief Desert Detective
+	3005104	9400	Five Element Snake
+	3005201	9400	Elite Camel Soldier
+	3005202	9400	Elite Camel
+	3005203	9400	Camel Cartographer
+	3005204	9400	Camel Formation
+	3006001	9400	Little Blue Cat Soldier
+	3006002	9400	Little Green Cat Soldier
+	3006003	9400	Little Yellow Cat Soldier
+	3006004	9400	Cat King
+	3006005	9400	Little Lazy Cat Soldier
+	3006006	9400	Tears Station Guard
+	3006007	9400	Water Tank Guard
+	3100001	9400	Gate
+	3100002	9400	Enormous Carrot
+	3100003	9400	Cannon Fort
+	3100004	9400	Castle Gate Rabbit Soldier
+	3100005	9400	Activator
+	3100006	9400	Iron Wall
+	3100007	9400	Rolling Flute Platform
+	3100008	9400	Besieged Gourd Cannon Chariot
+	3100009	9400	Air Pumping Tube
+	3100010	9400	Little Rolling Flute
+	3100011	9400	Big Rolling Flute
+	3100012	9400	Treasure Chest
+#	3100013	9400	Ice Wall
+#	3100014	9400	Flame Gate
+	3100015	9400	Iron Gate
+#	3100016	9400	Fishnet Wall
+	3100017	9400	Cage
+	3100018	9400	Besieged Villager
+	3100019	9400	Rock
+	3100020	9400	Fence
+	3100021	9400	Castle Gate
+	3100022	9400	Flame Thrower Platform
+	3100023	9400	Bear Warrior
+	3100024	9400	Trap Switch
+	3100025	9400	Pump
+	3100026	9400	Banana Launching Pad
+	3100027	9400	Giant Fan
+	3100028	9400	Helicopter
+	3100029	9400	Tears Collecting Station
+	3100030	9400	Cat Tears Tank
+	3100031	9400	Landmine
+	3100032	9400	Cat Tickler Control
+	3100033	9400	Snow Lotus
+	3100034	9400	Light Pole
+	3100035	9400	Mutated Plant
+	3100036	9400	Tropical Plant
+	3100037	9400	Steamer
+	3100038	9400	Super Steamer
+	3100039	9400	Herb
+	3100040	9400	The Rusty Switch
+	3100041	9400	Secret Room Switch
+	3100042	9400	Check Point
+	3100043	9400	Bamboo
+	3100044	9400	Wastepaper Dump
+	3100045	9400	Blue Carrot
+	3100046	9400	Fire Hydrant
+	3100047	9400	Mound
+	3100048	9400	Liger Brother (A)
+	3100049	9400	Liger Brother (B)
+	3100050	9400	Liger Brother (C)
+	3100051	9400	Footprint
+	3200001	9400	Master Lin Chung
+	3200002	9400	Woo the Wise
+	3200003	9400	Rabbit Kingdom Instance Quest
+	3200004	9400	Elephant Kingdom Instance Quest
+	3200005	9400	Lin Chung Equipment Merchant
+	3200006	9400	Mighty Ray Equipment Merchant
+	3200007	9400	Mystique Sonia Equipment Merchant
+	3200008	9400	Mr. No Hands Equipment Merchant
+	3200009	9400	Accessory Merchant
+	3200010	9400	Grocery Merchant
+	3200011	9400	Lin Chung Skill Instructor
+	3200012	9400	Mighty Ray Skill Instructor
+	3200013	9400	Mystique Sonia Skill Instructor
+	3200014	9400	Mr. No Hands Skill Instructor
+	3200015	9400	Guild Manager
+	3200016	9400	Letter Messenger
+	3200017	9400	Auction Manager
+	3200018	9400	Warehouse Manager
+	3200019	9400	Imperial Minister
+	3200020	9400	Captain of the Guard
+	3200021	9400	ApeTrully 
+	3200022	9400	Tank Squad Leader
+	3200023	9400	Guardian Angel Merchant
+	3200024	9400	Lin Chung
+	3200025	9400	Mighty Ray
+	3200026	9400	Mystique Sonia
+	3200027	9400	Mr. No Hands
+	3200028	9400	Elephant Kingdom Village Leader
+	3200029	9400	Elephant Kingdom Villager
+	3200030	9400	Little Elephant Soldier
+	3200031	9400	Little Elephant Baby
+	3200032	9400	Cowardly Soldier
+	3200033	9400	Kevin
+	3200034	9400	Monique
+	3200035	9400	Child
+	3200036	9400	Carpenter
+	3200037	9400	Flute-Watching Elephant
+	3200039	9400	Adam
+	3200040	9400	Elder Brother
+	3200041	9400	Middle Brother
+	3200042	9400	Youngest Brother
+	3200043	9400	Rabbit Kingdom Village Leader
+	3200044	9400	Rear Service Tank Squad Leader
+	3200045	9400	Rabbit Kingdom Villager
+	3200046	9400	Frontline Tank Squad Leader
+	3200047	9400	Big Green Cannoneer
+	3200048	9400	Sailor Brother 3
+	3200049	9400	Liger Cub
+	3200050	9400	Gourd Cannon Chariot No. 1
+	3200051	9400	Little Liger Cub
+	3200052	9400	Soldier in Love
+	3200053	9400	Liger Kingdom Villager
+	3200054	9400	Cartographer Soldier
+	3200055	9400	Sketchy Camel
+	3200056	9400	Gum Master
+	3200057	9400	Bullied Sister
+	3200058	9400	Headstand Villager
+	3200059	9400	Roaming Monk
+	3200060	9400	Camel Scout
+	3200061	9400	Belinda
+	3200062	9400	Air Force Captain
+	3200063	9400	Dark Eagle Squad Leader
+	3200064	9400	Andrew
+	3200065	9400	Liger Kingdom Instance Quest
+	3200066	9400	Mount Merchant
+	3200067	9400	Happy Cat
+	3200068	9400	Eskimo
+	3200069	9400	Wusung
+	3200070	9400	Rattle Diva - Alice
+	3200071	9400	Dwarf Rabbit
+	3200072	9400	Ninja Usagimaru
+	3200073	9400	Cross Country Rabbit
+	3200074	9400	Summer
+	3200075	9400	Thousand Rabbits Head Coach
+	3200076	9400	Charlotte
+	3200077	9400	Lantern
+	3200078	9400	Tiny
+	3200079	9400	Monk
+	3200080	9400	Old Woman
+	3200081	9400	Peaceful Elder
+	3200082	9400	Old Elephant Chief
+	3200083	9400	Warrior Shield Elephant
+	3200084	9400	General Brutus
+	3200085	9400	Mysterious Boy
+	3200086	9400	GASH Item Merchant
+	3200087	9400	Temple Administrator
+	3200088	9400	Buddhist Abbot
+	3200089	9400	Abbot
+	3200090	9400	Meditator
+	3200091	9400	Ascetic
+	3200092	9400	Elder
+	3200093	9400	Altar
+	3200094	9400	Heaven Ruler Incense Burner
+	3200095	9400	Main Temple Incense Burner
+	3200096	9400	Local Guardian Deity Incense Burner
+	3200097	9400	Heavenly Deity Incense Burner
+	3200098	9400	Deity of Knowledge Incense Burner
+	3200099	9400	Deity of Child Birth Incense Burner
+	3200100	9400	Deity of Matchmaking Incense Burner
+	3200101	9400	Dragon Incense Burner
+	3200102	9400	Tiger Incense Burner
+	3200103	9400	Deity of Door Incense Burner
+	3200104	9400	Benefaction Box
+	3200105	9400	Sacrificial Altar
+	3200106	9400	Sun Wishing Fountain
+	3200107	9400	Moon Wishing Fountain
+	3200108	9400	Venus Wishing Fountain
+	3200109	9400	Jupiter Wishing Fountain
+	3200110	9400	Mercury Wishing Fountain
+	3200111	9400	Mars Wishing Fountain
+	3200112	9400	Saturn Wishing Fountain
+	3200113	9400	Uranus Wishing Fountain
+	3200114	9400	Pluto Wishing Fountain
+	3200115	9400	Donation Box
+	3200116	9400	Kowloon Equipment Merchant
+	3200117	9400	Hurricane Lee Equipment Merchant
+	3200118	9400	Latifah Equipment Merchant
+	3200119	9400	Archer Lee Equipment Merchant
+	3200120	9400	Kowloon Skill Instructor
+	3200121	9400	Hurricane Lee Skill Instructor
+	3200122	9400	Latifah Skill Instructor
+	3200123	9400	Archer Lee Skill Instructor
+	3200124	9400	Liger Kingdom Village Leader
+	3200125	9400	Golden Lion Statue
+	3200126	9400	Master Wang
+	3200127	9400	Royal Guard Captain
+	3200128	9400	Camel Leader
+	3200129	9400	Leader - Patricia
+	3200130	9400	Headstand Master
+	3200131	9400	Scorpion Venom Expert
+	3200132	9400	Sailor Brother 1
+	3200133	9400	Sailor Brother 2
+	3200134	9400	Sailor Brother 3
+	3200135	9400	Cat King
+	3200136	9400	Dog King
+	3200137	9400	Baby Bear
+	3200138	9400	Girl Selling Firecrackers
+	3200139	9400	Parrot Trainer
+	3200140	9400	Hero in the Wind
+	3200141	9400	Unconscious Soldier
+	3200142	9400	General Brutus
+	3200143	9400	General Patricia
+	3200144	9400	Weather Investigator
+	3200145	9400	Haunted Commissioner
+	3200146	9400	Eldest Tortoise Brother
+	3200147	9400	High Quality Carrot
+	3200148	9400	Big Carrot
+	3200149	9400	Kind Man
+	3200150	9400	Super Carrot
+	3200151	9400	Super Banana
+	3200152	9400	Super Pineapple
+	3200153	9400	Super Grapes
+	3200154	9400	Master Lee
+	3200155	9400	Leprechaun
+	3200156	9400	Lu Zhishen
+	3200157	9400	Camel Kingdom Instance Quest
+	3200158	9400	Cat Kingdom Instance Quest
+	3200159	9400	Eagle Kingdom Instance Quest
+	3200160	9400	Rosefinch
+	3200161	9400	Frightened Villagers
+	3200162	9400	Jumpy Ghostface
+	3200163	9400	ApeTrully
+	3200164	9400	Big Green Fighter Plane
+	3200165	9400	Flower Essence
+	3200166	9400	Brave Soldier
+	3200167	9400	Gourd Cannon Chariot No. 2
+	3200168	9400	Liger King
+	3200169	9400	Tree Man
+	3200170	9400	Sailor Brother 1
+	3200171	9400	Sailor Brother 2
+	3200172	9400	Arena Guide
+	3200173	9400	
+	3200174	9400	Parade
+	3300001	9400	Grasshopper
+	3300002	9400	Chaotic Snail
+	3300003	9400	Little White Rabbit
+	3300004	9400	Carrot Racer
+	3300005	9400	Spiky Burrower
+	3300006	9400	Growth Ring Snail
+	3300007	9400	Pink Rabbit
+	3300008	9400	[Elite] Ninja Bing Rabbit
+	3300009	9400	[Elite] Ninja Hart Rabbit
+	3300010	9400	Angry Chickadee
+	3300011	9400	Little Brown Elephant 
+	3300012	9400	Little Red Elephant 
+	3300013	9400	Bobo Elephant
+	3300014	9400	Chameleon
+	3300015	9400	Chameleon Cannon
+	3300016	9400	Strange Elephant
+	3300017	9400	Marked Badge Gang
+	3300018	9400	[Elite] Elephant Tank
+	3300019	9400	[Elite] Elephant Gang Leader
+	3300020	9400	Fly
+	3300021	9400	Curly Lion
+	3300022	9400	Iron Tiger Man
+	3300023	9400	Frightened Man
+	3300024	9400	Tiger
+	3300025	9400	Green Tiger
+	3300026	9400	Blue Tiger
+	3300027	9400	[Elite] Thunderbolt Tiger
+	3300028	9400	[Elite] Bumpy Liger
+	3300029	9400	Scripting Camel
+	3300030	9400	Aggressive Camel
+	3300031	9400	Pincer Scorpion
+	3300032	9400	Cactus Camel
+	3300033	9400	Artistic Camel
+	3300034	9400	[Elite] Punk Locke
+	3300035	9400	[Elite] Blue Scorpion
+	3300036	9400	Wild Meow
+	3300037	9400	Mischief
+	3300038	9400	Sacred Wind Bird
+	3300039	9400	Young Ostrich
+	3300040	9400	Elder Ostrich
+	3300041	9400	Stink Beast
+	3300042	9400	[Elite] Cluckin' Turducken
+	3300043	9400	[Elite] BakBak
+	3300044	9400	Light Tiger Cub
+	3300045	9400	Green Meow
+	3300046	9400	Blue Meow
+	3300049	9400	[Elite] Red Meow
+	3300050	9400	[Elite] Penguin Bobo
+	3300051	9400	Iron Carrot Squad
+	3300052	9400	Dark Tiger
+	3300053	9400	Widow Scorpion
+	3300054	9400	Weak Chicken
+	3300055	9400	Rapid Thunder
+	3300056	9400	Happy-Go-Lucky
+	3300057	9400	Penguin
+	3300058	9400	Black Dog
+	3300059	9400	Local Dog
+	3300060	9400	Iron Eagle
+	3300061	9400	Frightening Eagle
+	3300062	9400	Dark Eagle
+	3300063	9400	Dark Ostrich
+	3300064	9400	Desert Kid
+	3300065	9400	Red Dragonfly
+	3300066	9400	White Cupid Fighter
+	3300067	9400	Pink Cupid Fighter
+	3300068	9400	Yellow Cupid Fighter
+	3300069	9400	[Elite] Cupid Ranger
+	3300070	9400	Triple Stripe Mosquito
+	3300071	9400	Thousand Rabbits Potion
+	3300072	9400	Dirty Skunk
+	3300073	9400	Smelly Skunk
+	3300074	9400	[Elite] Rotten Skunk
+	3300075	9400	Green Dragonfly
+	3300076	9400	Emerald Elephant
+	3300077	9400	Ghostly Lantern
+	3300078	9400	Watermelon Thief
+	3300079	9400	[Elite] Watermelon Tusker
+	3300080	9400	Blue Elephant Warrior
+	3300081	9400	Brown Elephant Warrior
+	3300082	9400	Green Elephant Warrior
+	3300083	9400	Red Elephant Warrior
+	3300084	9400	[Elite] Giant Hammer Chief
+	3300085	9400	Elephant Assassin
+	3300086	9400	King of Darkness
+	3300087	9400	Red Lantern
+	3300088	9400	Tulu the Dog King
+	3300089	9400	Puppy Soldier
+	3300090	9400	Liger Doll
+	3300091	9400	Gama Liger
+	3300092	9400	Yellow Fire Liger
+	3300093	9400	Red Flame Liger
+	3300094	9400	[Elite] Black Face Liger
+	3300095	9400	Pink Tiger
+	3300096	9400	Green Lady 
+	3300097	9400	Purple Lady
+	3300098	9400	Grass Lady
+	3300099	9400	[Elite] White Gentleman
+	3300100	9400	Desert Rascal
+	3300101	9400	Spiky Crown Camel
+	3300102	9400	Crownless Camel
+	3300103	9400	Royal Guard
+	3300104	9400	Stronghold Camel
+	3300105	9400	[Elite] Heavily Armored Camel
+	3300106	9400	Poisoned Human
+	3300107	9400	Dark Purple Stinger
+	3300108	9400	Aqua Blue Stinger
+	3300109	9400	Eerie Pillow
+	3300110	9400	[Elite] Purple Tail Scorpion King
+	3300111	9400	Black Lala
+	3300112	9400	Grass Meow-Meow
+	3300113	9400	Black-Hearted Hunter
+	3300114	9400	Black-Hearted Shooter
+	3300115	9400	[Elite] White Bear
+	3300116	9400	Ocean Mimi
+	3300117	9400	Golden Cat
+	3300118	9400	Dirty Brown Dog
+	3300119	9400	Bichon
+	3300120	9400	[Elite] Rattle Diva - Alice
+	3300121	9400	Peach Parrot
+	3300122	9400	Big Eyed Bat
+	3300123	9400	Eagle in the Wind
+	3300124	9400	Blueberry Parrot
+	3300125	9400	[Elite] Parrot King
+	3300126	9400	Child of Darkness
+	3300127	9400	Field Battle Child
+	3300128	9400	Flying Child
+	3300129	9400	Bright Light Monster
+	3300130	9400	[Elite] King of Darkness
+	3300131	9400	Bright Light Retinue
+	3300132	9400	Crazed Carrot Racer
+	3300133	9400	Bear King
+	3300134	9400	Thousand Rabbits Potion Leader
+	3300135	9400	Defected Soldier
+	3300136	9400	Zebra Brothers
+	3300137	9400	Crash Little Fei
+	3300138	9400	Green Elephant Warrior Leader
+	3300139	9400	Chickadee Chief
+	3300140	9400	Projectile Liger
+	3300141	9400	Weeble Wobble Pillow
+	3300142	9400	Gliding Eagle
+	3300143	9400	Crazy Spiky Potato
+	3300144	9400	Iron Tiger Man Leader
+	3300145	9400	Yellow Fire Leader
+	3300146	9400	Scripting Camel Leader
+	3300147	9400	Spiky Crown Camel Leader
+	3300148	9400	Iron Eagle Leader
+	3300149	9400	Big Eyed Bat Leader
+	3300150	9400	Wild Meow Leader
+	3300151	9400	Black Hearted Shooter Leader
+	3300152	9400	Noisy Mosquito
+	3350001	9400	King of Basil Tower
+	3350002	9400	Evil Lin Chung
+	3350003	9400	Evil Mighty Ray
+	3350004	9400	Evil Mystique Sonia
+	3350005	9400	Evil Mr. No Hands
+	3350006	9400	Evil Kowloon
+	3350007	9400	Evil Hurricane Lee
+	3350008	9400	Evil Latifah
+	3350009	9400	Evil Archer Lee
+	3400001	9400	Teleport Point
+	3400002	9400	Rabbit Kingdom Level Teleport Point
+	3400003	9400	Elephant Kingdom Level Teleport Point
+	3400004	9400	Liger Kingdom Level Teleport Point
+	3400005	9400	Camel Kingdom Level Teleport Point
+	3400006	9400	Eagle Kingdom Level Teleport Point
+	3400007	9400	Cat Kingdom Level Teleport Point
+	3400008	9400	Dead End
+	3400009	9400	To Hero City (District A)
+	3400010	9400	To Hero City (District B)
+	3400011	9400	To Hero City (District C)
+	3400012	9400	To Carrot Plains
+	3400013	9400	To Rabbit Kingdom Field
+	3400014	9400	To Ivory Forest
+	3400015	9400	To Sacred Woods
+	3400016	9400	To Green Canyon
+	3400017	9400	To Cloudy Sky Prairie
+	3400018	9400	To Stormy Desert
+	3400019	9400	To Green Coconut Dune
+	3400020	9400	To Bleak Winter Prairie
+	3400021	9400	To Zone of Silence
+	3400022	9400	To Stone Plate Relics
+	3400023	9400	To City of Eagles
+	3400024	9400	To Machine Plaza
+	3400025	9400	To Big Green Beginner's Zone
+	3400026	9400	To Raid Boss Zone
+	3400027	9400	To Falling Leaf Woodland
+	3400028	9400	To Firefly Plains
+	3400029	9400	To City of Dawn
+	3400030	9400	To Firefly Forest
+	3400031	9400	To Green Forest
+	3400032	9400	To Stormy Forest
+	3400033	9400	To Gunfire Desert
+	3400034	9400	To Flooded Desert
+	3400035	9400	To Thunderous Snowfield
+	3400036	9400	To Lonely Snowfield
+	3400037	9400	To Stormy Barren Land
+	3400038	9400	To Cracked Barren Land
+	3400039	9400	To Rabbit Kingdom Instance
+	3400040	9400	To Elephant Kingdom Instance
+	3400041	9400	To Liger Kingdom Instance
+	3400042	9400	To Camel Kingdom Instance
+	3400043	9400	To Cat Kingdom Instance
+	3400044	9400	To Eagle Kingdom Instance
+	3400045	9400	Entrance
+	3400046	9400	Exit
+	3400047	9400	To Machine Plaza(2)
+	3400048	9400	To Activity zone
+	3400049	9400	To Basil Tower (LV25)
+	3400050	9400	To Basil Tower (LV30)
+	3400051	9400	To Basil Tower (LV45)
+	3400052	9400	To Basil Tower (LV50)
+	3400053	9400	To Basil Tower (LV55)
+	3400054	9400	Beginner's Instance Entrance
+	3400055	9400	To Arena (LV35~45)
+	3400056	9400	To Arena (LV45~60)
+	3401001	9400	Complete Conversation
+	3401002	9400	Complete Follow-UP Quests
+	3401003	9400	Complete Main Quests for Rabbit Kingdom
+	3401004	9400	Complete Main Quests for Liger Kingdom
+	3500001	9400	[Raid Boss] Celestial Rabbit
+	3500002	9400	[Raid Boss] Jump Rope Brother Rabbit
+	3500003	9400	[Raid Boss] Plains Guardian
+	3500004	9400	[Raid Boss] Castle Guardian
+	3500005	9400	[Raid Boss] Poisonous Gassy Chubby Bunny
+	3500006	9400	[Raid Boss] Sacred Armored Rabbit
+	3500007	9400	[Raid Boss] Blue Marmot
+	3500008	9400	[Raid Boss] Yellow Bear
+	3500009	9400	[Raid Boss] Animus
+	3500010	9400	[Raid Boss] Strange Alien
+	3500011	9400	[Raid Boss] Rafflesia
+	3500012	9400	[Raid Boss] Black Scorpion Horse King
+	3500013	9400	[Raid Boss] White Scorpion Horse King
+	3500101	9400	[Raid Boss] Food Station Head
+	3500102	9400	[Raid Boss] Supplies Chief
+	3500103	9400	[Raid Boss] Ocean Elephant
+	3500104	9400	[Raid Boss] Elephant Autocannon Vehicle
+	3500105	9400	[Raid Boss] Golden Liger King
+	3500106	9400	[Raid Boss] Big Nosed Tiger
+	3500107	9400	[Raid Boss] Giant Camouflage Camel
+	3500108	9400	[Raid Boss] Giant Pen Camel
+	3500109	9400	[Raid Boss] Fire Throwing King
+	3500110	9400	[Raid Boss] Big Black Tiger
+	3500111	9400	[Raid Boss] Mysterious Meteorite Stone
+	3500112	9400	[Raid Boss] Black Vajra Guard
+	3500113	9400	[Raid Boss] White Vajra Guard
+	3500201	9400	[Raid Boss] King of Thunder Tiger
+	3500202	9400	[Raid Boss] Cornered Pupil Lion King
+	3500203	9400	[Raid Boss] Crookedland Giant
+	3500204	9400	[Raid Boss] Giant Camel King
+	3500205	9400	[Raid Boss] Cheetah Queen
+	3500206	9400	[Raid Boss] Big Child King
+	3500207	9400	[Raid Boss] Camel King Mountain
+	3500208	9400	[Raid Boss] Rock and Roll Camel King
+	3500209	9400	[Raid Boss] Beta Dog
+	3500210	9400	[Raid Boss] Golden Nameneko
+	3500211	9400	[Raid Boss] Toothy Zebrono-Cub
+	3500212	9400	[Raid Boss] White Cube
+	3500213	9400	[Raid Boss] Black Cube
+	3500301	9400	[Raid Boss] Big Ghost Head
+	3500302	9400	[Raid Boss] Green Eye Nameneko
+	3500303	9400	[Raid Boss] Thousand Heads Bomb
+	3500304	9400	[Raid Boss] Giant Gliding Eagle
+	3500305	9400	[Raid Boss] Rat King
+	3500306	9400	[Raid Boss] Charbroiled Dragon
+	3500307	9400	[Raid Boss] Big Hammer
+	3500308	9400	[Raid Boss] Muscle Giant
+	3500309	9400	[Raid Boss] Giant Torpedo
+	3500310	9400	[Raid Boss] Fanged Eagle Bear
+	3500311	9400	[Raid Boss] Big Bald Eagle
+	3500312	9400	[Raid Boss] Sparky White
+	3500313	9400	[Raid Boss] Sparky Black
+	3500314	9400	[Raid Boss] Sparky Black and White
+	3500401	9400	[Raid Boss] Pank
+	3500402	9400	[Raid Boss] Robot HighRoller
+	3500403	9400	[Raid Boss] HighRoller
+	3500501	9400	Thousand Rabbits Potion (A)
+	3500502	9400	Little White Rabbit (A)
+	3500503	9400	Iron Carrot Squad (A)
+	3500504	9400	Smelly Skunk (A)
+	3500505	9400	Triple Stripe Mosquito (A)
+	3500506	9400	Ninja Bing Rabbit (A)
+	3500507	9400	Little Red Elephant (A)
+	3500508	9400	Little Brown Elephant (A)
+	3500509	9400	Dark Tiger (A)
+	3500510	9400	Crownless Camel (A)
+	3500511	9400	Liger Doll (A)
+	3500512	9400	Royal Guard (A)
+	3500513	9400	Curly Lion (A)
+	3500514	9400	Artistic Camel (A)
+	3500515	9400	Tiger (A)
+	3500516	9400	Stronghold Camel (A)
+	3500517	9400	Light Tiger Cub (A)
+	3500518	9400	Black Hearted Hunter (A)
+	3500519	9400	Golden Cat (A)
+	3500520	9400	Frightening Eagle (A)
+	3500521	9400	Big Eyed Bat (A)
+	3500522	9400	BakBak (A)
+	3500523	9400	Penguin (A)
+	3500524	9400	Dark Eagle (A)
+	3501501	9400	Yellow Cupid Fighter (A)
+	3501502	9400	Pink Rabbit (A)
+	3501503	9400	Spiky Burrower (A)
+	3501504	9400	Rotten Skunk (A)
+	3501505	9400	Grasshopper (A)
+	3501506	9400	
+	3501507	9400	Blue Elephant Warrior (A)
+	3501508	9400	Green Elephant Warrior (A)
+	3501509	9400	Yellow Fire Liger (A)
+	3501510	9400	Scripting Camel (A)
+	3501511	9400	Evil Tiger (A)
+	3501512	9400	
+	3501513	9400	Iron Tiger Man (A)
+	3501514	9400	Poisoned Human (A)
+	3501515	9400	Desert Rascal (A)
+	3501516	9400	Mountain Camel (A)
+	3501517	9400	Wild Meow (A)
+	3501518	9400	
+	3501519	9400	Hunter (A)
+	3501520	9400	Dark Ostrich (A)
+	3501521	9400	Malicious Rascal (A)
+	3501522	9400	Field Battle Child (A)
+	3501523	9400	Blueberry Parrot (A)
+	3501524	9400	
+	3502001	9400	Wild Carota
+	3502002	9400	Albino Tigris
+	3502003	9400	Vitamic Hiss
+	3502004	9400	Big Burpy
+	3502005	9400	Flaming Svarog
+	3502006	9400	Feverish Canis
+	3502007	9400	Tigric Zeus
+	3502008	9400	Hydraphant
+	3502009	9400	Dark Anupu
+	3502010	9400	Hot Anupu
+	3502011	9400	T-Dawg
+	3502012	9400	Subpar Medusa
+	3502013	9400	Sleepy Furball
+	3502014	9400	A Ball of Hurt
+	3502015	9400	Mechtator
+	3502016	9400	Experiment 110
+	3900001	9400	Test Mob (DEF : 0)
+	3900002	9400	Test Mob (DEF : 10)
+	3900003	9400	Test Mob (DEF : 50)
+	3900004	9400	Test Mob (DEF : 100)
+	3900005	9400	Test Mob (Air eDEF : 10)
+	3900006	9400	Test Mob (Earth eDEF : 10)
+	3900007	9400	Test Mob (Water eDEF : 10)
+	3900008	9400	Test Mob (Fire eDEF : 10)
+	3900009	9400	Test Mob (Air eDEF : 50)
+	3900010	9400	Test Mob (Earth eDEF : 50)
+	3900011	9400	Test Mob (Water eDEF : 50)
+	3900012	9400	Test Mob (Fire eDEF : 50)
+	3900013	9400	Test Mob (Air eDEF : 100)
+	3900014	9400	Test Mob (Earth eDEF : 100)
+	3900015	9400	Test Mob (Water eDEF : 100)
+	3900016	9400	Test Mob (Fire eDEF : 100)
+	4000000	9400	 

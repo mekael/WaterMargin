@@ -1,0 +1,1161 @@
+#	Id	ClassId	String
+	4008101	9400	Focused Defense (1)
+	4008102	9400	Focused Defense (2)
+	4008103	9400	Focused Defense (3)
+	4008104	9400	Focused Defense (4)
+	4008105	9400	Focused Defense (5)
+	4008201	9400	Focused Attack (1)
+	4008202	9400	Focused Attack (2)
+	4008203	9400	Focused Attack (3)
+	4008204	9400	Focused Attack (4)
+	4008205	9400	Focused Attack (5)
+	4008301	9400	Increased Concentration (1)
+	4008302	9400	Increased Concentration (2)
+	4008303	9400	Increased Concentration (3)
+	4008304	9400	Increased Concentration (4)
+	4008305	9400	Increased Concentration (5)
+	4008401	9400	First Aid (1)
+	4008402	9400	First Aid (2)
+	4008403	9400	First Aid (3)
+	4008404	9400	First Aid (4)
+	4008405	9400	First Aid (5)
+	4008501	9400	Smoke Grenade (1)
+	4008502	9400	Smoke Grenade (2)
+	4008503	9400	Smoke Grenade (3)
+	4008504	9400	Smoke Grenade (4)
+	4008505	9400	Smoke Grenade (5)
+	4008601	9400	HP/MP Conversion (1)
+	4008602	9400	HP/MP Conversion (2)
+	4008603	9400	HP/MP Conversion (3)
+	4008604	9400	HP/MP Conversion (4)
+	4008605	9400	HP/MP Conversion (5)
+	4009900	9400	The Traveler's Best Wishes
+	4009901	9400	Ramming
+	4009902	9400	Airborne Hit
+	4009903	9400	Infected Makeover
+	4009904	9400	Mud bath
+	4010101	9400	Machine Gun (1)
+	4010102	9400	Machine Gun (2)
+	4010103	9400	Machine Gun (3)
+	4010104	9400	Machine Gun (4)
+	4010105	9400	Machine Gun (5)
+	4010201	9400	Exploding Bazooka (1)
+	4010202	9400	Exploding Bazooka (2)
+	4010203	9400	Exploding Bazooka (3)
+	4010204	9400	Exploding Bazooka (4)
+	4010205	9400	Exploding Bazooka (5)
+	4010301	9400	Whirlwind Kick (1)
+	4010302	9400	Whirlwind Kick (2)
+	4010303	9400	Whirlwind Kick (3)
+	4010304	9400	Whirlwind Kick (4)
+	4010305	9400	Whirlwind Kick (5)
+	4010401	9400	Fury Shot (1)
+	4010402	9400	Fury Shot (2)
+	4010403	9400	Fury Shot (3)
+	4010404	9400	Fury Shot (4)
+	4010405	9400	Fury Shot (5)
+	4010501	9400	Storm Gun (1)
+	4010502	9400	Storm Gun (2)
+	4010503	9400	Storm Gun (3)
+	4010504	9400	Storm Gun (4)
+	4010505	9400	Storm Gun (5)
+	4010601	9400	Spiral Missile (1)
+	4010602	9400	Spiral Missile (2)
+	4010603	9400	Spiral Missile (3)
+	4010604	9400	Spiral Missile (4)
+	4010605	9400	Spiral Missile (5)
+	4020101	9400	Iron Head (1)
+	4020102	9400	Iron Head (2)
+	4020103	9400	Iron Head (3)
+	4020104	9400	Iron Head (4)
+	4020105	9400	Iron Head (5)
+	4020201	9400	Lightning Eyes (1)
+	4020202	9400	Lightning Eyes (2)
+	4020203	9400	Lightning Eyes (3)
+	4020204	9400	Lightning Eyes (4)
+	4020205	9400	Lightning Eyes (5)
+	4020301	9400	Lion's Roar (1)
+	4020302	9400	Lion's Roar (2)
+	4020303	9400	Lion's Roar (3)
+	4020304	9400	Lion's Roar (4)
+	4020305	9400	Lion's Roar (5)
+	4020401	9400	Lightning Vision (1)
+	4020402	9400	Lightning Vision (2)
+	4020403	9400	Lightning Vision (3)
+	4020404	9400	Lightning Vision (4)
+	4020405	9400	Lightning Vision (5)
+	4020501	9400	Fire Tornado (1)
+	4020502	9400	Fire Tornado (2)
+	4020503	9400	Fire Tornado (3)
+	4020504	9400	Fire Tornado (4)
+	4020505	9400	Fire Tornado (5)
+	4020601	9400	Flame Dash (1) 
+	4020602	9400	Flame Dash (2)
+	4020603	9400	Flame Dash (3)
+	4020604	9400	Flame Dash (4)
+	4020605	9400	Flame Dash (5)
+	4030101	9400	Ice Crystal Diamond (1)
+	4030102	9400	Ice Crystal Diamond (2)
+	4030103	9400	Ice Crystal Diamond (3)
+	4030104	9400	Ice Crystal Diamond (4)
+	4030105	9400	Ice Crystal Diamond (5)
+	4030201	9400	Mischievous Charm (1)
+	4030202	9400	Mischievous Charm (2)
+	4030203	9400	Mischievous Charm (3)
+	4030204	9400	Mischievous Charm (4)
+	4030205	9400	Mischievous Charm (5)
+	4030301	9400	Thunderstorm Walk (1)
+	4030302	9400	Thunderstorm Walk (2)
+	4030303	9400	Thunderstorm Walk (3)
+	4030304	9400	Thunderstorm Walk (4)
+	4030305	9400	Thunderstorm Walk (5)
+	4030401	9400	Furious Charm (1)
+	4030402	9400	Furious Charm (2)
+	4030403	9400	Furious Charm (3)
+	4030404	9400	Furious Charm (4)
+	4030405	9400	Furious Charm (5)
+	4030501	9400	Icy Windstorm (1)
+	4030502	9400	Icy Windstorm (2)
+	4030503	9400	Icy Windstorm (3)
+	4030504	9400	Icy Windstorm (4)
+	4030505	9400	Icy Windstorm (5)
+	4030601	9400	Ice Crystal Sublimation (1)
+	4030602	9400	Ice Crystal Sublimation (2)
+	4030603	9400	Ice Crystal Sublimation (3)
+	4030604	9400	Ice Crystal Sublimation (4)
+	4030605	9400	Ice Crystal Sublimation (5)
+	4040101	9400	Random Shot (1)
+	4040102	9400	Random Shot (2)
+	4040103	9400	Random Shot (3)
+	4040104	9400	Random Shot (4)
+	4040105	9400	Random Shot (5)
+	4040201	9400	Seven Star Sword (1)
+	4040202	9400	Seven Star Sword (2)
+	4040203	9400	Seven Star Sword (3)
+	4040204	9400	Seven Star Sword (4)
+	4040205	9400	Seven Star Sword (5)
+	4040301	9400	Reinvigorating Kick (1)
+	4040302	9400	Reinvigorating Kick (2)
+	4040303	9400	Reinvigorating Kick (3)
+	4040304	9400	Reinvigorating Kick (4)
+	4040305	9400	Reinvigorating Kick (5)
+	4040401	9400	Continuous Darts (1)
+	4040402	9400	Continuous Darts (2)
+	4040403	9400	Continuous Darts (3)
+	4040404	9400	Continuous Darts (4)
+	4040405	9400	Continuous Darts (5)
+	4040501	9400	Healing Formation (1)
+	4040502	9400	Healing Formation (2)
+	4040503	9400	Healing Formation (3)
+	4040504	9400	Healing Formation (4)
+	4040505	9400	Healing Formation (5)
+	4040601	9400	Sacred Light (1)
+	4040602	9400	Sacred Light (2)
+	4040603	9400	Sacred Light (3)
+	4040604	9400	Sacred Light (4)
+	4040605	9400	Sacred Light (5)
+	4050101	9400	Arrogant Dragon (1)
+	4050102	9400	Arrogant Dragon (2)
+	4050103	9400	Arrogant Dragon (3)
+	4050104	9400	Arrogant Dragon (4)
+	4050105	9400	Arrogant Dragon (5)
+	4050201	9400	Nine Hydras (1)
+	4050202	9400	Nine Hydras (2)
+	4050203	9400	Nine Hydras (3)
+	4050204	9400	Nine Hydras (4)
+	4050205	9400	Nine Hydras (5)
+	4050301	9400	Damage Defense (1)
+	4050302	9400	Damage Defense (2)
+	4050303	9400	Damage Defense (3)
+	4050304	9400	Damage Defense (4)
+	4050305	9400	Damage Defense (5)
+	4050401	9400	Dark Cloud Cover (1)
+	4050402	9400	Dark Cloud Cover (2)
+	4050403	9400	Dark Cloud Cover (3)
+	4050404	9400	Dark Cloud Cover (4)
+	4050405	9400	Dark Cloud Cover (5)
+	4050501	9400	Entwined Roots (1)
+	4050502	9400	Entwined Roots (2)
+	4050503	9400	Entwined Roots (3)
+	4050504	9400	Entwined Roots (4)
+	4050505	9400	Entwined Roots (5)
+	4050601	9400	Weakening Attack (1)
+	4050602	9400	Weakening Attack (2)
+	4050603	9400	Weakening Attack (3)
+	4050604	9400	Weakening Attack (4)
+	4050605	9400	Weakening Attack (5)
+	4060101	9400	Fiery Axe (1)
+	4060102	9400	Fiery Axe (2)
+	4060103	9400	Fiery Axe (3)
+	4060104	9400	Fiery Axe (4)
+	4060105	9400	Fiery Axe (5)
+	4060201	9400	Raging Wildfire (1)
+	4060202	9400	Raging Wildfire (2)
+	4060203	9400	Raging Wildfire (3)
+	4060204	9400	Raging Wildfire (4)
+	4060205	9400	Raging Wildfire (5)
+	4060301	9400	Indestructible Wall (1)
+	4060302	9400	Indestructible Wall (2)
+	4060303	9400	Indestructible Wall (3)
+	4060304	9400	Indestructible Wall (4)
+	4060305	9400	Indestructible Wall (5)
+	4060401	9400	Strong Constitution (1)
+	4060402	9400	Strong Constitution (2)
+	4060403	9400	Strong Constitution (3)
+	4060404	9400	Strong Constitution (4)
+	4060405	9400	Strong Constitution (5)
+	4060501	9400	Intense Anger (1)
+	4060502	9400	Intense Anger (2)
+	4060503	9400	Intense Anger (3)
+	4060504	9400	Intense Anger (4)
+	4060505	9400	Intense Anger (5)
+	4060601	9400	Imposing Prestige (1)
+	4060602	9400	Imposing Prestige (2)
+	4060603	9400	Imposing Prestige (3)
+	4060604	9400	Imposing Prestige (4)
+	4060605	9400	Imposing Prestige (5)
+	4070101	9400	Sacrificial Strike (1)
+	4070102	9400	Sacrificial Strike (2)
+	4070103	9400	Sacrificial Strike (3)
+	4070104	9400	Sacrificial Strike (4)
+	4070105	9400	Sacrificial Strike (5)
+	4070201	9400	Lunar Meteor (1)
+	4070202	9400	Lunar Meteor (2)
+	4070203	9400	Lunar Meteor (3)
+	4070204	9400	Lunar Meteor (4)
+	4070205	9400	Lunar Meteor (5)
+	4070301	9400	Devastating Attack (1)
+	4070302	9400	Devastating Attack (2)
+	4070303	9400	Devastating Attack (3)
+	4070304	9400	Devastating Attack (4)
+	4070305	9400	Devastating Attack (5)
+	4070401	9400	Flower Moon Illusion (1)
+	4070402	9400	Flower Moon Illusion (2)
+	4070403	9400	Flower Moon Illusion (3)
+	4070404	9400	Flower Moon Illusion (4)
+	4070405	9400	Flower Moon Illusion (5)
+	4070501	9400	Uncontrollable Fury (1)
+	4070502	9400	Uncontrollable Fury (2)
+	4070503	9400	Uncontrollable Fury (3)
+	4070504	9400	Uncontrollable Fury (4)
+	4070505	9400	Uncontrollable Fury (5)
+	4070601	9400	Morale Boost (1)
+	4070602	9400	Morale Boost (2)
+	4070603	9400	Morale Boost (3)
+	4070604	9400	Morale Boost (4)
+	4070605	9400	Morale Boost (5)
+	4080101	9400	Aimed Shot (1)
+	4080102	9400	Aimed Shot (2)
+	4080103	9400	Aimed Shot (3)
+	4080104	9400	Aimed Shot (4)
+	4080105	9400	Aimed Shot (5)
+	4080201	9400	Blasting Shot (1)
+	4080202	9400	Blasting Shot (2)
+	4080203	9400	Blasting Shot (3)
+	4080204	9400	Blasting Shot (4)
+	4080205	9400	Blasting Shot (5)
+	4080301	9400	Arrow Storm (1)
+	4080302	9400	Arrow Storm (2)
+	4080303	9400	Arrow Storm (3)
+	4080304	9400	Arrow Storm (4)
+	4080305	9400	Arrow Storm (5)
+	4080401	9400	Flying Sand Formation (1)
+	4080402	9400	Flying Sand Formation (2)
+	4080403	9400	Flying Sand Formation (3)
+	4080404	9400	Flying Sand Formation (4)
+	4080405	9400	Flying Sand Formation (5)
+	4080501	9400	Paralysis Trap (1)
+	4080502	9400	Paralysis Trap (2)
+	4080503	9400	Paralysis Trap (3)
+	4080504	9400	Paralysis Trap (4)
+	4080505	9400	Paralysis Trap (5)
+	4080601	9400	Virulence Trap (1)
+	4080602	9400	Virulence Trap (2)
+	4080603	9400	Virulence Trap (3)
+	4080604	9400	Virulence Trap (4)
+	4080605	9400	Virulence Trap (5)
+	4109900	9400	The system cast the enchanting buff to the player who replied to Game Master's question.
+	4109901	9400	Hit the airborne opponent.
+	4109902	9400	Hit the airborne enemy.
+	4109903	9400	Infected Makeover
+	4109904	9400	Going Berserk
+	4108101	9400	Increases your Defense Power. (LV.7)<BR>Effect: DEF +16<BR>Sustain Times: 900 seconds
+	4108102	9400	Increases your Defense Power. (LV.17)<BR>Effect: DEF +26<BR>Sustain Times: 900 seconds
+	4108103	9400	Increases your Defense Power. (LV.27)<BR>Effect: DEF +36<BR>Sustain Times: 900 seconds
+	4108104	9400	Increases your Defense Power. (LV.37)<BR>Effect: DEF +46<BR>Sustain Times: 900 seconds
+	4108105	9400	Increases your Defense Power. (LV.47)<BR>Effect: DEF +56<BR>Sustain Times: 900 seconds
+	4108201	9400	Increases your Attack Power. (LV.8)<BR>Effect: ATK +26<BR>Sustain Times: 900 seconds
+	4108202	9400	Increases your Attack Power. (LV.18)<BR>Effect: ATK +41<BR>Sustain Times: 900 seconds
+	4108203	9400	Increases your Attack Power. (LV.28)<BR>Effect: ATK +56<BR>Sustain Times: 900 seconds
+	4108204	9400	Increases your Attack Power. (LV.38)<BR>Effect: ATK +71<BR>Sustain Times: 900 seconds
+	4108205	9400	Increases your Attack Power. (LV.48)<BR>Effect: ATK +86<BR>Sustain Times: 900 seconds
+	4108301	9400	Increases your Critical Power. (LV.9)<BR>Effect: CRI +7<BR>Sustain Times: 900 seconds
+	4108302	9400	Increases your Critical Power. (LV.19)<BR>Effect: CRI +10<BR>Sustain Times: 900 seconds
+	4108303	9400	Increases your Critical Power. (LV.29)<BR>Effect: CRI +12<BR>Sustain Times: 900 seconds
+	4108304	9400	Increases your Critical Power. (LV.39)<BR>Effect: CRI +15<BR>Sustain Times: 900 seconds
+	4108305	9400	Increases your Critical Power. (LV.49)<BR>Effect: CRI +17<BR>Sustain Times: 900 seconds
+	4108401	9400	Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.5)<BR>Healing: 60<BR>Healing Times: 5
+	4108402	9400	Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.15)<BR>Healing: 80<BR>Healing Times: 6
+	4108403	9400	Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.25)<BR>Healing: 100<BR>Healing Times: 7
+	4108404	9400	Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.35)<BR>Healing: 110<BR>Healing Times: 8
+	4108405	9400	Use bandage to heal your wound. No other actions are allowed while healing. Healing will cost bandage and will be stopped while under attack. (LV.45)<BR>Healing: 120<BR>Healing Times: 9
+	4108501	9400	Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.11)<BR>Effect: DEX -20<BR>Sustain Times: 30 seconds
+	4108502	9400	Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.21)<BR>Effect: DEX -30<BR>Sustain Times: 30 seconds
+	4108503	9400	Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.31)<BR>Effect: DEX -40<BR>Sustain Times: 30 seconds
+	4108504	9400	Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.41)<BR>Effect: DEX -50<BR>Sustain Times: 30 seconds
+	4108505	9400	Throw smoke grenade to reduce opponent's dexterity. It will cost smoke grenade. (LV.51)<BR>Effect: DEX -60<BR>Sustain Times: 30 seconds
+	4108601	9400	Converts your HP into 1270 MP. (LV.14)
+	4108602	9400	Converts your HP into 1820 MP. (LV.24)
+	4108603	9400	Converts your HP into 2370 MP. (LV.34)
+	4108604	9400	Converts your HP into 2920 MP. (LV.44)
+	4108605	9400	Converts your HP into 3470 MP. (LV.54)
+	4110101	9400	Fire bullets to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1
+	4110102	9400	Fire bullets to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1
+	4110103	9400	Fire bullets to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1
+	4110104	9400	Fire bullets to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1
+	4110105	9400	Fire bullets to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1
+	4110201	9400	Fire bullets and release an impact wave to attack opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Shoot Times: 1
+	4110202	9400	Fire bullets and release an impact wave to attack opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Shoot Times: 1
+	4110203	9400	Fire bullets and release an impact wave to attack opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Shoot Times: 1
+	4110204	9400	Fire bullets and release an impact wave to attack opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Shoot Times: 1
+	4110205	9400	Fire bullets and release an impact wave to attack opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Shoot Times: 1
+	4110301	9400	Quickly attack opponents within your range. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 3
+	4110302	9400	Quickly attack opponents within your range. (LV. 9)<BR>Skill Power: 1584<BR>Attack Times: 3
+	4110303	9400	Quickly attack opponents within your range. (LV. 17)<BR>Skill Power: 3900<BR>Attack Times: 3
+	4110304	9400	Quickly attack opponents within your range. (LV. 25)<BR>Skill Power: 7684<BR>Attack Times: 3
+	4110305	9400	Quickly attack opponents within your range. (LV. 33)<BR>Skill Power: 12726<BR>Attack Times: 3
+	4110401	9400	Fire bullets in midair to attack surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3
+	4110402	9400	Fire bullets in midair to attack surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3
+	4110403	9400	Fire bullets in midair to attack surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3
+	4110404	9400	Fire bullets in midair to attack surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3
+	4110405	9400	Fire bullets in midair to attack surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3
+	4110501	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 2
+	4110502	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 2
+	4110503	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 2
+	4110504	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 2
+	4110505	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 2
+	4110601	9400	Attack opponents ahead to disable their special skill attack. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 2
+	4110602	9400	Attack opponents ahead to disable their special skill attack. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 2
+	4110603	9400	Attack opponents ahead to disable their special skill attack. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 2
+	4110604	9400	Attack opponents ahead to disable their special skill attack. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 2
+	4110605	9400	Attack opponents ahead to disable their special skill attack. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 2
+	4120101	9400	Use head-butt to release an impact wave to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1
+	4120102	9400	Use head-butt to release an impact wave to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1
+	4120103	9400	Use head-butt to release an impact wave to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1
+	4120104	9400	Use head-butt to release an impact wave to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1
+	4120105	9400	Use head-butt to release an impact wave to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1
+	4120201	9400	Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 3
+	4120202	9400	Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 3
+	4120203	9400	Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 3
+	4120204	9400	Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3
+	4120205	9400	Fire an electro-thermal ray from your eyes to attack distant opponents. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 3
+	4120301	9400	Howl to release an impact wave that will attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1
+	4120302	9400	Howl to release an impact wave that will attack opponents ahead. (LV. 9)<BR>Skill Power: 1584<BR>Shoot Times: 1
+	4120303	9400	Howl to release an impact wave that will attack opponents ahead. (LV. 17)<BR>Skill Power: 3900<BR>Shoot Times: 1
+	4120304	9400	Howl to release an impact wave that will attack opponents ahead. (LV. 25)<BR>Skill Power: 7684<BR>Shoot Times: 1
+	4120305	9400	Howl to release an impact wave that will attack opponents ahead. (LV. 33)<BR>Skill Power: 12726<BR>Shoot Times: 1
+	4120401	9400	Release thunder in midair to attack surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 4
+	4120402	9400	Release thunder in midair to attack surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 4
+	4120403	9400	Release thunder in midair to attack surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 4
+	4120404	9400	Release thunder in midair to attack surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 4
+	4120405	9400	Release thunder in midair to attack surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 4
+	4120501	9400	Use flame attack to inflict continuous burns on surrounding opponents. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 3
+	4120502	9400	Use flame attack to inflict continuous burns on surrounding opponents. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 3
+	4120503	9400	Use flame attack to inflict continuous burns on surrounding opponents. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 3
+	4120504	9400	Use flame attack to inflict continuous burns on surrounding opponents. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 3
+	4120505	9400	Use flame attack to inflict continuous burns on surrounding opponents. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 3
+	4120601	9400	Throw flames forward to attack opponents and inflict continuous burns. (LV. 32)<BR>Skill Power: 12095<BR>Shoot Times: 4
+	4120602	9400	Throw flames forward to attack opponents and inflict continuous burns. (LV. 39)<BR>Skill Power: 17808<BR>Shoot Times: 4
+	4120603	9400	Throw flames forward to attack opponents and inflict continuous burns. (LV. 46)<BR>Skill Power: 26235<BR>Shoot Times: 4
+	4120604	9400	Throw flames forward to attack opponents and inflict continuous burns. (LV. 53)<BR>Skill Power: 35526<BR>Shoot Times: 4
+	4120605	9400	Throw flames forward to attack opponents and inflict continuous burns. (LV. 60)<BR>Skill Power: 49128<BR>Shoot Times: 4
+	4130101	9400	Shoot ice cubes to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1
+	4130102	9400	Shoot ice cubes to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1
+	4130103	9400	Shoot ice cubes to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1
+	4130104	9400	Shoot ice cubes to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1
+	4130105	9400	Shoot ice cubes to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1
+	4130201	9400	Use yaksha to attack opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 3
+	4130202	9400	Use yaksha to attack opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 3
+	4130203	9400	Use yaksha to attack opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 3
+	4130204	9400	Use yaksha to attack opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3
+	4130205	9400	Use yaksha to attack opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 3
+	4130301	9400	Summon a thunder cloud to attack surrounding opponents. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 3
+	4130302	9400	Summon a thunder cloud to attack surrounding opponents. (LV. 9)<BR>Skill Power: 1584<BR>Attack Times: 3
+	4130303	9400	Summon a thunder cloud to attack surrounding opponents. (LV. 17)<BR>Skill Power: 3900<BR>Attack Times: 3
+	4130304	9400	Summon a thunder cloud to attack surrounding opponents. (LV. 25)<BR>Skill Power: 7684<BR>Attack Times: 3
+	4130305	9400	Summon a thunder cloud to attack surrounding opponents. (LV. 33)<BR>Skill Power: 12726<BR>Attack Times: 3
+	4130401	9400	Use yaksha to attack surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3
+	4130402	9400	Use yaksha to attack surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3
+	4130403	9400	Use yaksha to attack surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3
+	4130404	9400	Use yaksha to attack surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3
+	4130405	9400	Use yaksha to attack surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3
+	4130501	9400	Use ice cubes to freeze opponents and also inflict damage. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1
+	4130502	9400	Use ice cubes to freeze opponents and also inflict damage. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1
+	4130503	9400	Use ice cubes to freeze opponents and also inflict damage. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1
+	4130504	9400	Use ice cubes to freeze opponents and also inflict damage. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1
+	4130505	9400	Use ice cubes to freeze opponents and also inflict damage. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1
+	4130601	9400	Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 3
+	4130602	9400	Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3
+	4130603	9400	Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 3
+	4130604	9400	Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 3
+	4130605	9400	Use frost attack to decrease the movement speed of opponents and inflict continuous frostbite. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 3
+	4140101	9400	Fire darts to attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 3
+	4140102	9400	Fire darts to attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 3
+	4140103	9400	Fire darts to attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 3
+	4140104	9400	Fire darts to attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 3
+	4140105	9400	Fire darts to attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 3
+	4140201	9400	Fire darts in midair to attack opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 2
+	4140202	9400	Fire darts in midair to attack opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 2
+	4140203	9400	Fire darts in midair to attack opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 2
+	4140204	9400	Fire darts in midair to attack opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 2
+	4140205	9400	Fire darts in midair to attack opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 2
+	4140301	9400	Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 1)<BR>Healing: 300<BR>Healing Times: 1
+	4140302	9400	Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 9)<BR>Healing: 540<BR>Healing Times: 1
+	4140303	9400	Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 17)<BR>Healing: 780<BR>Healing Times: 1
+	4140304	9400	Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 25)<BR>Healing: 1020<BR>Healing Times: 1
+	4140305	9400	Use athlete's foot to kick your teammates to stimulate their acupoint for quick reinvigoration. (LV. 33)<BR>Healing: 1260<BR>Healing Times: 1
+	4140401	9400	"Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3"
+	4140402	9400	"Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3"
+	4140403	9400	"Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3"
+	4140404	9400	"Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3"
+	4140405	9400	"Turn around to attack, ram and cause dizziness to surrounding opponents. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3"
+	4140501	9400	Wave the flag to revitalize your surrounding teammates. (LV. 13)<BR>Healing: 180<BR>Healing Times: 10
+	4140502	9400	Wave the flag to revitalize your surrounding teammates. (LV. 21)<BR>Healing: 240<BR>Healing Times: 10
+	4140503	9400	Wave the flag to revitalize your surrounding teammates. (LV. 29)<BR>Healing: 300<BR>Healing Times: 10
+	4140504	9400	Wave the flag to revitalize your surrounding teammates. (LV. 37)<BR>Healing: 370<BR>Healing Times: 10
+	4140505	9400	Wave the flag to revitalize your surrounding teammates. (LV. 45)<BR>Healing: 430<BR>Healing Times: 10
+	4140601	9400	Temporarily increase defense power to you and your teammates. (LV. 32)<BR>Effect: DEF +8% & +21<BR>Sustain Times: 300 seconds
+	4140602	9400	Temporarily increase defense power to you and your teammates. (LV. 39)<BR>Effect: DEF +9% & +24<BR>Sustain Times: 300 seconds
+	4140603	9400	Temporarily increase defense power to you and your teammates. (LV. 46)<BR>Effect: DEF +10% & +28<BR>Sustain Times: 300 seconds
+	4140604	9400	Temporarily increase defense power to you and your teammates. (LV. 53)<BR>Effect: DEF +11% & +31<BR>Sustain Times: 300 seconds
+	4140605	9400	Temporarily increase defense power to you and your teammates. (LV. 60)<BR>Effect: DEF +12% & +35<BR>Sustain Times: 300 seconds
+	4150101	9400	Quickly attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 1
+	4150102	9400	Quickly attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 1
+	4150103	9400	Quickly attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 1
+	4150104	9400	Quickly attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 1
+	4150105	9400	Quickly attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1
+	4150201	9400	Attack opponents within your range. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 4
+	4150202	9400	Attack opponents within your range. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 4
+	4150203	9400	Attack opponents within your range. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 4
+	4150204	9400	Attack opponents within your range. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 4
+	4150205	9400	Attack opponents within your range. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 4
+	4150301	9400	Attack and temporarily decrease the defense power of opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 1
+	4150302	9400	Attack and temporarily decrease the defense power of opponents ahead. (LV. 9)<BR>Skill Power: 1584<BR>Attack Times: 1
+	4150303	9400	Attack and temporarily decrease the defense power of opponents ahead. (LV. 17)<BR>Skill Power: 3900<BR>Attack Times: 1
+	4150304	9400	Attack and temporarily decrease the defense power of opponents ahead. (LV. 25)<BR>Skill Power: 7684<BR>Attack Times: 1
+	4150305	9400	Attack and temporarily decrease the defense power of opponents ahead. (LV. 33)<BR>Skill Power: 12726<BR>Attack Times: 1
+	4150401	9400	Attack the opponents ahead to disable their special skill attack. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1
+	4150402	9400	Attack the opponents ahead to disable their special skill attack. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1
+	4150403	9400	Attack the opponents ahead to disable their special skill attack. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1
+	4150404	9400	Attack the opponents ahead to disable their special skill attack. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1
+	4150405	9400	Attack the opponents ahead to disable their special skill attack. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1
+	4150501	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 4
+	4150502	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 4
+	4150503	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 4
+	4150504	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 4
+	4150505	9400	Attack and temporarily decrease the movement speed of opponents ahead. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 4
+	4150601	9400	Temporarily decrease the attack power of opponents ahead. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 1
+	4150602	9400	Temporarily decrease the attack power of opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 1
+	4150603	9400	Temporarily decrease the attack power of opponents ahead. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 1
+	4150604	9400	Temporarily decrease the attack power of opponents ahead. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 1
+	4150605	9400	Temporarily decrease the attack power of opponents ahead. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 1
+	4160101	9400	Rapidly and continuously attack opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 6
+	4160102	9400	Rapidly and continuously attack opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 6
+	4160103	9400	Rapidly and continuously attack opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 6
+	4160104	9400	Rapidly and continuously attack opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 6
+	4160105	9400	Rapidly and continuously attack opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 6
+	4160201	9400	Attack opponents within your range. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 3
+	4160202	9400	Attack opponents within your range. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 3
+	4160203	9400	Attack opponents within your range. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 3
+	4160204	9400	Attack opponents within your range. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 3
+	4160205	9400	Attack opponents within your range. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 3
+	4160301	9400	Temporarily increase your defense power. (LV. 1)<BR>Effect: DEF +105% & +20<BR>Sustain Times: 15 seconds
+	4160302	9400	Temporarily increase your defense power. (LV. 9)<BR>Effect: DEF +125% & +36<BR>Sustain Times: 15 seconds
+	4160303	9400	Temporarily increase your defense power. (LV. 17)<BR>Effect: DEF +145% & +52<BR>Sustain Times: 15 seconds
+	4160304	9400	Temporarily increase your defense power. (LV. 25)<BR>Effect: DEF +165% & +68<BR>Sustain Times: 15 seconds
+	4160305	9400	Temporarily increase your defense power. (LV. 33)<BR>Effect: DEF +185% & +84<BR>Sustain Times: 15 seconds
+	4160401	9400	Temporarily increase your Maximum HP. (LV. 15)<BR>Effect: MAX HP +480<BR>Sustain Times: 900 seconds
+	4160402	9400	Temporarily increase your Maximum HP. (LV. 23)<BR>Effect: MAX HP +640<BR>Sustain Times: 900 seconds
+	4160403	9400	Temporarily increase your Maximum HP. (LV. 31)<BR>Effect: MAX HP +800<BR>Sustain Times: 900 seconds
+	4160404	9400	Temporarily increase your Maximum HP. (LV. 39)<BR>Effect: MAX HP +960<BR>Sustain Times: 900 seconds
+	4160405	9400	Temporarily increase your Maximum HP. (LV. 47)<BR>Effect: MAX HP +1120<BR>Sustain Times: 900 seconds
+	4160501	9400	Attack surrounding opponents and draw their attention to you. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1
+	4160502	9400	Attack surrounding opponents and draw their attention to you. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1
+	4160503	9400	Attack surrounding opponents and draw their attention to you. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1
+	4160504	9400	Attack surrounding opponents and draw their attention to you. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1
+	4160505	9400	Attack surrounding opponents and draw their attention to you. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1
+	4160601	9400	Attack opponents within your range to cause damage and dizziness. (LV. 32)<BR>Skill Power: 12095<BR>Attack Times: 1
+	4160602	9400	Attack opponents within your range to cause damage and dizziness. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 1
+	4160603	9400	Attack opponents within your range to cause damage and dizziness. (LV. 46)<BR>Skill Power: 26235<BR>Attack Times: 1
+	4160604	9400	Attack opponents within your range to cause damage and dizziness. (LV. 53)<BR>Skill Power: 35526<BR>Attack Times: 1
+	4160605	9400	Attack opponents within your range to cause damage and dizziness. (LV. 60)<BR>Skill Power: 49128<BR>Attack Times: 1
+	4170101	9400	Quickly and heavily strike opponents ahead. (LV. 1)<BR>Skill Power: 400<BR>Attack Times: 2
+	4170102	9400	Quickly and heavily strike opponents ahead. (LV. 6)<BR>Skill Power: 1050<BR>Attack Times: 2
+	4170103	9400	Quickly and heavily strike opponents ahead. (LV. 11)<BR>Skill Power: 2100<BR>Attack Times: 2
+	4170104	9400	Quickly and heavily strike opponents ahead. (LV. 16)<BR>Skill Power: 3575<BR>Attack Times: 2
+	4170105	9400	Quickly and heavily strike opponents ahead. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 2
+	4170201	9400	Use a heavy strike to hit the airborne opponents ahead. (LV. 15)<BR>Skill Power: 3264<BR>Attack Times: 3
+	4170202	9400	Use a heavy strike to hit the airborne opponents ahead. (LV. 23)<BR>Skill Power: 6432<BR>Attack Times: 3
+	4170203	9400	Use a heavy strike to hit the airborne opponents ahead. (LV. 31)<BR>Skill Power: 11480<BR>Attack Times: 3
+	4170204	9400	Use a heavy strike to hit the airborne opponents ahead. (LV. 39)<BR>Skill Power: 17808<BR>Attack Times: 3
+	4170205	9400	Use a heavy strike to hit the airborne opponents ahead. (LV. 47)<BR>Skill Power: 27272<BR>Attack Times: 3
+	4170301	9400	Attack opponents within your range and make them dizzy. (LV. 13)<BR>Skill Power: 2574<BR>Attack Times: 1
+	4170302	9400	Attack opponents within your range and make them dizzy. (LV. 21)<BR>Skill Power: 5610<BR>Attack Times: 1
+	4170303	9400	Attack opponents within your range and make them dizzy. (LV. 29)<BR>Skill Power: 9804<BR>Attack Times: 1
+	4170304	9400	Attack opponents within your range and make them dizzy. (LV. 37)<BR>Skill Power: 16238<BR>Attack Times: 1
+	4170305	9400	Attack opponents within your range and make them dizzy. (LV. 45)<BR>Skill Power: 25218<BR>Attack Times: 1
+	4170401	9400	Reflect a portion of damage sustained by you back to the opponents. (LV. 32)<BR>Reflect Rate: 50%<BR>Sustain Times: 10 seconds
+	4170402	9400	Reflect a portion of damage sustained by you back to the opponents. (LV. 39)<BR>Reflect Rate: 55%<BR>Sustain Times: 10 seconds
+	4170403	9400	Reflect a portion of damage sustained by you back to the opponents. (LV. 46)<BR>Reflect Rate: 60%<BR>Sustain Times: 10 seconds
+	4170404	9400	Reflect a portion of damage sustained by you back to the opponents. (LV. 53)<BR>Reflect Rate: 65%<BR>Sustain Times: 10 seconds
+	4170405	9400	Reflect a portion of damage sustained by you back to the opponents. (LV. 60)<BR>Reflect Rate: 70%<BR>Sustain Times: 10 seconds
+	4170501	9400	Temporarily increase your attack power. (LV. 1)<BR>Effect: ATK +80% & +9<BR>Sustain Times: 15 seconds
+	4170502	9400	Temporarily increase your attack power. (LV. 9)<BR>Effect: ATK +85% & +20<BR>Sustain Times: 15 seconds
+	4170503	9400	Temporarily increase your attack power. (LV. 17)<BR>Effect: ATK +90% & +31<BR>Sustain Times: 15 seconds
+	4170504	9400	Temporarily increase your attack power. (LV. 25)<BR>Effect: ATK +95% & +42<BR>Sustain Times: 15 seconds
+	4170505	9400	Temporarily increase your attack power. (LV. 33)<BR>Effect: ATK +100% & +57<BR>Sustain Times: 15 seconds
+	4170601	9400	Temporarily increase the attack power for you and your teammates. (LV. 26)<BR>Effect: ATK +55% & +46<BR>Sustain Times: 300 seconds
+	4170602	9400	Temporarily increase the attack power for you and your teammates. (LV. 34)<BR>Effect: ATK +60% & +58<BR>Sustain Times: 300 seconds
+	4170603	9400	Temporarily increase the attack power for you and your teammates. (LV. 42)<BR>Effect: ATK +65% & +76<BR>Sustain Times: 300 seconds
+	4170604	9400	Temporarily increase the attack power for you and your teammates. (LV. 50)<BR>Effect: ATK +70% & +92<BR>Sustain Times: 300 seconds
+	4170605	9400	Temporarily increase the attack power for you and your teammates. (LV. 58)<BR>Effect: ATK +75% & +119<BR>Sustain Times: 300 seconds
+	4180101	9400	Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 1)<BR>Skill Power: 400<BR>Shoot Times: 1
+	4180102	9400	Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 6)<BR>Skill Power: 1050<BR>Shoot Times: 1
+	4180103	9400	Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 11)<BR>Skill Power: 2100<BR>Shoot Times: 1
+	4180104	9400	Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 16)<BR>Skill Power: 3575<BR>Shoot Times: 1
+	4180105	9400	Shoot powerful arrows at extremely high speeds to attack opponents. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1
+	4180201	9400	Exploding arrows that immobilize targets. (LV. 15)<BR>Skill Power: 3264<BR>Shoot Times: 1
+	4180202	9400	Exploding arrows that immobilize targets. (LV. 23)<BR>Skill Power: 6432<BR>Shoot Times: 1
+	4180203	9400	Exploding arrows that immobilize targets. (LV. 31)<BR>Skill Power: 11480<BR>Shoot Times: 1
+	4180204	9400	Exploding arrows that immobilize targets. (LV. 39)<BR>Skill Power: 17808<BR>Shoot Times: 1
+	4180205	9400	Exploding arrows that immobilize targets. (LV. 47)<BR>Skill Power: 27272<BR>Shoot Times: 1
+	4180301	9400	Shoot a volley of arrows to force opponents ahead to retreat. (LV. 13)<BR>Skill Power: 2574<BR>Shoot Times: 1
+	4180302	9400	Shoot a volley of arrows to force opponents ahead to retreat. (LV. 21)<BR>Skill Power: 5610<BR>Shoot Times: 1
+	4180303	9400	Shoot a volley of arrows to force opponents ahead to retreat. (LV. 29)<BR>Skill Power: 9804<BR>Shoot Times: 1
+	4180304	9400	Shoot a volley of arrows to force opponents ahead to retreat. (LV. 37)<BR>Skill Power: 16238<BR>Shoot Times: 1
+	4180305	9400	Shoot a volley of arrows to force opponents ahead to retreat. (LV. 45)<BR>Skill Power: 25218<BR>Shoot Times: 1
+	4180401	9400	Use multiple shots to attack opponents within your range. (LV. 26)<BR>Skill Power: 8190<BR>Attack Times: 4
+	4180402	9400	Use multiple shots to attack opponents within your range. (LV. 34)<BR>Skill Power: 13373<BR>Attack Times: 4
+	4180403	9400	Use multiple shots to attack opponents within your range. (LV. 42)<BR>Skill Power: 21267<BR>Attack Times: 4
+	4180404	9400	Use multiple shots to attack opponents within your range. (LV. 50)<BR>Skill Power: 32037<BR>Attack Times: 4
+	4180405	9400	Use multiple shots to attack opponents within your range. (LV. 58)<BR>Skill Power: 43952<BR>Attack Times: 4
+	4180501	9400	Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 1)<BR>Skill Power: 120<BR>Attack Times: 10
+	4180502	9400	Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 9)<BR>Skill Power: 475<BR>Attack Times: 10
+	4180503	9400	Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 17)<BR>Skill Power: 1170<BR>Attack Times: 10
+	4180504	9400	Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 25)<BR>Skill Power: 2305<BR>Attack Times: 10
+	4180505	9400	Set traps on the ground to decrease movement speed of surrounding opponents. (LV. 33)<BR>Skill Power: 3818<BR>Attack Times: 10
+	4180601	9400	Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 32)<BR>Skill Power: 3629<BR>Attack Times: 10
+	4180602	9400	Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 39)<BR>Skill Power: 5342<BR>Attack Times: 10
+	4180603	9400	Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 46)<BR>Skill Power: 7871<BR>Attack Times: 10
+	4180604	9400	Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 53)<BR>Skill Power: 10658<BR>Attack Times: 10
+	4180605	9400	Set traps on the ground and cause continuous damage to surrounding opponents with a poisonous mist. (LV. 60)<BR>Skill Power: 14738<BR>Attack Times: 10
+	4208101	9400	Focused Defense
+	4208102	9400	Focused Defense
+	4208103	9400	Focused Defense
+	4208104	9400	Focused Defense
+	4208105	9400	Focused Defense
+	4208201	9400	Focused Attack
+	4208202	9400	Focused Attack
+	4208203	9400	Focused Attack
+	4208204	9400	Focused Attack
+	4208205	9400	Focused Attack
+	4208301	9400	Concentration Increased 
+	4208302	9400	Concentration Increased 
+	4208303	9400	Concentration Increased 
+	4208304	9400	Concentration Increased 
+	4208305	9400	Concentration Increased 
+	4208501	9400	Smoke Grenade
+	4208502	9400	Smoke Grenade
+	4208503	9400	Smoke Grenade
+	4208504	9400	Smoke Grenade
+	4208505	9400	Smoke Grenade
+	4209900	9400	The Traveler's Best Wishes
+	4209903	9400	Makeover Buffer (Test Buff)
+	4209904	9400	Increase Attack Power
+	4210501	9400	Paralyzed
+	4210502	9400	Paralyzed
+	4210503	9400	Paralyzed
+	4210504	9400	Paralyzed
+	4210505	9400	Paralyzed
+	4210601	9400	Spellbound
+	4210602	9400	Spellbound
+	4210603	9400	Spellbound
+	4210604	9400	Spellbound
+	4210605	9400	Spellbound
+	4220301	9400	Dizziness
+	4220302	9400	Dizziness
+	4220303	9400	Dizziness
+	4220304	9400	Dizziness
+	4220305	9400	Dizziness
+	4220501	9400	Burned
+	4220502	9400	Burned
+	4220503	9400	Burned
+	4220504	9400	Burned
+	4220505	9400	Burned
+	4220601	9400	Burned
+	4220602	9400	Burned
+	4220603	9400	Burned
+	4220604	9400	Burned
+	4220605	9400	Burned
+	4230501	9400	Frozen
+	4230502	9400	Frozen
+	4230503	9400	Frozen
+	4230504	9400	Frozen
+	4230505	9400	Frozen
+	4230601	9400	Frosted
+	4230602	9400	Frosted
+	4230603	9400	Frosted
+	4230604	9400	Frosted
+	4230605	9400	Frosted
+	4240401	9400	Dizziness
+	4240402	9400	Dizziness
+	4240403	9400	Dizziness
+	4240404	9400	Dizziness
+	4240405	9400	Dizziness
+	4240501	9400	Revitalization Power Increased
+	4240502	9400	Revitalization Power Increased
+	4240503	9400	Revitalization Power Increased
+	4240504	9400	Revitalization Power Increased
+	4240505	9400	Revitalization Power Increased
+	4240601	9400	Defense Power Increased
+	4240602	9400	Defense Power Increased
+	4240603	9400	Defense Power Increased
+	4240604	9400	Defense Power Increased
+	4240605	9400	Defense Power Increased
+	4250301	9400	Damage Defense
+	4250302	9400	Damage Defense
+	4250303	9400	Damage Defense
+	4250304	9400	Damage Defense
+	4250305	9400	Damage Defense
+	4250401	9400	Dark Cloud Cover
+	4250402	9400	Dark Cloud Cover
+	4250403	9400	Dark Cloud Cover
+	4250404	9400	Dark Cloud Cover
+	4250405	9400	Dark Cloud Cover
+	4250501	9400	Entwined Roots
+	4250502	9400	Entwined Roots
+	4250503	9400	Entwined Roots
+	4250504	9400	Entwined Roots
+	4250505	9400	Entwined Roots
+	4250601	9400	Weakening Attack
+	4250602	9400	Weakening Attack
+	4250603	9400	Weakening Attack
+	4250604	9400	Weakening Attack
+	4250605	9400	Weakening Attack
+	4260301	9400	Indestructible Wall
+	4260302	9400	Indestructible Wall
+	4260303	9400	Indestructible Wall
+	4260304	9400	Indestructible Wall
+	4260305	9400	Indestructible Wall
+	4260401	9400	Strong Constitution
+	4260402	9400	Strong Constitution
+	4260403	9400	Strong Constitution
+	4260404	9400	Strong Constitution
+	4260405	9400	Strong Constitution
+	4260601	9400	Dizziness
+	4260602	9400	Dizziness
+	4260603	9400	Dizziness
+	4260604	9400	Dizziness
+	4260605	9400	Dizziness
+	4260701	9400	Dizziness
+	4260702	9400	Dizziness
+	4260703	9400	Dizziness
+	4260704	9400	Dizziness
+	4260705	9400	Dizziness
+	4270301	9400	Devastating Attack
+	4270302	9400	Devastating Attack
+	4270303	9400	Devastating Attack
+	4270304	9400	Devastating Attack
+	4270305	9400	Devastating Attack
+	4270401	9400	Flower Moon Illusion
+	4270402	9400	Flower Moon Illusion
+	4270403	9400	Flower Moon Illusion
+	4270404	9400	Flower Moon Illusion
+	4270405	9400	Flower Moon Illusion
+	4270501	9400	Uncontrollable Fury
+	4270502	9400	Uncontrollable Fury
+	4270503	9400	Uncontrollable Fury
+	4270504	9400	Uncontrollable Fury
+	4270505	9400	Uncontrollable Fury
+	4270601	9400	Morale Boost
+	4270602	9400	Morale Boost
+	4270603	9400	Morale Boost
+	4270604	9400	Morale Boost
+	4270605	9400	Morale Boost
+	4280201	9400	Blasting Shot
+	4280202	9400	Blasting Shot
+	4280203	9400	Blasting Shot
+	4280204	9400	Blasting Shot
+	4280205	9400	Blasting Shot
+	4280501	9400	Paralysis Trap
+	4280502	9400	Paralysis Trap
+	4280503	9400	Paralysis Trap
+	4280504	9400	Paralysis Trap
+	4280505	9400	Paralysis Trap
+	4280601	9400	Virulence Trap
+	4280602	9400	Virulence Trap
+	4280603	9400	Virulence Trap
+	4280604	9400	Virulence Trap
+	4280605	9400	Virulence Trap
+	4290001	9400	Makeover - Rabbit King
+	4290002	9400	Makeover - Elephant King
+	4290003	9400	Makeover - Liger King
+	4290004	9400	Makeover - Camel King
+	4290005	9400	Makeover - Eagle King
+	4290006	9400	Makeover - Cat King
+	4290011	9400	Makeover - Lin Chung
+	4290012	9400	Makeover - Mighty Ray
+	4290013	9400	Makeover - Mystique Sonia
+	4290014	9400	Makeover - Mr. No Hands
+	4290015	9400	Makeover - Kowloon
+	4290016	9400	Makeover - Hurricane Lee
+	4290017	9400	Makeover - Latifah
+	4290018	9400	Makeover - Archer Lee
+	4290019	9400	Makeover - Gourd Cannon Chariot
+	4308101	9400	Defense Power temporarily increased for 900 seconds.
+	4308102	9400	Defense Power temporarily increased for 900 seconds.
+	4308103	9400	Defense Power temporarily increased for 900 seconds.
+	4308104	9400	Defense Power temporarily increased for 900 seconds.
+	4308105	9400	Defense Power temporarily increased for 900 seconds.
+	4308201	9400	Attack Power temporarily increased for 900 seconds.
+	4308202	9400	Attack Power temporarily increased for 900 seconds.
+	4308203	9400	Attack Power temporarily increased for 900 seconds.
+	4308204	9400	Attack Power temporarily increased for 900 seconds.
+	4308205	9400	Attack Power temporarily increased for 900 seconds.
+	4308301	9400	Critical Hit Chance temporarily increased for 900 seconds.
+	4308302	9400	Critical Hit Chance temporarily increased for 900 seconds.
+	4308303	9400	Critical Hit Chance temporarily increased for 900 seconds.
+	4308304	9400	Critical Hit Chance temporarily increased for 900 seconds.
+	4308305	9400	Critical Hit Chance temporarily increased for 900 seconds.
+	4308501	9400	Dexterity reduced for 15 seconds.
+	4308502	9400	Dexterity reduced for 15 seconds.
+	4308503	9400	Dexterity reduced for 15 seconds.
+	4308504	9400	Dexterity reduced for 15 seconds.
+	4308505	9400	Dexterity reduced for 15 seconds.
+	4309900	9400	The GM's best wishes after asking the player a question 
+	4309903	9400	"For 30 seconds, actively or passively change into a monster with makeover skills."
+	4310501	9400	Speed decreased while being paralyzed for 10 seconds.
+	4310502	9400	Speed decreased while being paralyzed for 10 seconds.
+	4310503	9400	Speed decreased while being paralyzed for 10 seconds.
+	4310504	9400	Speed decreased while being paralyzed for 10 seconds.
+	4310505	9400	Speed decreased while being paralyzed for 10 seconds.
+	4310601	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4310602	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4310603	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4310604	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4310605	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4320301	9400	"Unable to move and use skills for 2 seconds, you can only use first and second regular attacks."
+	4320302	9400	"Unable to move and use skills for 2 seconds, you can only use first and second regular attacks."
+	4320303	9400	"Unable to move and use skills for 2 seconds, you can only use first and second regular attacks."
+	4320304	9400	"Unable to move and use skills for 2 seconds, you can only use first and second regular attacks."
+	4320305	9400	"Unable to move and use skills for 2 seconds, you can only use first and second regular attacks."
+	4320501	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320502	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320503	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320504	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320505	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320601	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320602	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320603	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320604	9400	Damage suffered continuously while being burned for 8 seconds.
+	4320605	9400	Damage suffered continuously while being burned for 8 seconds.
+	4330501	9400	Movement limited by frozen ice for 12 seconds.
+	4330502	9400	Movement limited by frozen ice for 12 seconds.
+	4330503	9400	Movement limited by frozen ice for 12 seconds.
+	4330504	9400	Movement limited by frozen ice for 12 seconds.
+	4330505	9400	Movement limited by frozen ice for 12 seconds.
+	4330601	9400	Speed decreased and damage suffered continuously while being frostbitten for 20 seconds.
+	4330602	9400	Speed decreased and damage suffered continuously while being frostbitten for 20 seconds.
+	4330603	9400	Speed decreased and damage suffered continuously while being frostbitten for 20 seconds.
+	4330604	9400	Speed decreased and damage suffered continuously while being frostbitten for 20 seconds.
+	4330605	9400	Speed decreased and damage suffered continuously while being frostbitten for 20 seconds.
+	4340401	9400	"Unable to move or use skills for 4 seconds, you can only use first and second regular attacks."
+	4340402	9400	"Unable to move or use skills for 4 seconds, you can only use first and second regular attacks."
+	4340403	9400	"Unable to move or use skills for 4 seconds, you can only use first and second regular attacks."
+	4340404	9400	"Unable to move or use skills for 4 seconds, you can only use first and second regular attacks."
+	4340405	9400	"Unable to move or use skills for 4 seconds, you can only use first and second regular attacks."
+	4340501	9400	"For 90 seconds, HP Revitalization Power is increased for you and your team."
+	4340502	9400	"For 90 seconds, HP Revitalization Power is increased for you and your team."
+	4340503	9400	"For 90 seconds, HP Revitalization Power is increased for you and your team."
+	4340504	9400	"For 90 seconds, HP Revitalization Power is increased for you and your team."
+	4340505	9400	"For 90 seconds, HP Revitalization Power is increased for you and your team."
+	4340601	9400	"For 300 seconds, Defense Power is increased for you and your team."
+	4340602	9400	"For 300 seconds, Defense Power is increased for you and your team."
+	4340603	9400	"For 300 seconds, Defense Power is increased for you and your team."
+	4340604	9400	"For 300 seconds, Defense Power is increased for you and your team."
+	4340605	9400	"For 300 seconds, Defense Power is increased for you and your team."
+	4350301	9400	Defense Power decreased for 8 seconds.
+	4350302	9400	Defense Power decreased for 8 seconds.
+	4350303	9400	Defense Power decreased for 8 seconds.
+	4350304	9400	Defense Power decreased for 8 seconds.
+	4350305	9400	Defense Power decreased for 8 seconds.
+	4350401	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4350402	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4350403	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4350404	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4350405	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4350501	9400	Speed decreased while being paralyzed for 10 seconds.
+	4350502	9400	Speed decreased while being paralyzed for 10 seconds.
+	4350503	9400	Speed decreased while being paralyzed for 10 seconds.
+	4350504	9400	Speed decreased while being paralyzed for 10 seconds.
+	4350505	9400	Speed decreased while being paralyzed for 10 seconds.
+	4350601	9400	Attack Power decreased for 8 seconds.
+	4350602	9400	Attack Power decreased for 8 seconds.
+	4350603	9400	Attack Power decreased for 8 seconds.
+	4350604	9400	Attack Power decreased for 8 seconds.
+	4350605	9400	Attack Power decreased for 8 seconds.
+	4360301	9400	Defense Power increased for 15 seconds.
+	4360302	9400	Defense Power increased for 15 seconds.
+	4360303	9400	Defense Power increased for 15 seconds.
+	4360304	9400	Defense Power increased for 15 seconds.
+	4360305	9400	Defense Power increased for 15 seconds.
+	4360401	9400	Maximum HP increased for 900 seconds.
+	4360402	9400	Maximum HP increased for 900 seconds.
+	4360403	9400	Maximum HP increased for 900 seconds.
+	4360404	9400	Maximum HP increased for 900 seconds.
+	4360405	9400	Maximum HP increased for 900 seconds.
+	4360601	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4360602	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4360603	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4360604	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4360605	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4370301	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4370302	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4370303	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4370304	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4370305	9400	"Unable to move and use skills for 5 seconds, you can only use first and second regular attacks."
+	4370401	9400	Reflect a portion of damage back to the opponent for 10 seconds.
+	4370402	9400	Reflect a portion of damage back to the opponent for 10 seconds.
+	4370403	9400	Reflect a portion of damage back to the opponent for 10 seconds.
+	4370404	9400	Reflect a portion of damage back to the opponent for 10 seconds.
+	4370405	9400	Reflect a portion of damage back to the opponent for 10 seconds.
+	4370501	9400	Attack Power increased for 10 seconds.
+	4370502	9400	Attack Power increased for 10 seconds.
+	4370503	9400	Attack Power increased for 10 seconds.
+	4370504	9400	Attack Power increased for 10 seconds.
+	4370505	9400	Attack Power increased for 10 seconds.
+	4370601	9400	Attack Power increased for 300 seconds.
+	4370602	9400	Attack Power increased for 300 seconds.
+	4370603	9400	Attack Power increased for 300 seconds.
+	4370604	9400	Attack Power increased for 300 seconds.
+	4370605	9400	Attack Power increased for 300 seconds.
+	4380201	9400	"Unable to move or use skills for 3 seconds, you can only use first and second regular attacks."
+	4380202	9400	"Unable to move or use skills for 3 seconds, you can only use first and second regular attacks."
+	4380203	9400	"Unable to move or use skills for 3 seconds, you can only use first and second regular attacks."
+	4380204	9400	"Unable to move or use skills for 3 seconds, you can only use first and second regular attacks."
+	4380205	9400	"Unable to move or use skills for 3 seconds, you can only use first and second regular attacks."
+	4380501	9400	Speed decreased while being paralyzed for 10 seconds.
+	4380502	9400	Speed decreased while being paralyzed for 11 seconds.
+	4380503	9400	Speed decreased while being paralyzed for 12 seconds.
+	4380504	9400	Speed decreased while being paralyzed for 13 seconds.
+	4380505	9400	Speed decreased while being paralyzed for 14 seconds.
+	4380601	9400	Damage suffered continuously while being poisoned for 20 seconds.
+	4380602	9400	Damage suffered continuously while being poisoned for 20 seconds.
+	4380603	9400	Damage suffered continuously while being poisoned for 20 seconds.
+	4380604	9400	Damage suffered continuously while being poisoned for 20 seconds.
+	4380605	9400	Damage suffered continuously while being poisoned for 20 seconds.
+	4390001	9400	Makeover status lasts for 30 minutes. Click the status icon to end makeover.
+	4390002	9400	Makeover status lasts for 30 minutes. Click the status icon to end makeover.
+	4390003	9400	Makeover status lasts for 30 minutes. Click the status icon to end makeover.
+	4390004	9400	Makeover status lasts for 30 minutes. Click the status icon to end makeover.
+	4390005	9400	Makeover status lasts for 30 minutes. Click the status icon to end makeover.
+	4390006	9400	Makeover status lasts for 30 minutes. Click the status icon to end makeover.
+	4390011	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390012	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390013	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390014	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390015	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390016	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390017	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390018	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4390019	9400	Makeover status lasts for 30 minutes. Press the status icon to end makeover.
+	4400001	9400	Teleporting
+	4400101	9400	Morale Boost Potion LV. 1
+	4400102	9400	Morale Boost Potion LV. 2
+	4400103	9400	Morale Boost Potion LV. 3
+	4400104	9400	Sacred Light Potion LV. 1
+	4400105	9400	Sacred Light Potion LV. 2
+	4400106	9400	Sacred Light Potion LV. 3
+	4400107	9400	Soul Purification Potion LV. 1
+	4400108	9400	Soul Purification Potion LV. 2
+	4400109	9400	Soul Purification Potion LV. 3
+	4400110	9400	Mana Purification Potion LV. 1
+	4400111	9400	Mana Purification Potion LV. 2
+	4400112	9400	Mana Purification Potion LV. 3
+	4400113	9400	Gusty Wind Potion LV. 1
+	4400114	9400	Gusty Wind Potion LV. 2
+	4400115	9400	Gusty Wind Potion LV. 3
+	4400116	9400	Strong Constitution Potion LV. 1
+	4400117	9400	Strong Constitution Potion LV. 2
+	4400118	9400	Strong Constitution Potion LV. 3
+	4400119	9400	Energetic Potion LV. 1
+	4400120	9400	Energetic Potion LV. 2
+	4400121	9400	Energetic Potion LV. 3
+	4400122	9400	Flower Moon Illusion Potion LV. 1
+	4400123	9400	Flower Moon Illusion Potion LV. 2
+	4400124	9400	Flower Moon Illusion Potion LV. 3
+	4400125	9400	Blessed Attack Potion LV. 1
+	4400126	9400	Blessed Attack Potion LV. 2
+	4400127	9400	Blessed Attack Potion LV. 3
+	4400128	9400	Blessed Defense Potion LV. 1
+	4400129	9400	Blessed Defense Potion LV. 2
+	4400130	9400	Blessed Defense Potion LV. 3
+	4400131	9400	Blessed Running Speed Potion LV. 1
+	4400132	9400	Blessed Running Speed Potion LV. 2
+	4400133	9400	Blessed Running Speed Potion LV. 3
+	4400201	9400	Attack Power is increased to strength level 1 for one hour.
+	4400202	9400	Attack Power is increased to strength level 2 for one hour.
+	4400203	9400	Attack Power is increased to strength level 3 for one hour.
+	4400204	9400	Defense Power is increased to strength level 1 for one hour.
+	4400205	9400	Defense Power is increased to strength level 2 for one hour.
+	4400206	9400	Defense Power is increased to strength level 3 for one hour.
+	4400207	9400	HP Revitalization Power is increased to strength level 1 for one hour.
+	4400208	9400	HP Revitalization Power is increased to strength level 2 for one hour.
+	4400209	9400	HP Revitalization Power is increased to strength level 3 for one hour.
+	4400210	9400	MP Revitalization Power is increased to strength level 1 for one hour.
+	4400211	9400	MP Revitalization Power is increased to strength level 2 for one hour.
+	4400212	9400	MP Revitalization Power is increased to strength level 3 for one hour.
+	4400213	9400	Running Speed is increased to strength level 1 for one hour.
+	4400214	9400	Running Speed is increased to strength level 2 for one hour.
+	4400215	9400	Running Speed is increased to strength level 3 for one hour.
+	4400216	9400	Maximum HP is increased to strength level 1 for one hour.
+	4400217	9400	Maximum HP is increased to strength level 2 for one hour.
+	4400218	9400	Maximum HP is increased to strength level 3 for one hour.
+	4400219	9400	Maximum MP is increased to strength level 1 for one hour.
+	4400220	9400	Maximum MP is increased to strength level 2 for one hour.
+	4400221	9400	Maximum MP is increased to strength level 3 for one hour.
+	4400222	9400	Reflect a portion of damage back to the opponents at strength level 1 for one hour.
+	4400223	9400	Reflect a portion of damage back to the opponents at strength level 2 for one hour.
+	4400224	9400	Reflect a portion of damage back to the opponents at strength level 3 for one hour.
+	4400225	9400	Attack Power is greatly increased to strength level 1 for 20 seconds.
+	4400226	9400	Attack Power is greatly increased to strength level 1 for 25 seconds.
+	4400227	9400	Attack Power is greatly increased to strength level 1 for 30 seconds.
+	4400228	9400	Defense Power is greatly increased to strength level 1 for 20 seconds.
+	4400229	9400	Defense Power is greatly increased to strength level 1 for 25 seconds.
+	4400230	9400	Defense Power is greatly increased to strength level 1 for 30 seconds.
+	4400231	9400	Running Speed is greatly increased to strength level 1 for 20 seconds.
+	4400232	9400	Running Speed is greatly increased to strength level 1 for 25 seconds.
+	4400233	9400	Running Speed is greatly increased to strength level 1 for 30 seconds.
+	4490001	9400	EXP Plus
+	4490002	9400	Drop Plus
+	4490003	9400	EXP Plus Drink
+	4490004	9400	Drop Plus Drink
+	4500001	9400	"Possessing power beyond time and space, it can return you to a nearby City..."
+	4590001	9400	Can get 50% bonus EXP when gaining EXP for 30 minutes.
+	4590002	9400	Can get 50% bonus chance to get item when knock out monster for 30 minutes.
+	4590003	9400	Can get 40% bonus EXP when gaining EXP for 30 minutes.
+	4590004	9400	Can get 50% bonus chance to get item when knock out monster for 30 minutes.
+	4600001	9400	Poisoned
+	4600002	9400	Paralyzed
+	4600003	9400	Frozen
+	4600004	9400	Revitalization Power Increased
+	4600005	9400	Berserk
+	4600006	9400	Enchant Defense
+	4600007	9400	Burned
+	4600100	9400	Slow
+	4600200	9400	Skill Disabled
+	4600300	9400	Burned
+	4600400	9400	Frozen
+	4600500	9400	Poisoned
+	4600600	9400	Frosted
+	4600700	9400	Paralyzed
+	4600800	9400	Dizzied
+	4600900	9400	Immobilized
+	4601000	9400	Attack Decreased
+	4601100	9400	Defense Decreased
+	4601200	9400	Fly Cursed
+	4700001	9400	Damage suffered continuously while being poisoned for 6 seconds.
+	4700002	9400	Speed decreased while being paralyzed for 5 seconds.
+	4700003	9400	Movement limited by frozen ice for 3 seconds.
+	4700004	9400	"For 10 minutes, Revitalization Power is increased."
+	4700005	9400	Attack and Defense Power greatly increased for 10 minutes.
+	4700006	9400	Defense Power greatly increased for 20 minutes.
+	4700101	9400	Speed decreased for 1 second.
+	4700102	9400	Speed decreased for 2 seconds.
+	4700103	9400	Speed decreased for 3 seconds.
+	4700104	9400	Speed decreased for 4 seconds.
+	4700105	9400	Speed decreased for 5 seconds.
+	4700106	9400	Speed decreased for 6 seconds.
+	4700107	9400	Speed decreased for 7 seconds.
+	4700108	9400	Speed decreased for 8 seconds.
+	4700109	9400	Speed decreased for 9 seconds.
+	4700110	9400	Speed decreased for 10 seconds.
+	4700111	9400	Speed decreased for 11 seconds.
+	4700112	9400	Speed decreased for 12 seconds.
+	4700113	9400	Speed decreased for 13 seconds.
+	4700114	9400	Speed decreased for 14 seconds.
+	4700115	9400	Speed decreased for 15 seconds.
+	4700201	9400	"Skills disabled while being spellbound for 1 second, you can only use first and second regular attacks."
+	4700202	9400	"Skills disabled while being spellbound for 2 seconds, you can only use first and second regular attacks."
+	4700203	9400	"Skills disabled while being spellbound for 3 seconds, you can only use first and second regular attacks."
+	4700204	9400	"Skills disabled while being spellbound for 4 seconds, you can only use first and second regular attacks."
+	4700205	9400	"Skills disabled while being spellbound for 5 seconds, you can only use first and second regular attacks."
+	4700206	9400	"Skills disabled while being spellbound for 6 seconds, you can only use first and second regular attacks."
+	4700207	9400	"Skills disabled while being spellbound for 7 seconds, you can only use first and second regular attacks."
+	4700208	9400	"Skills disabled while being spellbound for 8 seconds, you can only use first and second regular attacks."
+	4700209	9400	"Skills disabled while being spellbound for 9 seconds, you can only use first and second regular attacks."
+	4700210	9400	"Skills disabled while being spellbound for 10 seconds, you can only use first and second regular attacks."
+	4700211	9400	"Skills disabled while being spellbound for 11 seconds, you can only use first and second regular attacks."
+	4700212	9400	"Skills disabled while being spellbound for 12 seconds, you can only use first and second regular attacks."
+	4700213	9400	"Skills disabled while being spellbound for 13 seconds, you can only use first and second regular attacks."
+	4700214	9400	"Skills disabled while being spellbound for 14 seconds, you can only use first and second regular attacks."
+	4700215	9400	"Skills disabled while being spellbound for 15 seconds, you can only use first and second regular attacks."
+	4700301	9400	Damage suffered continuously while being burned for 1 second.
+	4700302	9400	Damage suffered continuously while being burned for 2 seconds.
+	4700303	9400	Damage suffered continuously while being burned for 3 seconds.
+	4700304	9400	Damage suffered continuously while being burned for 4 seconds.
+	4700305	9400	Damage suffered continuously while being burned for 5 seconds.
+	4700306	9400	Damage suffered continuously while being burned for 6 seconds.
+	4700307	9400	Damage suffered continuously while being burned for 7 seconds.
+	4700308	9400	Damage suffered continuously while being burned for 8 seconds.
+	4700309	9400	Damage suffered continuously while being burned for 9 seconds.
+	4700310	9400	Damage suffered continuously while being burned for 10 seconds.
+	4700311	9400	Damage suffered continuously while being burned for 11 seconds.
+	4700312	9400	Damage suffered continuously while being burned for 12 seconds.
+	4700313	9400	Damage suffered continuously while being burned for 13 seconds.
+	4700314	9400	Damage suffered continuously while being burned for 14 seconds.
+	4700315	9400	Damage suffered continuously while being burned for 15 seconds.
+	4700401	9400	Movement limited by frozen ice for 1 second.
+	4700402	9400	Movement limited by frozen ice for 2 seconds.
+	4700403	9400	Movement limited by frozen ice for 3 seconds.
+	4700404	9400	Movement limited by frozen ice for 4 seconds.
+	4700405	9400	Movement limited by frozen ice for 5 seconds.
+	4700406	9400	Movement limited by frozen ice for 6 seconds.
+	4700407	9400	Movement limited by frozen ice for 7 seconds.
+	4700408	9400	Movement limited by frozen ice for 8 seconds.
+	4700409	9400	Movement limited by frozen ice for 9 seconds.
+	4700410	9400	Movement limited by frozen ice for 10 seconds.
+	4700411	9400	Movement limited by frozen ice for 11 seconds.
+	4700412	9400	Movement limited by frozen ice for 12 seconds.
+	4700413	9400	Movement limited by frozen ice for 13 seconds.
+	4700414	9400	Movement limited by frozen ice for 14 seconds.
+	4700415	9400	Movement limited by frozen ice for 15 seconds.
+	4700501	9400	Damage suffered continuously while being poisoned for 1 second.
+	4700502	9400	Damage suffered continuously while being poisoned for 2 seconds.
+	4700503	9400	Damage suffered continuously while being poisoned for 3 seconds.
+	4700504	9400	Damage suffered continuously while being poisoned for 4 seconds.
+	4700505	9400	Damage suffered continuously while being poisoned for 5 seconds.
+	4700506	9400	Damage suffered continuously while being poisoned for 6 seconds.
+	4700507	9400	Damage suffered continuously while being poisoned for 7 seconds.
+	4700508	9400	Damage suffered continuously while being poisoned for 8 seconds.
+	4700509	9400	Damage suffered continuously while being poisoned for 9 seconds.
+	4700510	9400	Damage suffered continuously while being poisoned for 10 seconds.
+	4700511	9400	Damage suffered continuously while being poisoned for 11 seconds.
+	4700512	9400	Damage suffered continuously while being poisoned for 12 seconds.
+	4700513	9400	Damage suffered continuously while being poisoned for 13 seconds.
+	4700514	9400	Damage suffered continuously while being poisoned for 14 seconds.
+	4700515	9400	Damage suffered continuously while being poisoned for 15 seconds.
+	4700601	9400	Movement slowed due to hypothermia and speed decreased for 1 second.
+	4700602	9400	Movement slowed due to hypothermia and speed decreased for 2 seconds.
+	4700603	9400	Movement slowed due to hypothermia and speed decreased for 3 seconds.
+	4700604	9400	Movement slowed due to hypothermia and speed decreased for 4 seconds.
+	4700605	9400	Movement slowed due to hypothermia and speed decreased for 5 seconds.
+	4700606	9400	Movement slowed due to hypothermia and speed decreased for 6 seconds.
+	4700607	9400	Movement slowed due to hypothermia and speed decreased for 7 seconds.
+	4700608	9400	Movement slowed due to hypothermia and speed decreased for 8 seconds.
+	4700609	9400	Movement slowed due to hypothermia and speed decreased for 9 seconds.
+	4700610	9400	Movement slowed due to hypothermia and speed decreased for 10 seconds.
+	4700611	9400	Movement slowed due to hypothermia and speed decreased for 11 seconds.
+	4700612	9400	Movement slowed due to hypothermia and speed decreased for 12 seconds.
+	4700613	9400	Movement slowed due to hypothermia and speed decreased for 13 seconds.
+	4700614	9400	Movement slowed due to hypothermia and speed decreased for 14 seconds.
+	4700615	9400	Movement slowed due to hypothermia and speed decreased for 15 seconds.
+	4700701	9400	Speed decreased while being paralyzed for 1 second.
+	4700702	9400	Speed decreased while being paralyzed for 2 seconds.
+	4700703	9400	Speed decreased while being paralyzed for 3 seconds.
+	4700704	9400	Speed decreased while being paralyzed for 4 seconds.
+	4700705	9400	Speed decreased while being paralyzed for 5 seconds.
+	4700706	9400	Speed decreased while being paralyzed for 6 seconds.
+	4700707	9400	Speed decreased while being paralyzed for 7 seconds.
+	4700708	9400	Speed decreased while being paralyzed for 8 seconds.
+	4700709	9400	Speed decreased while being paralyzed for 9 seconds.
+	4700710	9400	Speed decreased while being paralyzed for 10 seconds.
+	4700711	9400	Speed decreased while being paralyzed for 11 seconds.
+	4700712	9400	Speed decreased while being paralyzed for 12 seconds.
+	4700713	9400	Speed decreased while being paralyzed for 13 seconds.
+	4700714	9400	Speed decreased while being paralyzed for 14 seconds.
+	4700715	9400	Speed decreased while being paralyzed for 15 seconds.
+	4700801	9400	"Unable to move or use skills while dizzy for 1 second, you can only use first and second regular attacks."
+	4700802	9400	"Unable to move or use skills while dizzy for 2 seconds, you can only use first and second regular attacks."
+	4700803	9400	"Unable to move or use skills while dizzy for 3 seconds, you can only use first and second regular attacks."
+	4700804	9400	"Unable to move or use skills while dizzy for 4 seconds, you can only use first and second regular attacks."
+	4700805	9400	"Unable to move or use skills while dizzy for 5 seconds, you can only use first and second regular attacks."
+	4700806	9400	"Unable to move or use skills while dizzy for 6 seconds, you can only use first and second regular attacks."
+	4700807	9400	"Unable to move or use skills while dizzy for 7 seconds, you can only use first and second regular attacks."
+	4700808	9400	"Unable to move or use skills while dizzy for 8 seconds, you can only use first and second regular attacks."
+	4700809	9400	"Unable to move or use skills while dizzy for 9 seconds, you can only use first and second regular attacks."
+	4700810	9400	"Unable to move or use skills while dizzy for 10 seconds, you can only use first and second regular attacks."
+	4700811	9400	"Unable to move or use skills while dizzy for 11 seconds, you can only use first and second regular attacks."
+	4700812	9400	"Unable to move or use skills while dizzy for 12 seconds, you can only use first and second regular attacks."
+	4700813	9400	"Unable to move or use skills while dizzy for 13 seconds, you can only use first and second regular attacks."
+	4700814	9400	"Unable to move or use skills while dizzy for 14 seconds, you can only use first and second regular attacks."
+	4700815	9400	"Unable to move or use skills while dizzy for 15 seconds, you can only use first and second regular attacks."
+	4700901	9400	Unable to move or use skills for 1 second.
+	4700902	9400	Unable to move or use skills for 2 seconds.
+	4700903	9400	Unable to move or use skills for 3 seconds.
+	4700904	9400	Unable to move or use skills for 4 seconds.
+	4700905	9400	Unable to move or use skills for 5 seconds.
+	4700906	9400	Unable to move or use skills for 6 seconds.
+	4700907	9400	Unable to move or use skills for 7 seconds.
+	4700908	9400	Unable to move or use skills for 8 seconds.
+	4700909	9400	Unable to move or use skills for 9 seconds.
+	4700910	9400	Unable to move or use skills for 10 seconds.
+	4700911	9400	Unable to move or use skills for 11 seconds.
+	4700912	9400	Unable to move or use skills for 12 seconds.
+	4700913	9400	Unable to move or use skills for 13 seconds.
+	4700914	9400	Unable to move or use skills for 14 seconds.
+	4700915	9400	Unable to move or use skills for 15 seconds.
+	4701001	9400	Attack Power decreased for 1 second.
+	4701002	9400	Attack Power decreased for 2 seconds.
+	4701003	9400	Attack Power decreased for 3 seconds.
+	4701004	9400	Attack Power decreased for 4 seconds.
+	4701005	9400	Attack Power decreased for 5 seconds.
+	4701006	9400	Attack Power decreased for 6 seconds.
+	4701007	9400	Attack Power decreased for 7 seconds.
+	4701008	9400	Attack Power decreased for 8 seconds.
+	4701009	9400	Attack Power decreased for 9 seconds.
+	4701010	9400	Attack Power decreased for 10 seconds.
+	4701011	9400	Attack Power decreased for 11 seconds.
+	4701012	9400	Attack Power decreased for 12 seconds.
+	4701013	9400	Attack Power decreased for 13 seconds.
+	4701014	9400	Attack Power decreased for 14 seconds.
+	4701015	9400	Attack Power decreased for 15 seconds.
+	4701101	9400	Defense Power decreased for 1 second.
+	4701102	9400	Defense Power decreased for 2 seconds.
+	4701103	9400	Defense Power decreased for 3 seconds.
+	4701104	9400	Defense Power decreased for 4 seconds.
+	4701105	9400	Defense Power decreased for 5 seconds.
+	4701106	9400	Defense Power decreased for 6 seconds.
+	4701107	9400	Defense Power decreased for 7 seconds.
+	4701108	9400	Defense Power decreased for 8 seconds.
+	4701109	9400	Defense Power decreased for 9 seconds.
+	4701110	9400	Defense Power decreased for 10 seconds.
+	4701111	9400	Defense Power decreased for 11 seconds.
+	4701112	9400	Defense Power decreased for 12 seconds.
+	4701113	9400	Defense Power decreased for 13 seconds.
+	4701114	9400	Defense Power decreased for 14 seconds.
+	4701115	9400	Defense Power decreased for 15 seconds.
+	4701201	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 1 second."
+	4701202	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 2 seconds."
+	4701203	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 3 seconds."
+	4701204	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 4 seconds."
+	4701205	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 5 seconds."
+	4701206	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 6 seconds."
+	4701207	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 7 seconds."
+	4701208	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 8 second."
+	4701209	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 9 seconds."
+	4701210	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 10 seconds."
+	4701211	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 11 seconds."
+	4701212	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 12 seconds."
+	4701213	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 13 seconds."
+	4701214	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 14 seconds."
+	4701215	9400	"Be cursed into Makeover status. Defense Power decreased, cannot attack either using skills for 15 seconds."
+	4800001	9400	Mud!
+	4800002	9400	Invincibility (Buff 1)
+	4890001	9400	Run fast!
+	4890002	9400	Health Boost!
+	4900001	9400	Speed is decreased in mud. 
+	4900002	9400	The character's Invincibility Buff lasts for 20 seconds.
+	4990001	9400	Your speed was increased due to taking a shortcut! 
+	4990002	9400	The health boosting effect was created to test the monster's destructive power without being beaten to death! 
+			

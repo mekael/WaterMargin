@@ -1,0 +1,120 @@
+#	Id	ClassId	String																						
+	7001201	9400	Tutorial																						
+	7000001	9400	Game Intro																						
+	7000101	9400	Beginner's Guide																						
+	7000201	9400	Level 10 Guide																						
+	7000301	9400	Level 20 Guide																						
+	7000401	9400	Level 30 Guide																						
+	7000501	9400	Level 40 Guide																						
+	7000601	9400	Level 50 Guide																						
+	7000701	9400	Level 60 Guide																						
+	7000801	9400	Level 70 Guide																						
+	7000901	9400	Level 80 Guide																						
+	7001001	9400	Level 90 Guide																						
+	7001101	9400	Level 100 Guide																						
+	7001202	9400	(  1). General Use																						
+	7001203	9400	(  2). Hotkey Usage																						
+	7001204	9400	(  3). Quest Indicators																						
+	7000002	9400	(  1). Welcome																						
+	7000003	9400	(  2). Combos (Part 1)																						
+	7000004	9400	(  3). Learning Skills (Part 1)																						
+	7000005	9400	(  4). Invitation (Part 1)																						
+	7000006	9400	(  5). Invitation (Part 2)																						
+	7000007	9400	(  6). Auto Drink																						
+	7000008	9400	(  7). Quest																						
+	7000009	9400	(  8). Auto Pick Up																						
+	7000010	9400	(  9). Mall Rules																						
+	7000011	9400	(10). Village																						
+	7000012	9400	(11). Wilderness and Instance																						
+	7000013	9400	(12). World Map																						
+	7000014	9400	(13). Mini Map																						
+	7000015	9400	(14). Channel																						
+	7000016	9400	(15). Anti-Theft and Safety																						
+	7000017	9400	(16). System Setup																						
+	7000018	9400	(17). Input Setup																						
+	7000102	9400	(  1). Newcomer																						
+	7000103	9400	(  2). Combos (Part 2)																						
+	7000104	9400	(  3). Learning Skills (Part 2)																						
+	7000105	9400	(  4). Invitation (Part 3)																						
+	7000106	9400	(  5). Backpack Limit																						
+	7000107	9400	(  6). Quest GPS																						
+	7000108	9400	(  7). Quest Tracking																						
+	7000109	9400	(  8). Profession and Category																						
+	7000110	9400	(  9). Category Relations That Are Against Each Other																						
+	7000111	9400	(10). Friend List																						
+	7000112	9400	(11). Block List																						
+	7000113	9400	(12). Guild																						
+	7000114	9400	(13). Rank (Part 1)																						
+	7000115	9400	(14). Rank (Part 2)																						
+	7000116	9400	(15). Rank (Part 3)																						
+	7000117	9400	(16). Beginner's Protection																						
+	7000118	9400	(17). Enchant Equipment																						
+	7000119	9400	(18). Equipment Repair																						
+	7000120	9400	(19). Built-In Hot Key (Part 1)																						
+	7000121	9400	(20). Built-In Hot Key (Part 2)																						
+	7000122	9400	(21). Hot Key Set Up																						
+	7000123	9400	(22). Makeover Candy																						
+	7000124	9400	(23). Mount																						
+	7000125	9400	(24). Trading																						
+	7000126	9400	(25). Chatting Channel																						
+	7000127	9400	(26). Emotion																						
+	7000128	9400	(27). Merchants																						
+	7000129	9400	(28). Warehouse																						
+	7000130	9400	(29). Report																						
+	7000131	9400	(30). Character Name's Color																						
+	7000132	9400	(31). Critical Attack and 100 Kill																						
+#	7000202	9400	Level 15 Rabbit Kingdom Battle Quest																						
+	7000203	9400	(  1). Combos (Part 3)																						
+	7000204	9400	(  2). Learning Skills (Part 3)																						
+	7000205	9400	(  2). Level 10 Mount																						
+	7000206	9400	(  3). Backpack Expand																						
+	7000207	9400	(  4). Profession Skill - Lin Chung																						
+	7000208	9400	(  5). Profession Skill - Mighty Ray																						
+	7000209	9400	(  6). Profession Skill - Mystique Sonia																						
+	7000210	9400	(  7). Profession Skill - Mr. No Hands																						
+	7000211	9400	(  8). Profession Skill - Kowloon																						
+	7000212	9400	(  9). Profession Skill - Latifah																						
+	7000213	9400	(10). Profession Skill - Archer Lee																						
+	7000214	9400	(11). Profession Skill - Hurricane Lee																						
+	7000215	9400	(12). Death Penalty																						
+	7000216	9400	(13). Level 18 Guardian Angel																						
+#	7000302	9400	Level 20 Elephant Kingdom Battle Quest																						
+	7000303	9400	(  1). Combos (Part 4)																						
+	7000304	9400	(  2). Learning Skills (Part 4)																						
+	7000305	9400	(  2). Level 20 Mount																						
+	7000306	9400	(  4). Level 20 Mount																						
+	7000307	9400	(  3). Beginner's Boss Challenge																						
+	7000308	9400	(  4). Guild Application																						
+	7000309	9400	(  5). Guild Level Up																						
+	7000310	9400	(  9). Makeover-Jumpy Ghostface																						
+	7000311	9400	(  7). Arena (1)																						
+#	7000402	9400	Level 35 Liger Kingdom Battle Quest																						
+#	7000403	9400	PK																						
+	7000404	9400	(  1). Level 30 Mount																						
+	7000405	9400	(  2). Level 30 Mount																						
+	7000406	9400	(  3). Level 38 Guardian Angel																						
+	7000407	9400	(  2). Advanced Boss Challenge  																						
+	7000408	9400	(  3). Guild Exp Level Up																						
+	7000409	9400	(  4). Guild Mount																						
+	7000410	9400	(  5). Guild Skill																						
+	7000411	9400	(  6). Makeover - Elephant King																						
+	7000412	9400	(  7). Arena (2)																						
+#	7000502	9400	Level 40 Camel Kingdom Battle Quest																						
+#	7000503	9400	Level 45 Cat Kingdom Battle Quest																						
+	7000504	9400	(  1). Level 40 Mount																						
+	7000505	9400	(  2). Level 40 Mount																						
+	7000506	9400	(  3). Level 43 Guardian Angel																						
+	7000507	9400	(  4). Level 48 Guardian Angel																						
+#	7000508	9400	Level 45 Ultimate Boss Challenge																						
+	7000509	9400	(  2). Makeover - Liger King																						
+	7000510	9400	(  3). Makeover - Camel King																						
+	7000511	9400	(  4). Arena (3)																						
+#	7000602	9400	Level 50 Eagle Kingdom Battle Quest																						
+	7000603	9400	(  1). Level 50 Mount																						
+	7000604	9400	(  2). Level 50 Mount																						
+	7000605	9400	(  2). Level 50 Ultimate Boss Challenge																						
+	7000606	9400	(  4). Level 53 Guardian Angel																						
+	7000607	9400	(  5). Level 58 Guardian Angel																						
+	7000608	9400	(  3). Makeover - Cat King																						
+	7000609	9400	(  4). Makeover - Eagle King																						
+	7000702	9400	(  1). Level 60 Ultimate Boss Challenge																						
